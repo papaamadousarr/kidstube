@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie18
+  title: La Grande Bibliothèque des Infos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie18
+segments:
+- narration: L'ordinateur est comme une immense bibliothèque où toutes les informations
+    sont rangées, prêtes à être lues !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Grande
+    Bibliothèque des Infos !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Une géante collection d'infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Base
+    de données (Une géante collection d'infos !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mettre en ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ranger
+    (Mettre en ordre !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Trouver ce qu'on veut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rechercher
+    (Trouver ce qu'on veut !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un recueil d'informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Livre
+    (Un recueil d'informations !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une connaissance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Info
+    (Une connaissance !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Beaucoup de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Collection
+    (Beaucoup de choses !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

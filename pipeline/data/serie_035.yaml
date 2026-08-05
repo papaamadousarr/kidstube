@@ -1,0 +1,23 @@
+series:
+  key: serie_035
+  title: L'Automatisation Géniale
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Quand une machine fait les choses toute seule, sans qu'on lui demande,
+    c'est de l'automatisation !
+items:
+- name: Le Robot qui Nettoie
+  script: Je passe l'aspirateur tout seul ! Vroom !
+  accent_color: '#FF69B4'
+- name: Les Lumières Auto
+  script: Quand il fait nuit, je m'allume tout seul !
+  accent_color: '#DA70D6'
+- name: La Porte qui s'Ouvre
+  script: Quand je m'approche, la porte s'ouvre ! Magique !
+  accent_color: '#AFEEEE'
+- name: La Tâche Répétée
+  script: Je fais la même chose encore et encore, sans me fatiguer !
+  accent_color: '#F0E68C'
+- name: La Machine Intelligente
+  script: Je travaille sans qu'on me commande directement !
+  accent_color: '#FFE4B5'

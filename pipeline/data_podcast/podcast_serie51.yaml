@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie51
+  title: Le Wifi Invisible !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie51
+segments:
+- narration: Pour se connecter à internet sans fil, c'est le Wifi qui nous aide, comme
+    une magie invisible qui relie tout !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Wifi Invisible
+    !', vibrant playful colors, Pixar-style children's animation, warm inviting composition,
+    no text, no logos
+- narration: La magie sans fil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Wifi
+    (La magie sans fil !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pas de câble qui traîne !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sans
+    fil (Pas de câble qui traîne !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: On ne le voit pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Invisible
+    (On ne le voit pas !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Relier les amis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Connecter
+    (Relier les amis !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Échanger des infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Échanger des infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un petit courant d'air !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Onde
+    (Un petit courant d'air !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

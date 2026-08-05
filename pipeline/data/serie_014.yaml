@@ -1,0 +1,23 @@
+series:
+  key: serie_014
+  title: Le Dédale des Connexions
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Plein de fils relient les parties de l'ordinateur, comme des routes
+    pour les informations !
+items:
+- name: Le Gros Câble
+  script: Je transporte beaucoup d'infos ! Vroum !
+  accent_color: '#6495ED'
+- name: Le Petit Fil
+  script: Je transporte des petits messages ! Chut !
+  accent_color: '#AFEEEE'
+- name: La Prise
+  script: C'est ici qu'on branche ! Clic !
+  accent_color: '#D3D3D3'
+- name: Le Connecteur
+  script: J'assemble deux choses ensemble ! Magnifique !
+  accent_color: '#FFA07A'
+- name: Le Chemin des Infos
+  script: Les infos courent vite sur moi !
+  accent_color: '#90EE90'

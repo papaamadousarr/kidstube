@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_050
+  title: Le Gardien des Données
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_050
+segments:
+- narration: L'ordinateur protège tes informations secrètes comme un super-héros !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Gardien
+    des Données', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un mot de passe pour ouvrir mes trésors !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Code
+    Secret (Un mot de passe pour ouvrir mes trésors !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je mets une serrure pour que personne n'entre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Serrure
+    Virtuelle (Je mets une serrure pour que personne n'entre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Mes dessins et mes photos sont en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Données Protégées (Mes dessins et mes photos sont en sécurité !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je repousse les méchants qui veulent voler tes infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Héro
+    de la Sécurité (Je repousse les méchants qui veulent voler tes infos !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Ne partage jamais tes secrets avec des inconnus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Règle
+    d'Or (Ne partage jamais tes secrets avec des inconnus !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

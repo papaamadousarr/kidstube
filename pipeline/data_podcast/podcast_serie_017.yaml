@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_017
+  title: Le Messager Malin
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_017
+segments:
+- narration: L'ordinateur est un messager rapide qui envoie des informations comme
+    une lettre express !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Messager
+    Malin', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un coucou rapide à mon ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Petit
+    Message (Un coucou rapide à mon ami !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: C'est moi qui envoie le message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Expéditeur
+    (C'est moi qui envoie le message !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: C'est la personne qui reçoit le message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Destinataire
+    (C'est la personne qui reçoit le message !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Mon message voyage sur les fils !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    du Message (Mon message voyage sur les fils !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il faut la bonne adresse pour qu'il arrive !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Bonne
+    Adresse (Il faut la bonne adresse pour qu'il arrive !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

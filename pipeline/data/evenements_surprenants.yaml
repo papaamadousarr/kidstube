@@ -1,0 +1,32 @@
+series:
+  key: evenements_surprenants
+  title: Les Événements Surprenants !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFDAB9'
+  intro_text: Les ordinateurs réagissent quand il se passe quelque chose, c'est un
+    événement !
+items:
+- name: Événement
+  script: Quand quelque chose se produit, comme un clic ou une touche !
+  accent_color: '#FF6347'
+  icon: 1f389
+- name: Déclencher
+  script: L'événement qui fait commencer une action !
+  accent_color: '#FFA07A'
+  icon: 1f680
+- name: Réaction
+  script: Ce que l'ordinateur fait après un événement !
+  accent_color: '#FF7F50'
+  icon: 1f4a5
+- name: Écouter
+  script: L'ordinateur attend qu'un événement arrive pour agir !
+  accent_color: '#F08080'
+  icon: 1f442
+- name: Action
+  script: Ce qui se passe quand l'événement est là !
+  accent_color: '#FA8072'
+  icon: 1f3c3
+- name: Magie
+  script: C'est comme une petite magie quand l'ordinateur réagit !
+  accent_color: '#E9967A'
+  icon: '2728'

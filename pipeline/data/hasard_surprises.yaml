@@ -1,0 +1,33 @@
+series:
+  key: hasard_surprises
+  title: Le Monde du Hasard et des Surprises !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0F7FA'
+  intro_text: Dans la vie, il y a des choses qu'on ne peut pas prévoir ! Découvre
+    comment l'ordinateur peut aussi faire des choses par surprise !
+items:
+- name: Le Dé de la Chance
+  script: Lance le dé et hop, un nouveau nombre apparaît par magie !
+  accent_color: '#80CBC4'
+  icon: 1f3b2
+- name: La Roue de la Fortune
+  script: Fais tourner la roue, et qui sait où elle va s'arrêter pour nous surprendre
+    !
+  accent_color: '#B2DFDB'
+  icon: 1f3a1
+- name: Le Mélangeur Fou
+  script: Mélange tout très fort pour que l'ordre change à chaque fois !
+  accent_color: '#A7FFEB'
+  icon: 1f500
+- name: Le Tirage au Sort
+  script: On pioche un nom sans regarder, quelle surprise pour le gagnant !
+  accent_color: '#84FFFF'
+  icon: 1f39f
+- name: L'Imprévu Rigolo
+  script: Parfois, une chose inattendue arrive et change tout le jeu !
+  accent_color: '#4DD0E1'
+  icon: 1f92a
+- name: Le Magicien des Chiffres
+  script: Il invente un chiffre juste pour le plaisir, personne ne sait lequel !
+  accent_color: '#00BCD4'
+  icon: '2728'

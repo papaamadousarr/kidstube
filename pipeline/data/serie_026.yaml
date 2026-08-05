@@ -1,0 +1,23 @@
+series:
+  key: serie_026
+  title: Le Copieur Astucieux
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: L'ordinateur peut faire une copie exacte de ton dessin ou de ton texte
+    en un clin d'œil !
+items:
+- name: Je Copie !
+  script: Je fais une copie de mon dessin ! Un double !
+  accent_color: '#FFDAB9'
+- name: Je Colle !
+  script: Je mets ma copie ailleurs ! C'est magique !
+  accent_color: '#9370DB'
+- name: L'Original
+  script: Le premier dessin est toujours là !
+  accent_color: '#8FBC8F'
+- name: La Copie
+  script: Le nouveau dessin est exactement pareil !
+  accent_color: '#FFDEAD'
+- name: Plusieurs Copies
+  script: Je peux faire plein de copies ! Youpi !
+  accent_color: '#F0E68C'

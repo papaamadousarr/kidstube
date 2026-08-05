@@ -1,0 +1,23 @@
+series:
+  key: serie_081
+  title: Le Robot Artiste
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Le robot peut créer de magnifiques dessins, des peintures et même des
+    sculptures !
+items:
+- name: Le Pinceau Robot
+  script: Je peins des tableaux avec des couleurs vives !
+  accent_color: '#3CB371'
+- name: Les Couleurs Inventées
+  script: Je mélange les couleurs pour en créer des nouvelles !
+  accent_color: '#6495ED'
+- name: Le Dessin Magique
+  script: Je dessine des mondes imaginaires ! Incroyable !
+  accent_color: '#FFA07A'
+- name: Le Robot Sculpteur
+  script: Je taille la matière pour faire de belles formes !
+  accent_color: '#90EE90'
+- name: L'Œuvre d'Art
+  script: C'est mon chef-d'œuvre ! Tu aimes ?
+  accent_color: '#D3D3D3'

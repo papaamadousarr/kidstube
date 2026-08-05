@@ -1,0 +1,23 @@
+series:
+  key: serie_059
+  title: La Fenêtre Magique
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Ton écran peut avoir plein de fenêtres, comme des feuilles sur ta table,
+    pour faire plusieurs choses !
+items:
+- name: La Fenêtre Dessin
+  script: Je dessine dans cette fenêtre ! Quel artiste !
+  accent_color: '#6495ED'
+- name: La Fenêtre Jeu
+  script: Je joue à mon jeu dans cette autre fenêtre !
+  accent_color: '#AFEEEE'
+- name: Je Réduis !
+  script: Je fais ma fenêtre toute petite pour la cacher !
+  accent_color: '#D3D3D3'
+- name: J'Agrandis !
+  script: Je fais ma fenêtre toute grande pour mieux voir !
+  accent_color: '#FFA07A'
+- name: Le Bureau Virtuel
+  script: Comme ta table, mon bureau a plein de choses !
+  accent_color: '#90EE90'

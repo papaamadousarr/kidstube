@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_040
+  title: Le Projecteur d'Ombres
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_040
+segments:
+- narration: Le projecteur est comme une lampe magique qui projette des images sur
+    le mur !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Projecteur
+    d'Ombres', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je brille très fort pour que tu vois bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Lumière
+    Forte (Je brille très fort pour que tu vois bien !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon dessin devient énorme sur le mur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Image
+    Géante (Mon dessin devient énorme sur le mur !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je projette un dessin animé ! Chouette !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Film
+    Rigolo (Je projette un dessin animé ! Chouette !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Le mur devient mon écran géant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mur
+    Écran (Le mur devient mon écran géant !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le projecteur fait de la magie avec la lumière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Ombre
+    Enchantée (Le projecteur fait de la magie avec la lumière !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

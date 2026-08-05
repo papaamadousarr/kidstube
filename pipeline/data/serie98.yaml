@@ -1,0 +1,26 @@
+series:
+  key: serie98
+  title: Les Robot-insectes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Imagine des robots tout petits, comme des insectes, qui peuvent se faufiler
+    partout pour explorer des endroits secrets !
+items:
+- name: Micro-robot
+  script: Un robot tout petit !
+  accent_color: '#40E0D0'
+- name: Petit
+  script: Minuscule et discret !
+  accent_color: '#ADD8E6'
+- name: Minuscule
+  script: On ne le voit presque pas !
+  accent_color: '#A9A9A9'
+- name: Explorer
+  script: Découvrir de nouveaux lieux !
+  accent_color: '#DAA520'
+- name: Discret
+  script: Passer inaperçu !
+  accent_color: '#B0C4DE'
+- name: Malin
+  script: Très intelligent pour sa taille !
+  accent_color: '#8FBC8F'

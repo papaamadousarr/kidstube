@@ -1,0 +1,23 @@
+series:
+  key: serie_044
+  title: La Sentinelle Silencieuse
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Le robot peut surveiller sans faire de bruit et nous prévenir s'il se
+    passe quelque chose !
+items:
+- name: L'Œil qui Veille
+  script: Je regarde tout sans bouger !
+  accent_color: '#6495ED'
+- name: Le Son Caché
+  script: J'écoute les petits bruits suspects !
+  accent_color: '#AFEEEE'
+- name: L'Alerte Douce
+  script: Je t'envoie un petit message si quelque chose bouge !
+  accent_color: '#D3D3D3'
+- name: Le Robot Invisible
+  script: Je suis là sans que tu me voies toujours !
+  accent_color: '#FFA07A'
+- name: La Protection
+  script: Je m'assure que tout est en sécurité !
+  accent_color: '#90EE90'

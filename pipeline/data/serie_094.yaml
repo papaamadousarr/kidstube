@@ -1,0 +1,23 @@
+series:
+  key: serie_094
+  title: Le Robot Concepteur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Il peut inventer de nouveaux designs, de nouvelles formes pour des objets
+    ou des bâtiments !
+items:
+- name: Le Dessin d'Objet
+  script: Je dessine une nouvelle voiture ! Vroum !
+  accent_color: '#6495ED'
+- name: Les Formes Inventées
+  script: Je crée des formes jamais vues ! Superbe !
+  accent_color: '#AFEEEE'
+- name: Le Plan de Maison
+  script: Je dessine les plans d'une maison de rêve !
+  accent_color: '#D3D3D3'
+- name: Le Robot Designer
+  script: Je suis un artiste des formes et des couleurs !
+  accent_color: '#FFA07A'
+- name: L'Idée Géniale
+  script: J'ai toujours de nouvelles idées à te proposer !
+  accent_color: '#90EE90'

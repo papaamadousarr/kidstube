@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie40
+  title: La WebCam qui Sourit !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie40
+segments:
+- narration: L'ordinateur a un petit œil magique qui peut te voir et te filmer, pour
+    parler à tes amis loin de toi !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La WebCam
+    qui Sourit !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: L'œil de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Webcam
+    (L'œil de l'ordinateur !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Enregistrer des images !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Filmer
+    (Enregistrer des images !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarder autour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    (Regarder autour !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Observer attentivement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Regarder
+    (Observer attentivement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une photo qui bouge !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    (Une photo qui bouge !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ta jolie tête !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Visage
+    (Ta jolie tête !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

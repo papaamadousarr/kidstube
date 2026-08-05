@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_001
+  title: Le Bouton Magique
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_001
+segments:
+- narration: Appuie ici pour voir la magie ! Les boutons nous aident à donner des
+    ordres aux machines.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Bouton
+    Magique', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: J'allume tout ! Vive l'aventure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    ON (J'allume tout ! Vive l'aventure !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'éteins tout ! À bientôt !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    OFF (J'éteins tout ! À bientôt !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je lance le jeu ! C'est parti !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    Play (Je lance le jeu ! C'est parti !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'arrête tout ! Doucement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    Stop (J'arrête tout ! Doucement !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je fais une petite pause ! Je reviens vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    Pause (Je fais une petite pause ! Je reviens vite !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

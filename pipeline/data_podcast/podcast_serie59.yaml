@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie59
+  title: Les Pages du Net !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie59
+segments:
+- narration: Sur internet, il y a des millions de pages, comme les pages d'un grand
+    livre géant, avec plein d'informations à découvrir !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Pages
+    du Net !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Une feuille d'internet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Page
+    web (Une feuille d'internet !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarder les images !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    (Regarder les images !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Découvrir les mots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lire
+    (Découvrir les mots !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Taper des lettres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écrire
+    (Taper des lettres !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Le grand réseau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Internet
+    (Le grand réseau !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Un secret à apprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Information
+    (Un secret à apprendre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,23 @@
+series:
+  key: serie_007
+  title: La Grande Oreille de l'IA
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: L'Intelligence Artificielle a une oreille géante pour comprendre ce
+    que tu dis !
+items:
+- name: J'entends ta Voix !
+  script: Je reconnais qui parle ! C'est toi !
+  accent_color: '#FFDAB9'
+- name: Je Comprends les Mots !
+  script: Je sais ce que tes mots veulent dire !
+  accent_color: '#9370DB'
+- name: Je Réponds Correctement !
+  script: Je te donne la bonne réponse ! Youpi !
+  accent_color: '#8FBC8F'
+- name: Je Distingue les Sons !
+  script: Un chien aboie, un chat miaule ! Facile !
+  accent_color: '#FFDEAD'
+- name: J'apprends à t'Écouter !
+  script: Plus tu parles, plus j'apprends de toi !
+  accent_color: '#F0E68C'

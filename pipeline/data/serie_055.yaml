@@ -1,0 +1,23 @@
+series:
+  key: serie_055
+  title: Le Casque Audio Enchanté
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Mets ton casque et écoute les sons de l'ordinateur sans déranger personne
+    !
+items:
+- name: La Musique Secrete
+  script: J'écoute ma musique, personne ne l'entend !
+  accent_color: '#FF69B4'
+- name: Les Bruits du Jeu
+  script: Les sons de mon jeu sont dans mes oreilles !
+  accent_color: '#DA70D6'
+- name: Le Micro du Casque
+  script: Je peux parler à mes amis avec le casque !
+  accent_color: '#AFEEEE'
+- name: L'Ambiance Calme
+  script: Je suis dans ma bulle pour bien me concentrer !
+  accent_color: '#F0E68C'
+- name: Le Son Clair
+  script: J'entends tout super bien, sans bruit autour !
+  accent_color: '#FFE4B5'

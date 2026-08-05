@@ -1,0 +1,32 @@
+series:
+  key: serie39
+  title: Les Nœuds d'Attachement !
+  voice: fr_FR-siwis-medium
+  background_color: '#FAFAD2'
+  intro_text: Pour relier des appareils à l'ordinateur, il y a des petits trous et
+    des fiches, comme des nœuds pour tout attacher !
+items:
+- name: Port
+  script: Le trou pour brancher !
+  accent_color: '#DAA520'
+  icon: '2693'
+- name: Brancher
+  script: Connecter ensemble !
+  accent_color: '#4682B4'
+  icon: 1f50c
+- name: Relier
+  script: Faire le lien !
+  accent_color: '#9370DB'
+  icon: 1f517
+- name: Attacher
+  script: Mettre ensemble !
+  accent_color: '#FFD700'
+  icon: 1f4ce
+- name: Fiche
+  script: Le bout du fil !
+  accent_color: '#8B4513'
+  icon: 1f4c4
+- name: Connexion
+  script: Le lien qui unit !
+  accent_color: '#ADD8E6'
+  icon: 1f310

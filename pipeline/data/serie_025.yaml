@@ -1,0 +1,23 @@
+series:
+  key: serie_025
+  title: Les Dossiers Rangés
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Pour ne rien perdre, l'ordinateur range tout dans des boîtes virtuelles,
+    comme tes classeurs !
+items:
+- name: Mon Dossier Dessins
+  script: Tous mes beaux dessins sont ici !
+  accent_color: '#FF69B4'
+- name: Mon Dossier Jeux
+  script: Tous mes jeux préférés sont là !
+  accent_color: '#DA70D6'
+- name: Le Sous-Dossier
+  script: Une boîte dans une boîte ! Quelle organisation !
+  accent_color: '#AFEEEE'
+- name: La Poubelle
+  script: Si je ne veux plus, je mets à la poubelle !
+  accent_color: '#D3D3D3'
+- name: L'Explorateur Malin
+  script: Je navigue de dossier en dossier pour trouver mes trésors !
+  accent_color: '#FFE4B5'

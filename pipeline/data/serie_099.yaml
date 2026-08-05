@@ -1,0 +1,23 @@
+series:
+  key: serie_099
+  title: Le Robot Amuseur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Il sait faire des blagues, des tours de magie et te faire rire tout
+    le temps !
+items:
+- name: La Blague Rigolote
+  script: Qu'est-ce qu'un chat qui marche sur deux pattes ? Un chat-marcheur !
+  accent_color: '#6495ED'
+- name: Le Tour de Magie
+  script: Abracadabra ! Fais disparaître cette balle !
+  accent_color: '#AFEEEE'
+- name: La Danse Joyeuse
+  script: Je danse pour te faire rire ! Hip hop !
+  accent_color: '#D3D3D3'
+- name: Le Robot Comique
+  script: Je suis le roi de la rigolade ! Ha ha ha !
+  accent_color: '#FFA07A'
+- name: Les Bêtises Contrôlées
+  script: Je fais des bêtises, mais juste pour t'amuser !
+  accent_color: '#90EE90'

@@ -1,0 +1,23 @@
+series:
+  key: serie_017
+  title: Le Messager Malin
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: L'ordinateur est un messager rapide qui envoie des informations comme
+    une lettre express !
+items:
+- name: Le Petit Message
+  script: Un coucou rapide à mon ami !
+  accent_color: '#FFDAB9'
+- name: L'Expéditeur
+  script: C'est moi qui envoie le message !
+  accent_color: '#8FBC8F'
+- name: Le Destinataire
+  script: C'est la personne qui reçoit le message !
+  accent_color: '#AFEEEE'
+- name: Le Chemin du Message
+  script: Mon message voyage sur les fils !
+  accent_color: '#ADD8E6'
+- name: La Bonne Adresse
+  script: Il faut la bonne adresse pour qu'il arrive !
+  accent_color: '#FFC0CB'

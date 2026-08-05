@@ -1,0 +1,23 @@
+series:
+  key: serie_066
+  title: La Navigation Curieuse
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Naviguer, c'est comme voyager sur Internet d'une page à l'autre, pour
+    découvrir plein de choses !
+items:
+- name: Le Site Web
+  script: C'est une page d'images et de textes !
+  accent_color: '#FFDAB9'
+- name: Le Lien Magique
+  script: Je clique et hop, je suis sur une autre page !
+  accent_color: '#9370DB'
+- name: La Flèche Retour
+  script: Je reviens à la page d'avant ! Facile !
+  accent_color: '#8FBC8F'
+- name: L'Adresse Secrète
+  script: Chaque page a une adresse pour la retrouver !
+  accent_color: '#FFDEAD'
+- name: La Découverte
+  script: Je voyage partout et j'apprends plein de choses !
+  accent_color: '#F0E68C'

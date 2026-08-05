@@ -1,0 +1,23 @@
+series:
+  key: serie_016
+  title: Le Partage des Secrets
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: On peut partager nos dessins, nos photos et nos jeux avec nos amis grâce
+    à l'ordinateur !
+items:
+- name: J'envoie mon Dessin !
+  script: Vite, il part chez mon ami !
+  accent_color: '#FFDAB9'
+- name: Je Reçois une Photo !
+  script: Chouette, une photo de mon ami !
+  accent_color: '#9370DB'
+- name: Le Messager Rapide
+  script: L'ordinateur est un super facteur !
+  accent_color: '#8FBC8F'
+- name: On Partage Tout !
+  script: Mes infos vont chez toi, tes infos viennent chez moi !
+  accent_color: '#FFDEAD'
+- name: Le Dossier Partagé
+  script: C'est une boîte où tout le monde peut prendre ou mettre !
+  accent_color: '#F0E68C'

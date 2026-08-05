@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie04
+  title: Les Raccourcis Malins !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie04
+segments:
+- narration: Parfois, il y a des chemins plus rapides et plus malins pour arriver
+    au même endroit ! C'est ce que les robots aiment faire.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Raccourcis
+    Malins !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le chemin le plus rapide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plus
+    court (Le chemin le plus rapide !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pas de temps à perdre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plus
+    rapide (Pas de temps à perdre !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: La meilleure façon !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mieux
+    (La meilleure façon !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un petit pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Étape
+    (Un petit pas !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Ce que l'on obtient !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Résultat
+    (Ce que l'on obtient !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Rendre tout plus facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Optimiser
+    (Rendre tout plus facile !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_024
+  title: Le Chiffrier Organisé
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_024
+segments:
+- narration: C'est comme un grand tableau où on range les informations dans des cases
+    pour bien les retrouver !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chiffrier
+    Organisé', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je descends pour voir toutes les infos du même type !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Colonne
+    (Je descends pour voir toutes les infos du même type !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je vais à droite pour voir toutes les infos d'un même élément !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Ligne
+    (Je vais à droite pour voir toutes les infos d'un même élément !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est une petite boîte où il y a une info ! Chut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Cellule
+    (C'est une petite boîte où il y a une info ! Chut !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Plein de lignes et de colonnes ! C'est immense !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Tableau
+    Géant (Plein de lignes et de colonnes ! C'est immense !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Grâce au tableau, je retrouve mes infos en un clin d'œil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Trouve
+    Vite ! (Grâce au tableau, je retrouve mes infos en un clin d'œil !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

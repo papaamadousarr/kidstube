@@ -1,0 +1,23 @@
+series:
+  key: serie_065
+  title: Le Robot Télécommandé
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: On peut diriger un robot à distance avec une petite télécommande, comme
+    par magie !
+items:
+- name: La Télécommande
+  script: J'appuie sur les boutons pour donner des ordres !
+  accent_color: '#FF69B4'
+- name: Le Robot Lointain
+  script: Il est loin, mais j'arrive à le diriger !
+  accent_color: '#DA70D6'
+- name: Les Ordres Radio
+  script: Mes ordres voyagent dans l'air jusqu'à lui !
+  accent_color: '#AFEEEE'
+- name: Le Pilote Caché
+  script: C'est moi qui contrôle le robot, hi hi !
+  accent_color: '#F0E68C'
+- name: Le Contrôle à Distance
+  script: Je peux le faire avancer, tourner, s'arrêter !
+  accent_color: '#FFE4B5'

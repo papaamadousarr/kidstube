@@ -1,0 +1,23 @@
+series:
+  key: serie_051
+  title: Les Règles du Jeu
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Même les robots ont besoin de règles très claires pour savoir quoi faire
+    !
+items:
+- name: La Règle Simple
+  script: Avance, puis tourne ! C'est facile !
+  accent_color: '#3CB371'
+- name: La Règle d'Or
+  script: Ne tombe pas ! C'est important !
+  accent_color: '#6495ED'
+- name: La Consigne
+  script: Fais ça d'abord, puis ça après !
+  accent_color: '#FFA07A'
+- name: Le Robot Obéissant
+  script: Je suis toutes les règles à la lettre !
+  accent_color: '#90EE90'
+- name: Le Jeu sans Règle
+  script: Oups, sans règles, c'est le chaos !
+  accent_color: '#D3D3D3'

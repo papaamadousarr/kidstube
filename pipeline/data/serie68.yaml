@@ -1,0 +1,26 @@
+series:
+  key: serie68
+  title: Le Clic Droit Surprenant !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Quand tu appuies sur le bouton droit de la souris, une petite fenêtre
+    de secrets apparaît ! Plein de surprises !
+items:
+- name: Clic droit
+  script: Le bouton des secrets !
+  accent_color: '#40E0D0'
+- name: Options
+  script: Les choix cachés !
+  accent_color: '#FFD700'
+- name: Menu
+  script: La liste des possibilités !
+  accent_color: '#ADD8E6'
+- name: Choisir
+  script: Sélectionner une action !
+  accent_color: '#DA70D6'
+- name: Plus
+  script: D'autres choses à faire !
+  accent_color: '#90EE90'
+- name: Secret
+  script: Une fonction cachée !
+  accent_color: '#8A2BE2'

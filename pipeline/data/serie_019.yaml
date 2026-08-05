@@ -1,0 +1,23 @@
+series:
+  key: serie_019
+  title: Le Robot qui Parle
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Le robot peut créer des voix et des mots pour te parler, c'est de la
+    magie !
+items:
+- name: Les Mots Écrits
+  script: Je lis les lettres pour savoir quoi dire !
+  accent_color: '#6495ED'
+- name: La Voix Synthétique
+  script: C'est moi qui crée le son de la voix !
+  accent_color: '#AFEEEE'
+- name: Le Robot qui Lit
+  script: Je peux lire toute une histoire pour toi !
+  accent_color: '#D3D3D3'
+- name: Le Robot qui Chante
+  script: Je peux même chanter une petite chanson !
+  accent_color: '#FFA07A'
+- name: Les Sons Préférés
+  script: Je peux choisir la voix que tu aimes !
+  accent_color: '#90EE90'

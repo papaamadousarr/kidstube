@@ -1,0 +1,23 @@
+series:
+  key: serie_038
+  title: L'Application Utile
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Les applications sont comme des petits outils magiques dans ton téléphone
+    ou ta tablette !
+items:
+- name: L'Appli Dessin
+  script: Je dessine avec mon doigt ! Quel talent !
+  accent_color: '#87CEFA'
+- name: L'Appli Musique
+  script: J'écoute mes chansons préférées ! Doux !
+  accent_color: '#FFB6C1'
+- name: L'Appli Météo
+  script: Je vois s'il va pleuvoir ou faire soleil !
+  accent_color: '#9370DB'
+- name: L'Appli Jeu
+  script: Je joue à mon jeu préféré ! C'est amusant !
+  accent_color: '#ADD8E6'
+- name: Le Logiciel Malin
+  script: C'est un programme qui fait une tâche !
+  accent_color: '#90EE90'

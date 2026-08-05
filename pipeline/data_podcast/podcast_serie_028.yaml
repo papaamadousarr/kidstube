@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_028
+  title: Le Triez-moi Vite!
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_028
+segments:
+- narration: L'ordinateur est super fort pour ranger les choses par ordre alphabétique,
+    ou du plus petit au plus grand !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Triez-moi
+    Vite!', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: A, B, C... Je range les mots comme ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Par
+    Ordre Alpha (A, B, C... Je range les mots comme ça !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: 1, 2, 3... Je range les nombres comme ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Du Plus
+    Petit... (1, 2, 3... Je range les nombres comme ça !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: '...jusqu''au plus grand ! Quelle logique !'
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Au Plus
+    Grand ! (...jusqu'au plus grand ! Quelle logique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je mets tous les rouges ensemble, tous les bleus ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Tri
+    des Couleurs (Je mets tous les rouges ensemble, tous les bleus ensemble !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il est champion pour tout bien ranger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Trieur (Il est champion pour tout bien ranger !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

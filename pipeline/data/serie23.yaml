@@ -1,0 +1,32 @@
+series:
+  key: serie23
+  title: Les Grandes Armoires à Fichiers !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Dans l'ordinateur, les informations sont rangées dans des dossiers,
+    comme des armoires avec plein de tiroirs !
+items:
+- name: Dossier
+  script: Une armoire pour les infos !
+  accent_color: '#8B4513'
+  icon: 1f4c1
+- name: Organiser
+  script: Bien mettre en ordre !
+  accent_color: '#9ACD32'
+  icon: 1f4cb
+- name: Fichier
+  script: Une feuille d'informations !
+  accent_color: '#FFD700'
+  icon: 1f4c4
+- name: Classer
+  script: Mettre ensemble ce qui se ressemble !
+  accent_color: '#4682B4'
+  icon: 1f3f7
+- name: Contenir
+  script: Avoir à l'intérieur !
+  accent_color: '#ADD8E6'
+  icon: 1f4e6
+- name: Ranger
+  script: Mettre à sa place !
+  accent_color: '#DDA0DD'
+  icon: 1f9f9

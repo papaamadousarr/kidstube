@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie62
+  title: Le Super Planificateur !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie62
+segments:
+- narration: Dans l'ordinateur, il y a un chef d'orchestre qui organise tout, pour
+    que chaque programme fonctionne parfaitement !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Super
+    Planificateur !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le grand organisateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Système
+    d'exploitation (Le grand organisateur !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Tout mettre en ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Organiser
+    (Tout mettre en ordre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Prendre en charge !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Gérer
+    (Prendre en charge !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La machine intelligente !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordinateur
+    (La machine intelligente !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le grand responsable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chef
+    (Le grand responsable !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Super multi-tâches !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tout
+    faire (Super multi-tâches !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

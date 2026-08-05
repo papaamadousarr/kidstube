@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_015
+  title: L'Antenne Magique
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_015
+segments:
+- narration: Grâce à l'antenne, l'ordinateur peut parler à d'autres ordinateurs sans
+    fil, comme par magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Antenne
+    Magique', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je voyage dans l'air, incognito !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Signal
+    Invisible (Je voyage dans l'air, incognito !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Plus besoin de câbles ! C'est génial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Connexion
+    sans Fil (Plus besoin de câbles ! C'est génial !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est là que le signal sort de la maison !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Point
+    Wi-Fi (C'est là que le signal sort de la maison !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je parle à d'autres appareils ! Coucou !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Communique
+    ! (Je parle à d'autres appareils ! Coucou !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon robot se connecte sans fil ! Génial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    en L'Air (Mon robot se connecte sans fil ! Génial !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

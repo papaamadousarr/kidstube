@@ -1,0 +1,26 @@
+series:
+  key: serie_39
+  title: Le Guide Lumineux !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Comment la lumière porte les informations à toute vitesse dans des fils
+    magiques !
+items:
+- name: Lumière qui voyage
+  script: Les messages passent par des rayons de lumière !
+  accent_color: '#9370DB'
+- name: Chemin de verre
+  script: Des fils très fins faits de verre pur !
+  accent_color: '#8A2BE2'
+- name: Très très vite
+  script: Les informations vont à la vitesse de la lumière !
+  accent_color: '#BA55D3'
+- name: Signal brillant
+  script: Chaque flash de lumière est un message !
+  accent_color: '#9932CC'
+- name: Infos par la lumière
+  script: La lumière transporte les données, c'est incroyable !
+  accent_color: '#DA70D6'
+- name: Fibre magique
+  script: Le nom de ces fils de verre si spéciaux !
+  accent_color: '#C71585'

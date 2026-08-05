@@ -1,0 +1,26 @@
+series:
+  key: serie72
+  title: Le Texte à Taper !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Quand tu veux écrire des mots dans l'ordinateur, tu tapes dans un endroit
+    spécial ! C'est le champ de texte.
+items:
+- name: Champ de texte
+  script: L'endroit pour écrire !
+  accent_color: '#DAA520'
+- name: Écrire
+  script: Tracer des lettres !
+  accent_color: '#4682B4'
+- name: Lettres
+  script: Les petits signes de l'alphabet !
+  accent_color: '#ADD8E6'
+- name: Mots
+  script: Des lettres assemblées !
+  accent_color: '#9370DB'
+- name: Entrée
+  script: Taper le message !
+  accent_color: '#FFD700'
+- name: Remplir
+  script: Mettre des infos dedans !
+  accent_color: '#FFA07A'

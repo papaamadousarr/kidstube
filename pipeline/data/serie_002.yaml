@@ -1,0 +1,23 @@
+series:
+  key: serie_002
+  title: La Lumière qui S'allume
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Regarde, une petite lumière nous parle ! Elle nous dit si ça marche
+    ou pas.
+items:
+- name: La Lumière Verte
+  script: Tout va bien ! C'est prêt à jouer !
+  accent_color: '#3CB371'
+- name: La Lumière Rouge
+  script: Attention, il y a un petit souci !
+  accent_color: '#FF6347'
+- name: La Lumière Bleue
+  script: Je suis en train de réfléchir !
+  accent_color: '#6495ED'
+- name: La Lumière Clignotante
+  script: Je te demande quelque chose !
+  accent_color: '#FFA07A'
+- name: La Lumière Éteinte
+  script: Je dors, shhh !
+  accent_color: '#D3D3D3'

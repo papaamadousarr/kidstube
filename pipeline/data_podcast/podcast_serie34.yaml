@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie34
+  title: L'Ami qui Rafraîchit !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie34
+segments:
+- narration: Les ordinateurs chauffent quand ils travaillent ! Heureusement, ils ont
+    un ami qui souffle de l'air frais pour les garder au top !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Ami qui
+    Rafraîchit !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le souffleur d'air frais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ventilateur
+    (Le souffleur d'air frais !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Rendre moins chaud !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Refroidir
+    (Rendre moins chaud !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Le vent léger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Air
+    (Le vent léger !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Faire du vent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Souffler
+    (Faire du vent !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Éviter les bobos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    (Éviter les bobos !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pas chaud du tout !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Frais
+    (Pas chaud du tout !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

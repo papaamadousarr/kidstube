@@ -1,0 +1,23 @@
+series:
+  key: serie_049
+  title: Le Câble Réseau Malin
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Un long fil qui connecte ton ordinateur à Internet, comme un grand tunnel
+    pour les infos !
+items:
+- name: Le Fil Internet
+  script: Je me connecte au grand monde ! Youpi !
+  accent_color: '#6495ED'
+- name: Le Port Ethernet
+  script: C'est l'endroit où je branche le câble !
+  accent_color: '#AFEEEE'
+- name: L'Information qui Court
+  script: Les données voyagent très vite sur ce fil !
+  accent_color: '#D3D3D3'
+- name: Le Réseau des Amis
+  script: Je connecte mon ordinateur aux autres ordis !
+  accent_color: '#FFA07A'
+- name: La Connexion Stable
+  script: Mon internet marche super bien avec moi !
+  accent_color: '#90EE90'

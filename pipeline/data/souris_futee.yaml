@@ -1,0 +1,26 @@
+series:
+  key: souris_futee
+  title: Clic-Clac, la Souris Futée !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: La souris, c'est notre amie pour montrer du doigt ce qu'on veut à l'ordinateur
+    !
+items:
+- name: Souris
+  script: La petite amie qui nous aide à bouger sur l'écran !
+  accent_color: '#C0C0C0'
+- name: Clic
+  script: Appuyer sur le bouton pour choisir quelque chose !
+  accent_color: '#808080'
+- name: Pointeur
+  script: La petite flèche que la souris fait bouger !
+  accent_color: '#D3D3D3'
+- name: Glisser
+  script: Tenir le clic et déplacer la souris pour bouger un objet !
+  accent_color: '#778899'
+- name: Double Clic
+  script: Deux clics rapides pour ouvrir quelque chose !
+  accent_color: '#A9A9A9'
+- name: Déplacer
+  script: Bouger la souris pour faire avancer le pointeur !
+  accent_color: '#B0C4DE'

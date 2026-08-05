@@ -1,0 +1,22 @@
+series:
+  key: serie_006
+  title: Le Microphone Malin
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Parle au micro ! Il écoute tout et envoie ta voix à l'ordinateur !
+items:
+- name: La Voix qui Parle
+  script: Je dis des mots ! Le micro m'écoute !
+  accent_color: '#FF69B4'
+- name: Le Son qui Voyage
+  script: Mon son part en voyage vers l'ordinateur !
+  accent_color: '#DA70D6'
+- name: Le Robot Écouteur
+  script: Il comprend ce que je dis ! Quelle magie !
+  accent_color: '#AFEEEE'
+- name: L'Enregistreur Rigolo
+  script: Je peux même re-écouter ma voix !
+  accent_color: '#F0E68C'
+- name: Le Discours
+  script: Je raconte une histoire ! Écoute bien !
+  accent_color: '#FFE4B5'

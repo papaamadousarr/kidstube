@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Publier{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Publier sur YouTube</h1>
+    <p class="page-subtitle">{{ idea.title }}</p>
+  </div>
+</div>
+
+<div class="panel">
+<form method="post" class="form">
+  <label>Titre
+    <input type="text" name="title" value="{{ seo.title }}" required>
+  </label>
+
+  <label>Description
+    <textarea name="description" rows="4">{{ seo.description }}</textarea>
+  </label>
+
+  <label>Tags (séparés par des virgules)
+    <input type="text" name="tags" value="{{ seo.tags|join(', ') }}" placeholder="enfants, comptines, apprentissage">
+  </label>
+
+  <label>Visibilité
+    <select name="privacy_status">
+      <option value="private">Privée (pour relecture avant publication)</option>
+      <option value="unlisted">Non répertoriée</option>
+      <option value="public" selected>Publique</option>
+    </select>
+  </label>
+
+  <label style="flex-direction: row; align-items: center; gap: 0.5rem;">
+    <input type="checkbox" name="made_for_kids" style="width: auto;">
+    Conçu pour les enfants
+  </label>
+
+  <div class="form-actions">
+    <button type="submit">Publier</button>
+    <a href="{{ url_for('board.board_view') }}" class="button ghost">Annuler</a>
+  </div>
+</form>
+</div>
+{% endblock %}

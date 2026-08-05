@@ -1,0 +1,22 @@
+series:
+  key: serie_05
+  title: Les Copies Jumelles !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Pour ne jamais perdre nos jeux et nos dessins, on fait des doubles !
+items:
+- name: Double
+  script: Une copie exacte, comme un jumeau !
+  accent_color: '#B0C4DE'
+- name: Secours
+  script: Si l'un disparaît, on a l'autre !
+  accent_color: '#6A5ACD'
+- name: Plus d'un
+  script: Avoir plusieurs exemplaires, c'est plus sûr !
+  accent_color: '#483D8B'
+- name: Copie parfaite
+  script: Rien n'est oublié, c'est identique !
+  accent_color: '#7B68EE'
+- name: Protection
+  script: Nos infos sont à l'abri avec des copies !
+  accent_color: '#8A2BE2'

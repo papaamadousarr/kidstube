@@ -1,0 +1,43 @@
+podcast_series:
+  key: podcast_hasard_surprises
+  title: Le Monde du Hasard et des Surprises !
+  voice: fr_FR-siwis-medium
+  linked_series_key: hasard_surprises
+segments:
+- narration: Dans la vie, il y a des choses qu'on ne peut pas prévoir ! Découvre comment
+    l'ordinateur peut aussi faire des choses par surprise !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Monde
+    du Hasard et des Surprises !', vibrant playful colors, Pixar-style children's
+    animation, warm inviting composition, no text, no logos
+- narration: Lance le dé et hop, un nouveau nombre apparaît par magie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dé
+    de la Chance (Lance le dé et hop, un nouveau nombre apparaît par magie !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Fais tourner la roue, et qui sait où elle va s'arrêter pour nous surprendre
+    !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Roue
+    de la Fortune (Fais tourner la roue, et qui sait où elle va s'arrêter pour nous
+    surprendre !), joyful bright saturated colors, Pixar-style render, no text, no
+    logos
+- narration: Mélange tout très fort pour que l'ordre change à chaque fois !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mélangeur
+    Fou (Mélange tout très fort pour que l'ordre change à chaque fois !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: On pioche un nom sans regarder, quelle surprise pour le gagnant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Tirage
+    au Sort (On pioche un nom sans regarder, quelle surprise pour le gagnant !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Parfois, une chose inattendue arrive et change tout le jeu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Imprévu
+    Rigolo (Parfois, une chose inattendue arrive et change tout le jeu !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il invente un chiffre juste pour le plaisir, personne ne sait lequel
+    !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Magicien
+    des Chiffres (Il invente un chiffre juste pour le plaisir, personne ne sait lequel
+    !), joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

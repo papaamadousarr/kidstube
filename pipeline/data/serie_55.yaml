@@ -1,0 +1,26 @@
+series:
+  key: serie_55
+  title: Le Gardien de la Porte !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Qui décide qui a le droit d'entrer ou d'utiliser les choses sur l'ordinateur
+    ?
+items:
+- name: Qui entre, qui sort ?
+  script: Il contrôle l'accès aux fichiers et aux jeux !
+  accent_color: '#F5DEB3'
+- name: Droit de passer
+  script: Il donne ou non l'autorisation d'accéder à l'information !
+  accent_color: '#FFDAB9'
+- name: Autorisation
+  script: C'est comme un passe-droit pour faire quelque chose !
+  accent_color: '#DEB887'
+- name: Clé numérique
+  script: Un code secret pour ouvrir la porte !
+  accent_color: '#D2B48C'
+- name: Interdit
+  script: Il empêche les accès non autorisés !
+  accent_color: '#FFE4C4'
+- name: Vérifier l'identité
+  script: Il s'assure que c'est bien la bonne personne !
+  accent_color: '#F0F8FF'

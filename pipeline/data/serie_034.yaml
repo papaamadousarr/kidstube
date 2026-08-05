@@ -1,0 +1,23 @@
+series:
+  key: serie_034
+  title: Le Choix du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Le robot peut prendre des décisions, comme choisir entre deux chemins
+    ou deux couleurs !
+items:
+- name: Le Chemin Vert
+  script: Si le chemin est vert, j'y vais !
+  accent_color: '#6495ED'
+- name: Le Chemin Rouge
+  script: Si le chemin est rouge, je ne passe pas !
+  accent_color: '#AFEEEE'
+- name: Si... Alors...
+  script: Si ceci, alors je fais cela ! C'est logique !
+  accent_color: '#D3D3D3'
+- name: La Décision Malin
+  script: Je prends toujours la meilleure décision !
+  accent_color: '#FFA07A'
+- name: L'Alternative
+  script: Si ce n'est pas ça, alors c'est l'autre !
+  accent_color: '#90EE90'

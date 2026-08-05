@@ -1,0 +1,50 @@
+podcast_series:
+  key: podcast_le_langage_cache_des_ordinateurs
+  title: Le Langage Caché des Ordinateurs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: le_langage_cache_des_ordinateurs
+segments:
+- narration: Sais-tu que ton ordinateur parle un langage très spécial ? Il utilise
+    seulement deux petits mots pour tout comprendre ! Viens découvrir !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Langage
+    Caché des Ordinateurs !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: 'Un bit, c''est comme une mini-lumière : elle est SOIT allumée (1) SOIT
+    éteinte (0) !'
+  image_prompt: 'Colorful vibrant 3D cartoon illustration for children showing Le
+    Bit (Un bit, c''est comme une mini-lumière : elle est SOIT allumée (1) SOIT éteinte
+    (0) !), joyful bright saturated colors, Pixar-style render, no text, no logos'
+- narration: Quand le bit est ZÉRO, c'est comme une lumière éteinte ! Zzzz... Pas
+    d'électricité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Zéro
+    (Quand le bit est ZÉRO, c'est comme une lumière éteinte ! Zzzz... Pas d'électricité
+    !), joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Quand le bit est UN, c'est comme une lumière allumée ! Brille, brille
+    ! Il y a du courant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Un
+    (Quand le bit est UN, c'est comme une lumière allumée ! Brille, brille ! Il y
+    a du courant !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: L'ordinateur assemble plein de zéros et de uns pour faire des mots et
+    des images !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mot
+    Secret (L'ordinateur assemble plein de zéros et de uns pour faire des mots et
+    des images !), joyful bright saturated colors, Pixar-style render, no text, no
+    logos
+- narration: C'est ça, le code binaire ! Le langage super secret que seul ton ordinateur
+    comprend parfaitement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Code
+    Binaire (C'est ça, le code binaire ! Le langage super secret que seul ton ordinateur
+    comprend parfaitement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Grâce à ces zéros et ces uns, l'ordinateur envoie et reçoit tous ses
+    petits messages !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Petits Messages (Grâce à ces zéros et ces uns, l'ordinateur envoie et reçoit tous
+    ses petits messages !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

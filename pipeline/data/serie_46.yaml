@@ -1,0 +1,26 @@
+series:
+  key: serie_46
+  title: La Boîte à Sons !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Où sont rangées toutes les musiques, les voix et les bruits dans l'ordinateur
+    ?
+items:
+- name: Ranger les musiques
+  script: Toutes tes chansons sont bien classées ici !
+  accent_color: '#F5DEB3'
+- name: Enregistrer la voix
+  script: Tes messages vocaux sont stockés là !
+  accent_color: '#FFDAB9'
+- name: Sons numériques
+  script: Les sons sont transformés en informations pour l'ordi !
+  accent_color: '#DEB887'
+- name: Petite mélodie
+  script: Chaque son est un petit fichier à écouter !
+  accent_color: '#D2B48C'
+- name: Bibliothèque sonore
+  script: Comme une grande collection de bruits et de musiques !
+  accent_color: '#FFE4C4'
+- name: Fichier audio
+  script: C'est le nom du petit paquet qui contient un son !
+  accent_color: '#F0F8FF'

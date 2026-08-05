@@ -1,0 +1,26 @@
+series:
+  key: serie65
+  title: Le Petit Cadre de Travail !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Sur ton écran, chaque programme s'ouvre dans un petit cadre, comme une
+    fenêtre sur ton travail !
+items:
+- name: Fenêtre
+  script: Le cadre de travail !
+  accent_color: '#6A5ACD'
+- name: Ouvrir
+  script: Démarrer le programme !
+  accent_color: '#90EE90'
+- name: Fermer
+  script: Arrêter le programme !
+  accent_color: '#DC143C'
+- name: Changer
+  script: Mettre une autre fenêtre !
+  accent_color: '#FFD700'
+- name: Voir
+  script: Regarder ce qui est dedans !
+  accent_color: '#ADD8E6'
+- name: Travailler
+  script: Faire ses activités !
+  accent_color: '#4682B4'

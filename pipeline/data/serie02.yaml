@@ -1,0 +1,32 @@
+series:
+  key: serie02
+  title: Les Étapes Secrètes du Jeu !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Pour réussir un jeu, il faut suivre les étapes dans le bon ordre. Les
+    robots aussi ont leurs secrets !
+items:
+- name: Séquence
+  script: Chaque chose à sa place !
+  accent_color: '#FFC0CB'
+  icon: 1f517
+- name: Ordre
+  script: Un après l'autre !
+  accent_color: '#ADD8E6'
+  icon: 1f4cb
+- name: Début
+  script: C'est parti !
+  accent_color: '#90EE90'
+  icon: 25b6
+- name: Fin
+  script: Mission accomplie !
+  accent_color: '#FF6347'
+  icon: 1f3c1
+- name: Avancer
+  script: Un pas en avant !
+  accent_color: '#DAA520'
+  icon: 27a1
+- name: Reculer
+  script: Un pas en arrière !
+  accent_color: '#DDA0DD'
+  icon: 2b05

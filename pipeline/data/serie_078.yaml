@@ -1,0 +1,23 @@
+series:
+  key: serie_078
+  title: Le Robot Joueur
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Il peut jouer avec toi à des jeux de société, ou même gagner aux échecs
+    !
+items:
+- name: Le Jeu de Société
+  script: Qui veut jouer aux dames avec moi ?
+  accent_color: '#87CEFA'
+- name: Le Robot Adversaire
+  script: Je suis fort, mais pas trop pour te laisser gagner !
+  accent_color: '#FFB6C1'
+- name: La Stratégie
+  script: Je réfléchis à tous mes coups pour être malin !
+  accent_color: '#9370DB'
+- name: Le Compagnon de Jeu
+  script: Je suis toujours prêt à jouer avec toi !
+  accent_color: '#ADD8E6'
+- name: Les Règles du Jeu
+  script: Je connais toutes les règles par cœur !
+  accent_color: '#90EE90'

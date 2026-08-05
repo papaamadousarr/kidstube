@@ -1,0 +1,26 @@
+series:
+  key: si_alors_aventure
+  title: Si... Alors... L'Aventure !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Les ordinateurs prennent des décisions, comme nous, avec 'Si... Alors...'
+    !
+items:
+- name: Si
+  script: '''Si'' il fait jour, je me lève !'
+  accent_color: '#3CB371'
+- name: Alors
+  script: '''Alors'' je me lève, c''est l''action qui suit le ''Si'' !'
+  accent_color: '#FF6347'
+- name: Condition
+  script: C'est le 'Si', ce qu'on vérifie pour savoir quoi faire !
+  accent_color: '#DAA520'
+- name: Décision
+  script: Choisir quoi faire en fonction du 'Si' !
+  accent_color: '#4682B4'
+- name: Choix
+  script: On peut avoir plusieurs 'Alors' pour différentes conditions !
+  accent_color: '#6B8E23'
+- name: Oui ou Non
+  script: C'est ce que l'ordinateur regarde pour son 'Si' !
+  accent_color: '#FF8C00'

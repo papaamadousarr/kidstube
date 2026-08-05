@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie46
+  title: Les Petits Messagers du Réseau !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie46
+segments:
+- narration: Quand des ordinateurs se parlent, ils s'envoient de petits messages,
+    comme des facteurs qui transportent des lettres invisibles !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petits
+    Messagers du Réseau !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un petit message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Paquet
+    de données (Un petit message !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire partir l'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Envoyer
+    (Faire partir l'info !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Attraper le message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Recevoir
+    (Attraper le message !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Une petite conversation !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Message
+    (Une petite conversation !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un long chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voyage
+    (Un long chemin !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: En un clin d'œil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rapidement
+    (En un clin d'œil !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

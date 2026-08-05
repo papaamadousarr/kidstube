@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie30
+  title: Les Codes Discrets !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie30
+segments:
+- narration: Parfois, le robot change les informations pour qu'elles deviennent secrètes,
+    comme un code discret que seul un ami peut comprendre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Codes
+    Discrets !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Changer en code !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Encodage
+    (Changer en code !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Changer d'apparence !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Transformer
+    (Changer d'apparence !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre à l'abri !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cacher
+    (Mettre à l'abri !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Trouver le secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Déchiffrer
+    (Trouver le secret !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un langage secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Code
+    (Un langage secret !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Chut, ne le dis pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secret
+    (Chut, ne le dis pas !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

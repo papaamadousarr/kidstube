@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_063
+  title: Le Chargement Rapide
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_063
+segments:
+- narration: Quand tu ouvres un jeu, l'ordinateur doit le charger pour que tu puisses
+    jouer vite !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chargement
+    Rapide', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Mon jeu préféré est en route vers l'écran !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Jeu
+    qui Arrive (Mon jeu préféré est en route vers l'écran !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Toutes les infos du jeu arrivent vite, vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Données qui Viennent (Toutes les infos du jeu arrivent vite, vite !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il faut attendre un petit peu ! Courage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Attente
+    (Il faut attendre un petit peu ! Courage !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le jeu est là ! On peut commencer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing C'est
+    Prêt ! (Le jeu est là ! On peut commencer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: La barre de chargement me dit si c'est long !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Temps
+    qui Passe (La barre de chargement me dit si c'est long !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

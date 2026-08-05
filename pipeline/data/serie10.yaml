@@ -1,0 +1,32 @@
+series:
+  key: serie10
+  title: L'Organisateur de Tâches !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Le robot est très organisé ! Il sait exactement ce qu'il doit faire
+    et dans quel ordre, pour tout finir à temps.
+items:
+- name: Planifier
+  script: Préparer à l'avance !
+  accent_color: '#DAA520'
+  icon: 1f4dd
+- name: Faire avant
+  script: C'est la priorité !
+  accent_color: '#FF7F50'
+  icon: 23ea
+- name: Faire après
+  script: Ce sera pour plus tard !
+  accent_color: '#9ACD32'
+  icon: 23e9
+- name: Priorité
+  script: Le plus important d'abord !
+  accent_color: '#FF6347'
+  icon: 2b50
+- name: Programme
+  script: La liste des choses à faire !
+  accent_color: '#4682B4'
+  icon: 1f5d3
+- name: Mission
+  script: Le travail à accomplir !
+  accent_color: '#8A2BE2'
+  icon: 1f3af

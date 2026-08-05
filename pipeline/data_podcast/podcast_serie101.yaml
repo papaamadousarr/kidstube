@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie101
+  title: Le Robot qui aide les Hommes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie101
+segments:
+- narration: Certains robots sont créés pour ressembler aux humains et nous aider
+    dans nos tâches quotidiennes, comme des amis mécaniques !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui aide les Hommes !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un robot comme nous !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    Humanoïde (Un robot comme nous !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Avoir la même forme !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ressembler
+    (Avoir la même forme !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Se déplacer sur deux jambes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Marcher
+    (Se déplacer sur deux jambes !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Donner un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aider
+    (Donner un coup de main !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Échanger des mots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Échanger des mots !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Agir avec les humains !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Interagir
+    (Agir avec les humains !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_048
+  title: Le Port USB Curieux
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_048
+segments:
+- narration: C'est un petit trou magique où tu peux brancher plein de choses sur l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Port USB
+    Curieux', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je mets mes dessins secrets dedans !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Clé
+    USB (Je mets mes dessins secrets dedans !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je la branche pour jouer à mes jeux préférés !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Manette
+    de Jeu (Je la branche pour jouer à mes jeux préférés !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je range plein de choses en dehors de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Disque
+    Dur Externe (Je range plein de choses en dehors de l'ordinateur !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je branche mon téléphone pour le recharger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Câble
+    du Téléphone (Je branche mon téléphone pour le recharger !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un adaptateur pour brancher encore plus de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Hub
+    USB (Un adaptateur pour brancher encore plus de choses !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

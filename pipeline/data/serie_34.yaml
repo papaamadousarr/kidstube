@@ -1,0 +1,26 @@
+series:
+  key: serie_34
+  title: Le Messager Secret !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Comment les messages sont signés pour être sûrs qu'ils viennent du bon
+    ami !
+items:
+- name: Clé de protection
+  script: Une clé unique pour ouvrir ton message !
+  accent_color: '#FF69B4'
+- name: Signature digitale
+  script: Une preuve que c'est bien toi qui as envoyé le message !
+  accent_color: '#C71585'
+- name: Message scellé
+  script: Personne ne peut le modifier sur le chemin !
+  accent_color: '#DB7093'
+- name: Personne ne lit
+  script: Seul le destinataire peut le déchiffrer !
+  accent_color: '#FF1493'
+- name: Sûr et certain
+  script: Ton message est en sécurité, c'est garanti !
+  accent_color: '#FFC0CB'
+- name: Tampon magique
+  script: Comme un sceau qui prouve l'origine !
+  accent_color: '#FFB6C1'

@@ -1,0 +1,23 @@
+series:
+  key: serie_061
+  title: Le Message d'Erreur Gentil
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Quand l'ordinateur ne comprend pas ou fait une bêtise, il nous le dit
+    gentiment !
+items:
+- name: Oups !
+  script: J'ai fait une petite erreur ! Pardon !
+  accent_color: '#3CB371'
+- name: Je ne Comprends pas !
+  script: Qu'est-ce que tu veux que je fasse ?
+  accent_color: '#6495ED'
+- name: Le Problème !
+  script: Il y a un petit souci ! On va le réparer !
+  accent_color: '#FFA07A'
+- name: La Solution !
+  script: Je te dis ce que tu peux faire pour m'aider !
+  accent_color: '#90EE90'
+- name: L'Aide du Robot
+  script: Je suis là pour t'aider à comprendre mes bêtises !
+  accent_color: '#D3D3D3'

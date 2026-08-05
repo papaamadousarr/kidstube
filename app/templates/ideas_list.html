@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Idées{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Idées de vidéos</h1>
+    <p class="page-subtitle">{{ ideas|length }} idée{{ 's' if ideas|length != 1 else '' }} au total</p>
+  </div>
+  <div class="actions">
+    <form method="post" action="{{ url_for('ideas.generate_ideas') }}" class="inline-form generate-ideas-form">
+      <label class="inline-field">
+        <input type="number" name="count" min="1" value="3">
+        <span class="muted">idée(s)</span>
+      </label>
+      <button type="submit" class="ghost">Générer des idées avec Gemini</button>
+    </form>
+    <a class="button" href="{{ url_for('ideas.new_idea') }}">+ Nouvelle idée</a>
+  </div>
+</div>
+
+{% if generation_error %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>{{ generation_error }}</span>
+</div>
+{% endif %}
+
+{% if short_options %}
+<div class="panel wide-panel">
+  <h2 class="section-title no-top-margin">Créer un Short</h2>
+  <p class="page-subtitle no-top-margin">Vidéo verticale, un seul mot, dérivée d'une série existante.</p>
+  <form method="post" action="{{ url_for('ideas.create_short') }}" class="inline-form create-short-form">
+    <select name="short_item" required class="grow-field">
+      <option value="">— choisir un mot —</option>
+      {% for value, label in short_options %}
+        <option value="{{ value }}">{{ label }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit" class="ghost">Créer le Short</button>
+  </form>
+</div>
+{% endif %}
+
+{% if ideas %}
+<div class="ideas-filter-bar">
+  <input type="search" id="ideas-search" placeholder="Filtrer par titre ou série…" class="ideas-search-input">
+  <select id="ideas-status-filter">
+    <option value="">Tous les statuts</option>
+    {% for s in statuses %}
+      <option value="{{ s }}">{{ s }}</option>
+    {% endfor %}
+  </select>
+  <span class="muted" id="ideas-filter-count"></span>
+</div>
+<div class="table-wrap scroll-table">
+<table id="ideas-table">
+  <thead>
+    <tr><th>Titre</th><th>Série</th><th>Statut</th><th>Programmée</th><th></th></tr>
+  </thead>
+  <tbody>
+  {% for idea in ideas %}
+    <tr data-title="{{ idea.title|lower }} {{ idea.series_key|lower if idea.series_key else '' }}" data-status="{{ idea.status }}">
+      <td class="cell-title">{{ idea.title }}</td>
+      <td>
+        {% if idea.series_key %}<span class="tag">{{ idea.series_key }}</span>{% else %}<span class="muted">—</span>{% endif %}
+        {% if idea.video_pipeline == "shorts" %}<span class="tag tag-accent">Short</span>
+        {% elif idea.video_pipeline == "higgsfield" %}<span class="tag tag-accent">Réalisme</span>
+        {% elif idea.video_pipeline == "podcast" %}<span class="tag tag-accent">Podcast</span>{% endif %}
+      </td>
+      <td><span class="badge status-{{ idea.status }}">{{ idea.status }}</span></td>
+      <td>{{ idea.scheduled_date or "—" }}{% if idea.scheduled_date and idea.scheduled_time %} <span class="muted">{{ idea.scheduled_time.strftime('%H:%M') }}</span>{% endif %}</td>
+      <td class="actions">
+        <a href="{{ url_for('ideas.edit_idea', idea_id=idea.id) }}">Éditer</a>
+        <form method="post" action="{{ url_for('ideas.delete_idea', idea_id=idea.id) }}"
+              onsubmit="return confirm('Supprimer cette idée ?');">
+          <button type="submit" class="link-button">Supprimer</button>
+        </form>
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+<script src="{{ url_for('static', filename='js/ideas_filter.js') }}"></script>
+{% else %}
+<div class="empty-state">
+  <p>Aucune idée pour l'instant.</p>
+  <a class="button" href="{{ url_for('ideas.new_idea') }}">Créer ta première idée</a>
+</div>
+{% endif %}
+<script src="{{ url_for('static', filename='js/ideas_loading.js') }}"></script>
+{% endblock %}

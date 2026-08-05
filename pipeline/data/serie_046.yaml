@@ -1,0 +1,23 @@
+series:
+  key: serie_046
+  title: La Pile Électrique
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: La pile, c'est comme le réservoir d'essence du robot, elle lui donne
+    de l'énergie pour bouger !
+items:
+- name: L'Énergie Cachée
+  script: Je donne de la force à mon robot !
+  accent_color: '#FFDAB9'
+- name: Le Niveau de la Pile
+  script: Est-ce qu'il reste de l'énergie ? Je regarde !
+  accent_color: '#9370DB'
+- name: La Pile Vide
+  script: Oh non, plus d'énergie ! Il faut recharger !
+  accent_color: '#8FBC8F'
+- name: La Pile Pleine
+  script: Youpi ! Mon robot est prêt à jouer !
+  accent_color: '#FFDEAD'
+- name: Le Cœur du Robot
+  script: Sans moi, le robot ne peut rien faire !
+  accent_color: '#F0E68C'

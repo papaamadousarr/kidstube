@@ -1,0 +1,32 @@
+series:
+  key: serie24
+  title: Le Petit Cache-cache des Infos !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Parfois, le robot cache les informations en les rendant toutes petites,
+    comme pour un jeu de cache-cache ! On appelle ça la compression.
+items:
+- name: Compression
+  script: Rendre tout petit !
+  accent_color: '#6A5ACD'
+  icon: 1f5dc
+- name: Rendre petit
+  script: Moins de place !
+  accent_color: '#ADD8E6'
+  icon: 1f90f
+- name: Économiser
+  script: Garder de la place !
+  accent_color: '#90EE90'
+  icon: 1f4b0
+- name: Gagner
+  script: Avoir plus d'espace !
+  accent_color: '#FFD700'
+  icon: 1f3c6
+- name: Ouvrir
+  script: Déballer l'info !
+  accent_color: '#FFA500'
+  icon: 1f513
+- name: Fermer
+  script: Replier l'info !
+  accent_color: '#DAA520'
+  icon: 1f512

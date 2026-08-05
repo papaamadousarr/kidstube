@@ -1,0 +1,32 @@
+series:
+  key: serie46
+  title: Les Petits Messagers du Réseau !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Quand des ordinateurs se parlent, ils s'envoient de petits messages,
+    comme des facteurs qui transportent des lettres invisibles !
+items:
+- name: Paquet de données
+  script: Un petit message !
+  accent_color: '#DB7093'
+  icon: 1f4e6
+- name: Envoyer
+  script: Faire partir l'info !
+  accent_color: '#FFC0CB'
+  icon: 2b06
+- name: Recevoir
+  script: Attraper le message !
+  accent_color: '#ADD8E6'
+  icon: 2b07
+- name: Message
+  script: Une petite conversation !
+  accent_color: '#40E0D0'
+  icon: 1f4ac
+- name: Voyage
+  script: Un long chemin !
+  accent_color: '#6495ED'
+  icon: '2708'
+- name: Rapidement
+  script: En un clin d'œil !
+  accent_color: '#FF4500'
+  icon: 26a1

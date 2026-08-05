@@ -1,0 +1,26 @@
+series:
+  key: serie77
+  title: Le Robot qui Reconnait les Objets !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Le robot a des yeux très perçants ! Il peut regarder autour de lui et
+    savoir ce que sont tous les objets qu'il voit !
+items:
+- name: Reconnaissance d'objets
+  script: Savoir ce que c'est !
+  accent_color: '#6A5ACD'
+- name: Voir
+  script: Regarder attentivement !
+  accent_color: '#ADD8E6'
+- name: Identifier
+  script: Mettre un nom dessus !
+  accent_color: '#FFD700'
+- name: Savoir
+  script: Avoir la connaissance !
+  accent_color: '#90EE90'
+- name: Où
+  script: La place de l'objet !
+  accent_color: '#DAA520'
+- name: Quoi
+  script: La nature de l'objet !
+  accent_color: '#DDA0DD'

@@ -1,0 +1,38 @@
+series:
+  key: le_langage_cache_des_ordinateurs
+  title: Le Langage Caché des Ordinateurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0F7FA'
+  intro_text: Sais-tu que ton ordinateur parle un langage très spécial ? Il utilise
+    seulement deux petits mots pour tout comprendre ! Viens découvrir !
+items:
+- name: Le Bit
+  script: 'Un bit, c''est comme une mini-lumière : elle est SOIT allumée (1) SOIT
+    éteinte (0) !'
+  accent_color: '#00BCD4'
+  icon: 26ab
+- name: Le Zéro
+  script: Quand le bit est ZÉRO, c'est comme une lumière éteinte ! Zzzz... Pas d'électricité
+    !
+  accent_color: '#4DD0E1'
+  icon: 30-20e3
+- name: Le Un
+  script: Quand le bit est UN, c'est comme une lumière allumée ! Brille, brille !
+    Il y a du courant !
+  accent_color: '#00ACC1'
+  icon: 31-20e3
+- name: Le Mot Secret
+  script: L'ordinateur assemble plein de zéros et de uns pour faire des mots et des
+    images !
+  accent_color: '#80DEEA'
+  icon: 1f92b
+- name: Code Binaire
+  script: C'est ça, le code binaire ! Le langage super secret que seul ton ordinateur
+    comprend parfaitement !
+  accent_color: '#26C6DA'
+  icon: 1f916
+- name: Les Petits Messages
+  script: Grâce à ces zéros et ces uns, l'ordinateur envoie et reçoit tous ses petits
+    messages !
+  accent_color: '#B2EBF2'
+  icon: 1f4ac

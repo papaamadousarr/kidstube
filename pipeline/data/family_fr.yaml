@@ -1,0 +1,32 @@
+series:
+  key: family_fr
+  title: "La famille"
+  voice: fr_FR-siwis-medium
+  background_color: "#FCE4EC"
+  intro_text: "Découvrons les membres de la famille !"
+
+items:
+  - name: "Maman"
+    script: "Maman, je t'aime !"
+    icon: woman
+    accent_color: "#D81B60"
+  - name: "Papa"
+    script: "Papa, je t'aime !"
+    icon: man
+    accent_color: "#1E88E5"
+  - name: "Frère"
+    script: "Mon frère joue avec moi !"
+    icon: boy
+    accent_color: "#039BE5"
+  - name: "Sœur"
+    script: "Ma sœur joue avec moi !"
+    icon: girl
+    accent_color: "#D81B60"
+  - name: "Mamie"
+    script: "Mamie raconte des histoires !"
+    icon: grandma
+    accent_color: "#8E24AA"
+  - name: "Papi"
+    script: "Papi joue avec moi !"
+    icon: grandpa
+    accent_color: "#6D4C41"

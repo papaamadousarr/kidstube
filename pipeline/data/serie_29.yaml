@@ -1,0 +1,23 @@
+series:
+  key: serie_29
+  title: La Boîte à Outils Virtuelle !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Tous les petits assistants pratiques qui nous aident sur l'ordinateur
+    !
+items:
+- name: Outils pour l'ordi
+  script: Des programmes qui nous donnent un coup de main !
+  accent_color: '#E6E6FA'
+- name: Petite aide
+  script: Ils nous facilitent la vie et le travail !
+  accent_color: '#D8BFD8'
+- name: Réparateur
+  script: Pour remettre de l'ordre quand quelque chose ne va pas !
+  accent_color: '#BA55D3'
+- name: Organisateur
+  script: Il range nos fichiers et nos photos !
+  accent_color: '#9932CC'
+- name: Nettoyeur
+  script: Pour faire le ménage dans l'ordinateur !
+  accent_color: '#8A2BE2'

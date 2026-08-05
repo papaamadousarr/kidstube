@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie74
+  title: Les Programmes pour Dessiner !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie74
+segments:
+- narration: Avec ton ordinateur, tu peux devenir un super artiste ! Il y a des programmes
+    exprès pour dessiner et colorier.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Programmes
+    pour Dessiner !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le carnet de dessin de l'ordi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Éditeur
+    graphique (Le carnet de dessin de l'ordi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Faire de jolis traits !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessiner
+    (Faire de jolis traits !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre de la couleur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Peindre
+    (Mettre de la couleur !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Toutes les teintes de l'arc-en-ciel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Couleurs
+    (Toutes les teintes de l'arc-en-ciel !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Carrés, ronds, triangles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Formes
+    (Carrés, ronds, triangles !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Inventer de nouvelles choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    (Inventer de nouvelles choses !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

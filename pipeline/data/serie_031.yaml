@@ -1,0 +1,23 @@
+series:
+  key: serie_031
+  title: La Prédiction Magique
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: L'IA est si intelligente qu'elle peut deviner ce qui va se passer après
+    !
+items:
+- name: Je Devine Demain !
+  script: Va-t-il pleuvoir ou faire soleil ? Je peux le dire !
+  accent_color: '#3CB371'
+- name: Je Suggère un Jeu !
+  script: Tu aimes ce jeu ? Alors, je te propose celui-ci !
+  accent_color: '#6495ED'
+- name: Le Prochain Dessin
+  script: Après le carré, ce sera un rond ! Je le savais !
+  accent_color: '#FFA07A'
+- name: L'Aide au Choix
+  script: Je te donne des idées pour t'aider à choisir !
+  accent_color: '#90EE90'
+- name: La Magie du Savoir
+  script: Je connais tellement de choses que je peux anticiper !
+  accent_color: '#D3D3D3'

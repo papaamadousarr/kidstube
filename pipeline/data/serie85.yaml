@@ -1,0 +1,26 @@
+series:
+  key: serie85
+  title: Le Robot Gardien !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Comme un gentil chien de garde, le robot peut veiller sur la maison
+    et prévenir quand quelque chose ne va pas !
+items:
+- name: Robot de surveillance
+  script: Le gardien attentif !
+  accent_color: '#8B0000'
+- name: Observer
+  script: Regarder attentivement !
+  accent_color: '#A9A9A9'
+- name: Protéger
+  script: Mettre à l'abri !
+  accent_color: '#4682B4'
+- name: Prévenir
+  script: Dire attention !
+  accent_color: '#FF4500'
+- name: Veiller
+  script: Surveiller sans dormir !
+  accent_color: '#DAA520'
+- name: Alerte
+  script: Un signal de danger !
+  accent_color: '#DC143C'

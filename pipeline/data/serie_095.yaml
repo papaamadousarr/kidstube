@@ -1,0 +1,23 @@
+series:
+  key: serie_095
+  title: Le Robot Optimisateur
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Le robot trouve toujours la meilleure façon de faire les choses, la
+    plus rapide ou la plus facile !
+items:
+- name: Le Chemin le Plus Court
+  script: Je trouve toujours la route la plus rapide !
+  accent_color: '#FF69B4'
+- name: Le Mouvement Malin
+  script: Je bouge sans perdre de temps ! Efficace !
+  accent_color: '#DA70D6'
+- name: L'Organisation Parfaite
+  script: Je range tout pour que ce soit le plus simple !
+  accent_color: '#AFEEEE'
+- name: Le Robot Ingénieux
+  script: Je suis malin pour trouver les meilleures solutions !
+  accent_color: '#F0E68C'
+- name: Moins de Temps, Plus de Plaisir !
+  script: Je t'aide à faire les choses mieux et plus vite !
+  accent_color: '#FFE4B5'

@@ -1,0 +1,22 @@
+series:
+  key: serie_077
+  title: Le Robot Jardinier
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Un ami robot qui aide au jardin et prend soin des plantes !
+items:
+- name: La Tondeuse Auto
+  script: Je coupe l'herbe tout seul ! Bzzz !
+  accent_color: '#FFDAB9'
+- name: L'Arroseur Intelligent
+  script: Je sais quand les plantes ont soif et je les arrose !
+  accent_color: '#8FBC8F'
+- name: Le Potager Intelligent
+  script: Je m'occupe des légumes et des fruits !
+  accent_color: '#AFEEEE'
+- name: La Plante Heureuse
+  script: Grâce à moi, les fleurs poussent bien !
+  accent_color: '#ADD8E6'
+- name: Le Robot Vert
+  script: J'aime la nature et je la protège !
+  accent_color: '#FFC0CB'

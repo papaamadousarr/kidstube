@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie61
+  title: Les Programmes Super Utiles !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie61
+segments:
+- narration: Ton ordinateur a plein de programmes qui l'aident à faire des choses
+    incroyables, comme dessiner, écrire ou jouer !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Programmes
+    Super Utiles !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un programme qui aide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Logiciel
+    (Un programme qui aide !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Réaliser une tâche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    (Réaliser une tâche !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Donner un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aider
+    (Donner un coup de main !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un instrument pratique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Outil
+    (Un instrument pratique !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire une activité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Travailler
+    (Faire une activité !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Imaginer et fabriquer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    (Imaginer et fabriquer !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,23 @@
+series:
+  key: serie_018
+  title: La Petite Voix Amie
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Les assistants vocaux sont des robots invisibles qui nous parlent et
+    nous aident !
+items:
+- name: Allô, Robot ?
+  script: Je dis un mot magique pour l'appeler !
+  accent_color: '#87CEFA'
+- name: Que puis-je faire ?
+  script: Je te demande ce que tu veux !
+  accent_color: '#FFB6C1'
+- name: Je te Comprends !
+  script: J'ai bien entendu ta question !
+  accent_color: '#9370DB'
+- name: Je te Réponds !
+  script: Je te donne la bonne information !
+  accent_color: '#ADD8E6'
+- name: L'Ami qui Parle
+  script: Je suis toujours là pour t'aider !
+  accent_color: '#90EE90'

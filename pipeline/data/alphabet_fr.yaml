@@ -1,0 +1,28 @@
+series:
+  key: alphabet_fr
+  title: "L'alphabet en français"
+  voice: fr_FR-siwis-medium
+  background_color: "#FFDE59"
+  intro_text: "Apprenons l'alphabet !"
+
+items:
+  - name: "A"
+    script: "A, comme Avion !"
+    icon: airplane
+    accent_color: "#FF6B6B"
+  - name: "B"
+    script: "B, comme Ballon !"
+    icon: balloon
+    accent_color: "#4D96FF"
+  - name: "C"
+    script: "C, comme Chat !"
+    icon: cat
+    accent_color: "#6BCB77"
+  - name: "D"
+    script: "D, comme Dauphin !"
+    icon: dolphin
+    accent_color: "#4D96FF"
+  - name: "E"
+    script: "E, comme Étoile !"
+    icon: star
+    accent_color: "#FFD93D"

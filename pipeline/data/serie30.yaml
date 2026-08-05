@@ -1,0 +1,32 @@
+series:
+  key: serie30
+  title: Les Codes Discrets !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Parfois, le robot change les informations pour qu'elles deviennent secrètes,
+    comme un code discret que seul un ami peut comprendre !
+items:
+- name: Encodage
+  script: Changer en code !
+  accent_color: '#DAA520'
+  icon: 1f511
+- name: Transformer
+  script: Changer d'apparence !
+  accent_color: '#8B4513'
+  icon: 1f504
+- name: Cacher
+  script: Mettre à l'abri !
+  accent_color: '#A9A9A9'
+  icon: 1f648
+- name: Déchiffrer
+  script: Trouver le secret !
+  accent_color: '#FFD700'
+  icon: 1f513
+- name: Code
+  script: Un langage secret !
+  accent_color: '#6495ED'
+  icon: 1f512
+- name: Secret
+  script: Chut, ne le dis pas !
+  accent_color: '#8A2BE2'
+  icon: 1f92b

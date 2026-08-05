@@ -1,0 +1,26 @@
+series:
+  key: serie59
+  title: Les Pages du Net !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Sur internet, il y a des millions de pages, comme les pages d'un grand
+    livre géant, avec plein d'informations à découvrir !
+items:
+- name: Page web
+  script: Une feuille d'internet !
+  accent_color: '#ADD8E6'
+- name: Voir
+  script: Regarder les images !
+  accent_color: '#90EE90'
+- name: Lire
+  script: Découvrir les mots !
+  accent_color: '#4682B4'
+- name: Écrire
+  script: Taper des lettres !
+  accent_color: '#FFD700'
+- name: Internet
+  script: Le grand réseau !
+  accent_color: '#6495ED'
+- name: Information
+  script: Un secret à apprendre !
+  accent_color: '#FFA07A'

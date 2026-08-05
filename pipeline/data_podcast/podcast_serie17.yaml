@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie17
+  title: Les Types d'Infos Rigolos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie17
+segments:
+- narration: 'Les informations sont de toutes sortes : des chiffres, des mots, des
+    images... Le robot les reconnaît toutes !'
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Types
+    d'Infos Rigolos !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La nature de l'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Type
+    (La nature de l'info !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un chiffre qui compte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nombre
+    (Un chiffre qui compte !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Des lettres et des mots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Texte
+    (Des lettres et des mots !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une photo ou un dessin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    (Une photo ou un dessin !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un bruit ou une voix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Son
+    (Un bruit ou une voix !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le jour et le moment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Date
+    (Le jour et le moment !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

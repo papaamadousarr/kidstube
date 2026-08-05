@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie01
+  title: Le Super Pouvoir des Choix !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie01
+segments:
+- narration: Chaque jour, nous faisons des choix. Les robots aussi ! Apprends à les
+    aider à choisir le bon chemin !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Super
+    Pouvoir des Choix !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Je décide quoi faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choix
+    (Je décide quoi faire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Si c'est comme ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Condition
+    (Si c'est comme ça !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Alors je fais ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Action
+    (Alors je fais ça !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Sinon, je fais autre chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alternative
+    (Sinon, je fais autre chose !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Que dois-je faire ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Question
+    (Que dois-je faire ?), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: C'est à moi de choisir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décision
+    (C'est à moi de choisir !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

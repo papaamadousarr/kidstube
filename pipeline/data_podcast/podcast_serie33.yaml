@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie33
+  title: La Grande Centrale Énergie !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie33
+segments:
+- narration: Pour que l'ordinateur et le robot fonctionnent, ils ont besoin d'énergie,
+    comme une petite centrale électrique cachée en eux !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Grande
+    Centrale Énergie !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La source d'énergie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alimentation
+    (La source d'énergie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La force pour bouger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Énergie
+    (La force pour bouger !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: L'électricité qui coule !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Courant
+    (L'électricité qui coule !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Relier à l'énergie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Brancher
+    (Relier à l'énergie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La réserve d'énergie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Batterie
+    (La réserve d'énergie !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire le plein d'énergie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Charger
+    (Faire le plein d'énergie !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

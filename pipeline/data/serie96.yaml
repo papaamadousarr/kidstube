@@ -1,0 +1,26 @@
+series:
+  key: serie96
+  title: Le Centre de Commande du Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Dans le robot, il y a un endroit secret où tous les ordres sont donnés
+    ! C'est le centre de commande, le chef de tout !
+items:
+- name: Contrôleur
+  script: Celui qui donne les ordres !
+  accent_color: '#DAA520'
+- name: Diriger
+  script: Indiquer le chemin !
+  accent_color: '#4682B4'
+- name: Commander
+  script: Dire quoi faire !
+  accent_color: '#FF4500'
+- name: Ordres
+  script: Les instructions !
+  accent_color: '#FFD700'
+- name: Cerveau
+  script: La partie qui réfléchit !
+  accent_color: '#A9A9A9'
+- name: Gérer
+  script: Organiser tout !
+  accent_color: '#8A2BE2'

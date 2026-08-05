@@ -1,0 +1,32 @@
+series:
+  key: serie20
+  title: Le Petit Journal des Nombres !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Le robot adore les nombres ! Il les observe, les compte et trouve des
+    infos super intéressantes avec eux.
+items:
+- name: Statistiques
+  script: Les secrets des nombres !
+  accent_color: '#6495ED'
+  icon: 1f4ca
+- name: Compter
+  script: Un, deux, trois...
+  accent_color: '#FFD700'
+  icon: 1f522
+- name: Plus
+  script: Le plus grand !
+  accent_color: '#00FF7F'
+  icon: '2795'
+- name: Moins
+  script: Le plus petit !
+  accent_color: '#FF6347'
+  icon: '2796'
+- name: Moyen
+  script: Entre le grand et le petit !
+  accent_color: '#40E0D0'
+  icon: '2696'
+- name: Observer
+  script: Regarder attentivement !
+  accent_color: '#ADD8E6'
+  icon: 1f441

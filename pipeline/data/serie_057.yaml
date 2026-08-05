@@ -1,0 +1,23 @@
+series:
+  key: serie_057
+  title: Les Étapes en Séquence
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Pour réussir, il faut faire les choses dans un ordre bien précis, une
+    après l'autre !
+items:
+- name: D'abord...
+  script: Je commence par cette étape !
+  accent_color: '#FFDAB9'
+- name: Ensuite...
+  script: Puis je passe à la suivante !
+  accent_color: '#8FBC8F'
+- name: Après ça...
+  script: Et enfin, je fais ça !
+  accent_color: '#AFEEEE'
+- name: L'Ordre Chronologique
+  script: Tout suit un chemin, du début à la fin !
+  accent_color: '#ADD8E6'
+- name: Le Fil d'Ariane
+  script: Chaque pas me mène au suivant !
+  accent_color: '#FFC0CB'

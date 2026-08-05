@@ -1,0 +1,22 @@
+series:
+  key: serie_076
+  title: Le Robot Livreur
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Un robot qui apporte des colis et des messages là où on lui dit !
+items:
+- name: Le Colis Joyeux
+  script: Je t'apporte un paquet surprise !
+  accent_color: '#FFDAB9'
+- name: La Carte au Trésor
+  script: Je suis la carte pour trouver la bonne adresse !
+  accent_color: '#9370DB'
+- name: Le Robot Facteur
+  script: Je livre les lettres et les paquets !
+  accent_color: '#8FBC8F'
+- name: La Livraison Rapide
+  script: Je vais vite pour que tu aies ton colis !
+  accent_color: '#FFDEAD'
+- name: Le Coffre Sécurisé
+  script: Ton colis est en sécurité dans ma boîte !
+  accent_color: '#F0E68C'

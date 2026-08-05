@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie57
+  title: Les Images en Direct !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie57
+segments:
+- narration: Quand tu regardes un dessin animé ou une vidéo sur internet, les images
+    arrivent en direct, comme par magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Images
+    en Direct !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Regarder en direct !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Streaming
+    (Regarder en direct !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Observer les images !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Regarder
+    (Observer les images !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Entendre les sons !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écouter
+    (Entendre les sons !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ça se passe maintenant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Direct
+    (Ça se passe maintenant !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Sans attendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tout
+    de suite (Sans attendre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un flot d'informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Flux
+    (Un flot d'informations !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

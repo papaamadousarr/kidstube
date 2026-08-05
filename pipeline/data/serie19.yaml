@@ -1,0 +1,32 @@
+series:
+  key: serie19
+  title: Les Données Secrètes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5DEB3'
+  intro_text: Parfois, les informations sont très importantes et doivent rester secrètes,
+    comme un trésor caché !
+items:
+- name: Confidentialité
+  script: Garder secret !
+  accent_color: '#8B0000'
+  icon: 1f512
+- name: Caché
+  script: Personne ne voit !
+  accent_color: '#A9A9A9'
+  icon: 1f648
+- name: Protégé
+  script: En sécurité !
+  accent_color: '#4682B4'
+  icon: 1f6e1
+- name: Partager
+  script: Donner à un ami !
+  accent_color: '#FFC0CB'
+  icon: 1f91d
+- name: Secret
+  script: Chut, ne le dis pas !
+  accent_color: '#DAA520'
+  icon: 1f92b
+- name: Privé
+  script: C'est juste pour moi !
+  accent_color: '#9370DB'
+  icon: 1f464

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie67
+  title: Les Curiosités du Curseur !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie67
+segments:
+- narration: Sur l'écran, la petite flèche qui bouge quand tu utilises la souris s'appelle
+    le curseur ! Il est très curieux !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Curiosités
+    du Curseur !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: La petite flèche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Curseur
+    (La petite flèche !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Montrer du doigt !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pointer
+    (Montrer du doigt !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Appuyer sur la souris !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cliquer
+    (Appuyer sur la souris !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Choisir une chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sélectionner
+    (Choisir une chose !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Indiquer un élément !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Montrer
+    (Indiquer un élément !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Le signe qui pointe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Flèche
+    (Le signe qui pointe !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

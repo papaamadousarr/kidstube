@@ -1,0 +1,26 @@
+series:
+  key: serie_20
+  title: L'Équipe des Capteurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Quand plusieurs petits yeux et oreilles travaillent ensemble pour mieux
+    voir !
+items:
+- name: Plusieurs yeux
+  script: Regarder de tous les côtés en même temps !
+  accent_color: '#9ACD32'
+- name: Regarder partout
+  script: Pour ne rien manquer de ce qui se passe !
+  accent_color: '#6B8E23'
+- name: Infos croisées
+  script: Mélanger ce que chaque capteur voit pour comprendre !
+  accent_color: '#556B2F'
+- name: Meilleure vue
+  script: Ensemble, ils voient mieux que tout seuls !
+  accent_color: '#ADFF2F'
+- name: Toutes les données
+  script: Recueillir un maximum d'informations !
+  accent_color: '#7CFC00'
+- name: Comprendre mieux
+  script: Mieux comprendre le monde grâce à toutes ces infos !
+  accent_color: '#3CB371'

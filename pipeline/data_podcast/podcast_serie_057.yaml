@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_057
+  title: Les Étapes en Séquence
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_057
+segments:
+- narration: Pour réussir, il faut faire les choses dans un ordre bien précis, une
+    après l'autre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Étapes
+    en Séquence', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je commence par cette étape !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing D'abord...
+    (Je commence par cette étape !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Puis je passe à la suivante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ensuite...
+    (Puis je passe à la suivante !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Et enfin, je fais ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Après
+    ça... (Et enfin, je fais ça !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Tout suit un chemin, du début à la fin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Ordre
+    Chronologique (Tout suit un chemin, du début à la fin !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chaque pas me mène au suivant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Fil
+    d'Ariane (Chaque pas me mène au suivant !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

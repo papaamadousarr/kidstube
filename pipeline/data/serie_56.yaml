@@ -1,0 +1,26 @@
+series:
+  key: serie_56
+  title: Le Tableau de Bord Virtuel !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Comme dans une voiture, il montre toutes les informations importantes
+    en un coup d'œil !
+items:
+- name: Vue d'ensemble
+  script: Voir toutes les infos importantes en même temps !
+  accent_color: '#9370DB'
+- name: Tout voir d'un coup
+  script: Un écran qui réunit toutes les données clés !
+  accent_color: '#8A2BE2'
+- name: Indicateurs
+  script: Des petites lumières ou des aiguilles qui montrent l'état !
+  accent_color: '#BA55D3'
+- name: Ce qui se passe
+  script: Il te dit tout ce qui est en train d'arriver !
+  accent_color: '#9932CC'
+- name: Contrôle général
+  script: Pour surveiller et gérer l'ordinateur !
+  accent_color: '#DA70D6'
+- name: Synthèse rapide
+  script: Il résume les informations pour que tu comprennes vite !
+  accent_color: '#C71585'

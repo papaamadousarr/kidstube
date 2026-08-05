@@ -1,0 +1,23 @@
+series:
+  key: serie_51
+  title: Le Cœur qui Bat !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: C'est la vitesse à laquelle l'ordinateur réfléchit et fait les choses
+    !
+items:
+- name: Vitesse de l'ordi
+  script: À quelle vitesse l'ordinateur fait ses calculs !
+  accent_color: '#87CEEB'
+- name: Plus vite, moins vite
+  script: Il peut aller plus ou moins vite selon ce qu'on lui demande !
+  accent_color: '#00BFFF'
+- name: Rythme de travail
+  script: C'est la cadence à laquelle il travaille sans s'arrêter !
+  accent_color: '#1E90FF'
+- name: Battement rapide
+  script: Son cœur bat super vite pour tout traiter !
+  accent_color: '#6495ED'
+- name: Cœur du système
+  script: C'est le moteur qui donne l'énergie pour penser !
+  accent_color: '#4169E1'

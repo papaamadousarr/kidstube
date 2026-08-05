@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie09
+  title: Les Règles du Jeu du Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie09
+segments:
+- narration: Pour que le robot fasse bien son travail, il doit suivre des règles très
+    précises, comme dans un jeu !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Règles
+    du Jeu du Robot !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Ce qu'il faut faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Règle
+    (Ce qu'il faut faire !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ce qu'il ne faut pas faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Interdit
+    (Ce qu'il ne faut pas faire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qu'on peut faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Permis
+    (Ce qu'on peut faire !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Une instruction à suivre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Consigne
+    (Une instruction à suivre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Suivre la règle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Respecter
+    (Suivre la règle !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Être aidé par une règle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Guidé
+    (Être aidé par une règle !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

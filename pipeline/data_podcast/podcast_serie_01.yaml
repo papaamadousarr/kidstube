@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_01
+  title: L'Écho des Ondes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_01
+segments:
+- narration: Comment les appareils parlent-ils sans fil ? C'est magique !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Écho des
+    Ondes !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le chemin invisible pour se connecter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Wifi
+    (Le chemin invisible pour se connecter !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Les amis très proches se parlent à l'oreille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bluetooth
+    (Les amis très proches se parlent à l'oreille !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est l'oreille et la bouche des ondes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Antenne
+    (C'est l'oreille et la bouche des ondes !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Une petite vague qui porte l'information !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Signal
+    (Une petite vague qui porte l'information !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Comme une voix unique pour chaque conversation !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fréquence
+    (Comme une voix unique pour chaque conversation !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

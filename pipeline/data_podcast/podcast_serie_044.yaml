@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_044
+  title: La Sentinelle Silencieuse
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_044
+segments:
+- narration: Le robot peut surveiller sans faire de bruit et nous prévenir s'il se
+    passe quelque chose !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Sentinelle
+    Silencieuse', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je regarde tout sans bouger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Œil
+    qui Veille (Je regarde tout sans bouger !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'écoute les petits bruits suspects !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Son
+    Caché (J'écoute les petits bruits suspects !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je t'envoie un petit message si quelque chose bouge !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Alerte
+    Douce (Je t'envoie un petit message si quelque chose bouge !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis là sans que tu me voies toujours !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Invisible (Je suis là sans que tu me voies toujours !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je m'assure que tout est en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Protection
+    (Je m'assure que tout est en sécurité !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

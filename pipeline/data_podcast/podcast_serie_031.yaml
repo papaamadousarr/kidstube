@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_031
+  title: La Prédiction Magique
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_031
+segments:
+- narration: L'IA est si intelligente qu'elle peut deviner ce qui va se passer après
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Prédiction
+    Magique', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Va-t-il pleuvoir ou faire soleil ? Je peux le dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Devine
+    Demain ! (Va-t-il pleuvoir ou faire soleil ? Je peux le dire !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Tu aimes ce jeu ? Alors, je te propose celui-ci !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Suggère
+    un Jeu ! (Tu aimes ce jeu ? Alors, je te propose celui-ci !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Après le carré, ce sera un rond ! Je le savais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Prochain
+    Dessin (Après le carré, ce sera un rond ! Je le savais !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je te donne des idées pour t'aider à choisir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Aide
+    au Choix (Je te donne des idées pour t'aider à choisir !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je connais tellement de choses que je peux anticiper !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Magie
+    du Savoir (Je connais tellement de choses que je peux anticiper !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

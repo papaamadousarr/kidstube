@@ -1,0 +1,23 @@
+series:
+  key: serie_083
+  title: Le Robot Docteur
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Des robots intelligents aident les docteurs à soigner et à prendre soin
+    des gens !
+items:
+- name: Le Stéthoscope
+  script: J'écoute ton cœur et tes poumons ! Doucement !
+  accent_color: '#FFDEAD'
+- name: Le Thermomètre
+  script: J'écoute si tu as de la fièvre ! Bip bip !
+  accent_color: '#DDA0DD'
+- name: L'Aide aux Soins
+  script: Je donne les médicaments au bon moment !
+  accent_color: '#FFC0CB'
+- name: Le Diagnostic Malin
+  script: Je trouve ce qui ne va pas pour t'aider !
+  accent_color: '#ADD8E6'
+- name: Le Robot Gentil
+  script: Je prends bien soin de tout le monde !
+  accent_color: '#98FB98'

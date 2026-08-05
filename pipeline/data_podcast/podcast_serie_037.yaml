@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_037
+  title: Le Jeu Rigolo
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_037
+segments:
+- narration: Créer un jeu, c'est comme inventer une histoire avec des règles pour
+    le robot !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Jeu Rigolo',
+    vibrant playful colors, Pixar-style children's animation, warm inviting composition,
+    no text, no logos
+- narration: Je suis le héros de l'histoire ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Personnage
+    (Je suis le héros de l'histoire ! Youpi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je dois ramasser des étoiles ! C'est ma mission !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Objectif
+    (Je dois ramasser des étoiles ! C'est ma mission !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Ne touche pas au rouge ! C'est interdit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Règles (Ne touche pas au rouge ! C'est interdit !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque étape est un nouveau niveau ! Plus difficile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Niveau
+    (Chaque étape est un nouveau niveau ! Plus difficile !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je dis à l'ordinateur quoi faire pour que ça devienne un jeu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Crée
+    un Jeu ! (Je dis à l'ordinateur quoi faire pour que ça devienne un jeu !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

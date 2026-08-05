@@ -1,0 +1,26 @@
+series:
+  key: serie78
+  title: Le Robot qui sait Choisir !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Face à plusieurs possibilités, le robot ne se trompe jamais ! Il sait
+    toujours quelle est la meilleure option à choisir.
+items:
+- name: Prise de décision
+  script: Faire un choix intelligent !
+  accent_color: '#DAA520'
+- name: Choisir
+  script: Sélectionner la meilleure !
+  accent_color: '#FFD700'
+- name: Réfléchir
+  script: Penser avant d'agir !
+  accent_color: '#4682B4'
+- name: Poids
+  script: Ce qui est le plus important !
+  accent_color: '#808080'
+- name: Mieux
+  script: La meilleure solution !
+  accent_color: '#32CD32'
+- name: Optimal
+  script: Le meilleur des meilleurs !
+  accent_color: '#8A2BE2'

@@ -1,0 +1,32 @@
+series:
+  key: serie34
+  title: L'Ami qui Rafraîchit !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Les ordinateurs chauffent quand ils travaillent ! Heureusement, ils
+    ont un ami qui souffle de l'air frais pour les garder au top !
+items:
+- name: Ventilateur
+  script: Le souffleur d'air frais !
+  accent_color: '#8FBC8F'
+  icon: 1f32c
+- name: Refroidir
+  script: Rendre moins chaud !
+  accent_color: '#ADD8E6'
+  icon: '2744'
+- name: Air
+  script: Le vent léger !
+  accent_color: '#B0E0E6'
+  icon: 1f4a8
+- name: Souffler
+  script: Faire du vent !
+  accent_color: '#87CEFA'
+  icon: 1f32c
+- name: Protéger
+  script: Éviter les bobos !
+  accent_color: '#4682B4'
+  icon: 1f6e1
+- name: Frais
+  script: Pas chaud du tout !
+  accent_color: '#00CED1'
+  icon: 1f343

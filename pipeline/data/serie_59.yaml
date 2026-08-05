@@ -1,0 +1,26 @@
+series:
+  key: serie_59
+  title: Les Éléments Surprenants !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Quand l'ordinateur choisit au hasard pour créer de l'imprévu et de la
+    surprise !
+items:
+- name: Le hasard
+  script: Choisir sans réfléchir, juste pour le plaisir !
+  accent_color: '#87CEEB'
+- name: Tirage au sort
+  script: L'ordinateur fait un choix inattendu !
+  accent_color: '#00BFFF'
+- name: Chiffre mystère
+  script: Il choisit un nombre que personne ne peut deviner !
+  accent_color: '#1E90FF'
+- name: Imprévu
+  script: Quelque chose qui arrive sans qu'on s'y attende !
+  accent_color: '#6495ED'
+- name: Surprise
+  script: C'est amusant quand l'ordinateur nous surprend !
+  accent_color: '#4169E1'
+- name: Choisir au hasard
+  script: L'ordinateur tire une option au sort !
+  accent_color: '#0000CD'

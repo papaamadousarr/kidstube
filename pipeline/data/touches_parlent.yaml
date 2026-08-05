@@ -1,0 +1,26 @@
+series:
+  key: touches_parlent
+  title: Les Touches qui Parlent !
+  voice: fr_FR-siwis-medium
+  background_color: '#FAFAD2'
+  intro_text: Le clavier, c'est comme une machine à écrire pour parler à l'ordinateur
+    !
+items:
+- name: Clavier
+  script: Toutes les touches pour écrire des mots à l'ordinateur !
+  accent_color: '#2F4F4F'
+- name: Touche
+  script: Un petit bouton sur le clavier pour une lettre ou un chiffre !
+  accent_color: '#696969'
+- name: Écrire
+  script: Appuyer sur les touches pour former des mots et des phrases !
+  accent_color: '#708090'
+- name: Effacer
+  script: La touche magique pour corriger les erreurs !
+  accent_color: '#DCDCDC'
+- name: Entrée
+  script: La touche pour dire 'c'est bon, tu peux continuer !'
+  accent_color: '#000000'
+- name: Lettre
+  script: Chaque petite touche pour une lettre de l'alphabet !
+  accent_color: '#808080'

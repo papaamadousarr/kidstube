@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie58
+  title: Le Traducteur Universel d'Internet !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie58
+segments:
+- narration: Pour que les applications puissent se parler, elles utilisent un traducteur
+    universel, comme un pont entre elles !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Traducteur
+    Universel d'Internet !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le traducteur d'applications !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing API
+    (Le traducteur d'applications !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Se dire des choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Se dire des choses !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Saisir le sens !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    (Saisir le sens !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Donner et recevoir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Échanger
+    (Donner et recevoir !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un lien entre elles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pont
+    (Un lien entre elles !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Deux programmes qui s'entraident !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Deux
+    applications (Deux programmes qui s'entraident !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,26 @@
+series:
+  key: serie_49
+  title: Le Jardinier Virtuel !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: L'ordinateur est capable de faire pousser des plantes et des paysages
+    tout seul !
+items:
+- name: Arbres qui poussent
+  script: Il crée des forêts entières, branche par branche !
+  accent_color: '#ADFF2F'
+- name: Fleurs inventées
+  script: Il dessine des fleurs de toutes les couleurs, même imaginaires !
+  accent_color: '#7CFC00'
+- name: Paysages automatiques
+  script: Des montagnes, des rivières qui apparaissent tout seuls !
+  accent_color: '#32CD32'
+- name: Nature numérique
+  script: Une nature qui existe seulement dans l'ordinateur !
+  accent_color: '#00FF7F'
+- name: Décor infini
+  script: Il peut créer des paysages sans fin pour l'aventure !
+  accent_color: '#98FB98'
+- name: Créer des mondes
+  script: Il invente des environnements naturels complets !
+  accent_color: '#66CDAA'

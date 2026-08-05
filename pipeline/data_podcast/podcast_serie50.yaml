@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie50
+  title: La Voix Secrète d'Internet !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie50
+segments:
+- narration: Pour se comprendre, les ordinateurs d'internet ont un langage secret
+    avec des règles bien précises, comme une langue codée !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Voix Secrète
+    d'Internet !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Les règles du jeu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protocole
+    (Les règles du jeu !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ce qu'il faut suivre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Règles
+    (Ce qu'il faut suivre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Échanger des mots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Échanger des mots !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Savoir ce que ça veut dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    (Savoir ce que ça veut dire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Donner et recevoir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Échanger
+    (Donner et recevoir !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La façon de se parler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Langage
+    (La façon de se parler !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

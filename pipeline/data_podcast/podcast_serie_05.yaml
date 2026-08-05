@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_05
+  title: Les Copies Jumelles !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_05
+segments:
+- narration: Pour ne jamais perdre nos jeux et nos dessins, on fait des doubles !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Copies
+    Jumelles !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Une copie exacte, comme un jumeau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Double
+    (Une copie exacte, comme un jumeau !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Si l'un disparaît, on a l'autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secours
+    (Si l'un disparaît, on a l'autre !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Avoir plusieurs exemplaires, c'est plus sûr !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plus
+    d'un (Avoir plusieurs exemplaires, c'est plus sûr !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Rien n'est oublié, c'est identique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Copie
+    parfaite (Rien n'est oublié, c'est identique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Nos infos sont à l'abri avec des copies !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protection
+    (Nos infos sont à l'abri avec des copies !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

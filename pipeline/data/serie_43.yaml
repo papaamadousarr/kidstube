@@ -1,0 +1,26 @@
+series:
+  key: serie_43
+  title: Le Constructeur de Mondes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: L'ordinateur nous aide à bâtir des univers entiers pour jouer et explorer
+    !
+items:
+- name: Créer un jeu
+  script: Inventer de nouveaux mondes pour s'amuser !
+  accent_color: '#E6E6FA'
+- name: Bâtir des paysages
+  script: Dessiner des montagnes, des rivières, des forêts !
+  accent_color: '#D8BFD8'
+- name: Inventer des règles
+  script: Établir comment on joue dans ce monde !
+  accent_color: '#BA55D3'
+- name: Monde virtuel
+  script: Un univers qui existe seulement dans l'ordinateur !
+  accent_color: '#9932CC'
+- name: Histoires à jouer
+  script: Des aventures où tu es le héros !
+  accent_color: '#8A2BE2'
+- name: Décor magique
+  script: Les paysages changent comme par enchantement !
+  accent_color: '#9400D3'

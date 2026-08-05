@@ -1,0 +1,23 @@
+series:
+  key: serie_015
+  title: L'Antenne Magique
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Grâce à l'antenne, l'ordinateur peut parler à d'autres ordinateurs sans
+    fil, comme par magie !
+items:
+- name: Le Signal Invisible
+  script: Je voyage dans l'air, incognito !
+  accent_color: '#FF69B4'
+- name: La Connexion sans Fil
+  script: Plus besoin de câbles ! C'est génial !
+  accent_color: '#DA70D6'
+- name: Le Point Wi-Fi
+  script: C'est là que le signal sort de la maison !
+  accent_color: '#AFEEEE'
+- name: Je Communique !
+  script: Je parle à d'autres appareils ! Coucou !
+  accent_color: '#F0E68C'
+- name: Le Robot en L'Air
+  script: Mon robot se connecte sans fil ! Génial !
+  accent_color: '#FFE4B5'

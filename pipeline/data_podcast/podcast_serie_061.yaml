@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_061
+  title: Le Message d'Erreur Gentil
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_061
+segments:
+- narration: Quand l'ordinateur ne comprend pas ou fait une bêtise, il nous le dit
+    gentiment !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Message
+    d'Erreur Gentil', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: J'ai fait une petite erreur ! Pardon !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oups
+    ! (J'ai fait une petite erreur ! Pardon !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Qu'est-ce que tu veux que je fasse ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je ne
+    Comprends pas ! (Qu'est-ce que tu veux que je fasse ?), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il y a un petit souci ! On va le réparer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Problème
+    ! (Il y a un petit souci ! On va le réparer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te dis ce que tu peux faire pour m'aider !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Solution
+    ! (Je te dis ce que tu peux faire pour m'aider !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je suis là pour t'aider à comprendre mes bêtises !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Aide
+    du Robot (Je suis là pour t'aider à comprendre mes bêtises !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

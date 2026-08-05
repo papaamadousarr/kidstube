@@ -1,0 +1,23 @@
+series:
+  key: serie_096
+  title: Le Robot Débrouillard
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Quand il y a un problème, le robot trouve toujours une solution, même
+    si c'est difficile !
+items:
+- name: Le Défi
+  script: Oh, un problème ! Je vais le résoudre !
+  accent_color: '#FFDAB9'
+- name: La Réflexion
+  script: Je pense très fort pour trouver une idée !
+  accent_color: '#9370DB'
+- name: La Solution Simple
+  script: J'ai trouvé une solution facile et rapide !
+  accent_color: '#8FBC8F'
+- name: Le Robot Malin
+  script: Je ne me laisse jamais abattre par un problème !
+  accent_color: '#FFDEAD'
+- name: La Persévérance
+  script: J'essaie encore et encore jusqu'à réussir !
+  accent_color: '#F0E68C'

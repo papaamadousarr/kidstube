@@ -1,0 +1,32 @@
+series:
+  key: serie04
+  title: Les Raccourcis Malins !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Parfois, il y a des chemins plus rapides et plus malins pour arriver
+    au même endroit ! C'est ce que les robots aiment faire.
+items:
+- name: Plus court
+  script: Le chemin le plus rapide !
+  accent_color: '#6A5ACD'
+  icon: 1f90f
+- name: Plus rapide
+  script: Pas de temps à perdre !
+  accent_color: '#FFDAB9'
+  icon: 26a1
+- name: Mieux
+  script: La meilleure façon !
+  accent_color: '#20B2AA'
+  icon: 1f44d
+- name: Étape
+  script: Un petit pas !
+  accent_color: '#FF69B4'
+  icon: 1f463
+- name: Résultat
+  script: Ce que l'on obtient !
+  accent_color: '#7B68EE'
+  icon: 1f3c6
+- name: Optimiser
+  script: Rendre tout plus facile !
+  accent_color: '#FFA500'
+  icon: '2699'

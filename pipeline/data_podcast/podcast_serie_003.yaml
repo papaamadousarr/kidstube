@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_003
+  title: Les Ordres Cachés du Robot
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_003
+segments:
+- narration: Les robots suivent des ordres très précis, comme des petits pas dans
+    une danse !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Ordres
+    Cachés du Robot', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Fais un pas en avant ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Avance
+    ! (Fais un pas en avant ! Youpi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pivote de ce côté ! Hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourne
+    à Droite ! (Pivote de ce côté ! Hop !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pivote de l'autre côté ! Houra !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourne
+    à Gauche ! (Pivote de l'autre côté ! Houra !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Fais un pas en arrière ! Oups !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Recule
+    ! (Fais un pas en arrière ! Oups !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Stop ! Je me repose un peu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Arrête-toi
+    ! (Stop ! Je me repose un peu !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

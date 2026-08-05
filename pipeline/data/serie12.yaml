@@ -1,0 +1,32 @@
+series:
+  key: serie12
+  title: La Carte au Trésor des Étapes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Pour trouver un trésor ou réussir une tâche, le robot a besoin d'une
+    carte avec toutes les étapes à suivre !
+items:
+- name: Chemin
+  script: La route à prendre !
+  accent_color: '#DAA520'
+  icon: 1f6e3
+- name: Indication
+  script: Un petit indice !
+  accent_color: '#FFD700'
+  icon: 1f446
+- name: Direction
+  script: Par où aller !
+  accent_color: '#4682B4'
+  icon: 1f9ed
+- name: Gagner
+  script: Arriver au but !
+  accent_color: '#32CD32'
+  icon: 1f3c6
+- name: Perdu
+  script: Je ne sais plus où aller !
+  accent_color: '#DC143C'
+  icon: '2753'
+- name: Suivre
+  script: Faire comme la carte !
+  accent_color: '#9370DB'
+  icon: 1f463

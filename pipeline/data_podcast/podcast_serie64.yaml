@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie64
+  title: Le Menu des Choix !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie64
+segments:
+- narration: Quand tu veux faire quelque chose, l'ordinateur te propose une liste
+    de choix, comme au restaurant ! C'est le menu.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Menu des
+    Choix !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: La liste des options !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Menu
+    (La liste des options !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Sélectionner ce que je veux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    (Sélectionner ce que je veux !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Beaucoup de propositions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Liste
+    (Beaucoup de propositions !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Les différentes possibilités !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Options
+    (Les différentes possibilités !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Indiquer mon choix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sélectionner
+    (Indiquer mon choix !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Appuyer sur le bouton !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cliquer
+    (Appuyer sur le bouton !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

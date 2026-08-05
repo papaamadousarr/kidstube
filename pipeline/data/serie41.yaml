@@ -1,0 +1,32 @@
+series:
+  key: serie41
+  title: Le Stylet Magique !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Avec ce stylet spécial, tu peux dessiner directement sur l'écran, comme
+    une baguette magique pour artistes !
+items:
+- name: Stylet
+  script: Le crayon de l'écran !
+  accent_color: '#2E8B57'
+  icon: 1f58a
+- name: Dessiner
+  script: Créer de belles formes !
+  accent_color: '#9ACD32'
+  icon: 1f3a8
+- name: Écrire
+  script: Tracer des lettres !
+  accent_color: '#4682B4'
+  icon: 270d
+- name: Toucher
+  script: Faire contact avec le doigt !
+  accent_color: '#FFD700'
+  icon: 1f446
+- name: Écran
+  script: La vitre magique !
+  accent_color: '#ADD8E6'
+  icon: 1f4f1
+- name: Précis
+  script: Faire avec beaucoup de soin !
+  accent_color: '#DAA520'
+  icon: 1f3af

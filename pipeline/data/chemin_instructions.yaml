@@ -1,0 +1,32 @@
+series:
+  key: chemin_instructions
+  title: Le Chemin des Instructions !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: L'ordinateur suit un chemin, une étape après l'autre, pour faire son
+    travail !
+items:
+- name: Étape
+  script: Une petite chose à faire sur le chemin !
+  accent_color: '#808080'
+  icon: 1f463
+- name: Ordre
+  script: Suivre les étapes dans le bon ordre, c'est important !
+  accent_color: '#A9A9A9'
+  icon: 1f4dd
+- name: Suivre
+  script: Aller de la première à la dernière étape sans en rater !
+  accent_color: '#696969'
+  icon: 1f6b6
+- name: Début
+  script: La première étape pour commencer le chemin !
+  accent_color: '#48D1CC'
+  icon: 25b6
+- name: Fin
+  script: La dernière étape, quand tout est terminé !
+  accent_color: '#5F9EA0'
+  icon: 1f3c1
+- name: Chemin
+  script: Tous les pas que l'ordinateur doit faire !
+  accent_color: '#40E0D0'
+  icon: 1f6e3

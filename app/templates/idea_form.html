@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ "Éditer" if idea else "Nouvelle idée" }}{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>{{ "Éditer l'idée" if idea else "Nouvelle idée" }}</h1>
+</div>
+
+<div class="panel">
+<form method="post" class="form">
+  <label>Titre
+    <input type="text" name="title" value="{{ idea.title if idea else '' }}"
+           placeholder="Ex. L'alphabet en français — épisode 1" required>
+  </label>
+
+  <label>Série de contenu
+    <select name="series_key">
+      <option value="">— aucune —</option>
+      {% for key in series_options %}
+        <option value="{{ key }}" {% if idea and idea.series_key == key %}selected{% endif %}>{{ key }}</option>
+      {% endfor %}
+    </select>
+  </label>
+
+  {% if idea %}
+  <label>Statut
+    <select name="status">
+      {% for s in statuses %}
+        <option value="{{ s }}" {% if idea.status == s %}selected{% endif %}>{{ s }}</option>
+      {% endfor %}
+    </select>
+  </label>
+
+  <label>Date de programmation
+    <input type="date" name="scheduled_date" value="{{ idea.scheduled_date.isoformat() if idea.scheduled_date else '' }}">
+  </label>
+  <label>Heure de publication
+    <input type="time" name="scheduled_time" value="{{ idea.scheduled_time.strftime('%H:%M') if idea.scheduled_time else '10:00' }}">
+  </label>
+  <p class="muted" style="margin-top:-0.75rem; font-size:0.8rem;">Laisse la date vide pour retirer l'idée du calendrier.</p>
+  {% endif %}
+
+  <label>Notes
+    <textarea name="notes" rows="4" placeholder="Idées de script, références, notes de prod...">{{ idea.notes if idea else '' }}</textarea>
+  </label>
+
+  <div class="form-actions">
+    <button type="submit">Enregistrer</button>
+    <a href="{{ url_for('ideas.ideas_list') }}" class="button ghost">Annuler</a>
+  </div>
+</form>
+</div>
+{% endblock %}

@@ -1,0 +1,22 @@
+series:
+  key: serie_18
+  title: Les Murs Protecteurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6F0FF'
+  intro_text: Qui protège notre ordinateur des intrus sur internet ?
+items:
+- name: Barrière invisible
+  script: Un mur magique qui filtre les dangers !
+  accent_color: '#B0C4DE'
+- name: Protéger la maison
+  script: Garder nos données en sécurité, comme notre maison !
+  accent_color: '#6A5ACD'
+- name: Blocage
+  script: Il empêche les choses méchantes d'entrer !
+  accent_color: '#4169E1'
+- name: Alarme
+  script: Si un intrus essaie de passer, il nous prévient !
+  accent_color: '#191970'
+- name: Porte fermée
+  script: Il ne laisse passer que les amis autorisés !
+  accent_color: '#0000CD'

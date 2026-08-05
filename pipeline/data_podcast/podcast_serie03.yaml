@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie03
+  title: La Boîte à Fonctions Magiques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie03
+segments:
+- narration: Imagine des boîtes magiques qui font des choses spéciales ! Les robots
+    utilisent ces fonctions pour être efficaces.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Fonctions Magiques !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Une action spéciale !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fonction
+    (Une action spéciale !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour la retrouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nom
+    (Pour la retrouver !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ce que je donne à la boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Entrée
+    (Ce que je donne à la boîte !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce que la boîte me rend !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sortie
+    (Ce que la boîte me rend !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: L'action qui se passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    (L'action qui se passe !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Appeler la boîte magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Utiliser
+    (Appeler la boîte magique !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

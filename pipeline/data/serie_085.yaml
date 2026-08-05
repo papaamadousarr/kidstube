@@ -1,0 +1,23 @@
+series:
+  key: serie_085
+  title: Le Robot Navigateur
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Il connaît toutes les rues et les chemins pour te guider et te montrer
+    la route !
+items:
+- name: La Carte au Trésor
+  script: Je vois toutes les rues sur ma carte !
+  accent_color: '#FF69B4'
+- name: Le Chemin Idéal
+  script: Je te montre le meilleur chemin pour arriver vite !
+  accent_color: '#DA70D6'
+- name: Le GPS Malin
+  script: 'Je te dis : ''Tourne à droite'' ou ''Va tout droit'' !'
+  accent_color: '#AFEEEE'
+- name: L'Explorateur
+  script: Je te fais découvrir de nouveaux endroits !
+  accent_color: '#F0E68C'
+- name: La Direction Juste
+  script: Avec moi, tu ne te perds jamais !
+  accent_color: '#FFE4B5'

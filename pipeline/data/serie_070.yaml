@@ -1,0 +1,23 @@
+series:
+  key: serie_070
+  title: La Réalité Augmentée
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Quand tu vois des choses virtuelles qui se mélangent à la vraie vie,
+    c'est la réalité augmentée !
+items:
+- name: Le Robot dans ma Main
+  script: Je vois un robot virtuel sur ma table ! Waouh !
+  accent_color: '#87CEEB'
+- name: Les Dessins qui Bougent
+  script: Mon dessin prend vie dans ma chambre !
+  accent_color: '#A9A9A9'
+- name: Le Monde Magique
+  script: Je vois des choses qui n'existent pas vraiment !
+  accent_color: '#90EE90'
+- name: La Caméra
+  script: Elle voit le vrai monde, et l'ordi ajoute le virtuel !
+  accent_color: '#FFB6C1'
+- name: Je Superpose !
+  script: Je mets des images virtuelles sur la vraie image !
+  accent_color: '#FFD700'

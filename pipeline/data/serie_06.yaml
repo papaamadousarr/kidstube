@@ -1,0 +1,23 @@
+series:
+  key: serie_06
+  title: La Porte Magique !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Comment les applications se parlent-elles entre elles ? Par une porte
+    secrète !
+items:
+- name: Passerelle
+  script: Un petit pont pour aller d'une app à l'autre !
+  accent_color: '#FFD700'
+- name: Code secret
+  script: Une formule magique pour se comprendre !
+  accent_color: '#DAA520'
+- name: Parler ensemble
+  script: Les programmes échangent des messages !
+  accent_color: '#B8860B'
+- name: Demande gentille
+  script: L'une demande un service à l'autre !
+  accent_color: '#FF8C00'
+- name: Réponse rapide
+  script: L'autre envoie l'information demandée !
+  accent_color: '#FFA500'

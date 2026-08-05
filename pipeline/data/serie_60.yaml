@@ -1,0 +1,26 @@
+series:
+  key: serie_60
+  title: La Récolte des Idées !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Comment l'ordinateur rassemble plein d'informations pour mieux comprendre
+    le monde !
+items:
+- name: Ramasser les infos
+  script: Il collecte toutes sortes de données !
+  accent_color: '#B0C4DE'
+- name: Questionnaire
+  script: Il pose des questions pour obtenir des réponses !
+  accent_color: '#6A5ACD'
+- name: Sondage
+  script: Il demande l'avis de plein de monde !
+  accent_color: '#483D8B'
+- name: Observer
+  script: Il regarde attentivement ce qui se passe !
+  accent_color: '#7B68EE'
+- name: Collecter les données
+  script: Il réunit toutes les informations nécessaires !
+  accent_color: '#8A2BE2'
+- name: Chercher l'information
+  script: Comme un détective, il va à la pêche aux infos !
+  accent_color: '#9400D3'

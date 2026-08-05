@@ -1,0 +1,25 @@
+series:
+  key: serie_38
+  title: Le Détecteur de Mouvement !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Un capteur qui sent quand quelque chose bouge autour de lui !
+items:
+- name: Sentinelle qui voit
+  script: Il surveille attentivement ce qui se passe !
+  accent_color: '#9ACD32'
+- name: Ça bouge !
+  script: Il détecte le moindre petit mouvement !
+  accent_color: '#6B8E23'
+- name: Alarme discrète
+  script: Il envoie un signal si quelque chose bouge !
+  accent_color: '#556B2F'
+- name: Chasse aux intrus
+  script: Il aide à protéger la maison en détectant les mouvements !
+  accent_color: '#ADFF2F'
+- name: Sans contact
+  script: Il voit le mouvement sans toucher l'objet !
+  accent_color: '#7CFC00'
+- name: Observer
+  script: Il regarde sans arrêt si quelque chose change !
+  accent_color: '#3CB371'

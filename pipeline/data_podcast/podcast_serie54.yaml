@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie54
+  title: Le Partage des Fichiers Amis !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie54
+segments:
+- narration: Quand tu veux montrer tes dessins à un ami, l'ordinateur peut les partager,
+    comme donner un cadeau !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Partage
+    des Fichiers Amis !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Donner à un autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partage
+    (Donner à un autre !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire partir le fichier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Envoyer
+    (Faire partir le fichier !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Accueillir le cadeau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Recevoir
+    (Accueillir le cadeau !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire un double !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Copier
+    (Faire un double !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Offrir le fichier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Donner
+    (Offrir le fichier !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Donner et prendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Échanger
+    (Donner et prendre !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

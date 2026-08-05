@@ -1,0 +1,32 @@
+series:
+  key: serie13
+  title: Les Secrets de la Réponse !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Quand tu poses une question au robot, il cherche la meilleure réponse
+    en suivant des étapes secrètes !
+items:
+- name: Question
+  script: Ce que je veux savoir !
+  accent_color: '#ADD8E6'
+  icon: '2753'
+- name: Réponse
+  script: Le secret dévoilé !
+  accent_color: '#90EE90'
+  icon: 1f4a1
+- name: Solution
+  script: La bonne trouvaille !
+  accent_color: '#FFD700'
+  icon: '2705'
+- name: Chercher
+  script: Partir à l'aventure !
+  accent_color: '#DAA520'
+  icon: 1f50e
+- name: Trouver
+  script: Mettre la main dessus !
+  accent_color: '#40E0D0'
+  icon: 1f3af
+- name: Savoir
+  script: Avoir la connaissance !
+  accent_color: '#8A2BE2'
+  icon: 1f9e0

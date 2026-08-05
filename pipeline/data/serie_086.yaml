@@ -1,0 +1,23 @@
+series:
+  key: serie_086
+  title: Le Robot Météo
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Un robot qui regarde le ciel et te dit s'il va pleuvoir ou faire beau
+    demain !
+items:
+- name: Le Soleil qui Brille
+  script: Demain, il fera beau ! Youpi !
+  accent_color: '#FFDAB9'
+- name: La Pluie qui Tombe
+  script: Il va pleuvoir ! Prends ton parapluie !
+  accent_color: '#9370DB'
+- name: Le Nuage Prévisionnel
+  script: Je vois les nuages arriver ! Attention !
+  accent_color: '#8FBC8F'
+- name: La Température
+  script: Je te dis s'il fera chaud ou froid !
+  accent_color: '#FFDEAD'
+- name: Le Robot Prévisionniste
+  script: Je suis le roi de la météo !
+  accent_color: '#F0E68C'

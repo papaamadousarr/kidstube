@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_pixels_artistes
+  title: Les Pixels, Petits Artistes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: pixels_artistes
+segments:
+- narration: Regarde de plus près, les images sont faites de millions de petits points
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Pixels,
+    Petits Artistes !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un tout petit carré de couleur sur l'écran !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pixel
+    (Un tout petit carré de couleur sur l'écran !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque pixel a sa propre couleur, c'est magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Couleur
+    (Chaque pixel a sa propre couleur, c'est magique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Des milliers de pixels qui forment un dessin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    (Des milliers de pixels qui forment un dessin !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Quand on s'approche, on voit les pixels un par un !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Zoom
+    (Quand on s'approche, on voit les pixels un par un !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le pixel est un tout petit point qui fait partie du tableau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Point
+    (Le pixel est un tout petit point qui fait partie du tableau !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est l'ordinateur qui dessine avec tous ces pixels !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessin
+    (C'est l'ordinateur qui dessine avec tous ces pixels !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

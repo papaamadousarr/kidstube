@@ -1,0 +1,26 @@
+series:
+  key: serie69
+  title: La Glissade de la Barre !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Quand tu veux voir ce qui est caché en bas de la page, tu fais glisser
+    une petite barre ! C'est la barre de défilement.
+items:
+- name: Barre de défilement
+  script: La glissade magique !
+  accent_color: '#ADD8E6'
+- name: Monter
+  script: Aller vers le haut !
+  accent_color: '#90EE90'
+- name: Descendre
+  script: Aller vers le bas !
+  accent_color: '#DAA520'
+- name: Voir plus
+  script: Découvrir ce qui est caché !
+  accent_color: '#FFD700'
+- name: Page
+  script: Une feuille d'infos !
+  accent_color: '#4682B4'
+- name: Bouger
+  script: Faire glisser la barre !
+  accent_color: '#FFA07A'

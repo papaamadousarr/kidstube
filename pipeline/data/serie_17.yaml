@@ -1,0 +1,25 @@
+series:
+  key: serie_17
+  title: La Voix Enchantée !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Quand l'ordinateur parle comme nous, ou invente de nouvelles voix !
+items:
+- name: Robot qui chante
+  script: Il crée des chansons avec sa voix artificielle !
+  accent_color: '#F5DEB3'
+- name: Parler comme nous
+  script: Sa voix ressemble à celle d'un humain, c'est rigolo !
+  accent_color: '#FFDAB9'
+- name: Générateur de voix
+  script: Il fabrique des voix sur mesure !
+  accent_color: '#DEB887'
+- name: Écouter des histoires
+  script: Il nous lit nos livres préférés !
+  accent_color: '#D2B48C'
+- name: Voix douce
+  script: Il peut chuchoter ou parler fort, comme il veut !
+  accent_color: '#FFE4C4'
+- name: Texte qui parle
+  script: Les mots écrits deviennent une voix !
+  accent_color: '#F0F8FF'

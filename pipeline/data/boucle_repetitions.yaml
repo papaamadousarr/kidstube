@@ -1,0 +1,32 @@
+series:
+  key: boucle_repetitions
+  title: La Boucle Joyeuse des Répétitions !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0F7FA'
+  intro_text: Apprends avec nous comment les robots et les ordinateurs aiment répéter
+    les actions ! C'est amusant !
+items:
+- name: Répéter
+  script: Fais la même chose encore et encore !
+  accent_color: '#00BCD4'
+  icon: 1f501
+- name: Séquence
+  script: Une série d'actions à faire dans l'ordre !
+  accent_color: '#4DD0E1'
+  icon: 27a1
+- name: Début
+  script: C'est par ici que tout commence !
+  accent_color: '#0097A7'
+  icon: 1f3c1
+- name: Fin
+  script: Quand l'action est terminée, c'est la fin !
+  accent_color: '#006064'
+  icon: 1f51a
+- name: Encore !
+  script: On refait une fois ? Encore et encore !
+  accent_color: '#80DEEA'
+  icon: '2795'
+- name: Compteur
+  script: Pour savoir combien de fois on a répété !
+  accent_color: '#26C6DA'
+  icon: 1f522

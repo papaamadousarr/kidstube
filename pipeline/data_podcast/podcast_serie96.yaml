@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie96
+  title: Le Centre de Commande du Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie96
+segments:
+- narration: Dans le robot, il y a un endroit secret où tous les ordres sont donnés
+    ! C'est le centre de commande, le chef de tout !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Centre
+    de Commande du Robot !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Celui qui donne les ordres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Contrôleur
+    (Celui qui donne les ordres !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Indiquer le chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Diriger
+    (Indiquer le chemin !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Dire quoi faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Commander
+    (Dire quoi faire !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Les instructions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordres
+    (Les instructions !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La partie qui réfléchit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cerveau
+    (La partie qui réfléchit !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Organiser tout !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Gérer
+    (Organiser tout !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

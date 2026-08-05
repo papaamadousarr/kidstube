@@ -1,0 +1,26 @@
+series:
+  key: serie_57
+  title: Les Blocs de Construction Numériques !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Comment on assemble de petits morceaux pour créer de grands programmes
+    !
+items:
+- name: Pièces qui s'assemblent
+  script: Comme des Legos, mais pour faire des programmes !
+  accent_color: '#ADFF2F'
+- name: Construire par morceaux
+  script: Chaque morceau fait une partie du travail !
+  accent_color: '#7CFC00'
+- name: Modules pratiques
+  script: De petits blocs qui ont chacun leur fonction !
+  accent_color: '#32CD32'
+- name: Jeu de construction
+  script: On s'amuse à créer de grands programmes avec des petits bouts !
+  accent_color: '#00FF7F'
+- name: Facile à monter
+  script: On met les pièces ensemble et ça fonctionne !
+  accent_color: '#98FB98'
+- name: Créer grand
+  script: Avec des petites pièces, on peut faire des choses énormes !
+  accent_color: '#66CDAA'

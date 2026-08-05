@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_046
+  title: La Pile Électrique
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_046
+segments:
+- narration: La pile, c'est comme le réservoir d'essence du robot, elle lui donne
+    de l'énergie pour bouger !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Pile Électrique',
+    vibrant playful colors, Pixar-style children's animation, warm inviting composition,
+    no text, no logos
+- narration: Je donne de la force à mon robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Énergie
+    Cachée (Je donne de la force à mon robot !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Est-ce qu'il reste de l'énergie ? Je regarde !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Niveau
+    de la Pile (Est-ce qu'il reste de l'énergie ? Je regarde !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Oh non, plus d'énergie ! Il faut recharger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Pile
+    Vide (Oh non, plus d'énergie ! Il faut recharger !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Youpi ! Mon robot est prêt à jouer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Pile
+    Pleine (Youpi ! Mon robot est prêt à jouer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Sans moi, le robot ne peut rien faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Cœur
+    du Robot (Sans moi, le robot ne peut rien faire !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

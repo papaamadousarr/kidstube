@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_008
+  title: Les Yeux du Robot
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_008
+segments:
+- narration: Le robot a des yeux magiques pour voir le monde comme nous !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Yeux
+    du Robot', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Rouge, bleu, jaune ! Je les connais toutes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je vois
+    les Couleurs ! (Rouge, bleu, jaune ! Je les connais toutes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Rond, carré, triangle ! C'est clair !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je vois
+    les Formes ! (Rond, carré, triangle ! C'est clair !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une balle, un livre, une fleur ! Je sais ce que c'est !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je vois
+    les Objets ! (Une balle, un livre, une fleur ! Je sais ce que c'est !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Coucou ! C'est toi, mon ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je vois
+    les Visages ! (Coucou ! C'est toi, mon ami !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Plus de bêtises, je ne me cogne plus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je vois
+    où je Vais ! (Plus de bêtises, je ne me cogne plus !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

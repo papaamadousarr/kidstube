@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie35
+  title: La Boîte à Images et Sons !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie35
+segments:
+- narration: L'ordinateur est un artiste ! Grâce à sa boîte magique, il peut nous
+    montrer de belles images et jouer de la musique.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Images et Sons !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La boîte à artistes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Carte
+    multimédia (La boîte à artistes !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Une photo colorée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    (Une photo colorée !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un bruit ou une mélodie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Son
+    (Un bruit ou une mélodie !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarder attentivement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    (Regarder attentivement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Écouter avec l'oreille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Entendre
+    (Écouter avec l'oreille !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Imaginer et faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    (Imaginer et faire !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,32 @@
+series:
+  key: serie06
+  title: Les Penseurs en Équipe !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Parfois, plusieurs robots travaillent ensemble pour résoudre un gros
+    problème ! C'est la force de l'équipe !
+items:
+- name: Collaboration
+  script: Travailler ensemble !
+  accent_color: '#48D1CC'
+  icon: 1f91d
+- name: Partager
+  script: Donner ses idées !
+  accent_color: '#FFC0CB'
+  icon: 1f932
+- name: Idée
+  script: Une bonne pensée !
+  accent_color: '#FFD700'
+  icon: 1f4a1
+- name: Construire
+  script: Créer quelque chose !
+  accent_color: '#8B4513'
+  icon: 1f3d7
+- name: Aider
+  script: Donner un coup de main !
+  accent_color: '#6B8E23'
+  icon: 1fac2
+- name: Ensemble
+  script: Pas tout seul !
+  accent_color: '#DDA0DD'
+  icon: 1f9d1-200d-1f91d-200d-1f9d1

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_007
+  title: La Grande Oreille de l'IA
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_007
+segments:
+- narration: L'Intelligence Artificielle a une oreille géante pour comprendre ce que
+    tu dis !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Grande
+    Oreille de l'IA', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Je reconnais qui parle ! C'est toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'entends
+    ta Voix ! (Je reconnais qui parle ! C'est toi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je sais ce que tes mots veulent dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Comprends
+    les Mots ! (Je sais ce que tes mots veulent dire !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te donne la bonne réponse ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Réponds
+    Correctement ! (Je te donne la bonne réponse ! Youpi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un chien aboie, un chat miaule ! Facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Distingue
+    les Sons ! (Un chien aboie, un chat miaule ! Facile !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Plus tu parles, plus j'apprends de toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'apprends
+    à t'Écouter ! (Plus tu parles, plus j'apprends de toi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

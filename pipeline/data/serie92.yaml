@@ -1,0 +1,26 @@
+series:
+  key: serie92
+  title: Les Engrenages Amusants !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Dans le robot, des petites roues dentelées s'accrochent entre elles
+    pour transmettre la force et faire bouger les choses !
+items:
+- name: Engrenage
+  script: Les roues qui s'accrochent !
+  accent_color: '#40E0D0'
+- name: Tourner
+  script: Faire des cercles !
+  accent_color: '#ADD8E6'
+- name: Relier
+  script: Mettre en contact !
+  accent_color: '#90EE90'
+- name: Transmettre
+  script: Donner la force !
+  accent_color: '#DAA520'
+- name: Force
+  script: La puissance mécanique !
+  accent_color: '#A9A9A9'
+- name: Roue
+  script: Un disque qui roule !
+  accent_color: '#FFD700'

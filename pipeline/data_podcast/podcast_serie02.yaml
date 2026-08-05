@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie02
+  title: Les Étapes Secrètes du Jeu !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie02
+segments:
+- narration: Pour réussir un jeu, il faut suivre les étapes dans le bon ordre. Les
+    robots aussi ont leurs secrets !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Étapes
+    Secrètes du Jeu !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Chaque chose à sa place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Séquence
+    (Chaque chose à sa place !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un après l'autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordre
+    (Un après l'autre !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: C'est parti !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Début
+    (C'est parti !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mission accomplie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fin
+    (Mission accomplie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un pas en avant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Avancer
+    (Un pas en avant !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Un pas en arrière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Reculer
+    (Un pas en arrière !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

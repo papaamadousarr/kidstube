@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_004
+  title: Le Joli Tapis de Pixels
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_004
+segments:
+- narration: Ton écran est un tapis magique fait de milliers de petits carrés de couleur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Joli Tapis
+    de Pixels', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je suis un petit carré rouge vif !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pixel
+    Rouge (Je suis un petit carré rouge vif !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je suis un petit carré vert joyeux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pixel
+    Vert (Je suis un petit carré vert joyeux !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je suis un petit carré bleu profond !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pixel
+    Bleu (Je suis un petit carré bleu profond !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tous ensemble, on forme un dessin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Image
+    Magique (Tous ensemble, on forme un dessin !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: On est bien alignés pour être beaux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Grille
+    Secrète (On est bien alignés pour être beaux !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

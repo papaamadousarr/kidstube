@@ -1,0 +1,32 @@
+series:
+  key: serie50
+  title: La Voix Secrète d'Internet !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Pour se comprendre, les ordinateurs d'internet ont un langage secret
+    avec des règles bien précises, comme une langue codée !
+items:
+- name: Protocole
+  script: Les règles du jeu !
+  accent_color: '#6A5ACD'
+  icon: 1f4dc
+- name: Règles
+  script: Ce qu'il faut suivre !
+  accent_color: '#DDA0DD'
+  icon: 1f4dd
+- name: Parler
+  script: Échanger des mots !
+  accent_color: '#ADD8E6'
+  icon: 1f5e3
+- name: Comprendre
+  script: Savoir ce que ça veut dire !
+  accent_color: '#90EE90'
+  icon: 1f4a1
+- name: Échanger
+  script: Donner et recevoir !
+  accent_color: '#FFD700'
+  icon: 1f504
+- name: Langage
+  script: La façon de se parler !
+  accent_color: '#8A2BE2'
+  icon: 1f4ac

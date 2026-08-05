@@ -1,0 +1,26 @@
+series:
+  key: serie76
+  title: Le Robot qui Devient Malin !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Le robot n'est pas né savant ! Il apprend tout seul en essayant, se
+    corrigeant et devenant de plus en plus intelligent !
+items:
+- name: Apprentissage auto
+  script: Apprendre tout seul !
+  accent_color: '#BDB76B'
+- name: Essayer
+  script: Faire un test !
+  accent_color: '#FFD700'
+- name: Corriger
+  script: Réparer ses erreurs !
+  accent_color: '#DC143C'
+- name: Mieux
+  script: Devenir meilleur !
+  accent_color: '#32CD32'
+- name: Intelligent
+  script: Très très malin !
+  accent_color: '#4682B4'
+- name: S'améliorer
+  script: Devenir plus fort !
+  accent_color: '#9370DB'

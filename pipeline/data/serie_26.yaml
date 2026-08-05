@@ -1,0 +1,26 @@
+series:
+  key: serie_26
+  title: Les Mouvements Précis !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Comment les robots font des gestes très très exacts, au millimètre près
+    !
+items:
+- name: Geste parfait
+  script: Le robot bouge exactement comme on lui demande !
+  accent_color: '#B0C4DE'
+- name: Millimètre près
+  script: Il est super précis, même pour un tout petit mouvement !
+  accent_color: '#6A5ACD'
+- name: Pas à pas
+  script: Il avance doucement, en contrôlant chaque mouvement !
+  accent_color: '#483D8B'
+- name: Doucement et bien
+  script: La précision est sa meilleure amie !
+  accent_color: '#7B68EE'
+- name: Sans erreur
+  script: Son geste est toujours juste !
+  accent_color: '#8A2BE2'
+- name: Exactitude
+  script: Il fait toujours la bonne chose au bon endroit !
+  accent_color: '#9400D3'

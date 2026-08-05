@@ -1,0 +1,26 @@
+series:
+  key: serie82
+  title: Les Robots qui S'aident !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Plusieurs robots peuvent travailler ensemble et partager leurs idées
+    ! C'est l'intelligence collective, la force de l'équipe !
+items:
+- name: Intelligence collective
+  script: Tous ensemble, plus forts !
+  accent_color: '#BDB76B'
+- name: Ensemble
+  script: Travailler à plusieurs !
+  accent_color: '#ADD8E6'
+- name: Partager
+  script: Donner ses idées !
+  accent_color: '#FFC0CB'
+- name: Aider
+  script: Donner un coup de main !
+  accent_color: '#90EE90'
+- name: Plus forts
+  script: Invincibles à plusieurs !
+  accent_color: '#32CD32'
+- name: Équipe
+  script: Une bande d'amis robots !
+  accent_color: '#DDA0DD'

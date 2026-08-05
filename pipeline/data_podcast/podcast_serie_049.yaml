@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_049
+  title: Le Câble Réseau Malin
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_049
+segments:
+- narration: Un long fil qui connecte ton ordinateur à Internet, comme un grand tunnel
+    pour les infos !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Câble
+    Réseau Malin', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Je me connecte au grand monde ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Fil
+    Internet (Je me connecte au grand monde ! Youpi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est l'endroit où je branche le câble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Port
+    Ethernet (C'est l'endroit où je branche le câble !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les données voyagent très vite sur ce fil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Information
+    qui Court (Les données voyagent très vite sur ce fil !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je connecte mon ordinateur aux autres ordis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Réseau
+    des Amis (Je connecte mon ordinateur aux autres ordis !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Mon internet marche super bien avec moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Connexion
+    Stable (Mon internet marche super bien avec moi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

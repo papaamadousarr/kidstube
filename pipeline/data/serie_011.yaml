@@ -1,0 +1,22 @@
+series:
+  key: serie_011
+  title: Les Petites Roues qui Tournent
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Les robots ont des roues pour rouler partout et aller à l'aventure !
+items:
+- name: La Roue Droite
+  script: Je tourne en avant ! En route !
+  accent_color: '#98FB98'
+- name: La Roue Gauche
+  script: Je tourne aussi en avant ! Magnifique !
+  accent_color: '#ADD8E6'
+- name: Tourne en Rond !
+  script: Je fais un petit tour sur moi-même !
+  accent_color: '#FFDEAD'
+- name: Va Tout Droit !
+  script: Je roule sans dévier ! Super !
+  accent_color: '#FFC0CB'
+- name: Fais un Virage !
+  script: Je change de direction ! Hop !
+  accent_color: '#DDA0DD'

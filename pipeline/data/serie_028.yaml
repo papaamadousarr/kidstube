@@ -1,0 +1,23 @@
+series:
+  key: serie_028
+  title: Le Triez-moi Vite!
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: L'ordinateur est super fort pour ranger les choses par ordre alphabétique,
+    ou du plus petit au plus grand !
+items:
+- name: Par Ordre Alpha
+  script: A, B, C... Je range les mots comme ça !
+  accent_color: '#87CEFA'
+- name: Du Plus Petit...
+  script: 1, 2, 3... Je range les nombres comme ça !
+  accent_color: '#FFB6C1'
+- name: Au Plus Grand !
+  script: '...jusqu''au plus grand ! Quelle logique !'
+  accent_color: '#9370DB'
+- name: Le Tri des Couleurs
+  script: Je mets tous les rouges ensemble, tous les bleus ensemble !
+  accent_color: '#ADD8E6'
+- name: Le Robot Trieur
+  script: Il est champion pour tout bien ranger !
+  accent_color: '#90EE90'

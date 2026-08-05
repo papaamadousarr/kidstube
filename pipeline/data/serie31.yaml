@@ -1,0 +1,32 @@
+series:
+  key: serie31
+  title: Le Petit Calculateur Malin !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Au cœur de l'ordinateur, il y a un super cerveau qui calcule tout, super
+    vite ! C'est le petit calculateur malin.
+items:
+- name: Processeur
+  script: Le cerveau qui calcule !
+  accent_color: '#8B0000'
+  icon: 1f9e0
+- name: Calculer
+  script: Faire des additions !
+  accent_color: '#DC143C'
+  icon: 1f9ee
+- name: Réfléchir
+  script: Trouver des solutions !
+  accent_color: '#FFD700'
+  icon: 1f914
+- name: Vite
+  script: Super rapide !
+  accent_color: '#FF4500'
+  icon: 26a1
+- name: Cerveau
+  script: La tête pensante !
+  accent_color: '#A9A9A9'
+  icon: 1f9e0
+- name: Traiter
+  script: Faire le travail !
+  accent_color: '#7B68EE'
+  icon: '2699'

@@ -1,0 +1,23 @@
+series:
+  key: serie_090
+  title: Le Robot Guide
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: 'Un robot qui te montre le chemin et t''explique ce que tu vois autour
+    de toi ! '
+items:
+- name: Suis-moi !
+  script: Je te montre la bonne route ! Viens !
+  accent_color: '#87CEEB'
+- name: Le Chemin Sûr
+  script: Je te conduis sans danger ! Quelle sécurité !
+  accent_color: '#A9A9A9'
+- name: Les Explications
+  script: Regarde cette belle fleur ! Je te dis son nom !
+  accent_color: '#90EE90'
+- name: Le Robot Touriste
+  script: Je te fais découvrir des merveilles ! Chouette !
+  accent_color: '#FFB6C1'
+- name: L'Orientation
+  script: Je sais toujours où nous sommes et où nous allons !
+  accent_color: '#FFD700'

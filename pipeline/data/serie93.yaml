@@ -1,0 +1,26 @@
+series:
+  key: serie93
+  title: La Coque Protectrice du Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Pour protéger ses précieux composants, le robot a une carapace solide,
+    comme une armure de chevalier !
+items:
+- name: Châssis
+  script: Le squelette du robot !
+  accent_color: '#8B4513'
+- name: Structure
+  script: La base solide !
+  accent_color: '#A9A9A9'
+- name: Protéger
+  script: Garder en sécurité !
+  accent_color: '#4682B4'
+- name: Robuste
+  script: Très solide !
+  accent_color: '#808080'
+- name: Base
+  script: Le point de départ !
+  accent_color: '#DAA520'
+- name: Corps
+  script: L'enveloppe du robot !
+  accent_color: '#BDB76B'

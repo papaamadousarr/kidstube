@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_054
+  title: La Ventilateur Fraîcheur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_054
+segments:
+- narration: Quand l'ordinateur travaille beaucoup, il chauffe, alors un ventilateur
+    le rafraîchit !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Ventilateur
+    Fraîcheur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je souffle du vent pour rafraîchir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Air
+    Frais (Je souffle du vent pour rafraîchir !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Vrooooom... un petit bruit pour dire que je travaille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bruit
+    Doux (Vrooooom... un petit bruit pour dire que je travaille !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Comme toi, l'ordi a besoin de respirer pour ne pas avoir chaud !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    qui Respire (Comme toi, l'ordi a besoin de respirer pour ne pas avoir chaud !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je protège l'ordinateur de la chaleur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Protection
+    (Je protège l'ordinateur de la chaleur !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je fais tourner mes pales pour faire du vent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Moulinex
+    (Je fais tourner mes pales pour faire du vent !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

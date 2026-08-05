@@ -1,0 +1,23 @@
+series:
+  key: serie_30
+  title: Les Amis Qui Se Connectent !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Comment les ordinateurs peuvent partager des choses directement entre
+    eux !
+items:
+- name: Partage direct
+  script: Envoyer des infos sans passer par un grand serveur !
+  accent_color: '#87CEEB'
+- name: Sans chef
+  script: Tout le monde est à égalité pour échanger !
+  accent_color: '#00BFFF'
+- name: De toi à moi
+  script: L'information va directement d'un ordinateur à l'autre !
+  accent_color: '#1E90FF'
+- name: Échange rapide
+  script: Les infos voyagent vite entre amis connectés !
+  accent_color: '#6495ED'
+- name: Ensemble
+  script: Tous les ordinateurs sont liés pour s'aider !
+  accent_color: '#4169E1'

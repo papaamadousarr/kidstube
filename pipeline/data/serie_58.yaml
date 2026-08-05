@@ -1,0 +1,26 @@
+series:
+  key: serie_58
+  title: Le Chef d'Orchestre Virtuel !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: L'ordinateur gère tout ce qui se passe pour que tout fonctionne bien
+    ensemble !
+items:
+- name: Gérer les tâches
+  script: Il s'assure que chaque programme fait son travail !
+  accent_color: '#FFD700'
+- name: Chaque chose à sa place
+  script: Il organise tout pour éviter le désordre !
+  accent_color: '#DAA520'
+- name: Organisateur
+  script: Le grand maître qui met de l'ordre dans l'ordinateur !
+  accent_color: '#B8860B'
+- name: Faire fonctionner
+  script: Il s'assure que tout démarre et tourne correctement !
+  accent_color: '#FF8C00'
+- name: Tout contrôler
+  script: Il surveille toutes les opérations de l'ordinateur !
+  accent_color: '#FFA500'
+- name: Chef du système
+  script: C'est lui qui dirige tous les programmes !
+  accent_color: '#FF7F50'

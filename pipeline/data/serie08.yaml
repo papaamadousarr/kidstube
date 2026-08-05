@@ -1,0 +1,32 @@
+series:
+  key: serie08
+  title: Le Journal des Actions !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Le robot se souvient de tout ce qu'il a fait ! C'est comme un journal
+    de bord de ses aventures.
+items:
+- name: Historique
+  script: Ce qui s'est passé avant !
+  accent_color: '#DB7093'
+  icon: 1f4dc
+- name: Passé
+  script: Ce qui est déjà fait !
+  accent_color: '#B0C4DE'
+  icon: 23f3
+- name: Revoir
+  script: Regarder encore !
+  accent_color: '#87CEFA'
+  icon: 1f50d
+- name: Trace
+  script: Un petit souvenir !
+  accent_color: '#FFDEAD'
+  icon: 1f463
+- name: Événement
+  script: Une chose qui arrive !
+  accent_color: '#98FB98'
+  icon: 1f5d3
+- name: Fait
+  script: Une chose réalisée !
+  accent_color: '#CD5C5C'
+  icon: '2705'

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_059
+  title: La Fenêtre Magique
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_059
+segments:
+- narration: Ton écran peut avoir plein de fenêtres, comme des feuilles sur ta table,
+    pour faire plusieurs choses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Fenêtre
+    Magique', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je dessine dans cette fenêtre ! Quel artiste !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Fenêtre
+    Dessin (Je dessine dans cette fenêtre ! Quel artiste !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je joue à mon jeu dans cette autre fenêtre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Fenêtre
+    Jeu (Je joue à mon jeu dans cette autre fenêtre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je fais ma fenêtre toute petite pour la cacher !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Réduis
+    ! (Je fais ma fenêtre toute petite pour la cacher !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je fais ma fenêtre toute grande pour mieux voir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'Agrandis
+    ! (Je fais ma fenêtre toute grande pour mieux voir !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme ta table, mon bureau a plein de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bureau
+    Virtuel (Comme ta table, mon bureau a plein de choses !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

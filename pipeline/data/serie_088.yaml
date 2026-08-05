@@ -1,0 +1,23 @@
+series:
+  key: serie_088
+  title: Le Robot Compteur
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Un robot très fort pour compter les objets, les personnes ou n'importe
+    quoi d'autre !
+items:
+- name: Je Compte les Balles
+  script: Une, deux, trois balles ! Facile !
+  accent_color: '#87CEFA'
+- name: Je Compte les Voitures
+  script: Combien de voitures rouges sont passées ?
+  accent_color: '#FFB6C1'
+- name: Le Nombre Exact
+  script: Je te donne le chiffre précis, sans erreur !
+  accent_color: '#9370DB'
+- name: Le Robot Mathématicien
+  script: Les chiffres sont mes amis, je les adore !
+  accent_color: '#ADD8E6'
+- name: La Précision
+  script: Je ne me trompe jamais en comptant !
+  accent_color: '#90EE90'

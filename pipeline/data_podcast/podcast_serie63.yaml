@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie63
+  title: Les Petites Icônes Malines !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie63
+segments:
+- narration: Sur ton écran, les petits dessins que tu cliques sont des icônes ! Elles
+    cachent des programmes super amusants !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petites
+    Icônes Malines !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un petit dessin qui lance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Icône
+    (Un petit dessin qui lance !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une jolie image !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessin
+    (Une jolie image !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Appuyer sur la souris !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cliquer
+    (Appuyer sur la souris !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Démarrer le programme !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lancer
+    (Démarrer le programme !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Facile à trouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Repérer
+    (Facile à trouver !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Une petite image !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Symbole
+    (Une petite image !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

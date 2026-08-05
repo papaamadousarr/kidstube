@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_019
+  title: Le Robot qui Parle
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_019
+segments:
+- narration: Le robot peut créer des voix et des mots pour te parler, c'est de la
+    magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Parle', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je lis les lettres pour savoir quoi dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Mots Écrits (Je lis les lettres pour savoir quoi dire !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: C'est moi qui crée le son de la voix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Voix
+    Synthétique (C'est moi qui crée le son de la voix !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je peux lire toute une histoire pour toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    qui Lit (Je peux lire toute une histoire pour toi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je peux même chanter une petite chanson !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    qui Chante (Je peux même chanter une petite chanson !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je peux choisir la voix que tu aimes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Sons Préférés (Je peux choisir la voix que tu aimes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

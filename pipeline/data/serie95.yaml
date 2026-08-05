@@ -1,0 +1,26 @@
+series:
+  key: serie95
+  title: Les Pneus Antidérapants !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Pour bien avancer sans glisser, le robot a des roues avec des pneus
+    spéciaux qui s'accrochent partout !
+items:
+- name: Roue
+  script: Le cercle qui roule !
+  accent_color: '#6A5ACD'
+- name: Rouler
+  script: Avancer en tournant !
+  accent_color: '#ADD8E6'
+- name: Avancer
+  script: Aller en avant !
+  accent_color: '#90EE90'
+- name: Reculer
+  script: Aller en arrière !
+  accent_color: '#FF6347'
+- name: Traction
+  script: La force qui tire !
+  accent_color: '#DAA520'
+- name: Tenir
+  script: Ne pas glisser !
+  accent_color: '#DDA0DD'

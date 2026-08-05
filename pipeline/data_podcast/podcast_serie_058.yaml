@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_058
+  title: Le Pointeur Lumineux
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_058
+segments:
+- narration: C'est la petite flèche sur ton écran qui te montre où tu es et où tu
+    peux cliquer !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Pointeur
+    Lumineux', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je te montre le chemin ! Suis-moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Petite
+    Flèche (Je te montre le chemin ! Suis-moi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je danse sur l'écran pour te guider !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Bouge
+    Partout (Je danse sur l'écran pour te guider !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je pointe l'endroit où tu dois appuyer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Clique
+    Ici ! (Je pointe l'endroit où tu dois appuyer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est mon petit nom technique ! Chut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Curseur
+    Malin (C'est mon petit nom technique ! Chut !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je suis très précis pour ne pas me tromper !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Précision
+    (Je suis très précis pour ne pas me tromper !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

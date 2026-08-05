@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie56
+  title: Les Messages Rapidement !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie56
+segments:
+- narration: Quand tu veux parler à un ami tout de suite par ordinateur, tu envoies
+    un petit message rapide ! C'est le 'chat'.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Messages
+    Rapidement !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Parler en direct !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chat
+    (Parler en direct !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Taper des mots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écrire
+    (Taper des mots !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Faire une conversation !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Faire une conversation !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pas de temps à perdre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vite
+    (Pas de temps à perdre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Les copains qui discutent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Amis
+    (Les copains qui discutent !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Échanger des idées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Discuter
+    (Échanger des idées !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

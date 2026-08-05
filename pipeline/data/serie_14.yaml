@@ -1,0 +1,25 @@
+series:
+  key: serie_14
+  title: Le Ballet des Robos !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Quand plusieurs robots travaillent ensemble, c'est comme une danse !
+items:
+- name: Tous ensemble
+  script: Les robots travaillent main dans la main !
+  accent_color: '#E6E6FA'
+- name: Danse synchronisée
+  script: Ils bougent au même rythme, c'est magnifique !
+  accent_color: '#D8BFD8'
+- name: Équipe robot
+  script: Une bande de robots qui s'entraident !
+  accent_color: '#BA55D3'
+- name: Aider l'un l'autre
+  script: Si l'un a un problème, l'autre vient aider !
+  accent_color: '#9932CC'
+- name: Formation
+  script: Ils se mettent en ligne ou en cercle pour travailler !
+  accent_color: '#8A2BE2'
+- name: Travailler en groupe
+  script: Chacun fait sa part pour un grand projet !
+  accent_color: '#9400D3'

@@ -1,0 +1,32 @@
+series:
+  key: serie33
+  title: La Grande Centrale Énergie !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Pour que l'ordinateur et le robot fonctionnent, ils ont besoin d'énergie,
+    comme une petite centrale électrique cachée en eux !
+items:
+- name: Alimentation
+  script: La source d'énergie !
+  accent_color: '#DAA520'
+  icon: 1f34e
+- name: Énergie
+  script: La force pour bouger !
+  accent_color: '#FFD700'
+  icon: 1f525
+- name: Courant
+  script: L'électricité qui coule !
+  accent_color: '#FF4500'
+  icon: 26a1
+- name: Brancher
+  script: Relier à l'énergie !
+  accent_color: '#4682B4'
+  icon: 1f50c
+- name: Batterie
+  script: La réserve d'énergie !
+  accent_color: '#32CD32'
+  icon: 1f50b
+- name: Charger
+  script: Faire le plein d'énergie !
+  accent_color: '#9370DB'
+  icon: 2b06

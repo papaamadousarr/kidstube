@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_03
+  title: Le Maître des Masques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_03
+segments:
+- narration: Comment garder nos secrets bien cachés dans l'ordinateur ?
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Maître
+    des Masques !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un endroit sûr pour nos informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cachette
+    (Un endroit sûr pour nos informations !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On ne reconnaît plus personne, c'est secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Visage
+    flou (On ne reconnaît plus personne, c'est secret !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Seuls les amis autorisés peuvent le voir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secret
+    bien gardé (Seuls les amis autorisés peuvent le voir !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: On donne juste un petit bout d'info, pas tout !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partage
+    malin (On donne juste un petit bout d'info, pas tout !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Qui tu es ? C'est ton secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Identité
+    (Qui tu es ? C'est ton secret !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

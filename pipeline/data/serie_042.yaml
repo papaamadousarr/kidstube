@@ -1,0 +1,23 @@
+series:
+  key: serie_042
+  title: Le Scanner Malin
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Pose ton dessin sur le scanner, et hop, il apparaît dans l'ordinateur
+    !
+items:
+- name: Le Dessin Papier
+  script: Mon dessin est là, sur une feuille !
+  accent_color: '#FFD700'
+- name: La Lumière qui Scanne
+  script: Zoumm ! Une lumière le parcourt !
+  accent_color: '#FFA07A'
+- name: L'Image Digitale
+  script: Mon dessin est entré dans l'ordinateur ! Chouette !
+  accent_color: '#ADFF2F'
+- name: La Photo Magique
+  script: Il prend une photo de mon dessin !
+  accent_color: '#98FB98'
+- name: Le Robot Détective
+  script: Il voit tout et le met dans l'ordinateur !
+  accent_color: '#FFB6C1'

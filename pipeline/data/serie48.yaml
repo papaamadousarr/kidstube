@@ -1,0 +1,32 @@
+series:
+  key: serie48
+  title: Les Sentinelles du Réseau !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Des gardiens très intelligents protègent l'ordinateur des vilains virus,
+    comme des sentinelles qui veillent la nuit !
+items:
+- name: Pare-feu
+  script: Le mur de protection !
+  accent_color: '#DC143C'
+  icon: 1f6e1
+- name: Protéger
+  script: Garder en sécurité !
+  accent_color: '#4682B4'
+  icon: 1f6e1
+- name: Surveiller
+  script: Regarder attentivement !
+  accent_color: '#DAA520'
+  icon: 1f440
+- name: Bloquer
+  script: Empêcher de passer !
+  accent_color: '#FF6347'
+  icon: 1f6ab
+- name: Laisser passer
+  script: Autoriser à entrer !
+  accent_color: '#32CD32'
+  icon: '2705'
+- name: Sécurité
+  script: Pas de danger !
+  accent_color: '#8A2BE2'
+  icon: 1f512

@@ -1,0 +1,22 @@
+series:
+  key: serie_19
+  title: Le Scribe Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5F5'
+  intro_text: Un robot super malin qui écrit des textes et des histoires !
+items:
+- name: Robot qui écrit
+  script: Il compose des phrases comme un écrivain !
+  accent_color: '#D3D3D3'
+- name: Histoires inventées
+  script: Il crée des contes et des aventures originales !
+  accent_color: '#C0C0C0'
+- name: Poèmes magiques
+  script: Il peut même écrire de jolis poèmes !
+  accent_color: '#A9A9A9'
+- name: Rapports automatiques
+  script: Il rédige des comptes rendus tout seul !
+  accent_color: '#808080'
+- name: Mots sans fin
+  script: Il génère du texte à l'infini !
+  accent_color: '#696969'

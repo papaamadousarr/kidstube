@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_011
+  title: Les Petites Roues qui Tournent
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_011
+segments:
+- narration: Les robots ont des roues pour rouler partout et aller à l'aventure !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petites
+    Roues qui Tournent', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Je tourne en avant ! En route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Roue
+    Droite (Je tourne en avant ! En route !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je tourne aussi en avant ! Magnifique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Roue
+    Gauche (Je tourne aussi en avant ! Magnifique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je fais un petit tour sur moi-même !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourne
+    en Rond ! (Je fais un petit tour sur moi-même !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je roule sans dévier ! Super !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Va Tout
+    Droit ! (Je roule sans dévier ! Super !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je change de direction ! Hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fais
+    un Virage ! (Je change de direction ! Hop !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

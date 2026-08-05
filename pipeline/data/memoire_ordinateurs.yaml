@@ -1,0 +1,31 @@
+series:
+  key: memoire_ordinateurs
+  title: La Mémoire des Ordinateurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Où l'ordinateur se souvient-il de tout ? Dans sa mémoire, bien sûr !
+items:
+- name: Mémoire
+  script: Là où l'ordinateur garde les infos et les souvenirs !
+  accent_color: '#ADD8E6'
+  icon: 1f9e0
+- name: Retenir
+  script: La machine se souvient de ce qu'on lui dit !
+  accent_color: '#87CEEB'
+  icon: 1f512
+- name: Enregistrer
+  script: Mettre une info dans la mémoire pour plus tard !
+  accent_color: '#6495ED'
+  icon: 1f4be
+- name: Se souvenir
+  script: L'ordinateur retrouve une info qu'il avait gardée !
+  accent_color: '#4169E1'
+  icon: 1f914
+- name: Oublier
+  script: Parfois, il faut vider la mémoire pour de nouvelles choses !
+  accent_color: '#1E90FF'
+  icon: 1f4a8
+- name: Stockage
+  script: Un grand espace pour tout ranger dans l'ordinateur !
+  accent_color: '#00BFFF'
+  icon: 1f4e6

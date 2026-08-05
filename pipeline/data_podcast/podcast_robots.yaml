@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_robots
+  title: Les Petits Constructeurs de Robots !
+  voice: fr_FR-siwis-medium
+  linked_series_key: robots
+segments:
+- narration: Viens découvrir comment créer et diriger de super robots avec nous !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petits
+    Constructeurs de Robots !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un ami qui suit nos idées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    (Un ami qui suit nos idées !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Dis au robot ce qu'il doit faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Commande
+    (Dis au robot ce qu'il doit faire !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Appuie pour que tout commence !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    (Appuie pour que tout commence !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le robot voit et entend, comme toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Capteur
+    (Le robot voit et entend, comme toi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il fait bouger les roues, hop hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Moteur
+    (Il fait bouger les roues, hop hop !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Ce que le robot fait, youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Action
+    (Ce que le robot fait, youpi !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,32 @@
+series:
+  key: ecran_magique
+  title: Les Mystères de l'Écran Magique !
+  voice: fr_FR-siwis-medium
+  background_color: '#F3E5F5'
+  intro_text: 'Regarde l''écran : c''est une fenêtre sur le monde des ordinateurs
+    ! Apprends à l''utiliser !'
+items:
+- name: Écran
+  script: La fenêtre où tout s'affiche !
+  accent_color: '#9C27B0'
+  icon: 1f5a5
+- name: Bouton
+  script: On appuie dessus pour que ça marche !
+  accent_color: '#BA68C8'
+  icon: 1f518
+- name: Cliquer
+  script: Un petit clic pour choisir ou activer !
+  accent_color: '#8E24AA'
+  icon: 1f446
+- name: Curseur
+  script: La petite flèche qui montre où tu es !
+  accent_color: '#CE93D8'
+  icon: 261d
+- name: Souris
+  script: Pour bouger la flèche sur l'écran !
+  accent_color: '#7B1FA2'
+  icon: 1f5b1
+- name: Taper
+  script: Écrire des lettres avec le clavier !
+  accent_color: '#6A1B9A'
+  icon: '2328'

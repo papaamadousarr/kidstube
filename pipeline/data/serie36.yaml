@@ -1,0 +1,32 @@
+series:
+  key: serie36
+  title: La Grande Boîte aux Souvenirs !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: L'ordinateur a une mémoire incroyable ! C'est comme une grande boîte
+    où il garde tous ses souvenirs et informations.
+items:
+- name: Disque dur
+  script: La mémoire géante !
+  accent_color: '#DAA520'
+  icon: 1f4be
+- name: Mémoire
+  script: Là où on garde tout !
+  accent_color: '#FFD700'
+  icon: 1f9e0
+- name: Enregistrer
+  script: Mettre de côté pour plus tard !
+  accent_color: '#90EE90'
+  icon: 1f4be
+- name: Garder
+  script: Conserver précieusement !
+  accent_color: '#4682B4'
+  icon: 1f512
+- name: Grande
+  script: Beaucoup de place !
+  accent_color: '#ADD8E6'
+  icon: 1f418
+- name: Boîte
+  script: Un petit coffre !
+  accent_color: '#8B4513'
+  icon: 1f4e6

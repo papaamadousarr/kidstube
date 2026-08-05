@@ -1,0 +1,23 @@
+series:
+  key: serie_033
+  title: La Reconnaissance des Visages
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Les robots peuvent apprendre à reconnaître ton visage, comme s'ils te
+    connaissaient !
+items:
+- name: Mon Visage !
+  script: Coucou, robot ! C'est moi !
+  accent_color: '#FFDEAD'
+- name: Je te Connais !
+  script: Je sais qui tu es ! Bonjour !
+  accent_color: '#DDA0DD'
+- name: Le Sourire !
+  script: Oh, tu souris ! Je le vois !
+  accent_color: '#FFC0CB'
+- name: La Personne Heureuse
+  script: Je sais quand tu es content(e) !
+  accent_color: '#ADD8E6'
+- name: Le Gardien des Portes
+  script: Seuls les amis peuvent entrer ici !
+  accent_color: '#98FB98'

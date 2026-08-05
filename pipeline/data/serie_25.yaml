@@ -1,0 +1,26 @@
+series:
+  key: serie_25
+  title: Le Dessinateur Géométrique !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Comment l'ordinateur trace des formes parfaites avec des règles précises
+    !
+items:
+- name: Tracer des formes
+  script: Il dessine des carrés, des cercles, des triangles !
+  accent_color: '#ADFF2F'
+- name: Dessin mathématique
+  script: Il utilise des chiffres et des calculs pour dessiner !
+  accent_color: '#7CFC00'
+- name: Lignes parfaites
+  script: Chaque trait est bien droit ou bien courbé !
+  accent_color: '#32CD32'
+- name: Carrés et ronds
+  script: Il peut faire toutes les formes imaginables !
+  accent_color: '#00FF7F'
+- name: Motifs infinis
+  script: Il répète des dessins pour créer de belles frises !
+  accent_color: '#98FB98'
+- name: Répéter le dessin
+  script: Dessiner le même motif encore et encore !
+  accent_color: '#66CDAA'

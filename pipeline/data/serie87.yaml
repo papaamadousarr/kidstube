@@ -1,0 +1,26 @@
+series:
+  key: serie87
+  title: Le Robot Amuseur Public !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Le robot sait aussi jouer et s'amuser ! Il peut te raconter des blagues,
+    faire des tours ou même danser pour te divertir.
+items:
+- name: Robot Ludique
+  script: Le robot qui s'amuse !
+  accent_color: '#FFA07A'
+- name: Jouer
+  script: Faire des jeux !
+  accent_color: '#FFD700'
+- name: S'amuser
+  script: Passer un bon moment !
+  accent_color: '#90EE90'
+- name: Rire
+  script: Faire des éclats de joie !
+  accent_color: '#FFC0CB'
+- name: Divertir
+  script: Faire rire les amis !
+  accent_color: '#ADD8E6'
+- name: Partager
+  script: Jouer avec les autres !
+  accent_color: '#40E0D0'

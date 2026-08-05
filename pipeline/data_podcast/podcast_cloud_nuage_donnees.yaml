@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_cloud_nuage_donnees
+  title: Le Cloud, un Nuage de Données !
+  voice: fr_FR-siwis-medium
+  linked_series_key: cloud_nuage_donnees
+segments:
+- narration: Imagine un nuage géant où l'on range nos infos sans les garder chez nous
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Cloud,
+    un Nuage de Données !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un endroit très loin où l'ordinateur range des choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nuage
+    (Un endroit très loin où l'ordinateur range des choses !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le chemin magique pour aller chercher les infos dans le nuage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Internet
+    (Le chemin magique pour aller chercher les infos dans le nuage !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Mettre des photos ou des jeux dans le nuage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Stocker
+    (Mettre des photos ou des jeux dans le nuage !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Envoyer des choses du nuage à tes amis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    (Envoyer des choses du nuage à tes amis !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Retrouver tes infos depuis n'importe quel ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Accéder
+    (Retrouver tes infos depuis n'importe quel ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le nuage protège bien toutes tes affaires !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sécurité
+    (Le nuage protège bien toutes tes affaires !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

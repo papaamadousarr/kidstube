@@ -1,0 +1,26 @@
+series:
+  key: serie_53
+  title: Le Jardin des Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Comment on transforme les chiffres en de belles images pour mieux les
+    comprendre !
+items:
+- name: Dessiner les infos
+  script: Transformer les chiffres en dessins colorés !
+  accent_color: '#9ACD32'
+- name: Graphiques rigolos
+  script: Des camemberts, des barres pour voir les quantités !
+  accent_color: '#6B8E23'
+- name: Comprendre en un coup d'œil
+  script: Voir tout de suite ce que les chiffres veulent dire !
+  accent_color: '#556B2F'
+- name: Voir les nombres
+  script: Les chiffres deviennent des formes et des couleurs !
+  accent_color: '#ADFF2F'
+- name: Image des données
+  script: Une photo de toutes les informations !
+  accent_color: '#7CFC00'
+- name: Formes parlantes
+  script: Chaque forme raconte une histoire avec les données !
+  accent_color: '#3CB371'

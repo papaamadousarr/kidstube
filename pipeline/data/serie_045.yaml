@@ -1,0 +1,23 @@
+series:
+  key: serie_045
+  title: Les Signaux Lumineux
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Les lumières peuvent nous donner des informations, comme un feu rouge
+    ou vert !
+items:
+- name: Le Feu Vert
+  script: Vas-y ! C'est bon pour avancer !
+  accent_color: '#FF69B4'
+- name: Le Feu Rouge
+  script: Stop ! Il faut s'arrêter !
+  accent_color: '#DA70D6'
+- name: Le Clignotant Orange
+  script: Attention, il y a un changement !
+  accent_color: '#AFEEEE'
+- name: La Barre Lumineuse
+  script: Elle me dit si la batterie est pleine ou vide !
+  accent_color: '#F0E68C'
+- name: Le Code des Lumières
+  script: Chaque lumière a une signification !
+  accent_color: '#FFE4B5'

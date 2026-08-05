@@ -1,0 +1,26 @@
+series:
+  key: serie74
+  title: Les Programmes pour Dessiner !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Avec ton ordinateur, tu peux devenir un super artiste ! Il y a des programmes
+    exprès pour dessiner et colorier.
+items:
+- name: Éditeur graphique
+  script: Le carnet de dessin de l'ordi !
+  accent_color: '#40E0D0'
+- name: Dessiner
+  script: Faire de jolis traits !
+  accent_color: '#FFC0CB'
+- name: Peindre
+  script: Mettre de la couleur !
+  accent_color: '#DA70D6'
+- name: Couleurs
+  script: Toutes les teintes de l'arc-en-ciel !
+  accent_color: '#FFD700'
+- name: Formes
+  script: Carrés, ronds, triangles !
+  accent_color: '#ADD8E6'
+- name: Créer
+  script: Inventer de nouvelles choses !
+  accent_color: '#90EE90'

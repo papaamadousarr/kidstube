@@ -1,0 +1,26 @@
+series:
+  key: serie_52
+  title: Les Mains Furtives !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Quand on ressent les choses de l'ordinateur avec nos doigts, c'est rigolo
+    !
+items:
+- name: Sentir le virtuel
+  script: L'ordinateur nous fait sentir des choses imaginaires !
+  accent_color: '#B0C4DE'
+- name: Force invisible
+  script: Une petite résistance dans le joystick quand on le pousse !
+  accent_color: '#6A5ACD'
+- name: Vibration douce
+  script: Une petite secousse pour nous prévenir de quelque chose !
+  accent_color: '#483D8B'
+- name: Retour de sensation
+  script: L'ordinateur nous renvoie ce qu'il se passe dans le jeu !
+  accent_color: '#7B68EE'
+- name: Toucher l'écran
+  script: Sentir une texture sur l'écran, c'est incroyable !
+  accent_color: '#8A2BE2'
+- name: Interaction tactile
+  script: On interagit avec l'ordinateur par le toucher !
+  accent_color: '#9400D3'

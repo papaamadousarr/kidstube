@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+pipeline/assets/voices/*.onnx
+pipeline/assets/voices/*.onnx.json
+pipeline/assets/music/
+pipeline/output/
+app/kidstube.db
+.pytest_cache/
+secrets/*
+!secrets/.env.example

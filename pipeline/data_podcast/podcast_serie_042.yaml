@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_042
+  title: Le Scanner Malin
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_042
+segments:
+- narration: Pose ton dessin sur le scanner, et hop, il apparaît dans l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Scanner
+    Malin', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Mon dessin est là, sur une feuille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dessin
+    Papier (Mon dessin est là, sur une feuille !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Zoumm ! Une lumière le parcourt !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Lumière
+    qui Scanne (Zoumm ! Une lumière le parcourt !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon dessin est entré dans l'ordinateur ! Chouette !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Image
+    Digitale (Mon dessin est entré dans l'ordinateur ! Chouette !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il prend une photo de mon dessin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Photo
+    Magique (Il prend une photo de mon dessin !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il voit tout et le met dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Détective (Il voit tout et le met dans l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

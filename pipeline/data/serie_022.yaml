@@ -1,0 +1,23 @@
+series:
+  key: serie_022
+  title: La Boîte à Nombres
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Imagine une boîte où tu peux ranger des nombres qui changent tout le
+    temps !
+items:
+- name: Le Nombre Secret
+  script: Je mets un nombre dans ma boîte ! Chut !
+  accent_color: '#FFD700'
+- name: Le Nombre qui Bouge
+  script: Mon nombre peut changer ! C'est magique !
+  accent_color: '#FFA07A'
+- name: Le Réservoir
+  script: Je garde le nombre bien au chaud !
+  accent_color: '#ADFF2F'
+- name: L'Addition Malin
+  script: J'ajoute un autre nombre à ma boîte !
+  accent_color: '#98FB98'
+- name: La Soustraction Rigolote
+  script: J'enlève un nombre de ma boîte ! Hop !
+  accent_color: '#FFB6C1'

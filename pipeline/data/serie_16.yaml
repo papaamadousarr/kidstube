@@ -1,0 +1,26 @@
+series:
+  key: serie_16
+  title: Les Points Qui Dansent !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Comment les dessins sont faits avec des points et des lignes magiques
+    !
+items:
+- name: Lignes et points
+  script: Les formes sont faites avec de petits chemins !
+  accent_color: '#40E0D0'
+- name: Grandir sans casser
+  script: On peut agrandir le dessin, il reste toujours beau !
+  accent_color: '#20B2AA'
+- name: Dessin qui s'étire
+  script: Il peut devenir petit ou géant, sans se déformer !
+  accent_color: '#00CED1'
+- name: Forme parfaite
+  script: Les cercles restent bien ronds, les carrés bien droits !
+  accent_color: '#008B8B'
+- name: Chemin tracé
+  script: Chaque ligne suit une règle bien précise !
+  accent_color: '#5F9EA0'
+- name: Géométrie
+  script: C'est la science des formes et des chemins !
+  accent_color: '#4682B4'

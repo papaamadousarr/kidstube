@@ -1,0 +1,28 @@
+series:
+  key: christmas_fr
+  title: "Spécial Noël"
+  voice: fr_FR-siwis-medium
+  background_color: "#E8F5E9"
+  intro_text: "Joyeux Noël ! Découvrons le vocabulaire de Noël !"
+
+items:
+  - name: "Sapin"
+    script: "Le sapin de Noël est décoré !"
+    icon: tree
+    accent_color: "#2E7D32"
+  - name: "Cadeau"
+    script: "Un cadeau pour Noël !"
+    icon: gift
+    accent_color: "#E53935"
+  - name: "Père Noël"
+    script: "Le Père Noël arrive !"
+    icon: santa
+    accent_color: "#E53935"
+  - name: "Bonhomme de neige"
+    script: "Le bonhomme de neige !"
+    icon: snowman
+    accent_color: "#42A5F5"
+  - name: "Étoile"
+    script: "L'étoile brille au sommet du sapin !"
+    icon: star
+    accent_color: "#FDD835"

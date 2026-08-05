@@ -1,0 +1,23 @@
+series:
+  key: serie_089
+  title: Le Robot Trieur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Il range les objets par taille, par couleur ou par forme, sans jamais
+    se tromper !
+items:
+- name: Le Tri des Couleurs
+  script: Je mets les rouges ensemble, et les bleus ensemble !
+  accent_color: '#6495ED'
+- name: Le Tri des Formes
+  script: Les carrés ici, les ronds là ! Quelle organisation !
+  accent_color: '#AFEEEE'
+- name: Le Tri des Tailles
+  script: Du plus petit au plus grand ! C'est clair !
+  accent_color: '#D3D3D3'
+- name: Le Robot Organisateur
+  script: J'aime quand tout est bien rangé !
+  accent_color: '#FFA07A'
+- name: L'ordre Parfait
+  script: Tout est à sa place, exactement comme il faut !
+  accent_color: '#90EE90'

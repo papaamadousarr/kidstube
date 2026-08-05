@@ -1,0 +1,23 @@
+series:
+  key: serie_021
+  title: Le Chut! Un Secret Binaire!
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: 'Les ordinateurs parlent une langue secrète avec seulement deux chiffres
+    : 0 et 1 !'
+items:
+- name: Le Zéro
+  script: Je suis le chiffre 0 ! J'éteins la lumière !
+  accent_color: '#D3D3D3'
+- name: Le Un
+  script: Je suis le chiffre 1 ! J'allume la lumière !
+  accent_color: '#3CB371'
+- name: Les Petits Bits
+  script: Chaque 0 ou 1 est un bit ! C'est mini !
+  accent_color: '#6495ED'
+- name: Le Code Caché
+  script: Tout ce que voit l'ordi est fait de 0 et 1 !
+  accent_color: '#FFA07A'
+- name: Le Message Binaire
+  script: Un message secret que seuls les ordis comprennent !
+  accent_color: '#90EE90'

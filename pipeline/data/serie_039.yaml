@@ -1,0 +1,23 @@
+series:
+  key: serie_039
+  title: Le Lecteur de Codes-barres
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Ces petites barres noires et blanches contiennent un secret que la machine
+    peut lire !
+items:
+- name: Le Code Noir et Blanc
+  script: Plein de traits, c'est un secret !
+  accent_color: '#6495ED'
+- name: La Lumière Rouge
+  script: Elle scanne le code ! Bzzzt !
+  accent_color: '#AFEEEE'
+- name: Le Prix Caché
+  script: Je dis le prix du produit ! Magique !
+  accent_color: '#D3D3D3'
+- name: Le Nom du Produit
+  script: Je sais ce que c'est ! Un yaourt !
+  accent_color: '#FFA07A'
+- name: Le QR Code Malin
+  script: Un petit carré avec des points ! Encore un secret !
+  accent_color: '#90EE90'

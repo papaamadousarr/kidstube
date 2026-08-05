@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie39
+  title: Les Nœuds d'Attachement !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie39
+segments:
+- narration: Pour relier des appareils à l'ordinateur, il y a des petits trous et
+    des fiches, comme des nœuds pour tout attacher !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Nœuds
+    d'Attachement !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le trou pour brancher !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Port
+    (Le trou pour brancher !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Connecter ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Brancher
+    (Connecter ensemble !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire le lien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Relier
+    (Faire le lien !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mettre ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Attacher
+    (Mettre ensemble !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Le bout du fil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fiche
+    (Le bout du fil !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Le lien qui unit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Connexion
+    (Le lien qui unit !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,23 @@
+series:
+  key: serie_067
+  title: Les Favoris Préférés
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Mets tes sites préférés en favoris, comme si tu mettais un marque-page
+    dans un livre !
+items:
+- name: Ma Page Chérie
+  script: C'est ma page préférée ! Je la garde précieusement !
+  accent_color: '#FFDAB9'
+- name: L'Étoile Magique
+  script: Je clique sur l'étoile pour la mettre en favori !
+  accent_color: '#8FBC8F'
+- name: Le Raccourci Malin
+  script: Plus besoin de chercher, je vais direct sur ma page !
+  accent_color: '#AFEEEE'
+- name: Le Dossier des Favoris
+  script: J'ai une boîte pour toutes mes pages préférées !
+  accent_color: '#ADD8E6'
+- name: Je Retrouve Tout
+  script: Plus de pages perdues ! Quelle joie !
+  accent_color: '#FFC0CB'

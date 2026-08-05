@@ -1,0 +1,26 @@
+series:
+  key: serie97
+  title: Le Robot qui S'adapte !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Le robot est très malin ! Il peut changer sa façon de faire s'il rencontre
+    un problème, pour toujours réussir sa mission.
+items:
+- name: Adaptation
+  script: Changer pour réussir !
+  accent_color: '#DB7093'
+- name: Changer
+  script: Modifier sa manière !
+  accent_color: '#FFC0CB'
+- name: S'ajuster
+  script: S'adapter à la situation !
+  accent_color: '#ADD8E6'
+- name: Observer
+  script: Regarder autour !
+  accent_color: '#DAA520'
+- name: Réagir
+  script: Agir face à un changement !
+  accent_color: '#FF4500'
+- name: Mieux faire
+  script: Devenir plus efficace !
+  accent_color: '#32CD32'

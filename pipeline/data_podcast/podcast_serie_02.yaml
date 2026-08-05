@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_02
+  title: Les Voies Express des Données !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_02
+segments:
+- narration: Imagine des routes super rapides pour que les infos voyagent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Voies
+    Express des Données !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Les informations vont à toute vitesse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    rapide (Les informations vont à toute vitesse !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour faire passer plein de choses en même temps !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Gros
+    tuyau (Pour faire passer plein de choses en même temps !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: À quelle vitesse ça va ? C'est impressionnant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vitesse
+    (À quelle vitesse ça va ? C'est impressionnant !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les infos voyagent par petits colis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Paquet
+    (Les infos voyagent par petits colis !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: C'est la quantité d'informations qui passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Débit
+    (C'est la quantité d'informations qui passe !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

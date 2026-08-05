@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie97
+  title: Le Robot qui S'adapte !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie97
+segments:
+- narration: Le robot est très malin ! Il peut changer sa façon de faire s'il rencontre
+    un problème, pour toujours réussir sa mission.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui S'adapte !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Changer pour réussir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Adaptation
+    (Changer pour réussir !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Modifier sa manière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Changer
+    (Modifier sa manière !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: S'adapter à la situation !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing S'ajuster
+    (S'adapter à la situation !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarder autour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Observer
+    (Regarder autour !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Agir face à un changement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réagir
+    (Agir face à un changement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Devenir plus efficace !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mieux
+    faire (Devenir plus efficace !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

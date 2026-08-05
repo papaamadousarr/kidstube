@@ -1,0 +1,23 @@
+series:
+  key: serie_068
+  title: Le Panier d'Achats Virtuel
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Sur Internet, on met les objets qu'on veut acheter dans un panier invisible
+    !
+items:
+- name: Le Jouet Rêvé
+  script: Je mets ce jouet dans mon panier !
+  accent_color: '#87CEFA'
+- name: Le Panier Invisible
+  script: Il garde tous mes objets choisis !
+  accent_color: '#FFB6C1'
+- name: Le Total !
+  script: Je compte combien ça coûte en tout !
+  accent_color: '#9370DB'
+- name: Je Retire un Objet
+  script: Oh, je n'en veux plus ! Hop, je l'enlève !
+  accent_color: '#ADD8E6'
+- name: La Commande
+  script: Je clique pour acheter ce qu'il y a dans mon panier !
+  accent_color: '#90EE90'

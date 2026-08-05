@@ -1,0 +1,28 @@
+series:
+  key: halloween_fr
+  title: "Spécial Halloween"
+  voice: fr_FR-siwis-medium
+  background_color: "#F3E5F5"
+  intro_text: "Joyeux Halloween ! Découvrons le vocabulaire qui fait peur !"
+
+items:
+  - name: "Citrouille"
+    script: "La citrouille d'Halloween !"
+    icon: pumpkin
+    accent_color: "#FB8C00"
+  - name: "Fantôme"
+    script: "Bouh, un fantôme !"
+    icon: ghost
+    accent_color: "#78909C"
+  - name: "Sorcière"
+    script: "La sorcière et son chapeau !"
+    icon: mage
+    accent_color: "#7E57C2"
+  - name: "Chauve-souris"
+    script: "La chauve-souris vole la nuit !"
+    icon: bat
+    accent_color: "#616161"
+  - name: "Araignée"
+    script: "L'araignée tisse sa toile !"
+    icon: spider
+    accent_color: "#424242"

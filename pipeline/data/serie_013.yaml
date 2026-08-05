@@ -1,0 +1,23 @@
+series:
+  key: serie_013
+  title: Les Étapes à Suivre
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Pour faire une chose, il faut suivre des étapes une par une, comme une
+    recette de cuisine !
+items:
+- name: Étape 1
+  script: Je commence par ça ! C'est le premier pas !
+  accent_color: '#98FB98'
+- name: Étape 2
+  script: Ensuite, je fais ceci ! C'est la suite !
+  accent_color: '#ADD8E6'
+- name: Étape 3
+  script: Puis cela ! Presque fini !
+  accent_color: '#FFDEAD'
+- name: La Fin !
+  script: J'ai tout fait ! Bravo !
+  accent_color: '#DDA0DD'
+- name: L'Ordre Juste
+  script: Il faut faire dans le bon ordre ! Sinon, ça ne marche pas !
+  accent_color: '#FFC0CB'

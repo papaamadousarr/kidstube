@@ -1,0 +1,26 @@
+series:
+  key: serie_31
+  title: L'Arbitre des Conflits !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Quand l'ordinateur doit choisir entre deux choses ou régler un problème
+    !
+items:
+- name: Qui a raison ?
+  script: Il doit décider quelle est la meilleure option !
+  accent_color: '#FFD700'
+- name: Problème à régler
+  script: Quand deux choses ne sont pas d'accord !
+  accent_color: '#DAA520'
+- name: Trouver la solution
+  script: Il cherche comment faire pour que tout aille bien !
+  accent_color: '#B8860B'
+- name: Pas de dispute
+  script: Il évite que les programmes se bloquent !
+  accent_color: '#FF8C00'
+- name: Décision juste
+  script: Il choisit toujours la bonne voie !
+  accent_color: '#FFA500'
+- name: Réparer
+  script: Si quelque chose ne va pas, il essaie de l'arranger !
+  accent_color: '#FF7F50'

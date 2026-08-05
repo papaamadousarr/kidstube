@@ -1,0 +1,26 @@
+series:
+  key: serie81
+  title: Le Robot qui Prévient !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Le robot est comme un super-héros ! Il peut voir les dangers avant qu'ils
+    n'arrivent et nous prévenir pour nous protéger.
+items:
+- name: Prévention
+  script: Agir avant le danger !
+  accent_color: '#FF6347'
+- name: Anticiper
+  script: Voir à l'avance !
+  accent_color: '#DAA520'
+- name: Avertir
+  script: Dire attention !
+  accent_color: '#DC143C'
+- name: Protéger
+  script: Mettre en sécurité !
+  accent_color: '#4682B4'
+- name: Danger
+  script: Attention, il y a un problème !
+  accent_color: '#FF4500'
+- name: Sécurité
+  script: On est bien protégé !
+  accent_color: '#32CD32'

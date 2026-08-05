@@ -1,0 +1,26 @@
+series:
+  key: serie_42
+  title: Le Magicien des Sons !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: L'ordinateur peut transformer les sons et créer des musiques incroyables
+    !
+items:
+- name: Changer la voix
+  script: Il rend ta voix plus grave, plus aiguë ou rigolote !
+  accent_color: '#BDB76B'
+- name: Écho rigolo
+  script: Il fait répéter le son comme dans une grotte !
+  accent_color: '#DAA520'
+- name: Sons spéciaux
+  script: Il invente des bruits que tu n'as jamais entendus !
+  accent_color: '#F0E68C'
+- name: Musique bizarre
+  script: Il compose des mélodies étonnantes et originales !
+  accent_color: '#D2B48C'
+- name: Effets sonores
+  script: Des bruits de vent, d'eau, d'animaux, tout est possible !
+  accent_color: '#BC8F8F'
+- name: Inventer des bruits
+  script: Il crée des sons totalement nouveaux !
+  accent_color: '#C0C0C0'

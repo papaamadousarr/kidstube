@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_027
+  title: Le Déplaceur de Fichiers
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_027
+segments:
+- narration: On peut prendre un dessin et le ranger dans une autre boîte, sans le
+    copier, juste le déplacer !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Déplaceur
+    de Fichiers', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je prends mon dessin d'ici ! Hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Coupe
+    ! (Je prends mon dessin d'ici ! Hop !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je le mets dans ma nouvelle boîte ! C'est sa nouvelle maison !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Colle
+    Ailleurs ! (Je le mets dans ma nouvelle boîte ! C'est sa nouvelle maison !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Mon dessin n'est plus là où il était !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Ancien
+    Endroit (Mon dessin n'est plus là où il était !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il est bien rangé à sa nouvelle place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Nouvel
+    Endroit (Il est bien rangé à sa nouvelle place !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je mets de l'ordre dans mes affaires !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Range
+    Mieux ! (Je mets de l'ordre dans mes affaires !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

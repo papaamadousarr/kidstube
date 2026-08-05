@@ -1,0 +1,26 @@
+series:
+  key: serie_15
+  title: La Pierre de Rosette Digitale !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF8DC'
+  intro_text: Comment les machines du monde entier se mettent d'accord pour parler
+    !
+items:
+- name: Langage commun
+  script: Toutes les machines parlent la même langue !
+  accent_color: '#DAA520'
+- name: Règles du jeu
+  script: Une liste de ce qu'il faut faire pour se comprendre !
+  accent_color: '#B8860B'
+- name: Tout le monde pareil
+  script: Pour qu'il n'y ait pas de confusion !
+  accent_color: '#8B4513'
+- name: Comprendre l'autre
+  script: Pour que ton ordinateur parle à celui de ton ami !
+  accent_color: '#A0522D'
+- name: Mode d'emploi
+  script: Chacun sait comment utiliser l'information !
+  accent_color: '#CD853F'
+- name: Secret partagé
+  script: Une manière de se parler que tout le monde connaît !
+  accent_color: '#D2691E'

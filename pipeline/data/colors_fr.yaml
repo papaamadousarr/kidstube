@@ -1,0 +1,32 @@
+series:
+  key: colors_fr
+  title: "Les couleurs"
+  voice: fr_FR-siwis-medium
+  background_color: "#F5F5F5"
+  intro_text: "Découvrons les couleurs !"
+
+items:
+  - name: "Rouge"
+    script: "Rouge, comme une fraise !"
+    icon: swatch
+    accent_color: "#E63946"
+  - name: "Bleu"
+    script: "Bleu, comme le ciel !"
+    icon: swatch
+    accent_color: "#457B9D"
+  - name: "Jaune"
+    script: "Jaune, comme le soleil !"
+    icon: swatch
+    accent_color: "#FFD60A"
+  - name: "Vert"
+    script: "Vert, comme l'herbe !"
+    icon: swatch
+    accent_color: "#2A9D8F"
+  - name: "Orange"
+    script: "Orange, comme une orange !"
+    icon: swatch
+    accent_color: "#F4A261"
+  - name: "Violet"
+    script: "Violet, comme une prune !"
+    icon: swatch
+    accent_color: "#9B5DE5"

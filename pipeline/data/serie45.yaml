@@ -1,0 +1,32 @@
+series:
+  key: serie45
+  title: Le Miroir de Papier !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Pour mettre un dessin de papier dans l'ordinateur, on utilise un scanner,
+    comme un miroir magique qui fait des copies numériques !
+items:
+- name: Scanner
+  script: Le miroir numérique !
+  accent_color: '#BDB76B'
+  icon: 1f4f8
+- name: Copier
+  script: Faire une image !
+  accent_color: '#FFC0CB'
+  icon: 1f5a8
+- name: Image
+  script: Une photo de papier !
+  accent_color: '#90EE90'
+  icon: 1f5bc
+- name: Dessin
+  script: Une belle création !
+  accent_color: '#DAA520'
+  icon: 270f
+- name: Ordinateur
+  script: La machine magique !
+  accent_color: '#4682B4'
+  icon: 1f4bb
+- name: Voir
+  script: Regarder sur l'écran !
+  accent_color: '#ADD8E6'
+  icon: 1f440

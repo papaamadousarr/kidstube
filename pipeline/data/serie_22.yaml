@@ -1,0 +1,25 @@
+series:
+  key: serie_22
+  title: Le Décodeur Mystérieux !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Pour comprendre les messages secrets et les informations cachées !
+items:
+- name: Comprendre le message
+  script: Lire ce qui est écrit de façon bizarre !
+  accent_color: '#F5DEB3'
+- name: Casser le code
+  script: Retrouver le vrai sens derrière les symboles !
+  accent_color: '#FFDAB9'
+- name: Lecture secrète
+  script: Découvrir ce que cachent les données !
+  accent_color: '#DEB887'
+- name: Infos cachées
+  script: Trouver les informations importantes qui sont un peu camouflées !
+  accent_color: '#D2B48C'
+- name: Traduire
+  script: Transformer un langage en un autre que l'on comprend !
+  accent_color: '#FFE4C4'
+- name: Déchiffrer
+  script: Comme un détective qui trouve la solution !
+  accent_color: '#F0F8FF'

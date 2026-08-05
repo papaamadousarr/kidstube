@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie14
+  title: Le Maître des Consignes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie14
+segments:
+- narration: Le robot est un élève très attentif ! Il écoute et applique toutes les
+    consignes pour faire son travail parfaitement.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Maître
+    des Consignes !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Une chose à faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Instruction
+    (Une chose à faire !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour bien comprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Explication
+    (Pour bien comprendre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Saisir le sens !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    (Saisir le sens !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mettre en pratique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Appliquer
+    (Mettre en pratique !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ne pas dévier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suivre
+    (Ne pas dévier !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Donner un ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dire
+    (Donner un ordre !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

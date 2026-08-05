@@ -1,0 +1,26 @@
+series:
+  key: serie99
+  title: Le Robot sous l'Eau !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Des robots spéciaux peuvent plonger sous l'eau pour explorer les fonds
+    marins et découvrir des trésors cachés !
+items:
+- name: Robot sous-marin
+  script: Le plongeur robotique !
+  accent_color: '#4682B4'
+- name: Nager
+  script: Se déplacer dans l'eau !
+  accent_color: '#B0E0E6'
+- name: Plonger
+  script: Aller au fond de l'eau !
+  accent_color: '#1E90FF'
+- name: Explorer
+  script: Visiter les profondeurs !
+  accent_color: '#ADD8E6'
+- name: Eau
+  script: Le liquide bleu !
+  accent_color: '#87CEFA'
+- name: Profond
+  script: Tout en bas !
+  accent_color: '#00008B'

@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %}Génération{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Génération vidéo</h1>
+    <p class="page-subtitle">{{ idea.title }}</p>
+  </div>
+</div>
+
+{% if no_series %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>Cette idée n'est reliée à aucune série de contenu (champ « série » vide).</span>
+</div>
+{% else %}
+<div id="generate-root" data-idea-id="{{ idea.id }}">
+
+  <div class="status-banner" id="status-banner" hidden>
+    <span class="status-icon">
+      <svg class="icon-success" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+      <svg class="icon-failure" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    </span>
+    <span class="status-text"></span>
+  </div>
+
+  <div class="loader-panel" id="loader-panel">
+    <div class="loader-head">
+      <div class="spinner" id="spinner" aria-hidden="true"></div>
+      <div>
+        <div class="loader-title" id="loader-title">Génération en cours…</div>
+        <div class="loader-sub">Temps écoulé : <span id="elapsed-timer">00:00</span></div>
+      </div>
+    </div>
+
+    <ol class="steps">
+      <li class="step pending" data-step="intro">
+        <span class="step-icon"></span>
+        <span>Introduction</span>
+      </li>
+      <li class="step pending" data-step="items">
+        <span class="step-icon"></span>
+        <span>Flashcards &amp; voix <span id="items-count" class="muted"></span></span>
+      </li>
+      <li class="step pending" data-step="outro">
+        <span class="step-icon"></span>
+        <span>Conclusion</span>
+      </li>
+      <li class="step pending" data-step="assemble">
+        <span class="step-icon"></span>
+        <span>Assemblage vidéo</span>
+        <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+        <span id="progress-label" class="progress-label"></span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="terminal">
+    <div class="terminal-bar"><span></span><span></span><span></span></div>
+    <pre class="log" id="log-output"></pre>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='js/generate.js') }}"></script>
+{% endif %}
+
+<p><a href="{{ url_for('board.board_view') }}" class="button ghost">&larr; Retour au tableau</a></p>
+{% endblock %}

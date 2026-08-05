@@ -1,0 +1,31 @@
+series:
+  key: robots
+  title: Les Petits Constructeurs de Robots !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6F3F7'
+  intro_text: Viens découvrir comment créer et diriger de super robots avec nous !
+items:
+- name: Le Robot
+  script: Un ami qui suit nos idées !
+  accent_color: '#4CAF50'
+  icon: 1f916
+- name: La Commande
+  script: Dis au robot ce qu'il doit faire !
+  accent_color: '#FFC107'
+  icon: 1f579
+- name: Le Bouton
+  script: Appuie pour que tout commence !
+  accent_color: '#9C27B0'
+  icon: 1f518
+- name: Le Capteur
+  script: Le robot voit et entend, comme toi !
+  accent_color: '#03A9F4'
+  icon: 1f4e1
+- name: Le Moteur
+  script: Il fait bouger les roues, hop hop !
+  accent_color: '#FF5722'
+  icon: '2699'
+- name: L'Action
+  script: Ce que le robot fait, youpi !
+  accent_color: '#E91E63'
+  icon: 1f3c3

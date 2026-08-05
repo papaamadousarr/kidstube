@@ -1,0 +1,26 @@
+series:
+  key: serie57
+  title: Les Images en Direct !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Quand tu regardes un dessin animé ou une vidéo sur internet, les images
+    arrivent en direct, comme par magie !
+items:
+- name: Streaming
+  script: Regarder en direct !
+  accent_color: '#DAA520'
+- name: Regarder
+  script: Observer les images !
+  accent_color: '#ADD8E6'
+- name: Écouter
+  script: Entendre les sons !
+  accent_color: '#40E0D0'
+- name: Direct
+  script: Ça se passe maintenant !
+  accent_color: '#FF4500'
+- name: Tout de suite
+  script: Sans attendre !
+  accent_color: '#FFD700'
+- name: Flux
+  script: Un flot d'informations !
+  accent_color: '#6495ED'

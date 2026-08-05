@@ -1,0 +1,31 @@
+series:
+  key: cerveau_artificiel_ptit_robot
+  title: Le Cerveau Artificiel de P'tit Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#FCE4EC'
+  intro_text: Découvrons comment P'tit Robot devient super intelligent !
+items:
+- name: Apprendre !
+  script: P'tit Robot devient plus malin !
+  accent_color: '#FF5722'
+  icon: 1f4da
+- name: Voir !
+  script: Le capteur est son œil malin !
+  accent_color: '#4CAF50'
+  icon: 1f440
+- name: Entendre !
+  script: Le capteur est son oreille attentive !
+  accent_color: '#FFEB3B'
+  icon: 1f442
+- name: Décider !
+  script: P'tit Robot fait un choix tout seul !
+  accent_color: '#9C27B0'
+  icon: 1f914
+- name: Cerveau IA !
+  script: C'est lui qui aide P'tit Robot à penser !
+  accent_color: '#03A9F4'
+  icon: 1f9e0
+- name: Réponse !
+  script: Ce que P'tit Robot nous dit !
+  accent_color: '#F44336'
+  icon: '2705'

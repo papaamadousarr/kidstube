@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_boite_ordres_robots
+  title: La Boîte à Ordres des Robots !
+  voice: fr_FR-siwis-medium
+  linked_series_key: boite_ordres_robots
+segments:
+- narration: Avec des ordres simples, on fait bouger nos amis robots !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Ordres des Robots !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: C'est ce que je dis de faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordre
+    ! (C'est ce que je dis de faire !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le robot obéit et bouge !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fais
+    ! (Le robot obéit et bouge !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une chose après l'autre, dans l'ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suite
+    ! (Une chose après l'autre, dans l'ordre !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Encore et encore, sans t'arrêter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Répète
+    ! (Encore et encore, sans t'arrêter !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Appuie pour commencer ou changer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bouton
+    ! (Appuie pour commencer ou changer !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

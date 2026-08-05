@@ -1,0 +1,26 @@
+series:
+  key: serie_45
+  title: Les Yeux du Monde !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Quand l'ordinateur voit et comprend ce qu'il y a dans une image, comme
+    nous !
+items:
+- name: Voir comme un humain
+  script: Il reconnaît les objets et les personnes !
+  accent_color: '#9ACD32'
+- name: Comprendre le monde
+  script: Il interprète ce qu'il voit dans une photo !
+  accent_color: '#6B8E23'
+- name: Analyser les images
+  script: Il étudie chaque détail de l'image !
+  accent_color: '#556B2F'
+- name: Détecter les objets
+  script: Il trouve où sont les ballons, les arbres, les voitures !
+  accent_color: '#ADFF2F'
+- name: Sens de la vue
+  script: Il donne à l'ordinateur une sorte de vue magique !
+  accent_color: '#7CFC00'
+- name: Vision complète
+  script: Il saisit tout ce qui est représenté visuellement !
+  accent_color: '#3CB371'

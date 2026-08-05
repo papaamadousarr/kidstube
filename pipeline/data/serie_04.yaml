@@ -1,0 +1,25 @@
+series:
+  key: serie_04
+  title: Le Chef d'Orchestre du Temps !
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Pour que tout se passe au bon moment, il faut bien s'organiser !
+items:
+- name: Rendez-vous
+  script: On a une heure précise pour faire la tâche !
+  accent_color: '#F4A460'
+- name: Ordre de passage
+  script: Chacun son tour, pas de bousculade !
+  accent_color: '#CD853F'
+- name: Attendre son tour
+  script: Parfois, il faut être patient avant d'agir !
+  accent_color: '#D2691E'
+- name: En même temps
+  script: Deux choses qui se passent en même temps, c'est magique !
+  accent_color: '#FF8C00'
+- name: Minuteur
+  script: Une petite horloge pour tout surveiller !
+  accent_color: '#FF7F50'
+- name: Rythme
+  script: Chaque chose a son propre rythme !
+  accent_color: '#FFA07A'

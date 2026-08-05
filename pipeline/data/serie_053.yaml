@@ -1,0 +1,23 @@
+series:
+  key: serie_053
+  title: Le Microprocesseur, le Cerveau Rapide
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: C'est le petit cerveau hyper rapide de l'ordinateur, il calcule tout
+    à la vitesse de l'éclair !
+items:
+- name: Le Petit Cerveau
+  script: Je calcule plus vite que toi ! Hi hi !
+  accent_color: '#FFDEAD'
+- name: Le Génie des Maths
+  script: Les additions, les soustractions, c'est facile !
+  accent_color: '#DDA0DD'
+- name: Le Travailleur Infatigable
+  script: Je travaille tout le temps sans me fatiguer !
+  accent_color: '#FFC0CB'
+- name: Le Chef des Opérations
+  script: Je fais toutes les tâches de l'ordinateur !
+  accent_color: '#ADD8E6'
+- name: Le Super Rapide
+  script: Je pense si vite que tu ne me vois pas !
+  accent_color: '#98FB98'

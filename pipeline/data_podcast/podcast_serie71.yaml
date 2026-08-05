@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie71
+  title: La Case à Cocher !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie71
+segments:
+- narration: Quand tu as plusieurs choix et que tu peux en prendre un ou plusieurs,
+    tu cliques sur des petites cases ! C'est la case à cocher.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Case à
+    Cocher !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: La petite boîte à choix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Case
+    à cocher (La petite boîte à choix !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Sélectionner une option !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    (Sélectionner une option !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: J'active ou je désactive !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oui
+    ou non (J'active ou je désactive !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Marquer mon choix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sélectionner
+    (Marquer mon choix !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Une possibilité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Option
+    (Une possibilité !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mettre une petite croix !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Marquer
+    (Mettre une petite croix !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

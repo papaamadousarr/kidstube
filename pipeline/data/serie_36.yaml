@@ -1,0 +1,26 @@
+series:
+  key: serie_36
+  title: Le Chef de la Cuisine Digitale !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: L'ordinateur est un super chef qui organise toutes les tâches en cuisine
+    !
+items:
+- name: Préparer les étapes
+  script: Il organise la recette de A à Z !
+  accent_color: '#FFD700'
+- name: Enchaîner les tâches
+  script: Une action après l'autre, sans rien oublier !
+  accent_color: '#DAA520'
+- name: Suite logique
+  script: Chaque étape doit se faire dans le bon ordre !
+  accent_color: '#B8860B'
+- name: Automate chef
+  script: Il prépare tout sans aide, c'est magique !
+  accent_color: '#FF8C00'
+- name: Du début à la fin
+  script: Il gère tout, du premier au dernier ingrédient !
+  accent_color: '#FFA500'
+- name: Organiser
+  script: Mettre de l'ordre pour que tout fonctionne bien !
+  accent_color: '#FF7F50'

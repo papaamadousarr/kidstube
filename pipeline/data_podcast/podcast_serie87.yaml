@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie87
+  title: Le Robot Amuseur Public !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie87
+segments:
+- narration: Le robot sait aussi jouer et s'amuser ! Il peut te raconter des blagues,
+    faire des tours ou même danser pour te divertir.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Amuseur Public !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le robot qui s'amuse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    Ludique (Le robot qui s'amuse !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Faire des jeux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jouer
+    (Faire des jeux !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Passer un bon moment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing S'amuser
+    (Passer un bon moment !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire des éclats de joie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rire
+    (Faire des éclats de joie !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire rire les amis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Divertir
+    (Faire rire les amis !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Jouer avec les autres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    (Jouer avec les autres !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

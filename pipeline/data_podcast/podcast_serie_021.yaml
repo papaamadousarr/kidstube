@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_021
+  title: Le Chut! Un Secret Binaire!
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_021
+segments:
+- narration: 'Les ordinateurs parlent une langue secrète avec seulement deux chiffres
+    : 0 et 1 !'
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chut!
+    Un Secret Binaire!', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Je suis le chiffre 0 ! J'éteins la lumière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Zéro
+    (Je suis le chiffre 0 ! J'éteins la lumière !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je suis le chiffre 1 ! J'allume la lumière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Un
+    (Je suis le chiffre 1 ! J'allume la lumière !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque 0 ou 1 est un bit ! C'est mini !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Petits Bits (Chaque 0 ou 1 est un bit ! C'est mini !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Tout ce que voit l'ordi est fait de 0 et 1 !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Code
+    Caché (Tout ce que voit l'ordi est fait de 0 et 1 !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un message secret que seuls les ordis comprennent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Message
+    Binaire (Un message secret que seuls les ordis comprennent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

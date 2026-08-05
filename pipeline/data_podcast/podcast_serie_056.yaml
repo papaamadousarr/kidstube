@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_056
+  title: Le Joystick Aventureux
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_056
+segments:
+- narration: Une manette pour guider tes héros dans les jeux et vivre des aventures
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Joystick
+    Aventureux', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je bouge mon bâton dans toutes les directions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Tige
+    qui Bouge (Je bouge mon bâton dans toutes les directions !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: J'appuie pour sauter ou tirer ! Clic !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Boutons d'Action (J'appuie pour sauter ou tirer ! Clic !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je contrôle mon vaisseau ou mon personnage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Pilote
+    ! (Je contrôle mon vaisseau ou mon personnage !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je me plonge dans le jeu avec ma manette !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Jeu
+    Vidéo (Je me plonge dans le jeu avec ma manette !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est moi qui donne les ordres à distance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    en Main (C'est moi qui donne les ordres à distance !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

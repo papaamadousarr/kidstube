@@ -1,0 +1,32 @@
+series:
+  key: serie09
+  title: Les Règles du Jeu du Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Pour que le robot fasse bien son travail, il doit suivre des règles
+    très précises, comme dans un jeu !
+items:
+- name: Règle
+  script: Ce qu'il faut faire !
+  accent_color: '#6A5ACD'
+  icon: 1f4cf
+- name: Interdit
+  script: Ce qu'il ne faut pas faire !
+  accent_color: '#DC143C'
+  icon: 1f6ab
+- name: Permis
+  script: Ce qu'on peut faire !
+  accent_color: '#3CB371'
+  icon: '2705'
+- name: Consigne
+  script: Une instruction à suivre !
+  accent_color: '#FFD700'
+  icon: 1f4dd
+- name: Respecter
+  script: Suivre la règle !
+  accent_color: '#4682B4'
+  icon: 1f64f
+- name: Guidé
+  script: Être aidé par une règle !
+  accent_color: '#FFA07A'
+  icon: 1f9ed

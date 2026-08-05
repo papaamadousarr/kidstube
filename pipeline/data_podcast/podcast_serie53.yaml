@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie53
+  title: Les Petits Guides de Connexion !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie53
+segments:
+- narration: Sur internet, il y a des petits guides qui aident l'ordinateur à trouver
+    les bonnes adresses, comme un annuaire magique !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petits
+    Guides de Connexion !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le guide des adresses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Serveur
+    DNS (Le guide des adresses !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Chercher la bonne route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    (Chercher la bonne route !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le petit surnom !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nom
+    (Le petit surnom !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Le chiffre secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Numéro
+    (Le chiffre secret !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Celui qui nous aide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Guide
+    (Celui qui nous aide !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aide
+    (Un coup de main !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

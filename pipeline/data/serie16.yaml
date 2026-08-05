@@ -1,0 +1,32 @@
+series:
+  key: serie16
+  title: La Boîte à Étiquettes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Imagine des boîtes avec des étiquettes pour ranger tes jouets ! Le robot
+    fait pareil avec les informations.
+items:
+- name: Variable
+  script: Une boîte à infos !
+  accent_color: '#6A5ACD'
+  icon: '2753'
+- name: Étiquette
+  script: Le nom de la boîte !
+  accent_color: '#FFDAB9'
+  icon: 1f3f7
+- name: Changer
+  script: Mettre une nouvelle info !
+  accent_color: '#FF69B4'
+  icon: 1f504
+- name: Stocker
+  script: Garder l'info dedans !
+  accent_color: '#20B2AA'
+  icon: 1f4e6
+- name: Nommer
+  script: Donner un petit nom !
+  accent_color: '#7B68EE'
+  icon: 1f4db
+- name: Infos
+  script: Ce qui est dans la boîte !
+  accent_color: '#FFA500'
+  icon: '2139'

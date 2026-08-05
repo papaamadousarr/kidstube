@@ -1,0 +1,23 @@
+series:
+  key: serie_052
+  title: La Carte Mère, la Grande Ville
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: C'est le centre de l'ordinateur, comme une grande ville où tous les
+    composants se connectent !
+items:
+- name: Le Centre Ville
+  script: Je suis le cœur de l'ordinateur !
+  accent_color: '#FFD700'
+- name: Les Rues des Informations
+  script: Les infos voyagent partout sur mes routes !
+  accent_color: '#FFA07A'
+- name: Les Bâtiments
+  script: Tous les éléments de l'ordi sont branchés sur moi !
+  accent_color: '#ADFF2F'
+- name: Le Chef de Gare
+  script: Je dis à chaque info où aller !
+  accent_color: '#98FB98'
+- name: L'Électricité qui Court
+  script: Je distribue l'énergie à tout le monde !
+  accent_color: '#FFB6C1'

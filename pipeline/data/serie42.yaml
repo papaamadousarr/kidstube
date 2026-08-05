@@ -1,0 +1,32 @@
+series:
+  key: serie42
+  title: La Carte Réseau Intelligente !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: C'est la partie de l'ordinateur qui lui permet de parler avec d'autres
+    ordinateurs, comme un petit téléphone magique !
+items:
+- name: Carte réseau
+  script: Le passe-partout du réseau !
+  accent_color: '#DB7093'
+  icon: 1f50c
+- name: Connecter
+  script: Relier ensemble !
+  accent_color: '#FFC0CB'
+  icon: 1f517
+- name: Parler
+  script: Échanger des messages !
+  accent_color: '#ADD8E6'
+  icon: 1f5e3
+- name: Internet
+  script: Le grand réseau mondial !
+  accent_color: '#6495ED'
+  icon: 1f310
+- name: Échanger
+  script: Donner et recevoir !
+  accent_color: '#FFD700'
+  icon: 1f91d
+- name: Relier
+  script: Faire un lien !
+  accent_color: '#9370DB'
+  icon: '2194'

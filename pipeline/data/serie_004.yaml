@@ -1,0 +1,23 @@
+series:
+  key: serie_004
+  title: Le Joli Tapis de Pixels
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Ton écran est un tapis magique fait de milliers de petits carrés de
+    couleur !
+items:
+- name: Le Pixel Rouge
+  script: Je suis un petit carré rouge vif !
+  accent_color: '#FF0000'
+- name: Le Pixel Vert
+  script: Je suis un petit carré vert joyeux !
+  accent_color: '#00FF00'
+- name: Le Pixel Bleu
+  script: Je suis un petit carré bleu profond !
+  accent_color: '#0000FF'
+- name: L'Image Magique
+  script: Tous ensemble, on forme un dessin !
+  accent_color: '#FFD700'
+- name: La Grille Secrète
+  script: On est bien alignés pour être beaux !
+  accent_color: '#D3D3D3'

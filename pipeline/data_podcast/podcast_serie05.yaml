@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie05
+  title: Le Défi des Problèmes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie05
+segments:
+- narration: Oh non, un problème ! Mais c'est une occasion pour le robot de trouver
+    une solution super astucieuse !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Défi des
+    Problèmes !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un défi à relever !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Problème
+    (Un défi à relever !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La bonne idée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Solution
+    (La bonne idée !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Chercher la réponse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    (Chercher la réponse !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Je me lance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Essayer
+    (Je me lance !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Bravo, c'est fait !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réussir
+    (Bravo, c'est fait !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Demander un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aide
+    (Demander un coup de main !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

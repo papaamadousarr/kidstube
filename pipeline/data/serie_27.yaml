@@ -1,0 +1,26 @@
+series:
+  key: serie_27
+  title: Le Livre des Choix !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Comment l'ordinateur prend des décisions en suivant un chemin logique
+    !
+items:
+- name: Chemin à choisir
+  script: L'ordinateur peut prendre différentes routes !
+  accent_color: '#FFD700'
+- name: Question-réponse
+  script: Il pose une question et attend la réponse pour avancer !
+  accent_color: '#DAA520'
+- name: Suite d'options
+  script: Plusieurs possibilités s'offrent à lui !
+  accent_color: '#B8860B'
+- name: Plusieurs fins
+  script: Selon ses choix, l'histoire ne sera pas la même !
+  accent_color: '#FF8C00'
+- name: Arbre magique
+  script: Un dessin qui montre tous les chemins possibles !
+  accent_color: '#FFA500'
+- name: Décider
+  script: Prendre une décision parmi toutes les options !
+  accent_color: '#FF7F50'

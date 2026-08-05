@@ -1,0 +1,22 @@
+series:
+  key: serie_075
+  title: Le Robot Nettoyeur
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Un robot qui fait le ménage à ta place, sans se plaindre !
+items:
+- name: L'Aspirateur Malin
+  script: Je ramasse toutes les miettes ! Vroum !
+  accent_color: '#FF69B4'
+- name: La Brosse qui Frotte
+  script: Je frotte le sol pour le rendre propre !
+  accent_color: '#DA70D6'
+- name: Le Capteur de Saleté
+  script: Je sens la poussière et je vais la chercher !
+  accent_color: '#AFEEEE'
+- name: Le Laveur de Vitres
+  script: Je rends les fenêtres brillantes ! Nickel !
+  accent_color: '#F0E68C'
+- name: La Maison Propre
+  script: Grâce à moi, ta maison est toujours impeccable !
+  accent_color: '#FFE4B5'

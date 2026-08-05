@@ -1,0 +1,32 @@
+series:
+  key: capteurs_curieux
+  title: Les Petits Curieux Capteurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFDE7'
+  intro_text: Découvre comment les machines sentent le monde autour d'elles, comme
+    toi avec tes 5 sens !
+items:
+- name: Capteur
+  script: L'oeil ou l'oreille de la machine !
+  accent_color: '#FFC107'
+  icon: '2699'
+- name: Voir
+  script: Le capteur voit ce qui se passe devant lui !
+  accent_color: '#FFD54F'
+  icon: 1f440
+- name: Entendre
+  script: Le capteur entend les petits bruits !
+  accent_color: '#FFB300'
+  icon: 1f442
+- name: Toucher
+  script: Le capteur sent quand on le touche !
+  accent_color: '#FFA000'
+  icon: 270b
+- name: Sentir
+  script: Le capteur peut sentir si c'est chaud ou froid !
+  accent_color: '#FFECB3'
+  icon: 1f443
+- name: Réagir
+  script: Quand le capteur voit quelque chose, il réagit !
+  accent_color: '#FFAB00'
+  icon: 1f4a5

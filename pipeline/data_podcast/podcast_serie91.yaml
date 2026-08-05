@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie91
+  title: Les Moteurs Super Puissants !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie91
+segments:
+- narration: Pour que le robot puisse bouger, il a besoin de petits cœurs qui tournent
+    très fort ! Ce sont les moteurs !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Moteurs
+    Super Puissants !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le cœur du mouvement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Moteur
+    (Le cœur du mouvement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire des ronds !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourner
+    (Faire des ronds !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Donner une impulsion !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pousser
+    (Donner une impulsion !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Se déplacer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bouger
+    (Se déplacer !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La puissance du robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Force
+    (La puissance du robot !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qui le fait fonctionner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Énergie
+    (Ce qui le fait fonctionner !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

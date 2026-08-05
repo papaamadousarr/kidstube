@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie80
+  title: Les Sentiments du Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie80
+segments:
+- narration: Les robots peuvent-ils avoir des sentiments ? Ils peuvent apprendre à
+    les reconnaître et à y réagir, comme s'ils étaient tristes ou joyeux !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Sentiments
+    du Robot !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les sentiments du robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Émotion
+    artificielle (Les sentiments du robot !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pas très content !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Triste
+    (Pas très content !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Super content !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Joyeux
+    (Super content !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Saisir le sentiment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    (Saisir le sentiment !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Montrer ce que l'on ressent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Exprimer
+    (Montrer ce que l'on ressent !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Agir selon le sentiment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réagir
+    (Agir selon le sentiment !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

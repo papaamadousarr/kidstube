@@ -1,0 +1,23 @@
+series:
+  key: serie_024
+  title: Le Chiffrier Organisé
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: C'est comme un grand tableau où on range les informations dans des cases
+    pour bien les retrouver !
+items:
+- name: La Colonne
+  script: Je descends pour voir toutes les infos du même type !
+  accent_color: '#6495ED'
+- name: La Ligne
+  script: Je vais à droite pour voir toutes les infos d'un même élément !
+  accent_color: '#AFEEEE'
+- name: La Cellule
+  script: C'est une petite boîte où il y a une info ! Chut !
+  accent_color: '#D3D3D3'
+- name: Le Tableau Géant
+  script: Plein de lignes et de colonnes ! C'est immense !
+  accent_color: '#FFA07A'
+- name: Je Trouve Vite !
+  script: Grâce au tableau, je retrouve mes infos en un clin d'œil !
+  accent_color: '#90EE90'

@@ -1,0 +1,32 @@
+series:
+  key: serie14
+  title: Le Maître des Consignes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Le robot est un élève très attentif ! Il écoute et applique toutes les
+    consignes pour faire son travail parfaitement.
+items:
+- name: Instruction
+  script: Une chose à faire !
+  accent_color: '#BDB76B'
+  icon: 1f4dd
+- name: Explication
+  script: Pour bien comprendre !
+  accent_color: '#8FBC8F'
+  icon: 1f5e3
+- name: Comprendre
+  script: Saisir le sens !
+  accent_color: '#4682B4'
+  icon: 1f4a1
+- name: Appliquer
+  script: Mettre en pratique !
+  accent_color: '#FF8C00'
+  icon: '2705'
+- name: Suivre
+  script: Ne pas dévier !
+  accent_color: '#9ACD32'
+  icon: 1f463
+- name: Dire
+  script: Donner un ordre !
+  accent_color: '#DDA0DD'
+  icon: 1f4ac

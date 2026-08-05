@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_035
+  title: L'Automatisation Géniale
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_035
+segments:
+- narration: Quand une machine fait les choses toute seule, sans qu'on lui demande,
+    c'est de l'automatisation !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Automatisation
+    Géniale', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je passe l'aspirateur tout seul ! Vroom !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    qui Nettoie (Je passe l'aspirateur tout seul ! Vroom !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Quand il fait nuit, je m'allume tout seul !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Lumières Auto (Quand il fait nuit, je m'allume tout seul !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Quand je m'approche, la porte s'ouvre ! Magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Porte
+    qui s'Ouvre (Quand je m'approche, la porte s'ouvre ! Magique !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je fais la même chose encore et encore, sans me fatiguer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Tâche
+    Répétée (Je fais la même chose encore et encore, sans me fatiguer !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je travaille sans qu'on me commande directement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Machine
+    Intelligente (Je travaille sans qu'on me commande directement !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

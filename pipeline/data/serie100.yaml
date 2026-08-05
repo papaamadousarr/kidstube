@@ -1,0 +1,32 @@
+series:
+  key: serie100
+  title: Le Robot qui Vole !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Des robots avec des hélices peuvent voler dans le ciel, comme des oiseaux
+    métalliques, pour prendre des photos d'en haut !
+items:
+- name: Drone
+  script: Le robot volant !
+  accent_color: '#BDB76B'
+  icon: 1f681
+- name: Voler
+  script: Se déplacer dans les airs !
+  accent_color: '#ADD8E6'
+  icon: '2708'
+- name: Haut
+  script: Très très loin dans le ciel !
+  accent_color: '#87CEFA'
+  icon: 2b06
+- name: Ciel
+  script: Là où il y a les nuages !
+  accent_color: '#B0E0E6'
+  icon: '2601'
+- name: Regarder
+  script: Observer d'en haut !
+  accent_color: '#4682B4'
+  icon: 1f440
+- name: Découvrir
+  script: Voir de nouvelles choses !
+  accent_color: '#9ACD32'
+  icon: 1f50e

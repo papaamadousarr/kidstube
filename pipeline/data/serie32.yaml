@@ -1,0 +1,32 @@
+series:
+  key: serie32
+  title: Les Tuyaux à Infos !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: À l'intérieur de l'ordinateur, des petits tuyaux invisibles transportent
+    les informations d'un endroit à un autre, à toute vitesse !
+items:
+- name: Bus
+  script: Les tuyaux des infos !
+  accent_color: '#40E0D0'
+  icon: 1f68c
+- name: Transporter
+  script: Porter les infos !
+  accent_color: '#ADD8E6'
+  icon: 1f69a
+- name: Chemin
+  script: La route des données !
+  accent_color: '#90EE90'
+  icon: 1f6e3
+- name: Informations
+  script: Les petits messages !
+  accent_color: '#FFD700'
+  icon: '2139'
+- name: Vite
+  script: Comme un éclair !
+  accent_color: '#FF4500'
+  icon: 26a1
+- name: Échanger
+  script: Se donner les infos !
+  accent_color: '#DA70D6'
+  icon: '2194'

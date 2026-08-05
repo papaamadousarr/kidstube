@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie66
+  title: La Barre de Magie !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie66
+segments:
+- narration: En haut ou en bas de l'écran, il y a une barre pleine de boutons magiques
+    pour faire plein de choses rapidement !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Barre
+    de Magie !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: La barre aux pouvoirs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Barre
+    d'outils (La barre aux pouvoirs !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: De petites touches d'action !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Boutons
+    (De petites touches d'action !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Lancer une action !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    (Lancer une action !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Sélectionner une option !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    (Sélectionner une option !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Des aides pour travailler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Outils
+    (Des aides pour travailler !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: En un clin d'œil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rapide
+    (En un clin d'œil !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

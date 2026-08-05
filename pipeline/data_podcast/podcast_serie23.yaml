@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie23
+  title: Les Grandes Armoires à Fichiers !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie23
+segments:
+- narration: Dans l'ordinateur, les informations sont rangées dans des dossiers, comme
+    des armoires avec plein de tiroirs !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Grandes
+    Armoires à Fichiers !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Une armoire pour les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dossier
+    (Une armoire pour les infos !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Bien mettre en ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Organiser
+    (Bien mettre en ordre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une feuille d'informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fichier
+    (Une feuille d'informations !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre ensemble ce qui se ressemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Classer
+    (Mettre ensemble ce qui se ressemble !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Avoir à l'intérieur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Contenir
+    (Avoir à l'intérieur !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre à sa place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ranger
+    (Mettre à sa place !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

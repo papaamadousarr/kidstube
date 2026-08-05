@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie98
+  title: Les Robot-insectes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie98
+segments:
+- narration: Imagine des robots tout petits, comme des insectes, qui peuvent se faufiler
+    partout pour explorer des endroits secrets !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Robot-insectes
+    !', vibrant playful colors, Pixar-style children's animation, warm inviting composition,
+    no text, no logos
+- narration: Un robot tout petit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Micro-robot
+    (Un robot tout petit !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Minuscule et discret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petit
+    (Minuscule et discret !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: On ne le voit presque pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Minuscule
+    (On ne le voit presque pas !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Découvrir de nouveaux lieux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Explorer
+    (Découvrir de nouveaux lieux !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Passer inaperçu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Discret
+    (Passer inaperçu !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Très intelligent pour sa taille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Malin
+    (Très intelligent pour sa taille !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

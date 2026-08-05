@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_010
+  title: Le Bras Articulé
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_010
+segments:
+- narration: Le bras du robot peut bouger et atteindre plein d'endroits différents
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Bras Articulé',
+    vibrant playful colors, Pixar-style children's animation, warm inviting composition,
+    no text, no logos
+- narration: Je plie mon bras comme toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Coude
+    du Bras (Je plie mon bras comme toi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je tourne mon bras tout autour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Épaule
+    du Bras (Je tourne mon bras tout autour !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je fais pivoter ma main avec agilité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Poignet
+    du Bras (Je fais pivoter ma main avec agilité !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon bras s'élève vers le ciel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Monte
+    ! (Mon bras s'élève vers le ciel !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Mon bras redescend doucement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Descends
+    ! (Mon bras redescend doucement !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Mon bras s'étire loin, loin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'allonge
+    ! (Mon bras s'étire loin, loin !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

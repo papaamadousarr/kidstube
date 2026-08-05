@@ -1,0 +1,25 @@
+series:
+  key: serie_08
+  title: Le Miroir Intelligent !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Un monde où on peut essayer des choses sans aucun danger !
+items:
+- name: Faux monde
+  script: Un endroit qui ressemble au vrai, mais ce n'est pas lui !
+  accent_color: '#9370DB'
+- name: Essai rigolo
+  script: On teste des idées sans faire de bêtises !
+  accent_color: '#8A2BE2'
+- name: Comme si
+  script: On imagine ce qui pourrait se passer !
+  accent_color: '#BA55D3'
+- name: Sans risque
+  script: On peut tout casser, ça ne fait rien !
+  accent_color: '#9932CC'
+- name: Jumeau digital
+  script: Une copie virtuelle pour s'entraîner !
+  accent_color: '#DA70D6'
+- name: Réplique
+  script: Un double parfait pour jouer et apprendre !
+  accent_color: '#C71585'

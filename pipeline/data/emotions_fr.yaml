@@ -1,0 +1,28 @@
+series:
+  key: emotions_fr
+  title: "Les émotions"
+  voice: fr_FR-siwis-medium
+  background_color: "#FFF3E0"
+  intro_text: "Découvrons les émotions !"
+
+items:
+  - name: "Content"
+    script: "Je suis content !"
+    icon: happy
+    accent_color: "#FDD835"
+  - name: "Triste"
+    script: "Je suis triste."
+    icon: sad
+    accent_color: "#42A5F5"
+  - name: "En colère"
+    script: "Je suis en colère !"
+    icon: angry
+    accent_color: "#E53935"
+  - name: "Surpris"
+    script: "Je suis surpris !"
+    icon: surprised
+    accent_color: "#FB8C00"
+  - name: "Fatigué"
+    script: "Je suis fatigué."
+    icon: tired
+    accent_color: "#7E57C2"

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_051
+  title: Les Règles du Jeu
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_051
+segments:
+- narration: Même les robots ont besoin de règles très claires pour savoir quoi faire
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Règles
+    du Jeu', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Avance, puis tourne ! C'est facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Règle
+    Simple (Avance, puis tourne ! C'est facile !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Ne tombe pas ! C'est important !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Règle
+    d'Or (Ne tombe pas ! C'est important !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Fais ça d'abord, puis ça après !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Consigne
+    (Fais ça d'abord, puis ça après !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je suis toutes les règles à la lettre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Obéissant (Je suis toutes les règles à la lettre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Oups, sans règles, c'est le chaos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Jeu
+    sans Règle (Oups, sans règles, c'est le chaos !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,32 @@
+series:
+  key: serie27
+  title: Les Blocs d'Informations !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Les informations sont comme des blocs de construction que le robot assemble
+    ou démonte pour créer de nouvelles choses !
+items:
+- name: Bloc
+  script: Un petit morceau d'info !
+  accent_color: '#2E8B57'
+  icon: 1f9f1
+- name: Assembler
+  script: Mettre ensemble !
+  accent_color: '#9ACD32'
+  icon: 1f9e9
+- name: Démonter
+  script: Séparer les morceaux !
+  accent_color: '#FF6347'
+  icon: 1f494
+- name: Morceau
+  script: Une petite partie !
+  accent_color: '#DAA520'
+  icon: 1f9e9
+- name: Construire
+  script: Créer avec les blocs !
+  accent_color: '#8B4513'
+  icon: 1f3d7
+- name: Mettre ensemble
+  script: Coller les infos !
+  accent_color: '#40E0D0'
+  icon: 1f91d

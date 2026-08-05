@@ -1,0 +1,23 @@
+series:
+  key: serie_054
+  title: La Ventilateur Fraîcheur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Quand l'ordinateur travaille beaucoup, il chauffe, alors un ventilateur
+    le rafraîchit !
+items:
+- name: L'Air Frais
+  script: Je souffle du vent pour rafraîchir !
+  accent_color: '#6495ED'
+- name: Le Bruit Doux
+  script: Vrooooom... un petit bruit pour dire que je travaille !
+  accent_color: '#AFEEEE'
+- name: Le Robot qui Respire
+  script: Comme toi, l'ordi a besoin de respirer pour ne pas avoir chaud !
+  accent_color: '#D3D3D3'
+- name: La Protection
+  script: Je protège l'ordinateur de la chaleur !
+  accent_color: '#FFA07A'
+- name: Le Moulinex
+  script: Je fais tourner mes pales pour faire du vent !
+  accent_color: '#90EE90'

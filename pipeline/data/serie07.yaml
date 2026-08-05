@@ -1,0 +1,32 @@
+series:
+  key: serie07
+  title: Le Compte à Rebours du Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Le robot sait compter ! Il peut compter les pas, les objets ou même
+    le temps qui passe, comme pour un décollage de fusée !
+items:
+- name: Compteur
+  script: Une machine à compter !
+  accent_color: '#2E8B57'
+  icon: 1f522
+- name: Départ
+  script: On commence !
+  accent_color: '#FF4500'
+  icon: 25b6
+- name: Arrivée
+  script: C'est fini !
+  accent_color: '#DAA520'
+  icon: 1f3c1
+- name: Nombre
+  script: Un chiffre qui compte !
+  accent_color: '#6495ED'
+  icon: 1f522
+- name: Augmenter
+  script: Faire plus grand !
+  accent_color: '#00FF7F'
+  icon: 2b06
+- name: Diminuer
+  script: Faire plus petit !
+  accent_color: '#FF6347'
+  icon: 2b07

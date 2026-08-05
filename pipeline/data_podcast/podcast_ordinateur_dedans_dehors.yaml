@@ -1,0 +1,42 @@
+podcast_series:
+  key: podcast_ordinateur_dedans_dehors
+  title: L'Ordinateur, Dedans et Dehors !
+  voice: fr_FR-siwis-medium
+  linked_series_key: ordinateur_dedans_dehors
+segments:
+- narration: Découvrons ce qui fait fonctionner l'ordinateur, ses parties visibles
+    et invisibles !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Ordinateur,
+    Dedans et Dehors !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Ce qu'on ne voit pas, comme le cerveau de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dedans
+    (Ce qu'on ne voit pas, comme le cerveau de l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: L'écran, le clavier, la souris, ce qu'on peut toucher !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dehors
+    (L'écran, le clavier, la souris, ce qu'on peut toucher !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Les pièces que l'on voit et touche, le 'corps' de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Matériel
+    (Les pièces que l'on voit et touche, le 'corps' de l'ordinateur !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Les programmes, les jeux, les applications, l' 'âme' de l'ordinateur
+    !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Logiciel
+    (Les programmes, les jeux, les applications, l' 'âme' de l'ordinateur !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Le matériel et le logiciel travaillent ensemble pour que tout marche
+    !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fonctionner
+    (Le matériel et le logiciel travaillent ensemble pour que tout marche !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Une recette pour que l'ordinateur fasse quelque chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Programme
+    (Une recette pour que l'ordinateur fasse quelque chose !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

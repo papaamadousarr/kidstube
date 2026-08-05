@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie93
+  title: La Coque Protectrice du Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie93
+segments:
+- narration: Pour protéger ses précieux composants, le robot a une carapace solide,
+    comme une armure de chevalier !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Coque
+    Protectrice du Robot !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le squelette du robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Châssis
+    (Le squelette du robot !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: La base solide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Structure
+    (La base solide !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Garder en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    (Garder en sécurité !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Très solide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robuste
+    (Très solide !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Le point de départ !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Base
+    (Le point de départ !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: L'enveloppe du robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Corps
+    (L'enveloppe du robot !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

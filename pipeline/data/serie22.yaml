@@ -1,0 +1,32 @@
+series:
+  key: serie22
+  title: La Corbeille Magique !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Quand on ne veut plus d'une information, on la jette dans la corbeille.
+    Mais parfois, on peut la récupérer, comme par magie !
+items:
+- name: Supprimer
+  script: Jeter l'info !
+  accent_color: '#DC143C'
+  icon: 1f5d1
+- name: Effacer
+  script: Faire disparaître !
+  accent_color: '#A9A9A9'
+  icon: 274c
+- name: Jeter
+  script: Mettre à la poubelle !
+  accent_color: '#808080'
+  icon: 1f6ae
+- name: Vider
+  script: Rendre vide !
+  accent_color: '#D3D3D3'
+  icon: 1fad7
+- name: Récupérer
+  script: Reprendre son trésor !
+  accent_color: '#32CD32'
+  icon: 1f4e6
+- name: Oublier
+  script: Ne plus y penser !
+  accent_color: '#FFA07A'
+  icon: 1f4ad

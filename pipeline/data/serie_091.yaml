@@ -1,0 +1,23 @@
+series:
+  key: serie_091
+  title: Le Robot Veilleur
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Il surveille tout, écoute les bruits et nous prévient si quelque chose
+    ne va pas !
+items:
+- name: L'Œil Attentif
+  script: Je regarde si tout va bien !
+  accent_color: '#3CB371'
+- name: L'Oreille Fine
+  script: J'entends le moindre petit bruit suspect !
+  accent_color: '#6495ED'
+- name: L'Alerte Rapide
+  script: Je t'envoie un message si je vois un problème !
+  accent_color: '#FFA07A'
+- name: Le Robot Garde
+  script: Je protège la maison pendant que tu dors !
+  accent_color: '#90EE90'
+- name: La Surveillance
+  script: Rien ne m'échappe ! Je suis trop fort !
+  accent_color: '#D3D3D3'

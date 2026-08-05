@@ -1,0 +1,26 @@
+series:
+  key: serie_44
+  title: Le Guide Solaire !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Comment on trouve son chemin partout dans le monde avec l'aide des satellites
+    !
+items:
+- name: Où sommes-nous ?
+  script: Il nous dit où on se trouve sur la Terre !
+  accent_color: '#87CEEB'
+- name: Trouve le chemin
+  script: Il nous indique la route pour aller quelque part !
+  accent_color: '#00BFFF'
+- name: Carte interactive
+  script: Une carte qui bouge et qui parle !
+  accent_color: '#1E90FF'
+- name: Bip bip GPS
+  script: Le petit son qui te dit de tourner !
+  accent_color: '#6495ED'
+- name: Position exacte
+  script: Il sait notre endroit précis sur la planète !
+  accent_color: '#4169E1'
+- name: Ne pas se perdre
+  script: Avec lui, tu arrives toujours à bon port !
+  accent_color: '#0000CD'

@@ -1,0 +1,23 @@
+series:
+  key: serie_037
+  title: Le Jeu Rigolo
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Créer un jeu, c'est comme inventer une histoire avec des règles pour
+    le robot !
+items:
+- name: Le Personnage
+  script: Je suis le héros de l'histoire ! Youpi !
+  accent_color: '#FFDAB9'
+- name: L'Objectif
+  script: Je dois ramasser des étoiles ! C'est ma mission !
+  accent_color: '#8FBC8F'
+- name: Les Règles
+  script: Ne touche pas au rouge ! C'est interdit !
+  accent_color: '#AFEEEE'
+- name: Le Niveau
+  script: Chaque étape est un nouveau niveau ! Plus difficile !
+  accent_color: '#ADD8E6'
+- name: Je Crée un Jeu !
+  script: Je dis à l'ordinateur quoi faire pour que ça devienne un jeu !
+  accent_color: '#FFC0CB'

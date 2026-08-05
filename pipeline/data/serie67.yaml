@@ -1,0 +1,26 @@
+series:
+  key: serie67
+  title: Les Curiosités du Curseur !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Sur l'écran, la petite flèche qui bouge quand tu utilises la souris
+    s'appelle le curseur ! Il est très curieux !
+items:
+- name: Curseur
+  script: La petite flèche !
+  accent_color: '#DB7093'
+- name: Pointer
+  script: Montrer du doigt !
+  accent_color: '#ADD8E6'
+- name: Cliquer
+  script: Appuyer sur la souris !
+  accent_color: '#FFD700'
+- name: Sélectionner
+  script: Choisir une chose !
+  accent_color: '#9370DB'
+- name: Montrer
+  script: Indiquer un élément !
+  accent_color: '#FFA07A'
+- name: Flèche
+  script: Le signe qui pointe !
+  accent_color: '#FFC0CB'

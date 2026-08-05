@@ -1,0 +1,26 @@
+series:
+  key: serie83
+  title: Le Robot qui Aime les Fleurs !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Le robot jardinier est un ami des plantes ! Il sait comment les planter,
+    les arroser et les rendre super belles.
+items:
+- name: Robot Jardinier
+  script: L'ami des plantes !
+  accent_color: '#6A5ACD'
+- name: Planter
+  script: Mettre en terre !
+  accent_color: '#2E8B57'
+- name: Arroser
+  script: Donner à boire aux fleurs !
+  accent_color: '#4682B4'
+- name: Cueillir
+  script: Ramasser les fruits !
+  accent_color: '#9ACD32'
+- name: Entretenir
+  script: S'occuper des plantes !
+  accent_color: '#FFD700'
+- name: Fleur
+  script: Une belle plante colorée !
+  accent_color: '#FFC0CB'

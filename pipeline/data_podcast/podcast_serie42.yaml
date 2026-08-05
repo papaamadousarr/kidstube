@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie42
+  title: La Carte Réseau Intelligente !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie42
+segments:
+- narration: C'est la partie de l'ordinateur qui lui permet de parler avec d'autres
+    ordinateurs, comme un petit téléphone magique !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Carte
+    Réseau Intelligente !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le passe-partout du réseau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Carte
+    réseau (Le passe-partout du réseau !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Relier ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Connecter
+    (Relier ensemble !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Échanger des messages !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    (Échanger des messages !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le grand réseau mondial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Internet
+    (Le grand réseau mondial !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Donner et recevoir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Échanger
+    (Donner et recevoir !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire un lien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Relier
+    (Faire un lien !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

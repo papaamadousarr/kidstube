@@ -1,0 +1,23 @@
+series:
+  key: serie_020
+  title: Les Réponses du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Quand tu parles au robot, il réfléchit très vite et te donne une réponse
+    !
+items:
+- name: La Question
+  script: Je pose une question au robot !
+  accent_color: '#87CEEB'
+- name: La Réflexion
+  script: Le robot pense très vite dans sa tête !
+  accent_color: '#A9A9A9'
+- name: La Réponse Simple
+  script: Oui ou non, c'est facile pour lui !
+  accent_color: '#90EE90'
+- name: La Grande Réponse
+  script: Il sait beaucoup de choses et me répond !
+  accent_color: '#FFB6C1'
+- name: La Blague du Robot
+  script: Parfois, il me fait même rire !
+  accent_color: '#FFD700'

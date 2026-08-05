@@ -1,0 +1,32 @@
+series:
+  key: serie11
+  title: Le Dérouleur d'Histoires !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Comme dans un livre, le robot suit une histoire, un scénario où chaque
+    action amène la suivante !
+items:
+- name: Scénario
+  script: Le plan de l'histoire !
+  accent_color: '#DB7093'
+  icon: 1f4dc
+- name: Dérouler
+  script: Faire avancer l'histoire !
+  accent_color: '#20B2AA'
+  icon: '2194'
+- name: Suite
+  script: Ce qui vient après !
+  accent_color: '#FFC0CB'
+  icon: 1f517
+- name: Suivre
+  script: Ne pas se perdre !
+  accent_color: '#6B8E23'
+  icon: 1f463
+- name: Avant
+  script: Ce qui précède !
+  accent_color: '#FFA07A'
+  icon: 2b05
+- name: Après
+  script: Ce qui suit !
+  accent_color: '#ADD8E6'
+  icon: 27a1

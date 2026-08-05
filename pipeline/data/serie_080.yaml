@@ -1,0 +1,23 @@
+series:
+  key: serie_080
+  title: Le Robot Cuisinier
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Un robot qui prépare de bons petits plats, avec une recette et plein
+    d'ingrédients !
+items:
+- name: La Recette du Gâteau
+  script: Je suis les étapes pour faire un délicieux gâteau !
+  accent_color: '#87CEEB'
+- name: Les Ingrédients
+  script: Farine, œufs, sucre ! Je ne me trompe pas !
+  accent_color: '#A9A9A9'
+- name: Le Robot Chef
+  script: Je suis le meilleur cuisinier du monde !
+  accent_color: '#90EE90'
+- name: Le Gâteau Délicieux
+  script: Mmmh, c'est un régal ! Bravo robot !
+  accent_color: '#FFB6C1'
+- name: La Mesure Juste
+  script: Je mets la bonne quantité de chaque ingrédient !
+  accent_color: '#FFD700'

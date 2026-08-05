@@ -1,0 +1,26 @@
+series:
+  key: serie63
+  title: Les Petites Icônes Malines !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Sur ton écran, les petits dessins que tu cliques sont des icônes ! Elles
+    cachent des programmes super amusants !
+items:
+- name: Icône
+  script: Un petit dessin qui lance !
+  accent_color: '#ADD8E6'
+- name: Dessin
+  script: Une jolie image !
+  accent_color: '#90EE90'
+- name: Cliquer
+  script: Appuyer sur la souris !
+  accent_color: '#FFD700'
+- name: Lancer
+  script: Démarrer le programme !
+  accent_color: '#FF4500'
+- name: Repérer
+  script: Facile à trouver !
+  accent_color: '#DAA520'
+- name: Symbole
+  script: Une petite image !
+  accent_color: '#9370DB'

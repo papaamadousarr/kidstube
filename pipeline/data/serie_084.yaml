@@ -1,0 +1,23 @@
+series:
+  key: serie_084
+  title: Le Robot Maître d'École
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Le robot peut t'apprendre des choses, te donner des exercices et corriger
+    tes réponses !
+items:
+- name: Les Lettres et les Chiffres
+  script: Je t'apprends à lire et à compter ! Facile !
+  accent_color: '#6495ED'
+- name: Les Jeux Éducatifs
+  script: On apprend en s'amusant ! Youpi !
+  accent_color: '#AFEEEE'
+- name: Les Exercices Intelligents
+  script: Je te donne des défis pour devenir plus fort !
+  accent_color: '#D3D3D3'
+- name: La Correction Magique
+  script: Je te dis si tu as bon ou si tu peux faire mieux !
+  accent_color: '#FFA07A'
+- name: Le Robot Professeur
+  script: Je suis un super professeur, toujours patient !
+  accent_color: '#90EE90'

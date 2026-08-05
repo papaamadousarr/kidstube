@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_030
+  title: Les Modèles Rigolos
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_030
+segments:
+- narration: Les intelligences artificielles aiment trouver des motifs et des formes
+    qui se répètent, comme dans un dessin !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Modèles
+    Rigolos', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un carré, un carré, encore un carré ! Ça se répète !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Motif
+    Carré (Un carré, un carré, encore un carré ! Ça se répète !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un rond, puis un rond ! Facile à deviner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Motif
+    Rond (Un rond, puis un rond ! Facile à deviner !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Rouge, bleu, rouge, bleu ! Je connais la suite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Couleurs qui se Suivent (Rouge, bleu, rouge, bleu ! Je connais la suite !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Bim, boum, bim, boum ! C'est une mélodie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Sons qui se Répètent (Bim, boum, bim, boum ! C'est une mélodie !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Grâce aux motifs, je sais ce qui va arriver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Devine
+    la Suite ! (Grâce aux motifs, je sais ce qui va arriver !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

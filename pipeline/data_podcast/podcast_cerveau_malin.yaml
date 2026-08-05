@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_cerveau_malin
+  title: Les Recettes Secrètes du Cerveau Malin !
+  voice: fr_FR-siwis-medium
+  linked_series_key: cerveau_malin
+segments:
+- narration: Découvrons comment notre cerveau et les ordinateurs font pour tout comprendre
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Recettes
+    Secrètes du Cerveau Malin !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Il pense et apprend, comme toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Cerveau
+    Malin (Il pense et apprend, comme toi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Des étapes à suivre, une par une !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Recette
+    (Des étapes à suivre, une par une !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Ce qu'il faut faire, toujours !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Règle
+    (Ce qu'il faut faire, toujours !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On refait la même chose, encore !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Boucle
+    (On refait la même chose, encore !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je choisis quoi faire maintenant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Décision
+    (Je choisis quoi faire maintenant !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Devenir plus intelligent chaque jour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Apprendre
+    (Devenir plus intelligent chaque jour !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

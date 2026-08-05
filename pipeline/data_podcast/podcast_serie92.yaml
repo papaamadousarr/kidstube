@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie92
+  title: Les Engrenages Amusants !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie92
+segments:
+- narration: Dans le robot, des petites roues dentelées s'accrochent entre elles pour
+    transmettre la force et faire bouger les choses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Engrenages
+    Amusants !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les roues qui s'accrochent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Engrenage
+    (Les roues qui s'accrochent !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire des cercles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourner
+    (Faire des cercles !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre en contact !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Relier
+    (Mettre en contact !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Donner la force !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Transmettre
+    (Donner la force !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La puissance mécanique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Force
+    (La puissance mécanique !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un disque qui roule !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Roue
+    (Un disque qui roule !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

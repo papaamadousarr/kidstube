@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie84
+  title: Le Robot qui Fait Tout Propre !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie84
+segments:
+- narration: Le robot nettoyeur est un magicien de la propreté ! Il lave, aspire et
+    range pour que tout brille !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Fait Tout Propre !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le champion de la propreté !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    Nettoyeur (Le champion de la propreté !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Rendre tout propre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Laver
+    (Rendre tout propre !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Manger la poussière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aspirer
+    (Manger la poussière !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre chaque chose à sa place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ranger
+    (Mettre chaque chose à sa place !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Faire briller !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nettoyer
+    (Faire briller !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Impeccable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Propre
+    (Impeccable !), joyful bright saturated colors, Pixar-style render, no text, no
+    logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

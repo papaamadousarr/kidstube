@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_023
+  title: La Boîte à Mots
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_023
+segments:
+- narration: Comme les nombres, on peut ranger des mots dans des boîtes spéciales
+    qui peuvent changer !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Mots', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je mets mon prénom dans la boîte ! Bonjour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mon
+    Prénom (Je mets mon prénom dans la boîte ! Bonjour !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un chat ou un chien ? Je le range ici !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mon
+    Animal Préféré (Un chat ou un chien ? Je le range ici !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un mot secret que je vais deviner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mot
+    Mystère (Un mot secret que je vais deviner !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon mot d'avant s'en va, un nouveau arrive !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Change
+    de Mot (Mon mot d'avant s'en va, un nouveau arrive !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: J'assemble des mots pour faire une phrase !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Phrase
+    Magique (J'assemble des mots pour faire une phrase !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_064
+  title: La Mise à Jour Amusante
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_064
+segments:
+- narration: L'ordinateur reçoit parfois de nouvelles idées et devient encore plus
+    fort et intelligent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Mise à
+    Jour Amusante', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le robot apprend de nouvelles choses ! Génial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Nouvelles Idées (Le robot apprend de nouvelles choses ! Génial !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Mon jeu est plus beau qu'avant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Belles Couleurs (Mon jeu est plus beau qu'avant !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il y a de nouvelles aventures à explorer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Nouveaux Jeux (Il y a de nouvelles aventures à explorer !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il est devenu encore plus intelligent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Amélioré (Il est devenu encore plus intelligent !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Quelle surprise ! On a de nouvelles fonctions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Nouveauté
+    ! (Quelle surprise ! On a de nouvelles fonctions !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

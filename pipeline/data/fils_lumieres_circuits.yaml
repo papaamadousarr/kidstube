@@ -1,0 +1,32 @@
+series:
+  key: fils_lumieres_circuits
+  title: Les Fils et les Lumières des Circuits !
+  voice: fr_FR-siwis-medium
+  background_color: '#ADD8E6'
+  intro_text: À l'intérieur des machines, des fils transportent des messages lumineux
+    !
+items:
+- name: Circuit
+  script: Un chemin pour que l'électricité circule, comme une route !
+  accent_color: '#FF4500'
+  icon: 269b
+- name: Fil
+  script: Le petit chemin pour que le courant électrique passe !
+  accent_color: '#FFD700'
+  icon: 1f50c
+- name: Courant
+  script: L'énergie qui se promène dans les fils !
+  accent_color: '#32CD32'
+  icon: 26a1
+- name: Lumière
+  script: Des petits signaux lumineux pour dire 'oui' ou 'non' !
+  accent_color: '#1E90FF'
+  icon: 1f4a1
+- name: Composant
+  script: Une petite pièce qui fait un travail dans le circuit !
+  accent_color: '#FF0000'
+  icon: '2699'
+- name: Connecter
+  script: Brancher les fils ensemble pour faire un chemin complet !
+  accent_color: '#FFA500'
+  icon: 1f517

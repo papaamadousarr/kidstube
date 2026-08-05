@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie11
+  title: Le Dérouleur d'Histoires !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie11
+segments:
+- narration: Comme dans un livre, le robot suit une histoire, un scénario où chaque
+    action amène la suivante !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Dérouleur
+    d'Histoires !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le plan de l'histoire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Scénario
+    (Le plan de l'histoire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire avancer l'histoire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dérouler
+    (Faire avancer l'histoire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qui vient après !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suite
+    (Ce qui vient après !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ne pas se perdre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suivre
+    (Ne pas se perdre !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Ce qui précède !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Avant
+    (Ce qui précède !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Ce qui suit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Après
+    (Ce qui suit !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

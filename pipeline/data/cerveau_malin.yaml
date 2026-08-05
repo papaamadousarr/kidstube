@@ -1,0 +1,32 @@
+series:
+  key: cerveau_malin
+  title: Les Recettes Secrètes du Cerveau Malin !
+  voice: fr_FR-siwis-medium
+  background_color: '#F7F3E6'
+  intro_text: Découvrons comment notre cerveau et les ordinateurs font pour tout comprendre
+    !
+items:
+- name: Le Cerveau Malin
+  script: Il pense et apprend, comme toi !
+  accent_color: '#FF9800'
+  icon: 1f9e0
+- name: La Recette
+  script: Des étapes à suivre, une par une !
+  accent_color: '#4CAF50'
+  icon: 1f4dd
+- name: La Règle
+  script: Ce qu'il faut faire, toujours !
+  accent_color: '#FFC107'
+  icon: 1f4cf
+- name: La Boucle
+  script: On refait la même chose, encore !
+  accent_color: '#F44336'
+  icon: 1f501
+- name: La Décision
+  script: Je choisis quoi faire maintenant !
+  accent_color: '#9C27B0'
+  icon: '2696'
+- name: Apprendre
+  script: Devenir plus intelligent chaque jour !
+  accent_color: '#2196F3'
+  icon: 1f4da

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_005
+  title: Les Sons du Robot
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_005
+segments:
+- narration: Écoute bien ! Les robots peuvent faire des sons pour te prévenir ou te
+    parler.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Sons
+    du Robot', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Bip bip ! Attention, il y a un message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bip
+    d'Alerte (Bip bip ! Attention, il y a un message !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tra la la ! Je suis content !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Musique
+    Joyeuse (Tra la la ! Je suis content !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Bonjour, je suis ton ami robot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Voix
+    du Robot (Bonjour, je suis ton ami robot !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Vroom vroom ! Je me mets en mouvement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Son
+    d'Action (Vroom vroom ! Je me mets en mouvement !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chut ! J'écoute attentivement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Silence
+    (Chut ! J'écoute attentivement !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

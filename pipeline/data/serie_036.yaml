@@ -1,0 +1,23 @@
+series:
+  key: serie_036
+  title: Le Chef d'Orchestre du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: L'ordinateur a un chef d'orchestre invisible qui gère tout et fait tout
+    fonctionner en même temps !
+items:
+- name: Le Cerveau du Système
+  script: Je suis le chef qui dit à tout le monde quoi faire !
+  accent_color: '#FFDAB9'
+- name: Je Gère Tout !
+  script: La souris, l'écran, le son ! Tout passe par moi !
+  accent_color: '#9370DB'
+- name: Je Lance les Jeux !
+  script: C'est moi qui démarre tes applications !
+  accent_color: '#8FBC8F'
+- name: Je Mets de l'Ordre
+  script: Je m'assure que personne ne se gêne !
+  accent_color: '#FFDEAD'
+- name: Le Système d'Exploitation
+  script: C'est mon nom de super chef ! Chut !
+  accent_color: '#F0E68C'

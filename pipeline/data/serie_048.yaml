@@ -1,0 +1,23 @@
+series:
+  key: serie_048
+  title: Le Port USB Curieux
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: C'est un petit trou magique où tu peux brancher plein de choses sur
+    l'ordinateur !
+items:
+- name: La Clé USB
+  script: Je mets mes dessins secrets dedans !
+  accent_color: '#87CEFA'
+- name: La Manette de Jeu
+  script: Je la branche pour jouer à mes jeux préférés !
+  accent_color: '#FFB6C1'
+- name: Le Disque Dur Externe
+  script: Je range plein de choses en dehors de l'ordinateur !
+  accent_color: '#9370DB'
+- name: Le Câble du Téléphone
+  script: Je branche mon téléphone pour le recharger !
+  accent_color: '#ADD8E6'
+- name: Le Hub USB
+  script: Un adaptateur pour brancher encore plus de choses !
+  accent_color: '#90EE90'

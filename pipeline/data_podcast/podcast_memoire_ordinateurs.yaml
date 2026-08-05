@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_memoire_ordinateurs
+  title: La Mémoire des Ordinateurs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: memoire_ordinateurs
+segments:
+- narration: Où l'ordinateur se souvient-il de tout ? Dans sa mémoire, bien sûr !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Mémoire
+    des Ordinateurs !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Là où l'ordinateur garde les infos et les souvenirs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mémoire
+    (Là où l'ordinateur garde les infos et les souvenirs !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: La machine se souvient de ce qu'on lui dit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Retenir
+    (La machine se souvient de ce qu'on lui dit !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mettre une info dans la mémoire pour plus tard !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Enregistrer
+    (Mettre une info dans la mémoire pour plus tard !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'ordinateur retrouve une info qu'il avait gardée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Se souvenir
+    (L'ordinateur retrouve une info qu'il avait gardée !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Parfois, il faut vider la mémoire pour de nouvelles choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oublier
+    (Parfois, il faut vider la mémoire pour de nouvelles choses !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Un grand espace pour tout ranger dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Stockage
+    (Un grand espace pour tout ranger dans l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie32
+  title: Les Tuyaux à Infos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie32
+segments:
+- narration: À l'intérieur de l'ordinateur, des petits tuyaux invisibles transportent
+    les informations d'un endroit à un autre, à toute vitesse !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Tuyaux
+    à Infos !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les tuyaux des infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bus
+    (Les tuyaux des infos !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Porter les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Transporter
+    (Porter les infos !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La route des données !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    (La route des données !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Les petits messages !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Informations
+    (Les petits messages !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Comme un éclair !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vite
+    (Comme un éclair !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Se donner les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Échanger
+    (Se donner les infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

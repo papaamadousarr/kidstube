@@ -1,0 +1,32 @@
+series:
+  key: serie47
+  title: Le Code Postal des Infos !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Pour que les messages arrivent au bon endroit, chaque ordinateur a son
+    propre code postal, comme les maisons !
+items:
+- name: Adresse IP
+  script: Le code postal de l'ordi !
+  accent_color: '#40E0D0'
+  icon: 1f4bb
+- name: Trouver
+  script: Chercher la bonne maison !
+  accent_color: '#FFD700'
+  icon: 1f50d
+- name: Envoyer
+  script: Faire partir le message !
+  accent_color: '#FFC0CB'
+  icon: '2709'
+- name: Où
+  script: Le bon endroit !
+  accent_color: '#ADD8E6'
+  icon: 1f4cd
+- name: Destination
+  script: L'endroit où ça va !
+  accent_color: '#DA70D6'
+  icon: 1f3c1
+- name: Numéro
+  script: Le chiffre secret !
+  accent_color: '#6495ED'
+  icon: 1f522

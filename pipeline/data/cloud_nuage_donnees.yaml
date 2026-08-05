@@ -1,0 +1,32 @@
+series:
+  key: cloud_nuage_donnees
+  title: Le Cloud, un Nuage de Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#B0C4DE'
+  intro_text: Imagine un nuage géant où l'on range nos infos sans les garder chez
+    nous !
+items:
+- name: Nuage
+  script: Un endroit très loin où l'ordinateur range des choses !
+  accent_color: '#ADD8E6'
+  icon: '2601'
+- name: Internet
+  script: Le chemin magique pour aller chercher les infos dans le nuage !
+  accent_color: '#87CEEB'
+  icon: 1f310
+- name: Stocker
+  script: Mettre des photos ou des jeux dans le nuage !
+  accent_color: '#6495ED'
+  icon: 1f4e6
+- name: Partager
+  script: Envoyer des choses du nuage à tes amis !
+  accent_color: '#4682B4'
+  icon: 1f91d
+- name: Accéder
+  script: Retrouver tes infos depuis n'importe quel ordinateur !
+  accent_color: '#5F9EA0'
+  icon: 1f511
+- name: Sécurité
+  script: Le nuage protège bien toutes tes affaires !
+  accent_color: '#778899'
+  icon: 1f512

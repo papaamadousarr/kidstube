@@ -1,0 +1,32 @@
+series:
+  key: serie51
+  title: Le Wifi Invisible !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Pour se connecter à internet sans fil, c'est le Wifi qui nous aide,
+    comme une magie invisible qui relie tout !
+items:
+- name: Wifi
+  script: La magie sans fil !
+  accent_color: '#DAA520'
+  icon: 1f4f6
+- name: Sans fil
+  script: Pas de câble qui traîne !
+  accent_color: '#FFD700'
+  icon: 1f4e1
+- name: Invisible
+  script: On ne le voit pas !
+  accent_color: '#A9A9A9'
+  icon: 1f47b
+- name: Connecter
+  script: Relier les amis !
+  accent_color: '#4682B4'
+  icon: 1f517
+- name: Parler
+  script: Échanger des infos !
+  accent_color: '#ADD8E6'
+  icon: 1f5e3
+- name: Onde
+  script: Un petit courant d'air !
+  accent_color: '#B0E0E6'
+  icon: '3030'

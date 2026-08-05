@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_capteurs_curieux
+  title: Les Petits Curieux Capteurs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: capteurs_curieux
+segments:
+- narration: Découvre comment les machines sentent le monde autour d'elles, comme
+    toi avec tes 5 sens !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petits
+    Curieux Capteurs !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: L'oeil ou l'oreille de la machine !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Capteur
+    (L'oeil ou l'oreille de la machine !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le capteur voit ce qui se passe devant lui !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    (Le capteur voit ce qui se passe devant lui !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Le capteur entend les petits bruits !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Entendre
+    (Le capteur entend les petits bruits !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le capteur sent quand on le touche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Toucher
+    (Le capteur sent quand on le touche !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le capteur peut sentir si c'est chaud ou froid !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sentir
+    (Le capteur peut sentir si c'est chaud ou froid !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Quand le capteur voit quelque chose, il réagit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réagir
+    (Quand le capteur voit quelque chose, il réagit !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

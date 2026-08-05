@@ -1,0 +1,23 @@
+series:
+  key: serie_093
+  title: Le Robot Chercheur
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Le robot peut chercher des informations dans de grands livres virtuels
+    et te les apporter !
+items:
+- name: La Question Difficile
+  script: Je te pose une question compliquée !
+  accent_color: '#FFDEAD'
+- name: La Grande Bibliothèque
+  script: Je cherche dans des milliers de livres pour toi !
+  accent_color: '#DDA0DD'
+- name: La Bonne Réponse
+  script: Voilà l'information que tu cherchais ! Bravo !
+  accent_color: '#FFC0CB'
+- name: Le Robot Savant
+  script: Je suis rempli de connaissances ! Incroyable !
+  accent_color: '#ADD8E6'
+- name: L'Exploration
+  script: Je fouille partout pour trouver la bonne info !
+  accent_color: '#98FB98'

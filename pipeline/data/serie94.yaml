@@ -1,0 +1,26 @@
+series:
+  key: serie94
+  title: Les Articulations Magiques !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Pour plier ses bras et ses jambes, le robot a des articulations, comme
+    les tiennes, qui lui donnent une grande souplesse !
+items:
+- name: Articulation
+  script: Le point qui plie !
+  accent_color: '#BDB76B'
+- name: Plier
+  script: Courber une partie !
+  accent_color: '#9370DB'
+- name: Tourner
+  script: Faire pivoter !
+  accent_color: '#FFC0CB'
+- name: Bouger
+  script: Changer de position !
+  accent_color: '#ADD8E6'
+- name: Flexibilité
+  script: Être très souple !
+  accent_color: '#20B2AA'
+- name: Souple
+  script: Facile à plier !
+  accent_color: '#8FBC8F'

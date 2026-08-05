@@ -1,0 +1,32 @@
+series:
+  key: fruits_veggies_fr
+  title: "Les fruits et légumes"
+  voice: fr_FR-siwis-medium
+  background_color: "#FFF8E1"
+  intro_text: "Découvrons les fruits et légumes !"
+
+items:
+  - name: "Pomme"
+    script: "La pomme est un fruit !"
+    icon: apple
+    accent_color: "#E53935"
+  - name: "Banane"
+    script: "La banane est jaune !"
+    icon: banana
+    accent_color: "#FDD835"
+  - name: "Fraise"
+    script: "La fraise est sucrée !"
+    icon: strawberry
+    accent_color: "#D81B60"
+  - name: "Carotte"
+    script: "La carotte est orange !"
+    icon: carrot
+    accent_color: "#FB8C00"
+  - name: "Tomate"
+    script: "La tomate est ronde et rouge !"
+    icon: tomato
+    accent_color: "#E53935"
+  - name: "Brocoli"
+    script: "Le brocoli est un légume vert !"
+    icon: broccoli
+    accent_color: "#43A047"

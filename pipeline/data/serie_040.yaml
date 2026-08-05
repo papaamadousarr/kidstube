@@ -1,0 +1,23 @@
+series:
+  key: serie_040
+  title: Le Projecteur d'Ombres
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Le projecteur est comme une lampe magique qui projette des images sur
+    le mur !
+items:
+- name: La Lumière Forte
+  script: Je brille très fort pour que tu vois bien !
+  accent_color: '#87CEEB'
+- name: L'Image Géante
+  script: Mon dessin devient énorme sur le mur !
+  accent_color: '#A9A9A9'
+- name: Le Film Rigolo
+  script: Je projette un dessin animé ! Chouette !
+  accent_color: '#90EE90'
+- name: Le Mur Écran
+  script: Le mur devient mon écran géant !
+  accent_color: '#FFB6C1'
+- name: L'Ombre Enchantée
+  script: Le projecteur fait de la magie avec la lumière !
+  accent_color: '#FFD700'

@@ -1,0 +1,28 @@
+series:
+  key: shapes_fr
+  title: "Les formes"
+  voice: fr_FR-siwis-medium
+  background_color: "#FFF3E0"
+  intro_text: "Apprenons les formes !"
+
+items:
+  - name: "Cercle"
+    script: "Le cercle est tout rond !"
+    icon: shape_circle
+    accent_color: "#457B9D"
+  - name: "Carré"
+    script: "Le carré a quatre côtés égaux !"
+    icon: shape_square
+    accent_color: "#E63946"
+  - name: "Triangle"
+    script: "Le triangle a trois côtés !"
+    icon: shape_triangle
+    accent_color: "#2A9D8F"
+  - name: "Rectangle"
+    script: "Le rectangle est allongé !"
+    icon: shape_rectangle
+    accent_color: "#F4A261"
+  - name: "Étoile"
+    script: "L'étoile brille dans le ciel !"
+    icon: shape_star
+    accent_color: "#FFD60A"

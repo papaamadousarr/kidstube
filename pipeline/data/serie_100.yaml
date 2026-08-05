@@ -1,0 +1,23 @@
+series:
+  key: serie_100
+  title: Le Robot Intelligent
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Le robot est très intelligent, il peut apprendre, réfléchir et résoudre
+    des problèmes !
+items:
+- name: Le Cerveau qui Apprend
+  script: Plus je vois, plus j'apprends de choses !
+  accent_color: '#87CEEB'
+- name: La Réflexion Rapide
+  script: Je réfléchis très vite pour trouver la bonne réponse !
+  accent_color: '#A9A9A9'
+- name: Le Résolveur de Puzzles
+  script: Tous les problèmes sont des jeux pour moi !
+  accent_color: '#90EE90'
+- name: La Logique Amusante
+  script: Je comprends comment les choses fonctionnent !
+  accent_color: '#FFB6C1'
+- name: L'IA Incroyable
+  script: Je suis l'Intelligence Artificielle ! Super cool !
+  accent_color: '#FFD700'

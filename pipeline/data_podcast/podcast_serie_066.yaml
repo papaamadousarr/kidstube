@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_066
+  title: La Navigation Curieuse
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_066
+segments:
+- narration: Naviguer, c'est comme voyager sur Internet d'une page à l'autre, pour
+    découvrir plein de choses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Navigation
+    Curieuse', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: C'est une page d'images et de textes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Site
+    Web (C'est une page d'images et de textes !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je clique et hop, je suis sur une autre page !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Lien
+    Magique (Je clique et hop, je suis sur une autre page !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je reviens à la page d'avant ! Facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Flèche
+    Retour (Je reviens à la page d'avant ! Facile !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque page a une adresse pour la retrouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Adresse
+    Secrète (Chaque page a une adresse pour la retrouver !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je voyage partout et j'apprends plein de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Découverte
+    (Je voyage partout et j'apprends plein de choses !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

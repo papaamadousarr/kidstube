@@ -1,0 +1,25 @@
+series:
+  key: serie_23
+  title: Le Gardien du Calendrier !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: L'ordinateur est un expert pour savoir quand faire chaque chose !
+items:
+- name: Rendez-vous programmé
+  script: Une tâche doit se faire à une heure précise !
+  accent_color: '#9370DB'
+- name: Heure précise
+  script: Il connaît le moment exact pour agir !
+  accent_color: '#8A2BE2'
+- name: Attendre un peu
+  script: Parfois, il doit patienter avant de commencer !
+  accent_color: '#BA55D3'
+- name: Démarrer tout seul
+  script: Quand l'heure arrive, il se met en route !
+  accent_color: '#9932CC'
+- name: Compte à rebours
+  script: Il décompte le temps avant l'action !
+  accent_color: '#DA70D6'
+- name: Moment choisi
+  script: Il sait exactement quand c'est le bon moment !
+  accent_color: '#C71585'

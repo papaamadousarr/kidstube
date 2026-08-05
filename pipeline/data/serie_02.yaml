@@ -1,0 +1,22 @@
+series:
+  key: serie_02
+  title: Les Voies Express des Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Imagine des routes super rapides pour que les infos voyagent !
+items:
+- name: Chemin rapide
+  script: Les informations vont à toute vitesse !
+  accent_color: '#90EE90'
+- name: Gros tuyau
+  script: Pour faire passer plein de choses en même temps !
+  accent_color: '#3CB371'
+- name: Vitesse
+  script: À quelle vitesse ça va ? C'est impressionnant !
+  accent_color: '#2E8B57'
+- name: Paquet
+  script: Les infos voyagent par petits colis !
+  accent_color: '#006400'
+- name: Débit
+  script: C'est la quantité d'informations qui passe !
+  accent_color: '#228B22'

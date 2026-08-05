@@ -1,0 +1,23 @@
+series:
+  key: serie_003
+  title: Les Ordres Cachés du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Les robots suivent des ordres très précis, comme des petits pas dans
+    une danse !
+items:
+- name: Avance !
+  script: Fais un pas en avant ! Youpi !
+  accent_color: '#98FB98'
+- name: Tourne à Droite !
+  script: Pivote de ce côté ! Hop !
+  accent_color: '#ADD8E6'
+- name: Tourne à Gauche !
+  script: Pivote de l'autre côté ! Houra !
+  accent_color: '#FFDEAD'
+- name: Recule !
+  script: Fais un pas en arrière ! Oups !
+  accent_color: '#FFC0CB'
+- name: Arrête-toi !
+  script: Stop ! Je me repose un peu !
+  accent_color: '#DDA0DD'

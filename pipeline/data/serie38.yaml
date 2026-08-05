@@ -1,0 +1,32 @@
+series:
+  key: serie38
+  title: La Manette Magique !
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Pour faire bouger les robots dans un jeu, on utilise une manette magique,
+    pleine de boutons et de secrets !
+items:
+- name: Manette
+  script: Le contrôle du jeu !
+  accent_color: '#6A5ACD'
+  icon: 1f3ae
+- name: Jouer
+  script: S'amuser comme un fou !
+  accent_color: '#FFD700'
+  icon: 1f579
+- name: Contrôler
+  script: Diriger le robot !
+  accent_color: '#1E90FF'
+  icon: 1f579
+- name: Diriger
+  script: Indiquer le chemin !
+  accent_color: '#FF69B4'
+  icon: 1f9ed
+- name: Action
+  script: Faire quelque chose !
+  accent_color: '#FFA500'
+  icon: 26a1
+- name: Bouton
+  script: Une petite touche !
+  accent_color: '#DAA520'
+  icon: 1f518

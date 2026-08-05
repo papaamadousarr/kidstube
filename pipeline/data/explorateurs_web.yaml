@@ -1,0 +1,27 @@
+series:
+  key: explorateurs_web
+  title: Les Petits Explorateurs du Web !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F4C3'
+  intro_text: Partons à l'aventure sur les chemins cachés d'Internet !
+items:
+- name: Internet !
+  script: Le grand réseau qui nous relie tous !
+  accent_color: '#8BC34A'
+  icon: 1f310
+- name: Message !
+  script: Ce que l'on envoie ou reçoit !
+  accent_color: '#FF9800'
+  icon: 1f4ac
+- name: Écran !
+  script: La fenêtre magique pour voir tout ça !
+  accent_color: '#00BCD4'
+  icon: 1f5a5
+- name: Connexion !
+  script: On est branchés ensemble !
+  accent_color: '#795548'
+  icon: 1f517
+- name: Partager !
+  script: Montrer aux amis ce qu'on trouve !
+  accent_color: '#673AB7'
+  icon: 1f4e4

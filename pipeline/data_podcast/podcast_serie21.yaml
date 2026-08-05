@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie21
+  title: Les Copies Cachées des Infos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie21
+segments:
+- narration: Imagine que tu as une copie de ton dessin préféré, au cas où l'original
+    serait abîmé ! Le robot fait pareil avec les informations.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Copies
+    Cachées des Infos !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Une copie de secours !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Backup
+    (Une copie de secours !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un double parfait !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Copie
+    (Un double parfait !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Protéger les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sécurité
+    (Protéger les infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Garder en mémoire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Enregistrer
+    (Garder en mémoire !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Chercher et trouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Retrouver
+    (Chercher et trouver !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire une autre copie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dupliquer
+    (Faire une autre copie !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

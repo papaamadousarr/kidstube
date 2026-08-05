@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie82
+  title: Les Robots qui S'aident !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie82
+segments:
+- narration: Plusieurs robots peuvent travailler ensemble et partager leurs idées
+    ! C'est l'intelligence collective, la force de l'équipe !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Robots
+    qui S'aident !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Tous ensemble, plus forts !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Intelligence
+    collective (Tous ensemble, plus forts !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Travailler à plusieurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ensemble
+    (Travailler à plusieurs !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Donner ses idées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    (Donner ses idées !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Donner un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aider
+    (Donner un coup de main !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Invincibles à plusieurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plus
+    forts (Invincibles à plusieurs !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Une bande d'amis robots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Équipe
+    (Une bande d'amis robots !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

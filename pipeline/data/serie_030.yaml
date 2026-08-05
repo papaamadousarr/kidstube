@@ -1,0 +1,23 @@
+series:
+  key: serie_030
+  title: Les Modèles Rigolos
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Les intelligences artificielles aiment trouver des motifs et des formes
+    qui se répètent, comme dans un dessin !
+items:
+- name: Le Motif Carré
+  script: Un carré, un carré, encore un carré ! Ça se répète !
+  accent_color: '#87CEEB'
+- name: Le Motif Rond
+  script: Un rond, puis un rond ! Facile à deviner !
+  accent_color: '#A9A9A9'
+- name: Les Couleurs qui se Suivent
+  script: Rouge, bleu, rouge, bleu ! Je connais la suite !
+  accent_color: '#90EE90'
+- name: Les Sons qui se Répètent
+  script: Bim, boum, bim, boum ! C'est une mélodie !
+  accent_color: '#FFB6C1'
+- name: Je Devine la Suite !
+  script: Grâce aux motifs, je sais ce qui va arriver !
+  accent_color: '#FFD700'

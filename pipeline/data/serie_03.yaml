@@ -1,0 +1,22 @@
+series:
+  key: serie_03
+  title: Le Maître des Masques !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Comment garder nos secrets bien cachés dans l'ordinateur ?
+items:
+- name: Cachette
+  script: Un endroit sûr pour nos informations !
+  accent_color: '#FF69B4'
+- name: Visage flou
+  script: On ne reconnaît plus personne, c'est secret !
+  accent_color: '#C71585'
+- name: Secret bien gardé
+  script: Seuls les amis autorisés peuvent le voir !
+  accent_color: '#DB7093'
+- name: Partage malin
+  script: On donne juste un petit bout d'info, pas tout !
+  accent_color: '#FF1493'
+- name: Identité
+  script: Qui tu es ? C'est ton secret !
+  accent_color: '#FFC0CB'

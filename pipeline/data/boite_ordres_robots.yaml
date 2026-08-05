@@ -1,0 +1,27 @@
+series:
+  key: boite_ordres_robots
+  title: La Boîte à Ordres des Robots !
+  voice: fr_FR-siwis-medium
+  background_color: '#E3F2FD'
+  intro_text: Avec des ordres simples, on fait bouger nos amis robots !
+items:
+- name: Ordre !
+  script: C'est ce que je dis de faire !
+  accent_color: '#2196F3'
+  icon: 1f4dc
+- name: Fais !
+  script: Le robot obéit et bouge !
+  accent_color: '#4CAF50'
+  icon: 1f4aa
+- name: Suite !
+  script: Une chose après l'autre, dans l'ordre !
+  accent_color: '#FFC107'
+  icon: 25b6
+- name: Répète !
+  script: Encore et encore, sans t'arrêter !
+  accent_color: '#E91E63'
+  icon: 1f501
+- name: Bouton !
+  script: Appuie pour commencer ou changer !
+  accent_color: '#9C27B0'
+  icon: 1f518

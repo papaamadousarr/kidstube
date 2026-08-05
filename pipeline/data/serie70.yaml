@@ -1,0 +1,26 @@
+series:
+  key: serie70
+  title: Le Bouton Valider, C'est Parti !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Quand tu as fini de choisir, tu appuies sur le bouton 'Valider' pour
+    dire 'oui' et lancer l'action ! C'est parti !
+items:
+- name: Bouton valider
+  script: Le bouton du 'oui' !
+  accent_color: '#BDB76B'
+- name: Confirmer
+  script: Dire que c'est bon !
+  accent_color: '#32CD32'
+- name: Accepter
+  script: Être d'accord !
+  accent_color: '#90EE90'
+- name: Dire oui
+  script: Mon choix est fait !
+  accent_color: '#FFD700'
+- name: Lancer
+  script: Démarrer l'action !
+  accent_color: '#FF4500'
+- name: Aller
+  script: Passer à l'étape suivante !
+  accent_color: '#DAA520'

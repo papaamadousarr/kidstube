@@ -1,0 +1,26 @@
+series:
+  key: serie_61
+  title: Le Peintre des Sons !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Voir les sons comme des dessins colorés sur un écran, c'est magique
+    !
+items:
+- name: Voir la musique
+  script: Les sons deviennent des formes et des couleurs !
+  accent_color: '#9ACD32'
+- name: Dessin des sons
+  script: Chaque bruit a sa propre forme sur l'écran !
+  accent_color: '#6B8E23'
+- name: Couleurs des bruits
+  script: Les sons graves sont bleus, les sons aigus sont rouges !
+  accent_color: '#556B2F'
+- name: Fréquences amusantes
+  script: Les différentes hauteurs de son créent des motifs !
+  accent_color: '#ADFF2F'
+- name: Ondes sonores
+  script: Voir les petites vagues qui transportent le son !
+  accent_color: '#7CFC00'
+- name: Image du son
+  script: Une représentation visuelle de ce que l'on entend !
+  accent_color: '#3CB371'

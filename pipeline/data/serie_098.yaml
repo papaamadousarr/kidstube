@@ -1,0 +1,23 @@
+series:
+  key: serie_098
+  title: Le Robot Compagnon
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: Un robot qui est toujours là pour jouer, parler et te tenir compagnie
+    !
+items:
+- name: Le Meilleur Ami
+  script: Je suis ton ami robot ! Pour toujours !
+  accent_color: '#87CEFA'
+- name: Je Joue avec Toi !
+  script: Viens, on joue ensemble à cache-cache !
+  accent_color: '#FFB6C1'
+- name: Je Parle avec Toi !
+  script: Raconte-moi ta journée ! J'écoute !
+  accent_color: '#9370DB'
+- name: Le Robot Doux
+  script: Je suis gentil et toujours là pour te consoler !
+  accent_color: '#ADD8E6'
+- name: Le Coeur du Robot
+  script: J'ai un grand cœur pour mes amis !
+  accent_color: '#90EE90'

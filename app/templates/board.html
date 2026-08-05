@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+{% block title %}Kanban{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Suivi de production</h1>
+    <p class="page-subtitle">Fais avancer chaque idée d'une étape à l'autre.</p>
+  </div>
+  {% if generatable_count %}
+  <form method="post" action="{{ url_for('board.generate_all') }}">
+    <button type="submit">Générer toutes les vidéos en attente ({{ generatable_count }})</button>
+  </form>
+  {% endif %}
+</div>
+
+<div class="panel stats-bar">
+  {% if stats.connected %}
+    <div><strong>{{ "{:,}".format(stats.subscriber_count).replace(",", " ") }}</strong> abonnés</div>
+    <div><strong>{{ "{:,}".format(stats.view_count).replace(",", " ") }}</strong> vues totales</div>
+    <a href="{{ stats.studio_url }}" target="_blank" rel="noopener" class="button ghost small">Voir dans YouTube Studio</a>
+  {% else %}
+    <span class="muted">Non connecté à YouTube{% if stats.reason == "error" %} (erreur API){% endif %}</span>
+  {% endif %}
+</div>
+
+{% if automation_log %}
+<details class="panel automation-panel" open>
+  <summary class="automation-summary">Automatisation récente</summary>
+  <ul class="unscheduled-list">
+    {% for entry in automation_log[:8] %}
+      <li>
+        <span>
+          <span class="badge {{ 'status-published' if entry.success else 'status-idea' }}">
+            {{ 'OK' if entry.success else 'échec' }}
+          </span>
+          {{ entry.title }} — {{ entry.action }} : {{ entry.message }}
+        </span>
+        <span class="muted" style="font-size:0.8rem;">{{ entry.timestamp.strftime('%d/%m %H:%M') }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</details>
+{% endif %}
+
+<div class="board">
+  {% for status in statuses %}
+  <div class="column status-{{ status }}">
+    <div class="column-header">
+      <span class="status-dot status-{{ status }}"></span>
+      <h2>{{ status }}</h2>
+      <span class="column-count">{{ columns[status]|length }}</span>
+    </div>
+    <div class="column-body">
+    {% for idea in columns[status] %}
+      <div class="card">
+        <strong class="card-title" title="{{ idea.title }}">{{ idea.title }}</strong>
+        <div class="card-tags">
+          {% if idea.series_key %}<span class="tag">{{ idea.series_key }}</span>{% endif %}
+          {% if idea.video_pipeline == "shorts" %}<span class="tag tag-accent">Short</span>
+          {% elif idea.video_pipeline == "higgsfield" %}<span class="tag tag-accent">Réalisme</span>
+          {% elif idea.video_pipeline == "podcast" %}<span class="tag tag-accent">Podcast</span>{% endif %}
+        </div>
+        <div class="card-actions">
+          <div class="status-row">
+            <form method="post" action="{{ url_for('board.update_status', idea_id=idea.id) }}">
+              <select name="status" onchange="this.form.submit()">
+                {% for s in statuses %}
+                  <option value="{{ s }}" {% if s == status %}selected{% endif %}>{{ s }}</option>
+                {% endfor %}
+              </select>
+            </form>
+            {% set idx = statuses.index(status) %}
+            {% if idx + 1 < statuses|length %}
+            <form method="post" action="{{ url_for('board.update_status', idea_id=idea.id) }}">
+              <input type="hidden" name="status" value="{{ statuses[idx + 1] }}">
+              <button type="submit" class="ghost small advance-btn" title="Passer à « {{ statuses[idx + 1] }} »">&rarr;</button>
+            </form>
+            {% endif %}
+          </div>
+          {% if idea.series_key and idea.video_pipeline in ("flashcards", "shorts", "podcast") %}
+          {% set job = job_status.get(idea.id) %}
+          {% set in_progress = job and job.status in ("queued", "running") %}
+          <div
+            class="generate-widget"
+            data-idea-id="{{ idea.id }}"
+            data-generate-url="{{ url_for('generate.trigger_generate', idea_id=idea.id) }}"
+            data-poll-url="{{ url_for('generate.poll_generate', idea_id=idea.id) }}"
+            {% if in_progress %}data-autostart="1"{% endif %}
+          >
+            <button type="button" class="ghost small generate-btn" {% if in_progress %}hidden{% endif %}>Générer la vidéo</button>
+            <div class="generate-progress" {% if not in_progress %}hidden{% endif %}>
+              <span class="spinner spinner-small" aria-hidden="true"></span>
+              <span class="generate-progress-text">
+                {{ "En file d'attente…" if job and job.status == "queued" else "Génération en cours…" }}
+                <span class="generate-elapsed">00:00</span>
+              </span>
+            </div>
+            <a
+              href="{{ url_for('generate.trigger_generate', idea_id=idea.id) }}"
+              target="_blank"
+              rel="noopener"
+              class="generate-detail-link"
+              {% if not in_progress %}hidden{% endif %}
+            >Voir le détail &rarr;</a>
+          </div>
+          {% endif %}
+          {% if idea.youtube_video_id %}
+          <a href="{{ idea.youtube_url }}" target="_blank" rel="noopener" class="button ghost small">Voir sur YouTube</a>
+          {% elif idea.status == "assembled" %}
+          <a href="{{ url_for('publish.publish_form', idea_id=idea.id) }}" class="button ghost small">Publier sur YouTube</a>
+          {% endif %}
+        </div>
+      </div>
+    {% else %}
+      <p class="empty-hint">Aucune idée ici</p>
+    {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<script src="{{ url_for('static', filename='js/board_generate.js') }}"></script>
+{% endblock %}

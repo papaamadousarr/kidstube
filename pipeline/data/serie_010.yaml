@@ -1,0 +1,26 @@
+series:
+  key: serie_010
+  title: Le Bras Articulé
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Le bras du robot peut bouger et atteindre plein d'endroits différents
+    !
+items:
+- name: Le Coude du Bras
+  script: Je plie mon bras comme toi !
+  accent_color: '#FFDAB9'
+- name: L'Épaule du Bras
+  script: Je tourne mon bras tout autour !
+  accent_color: '#8FBC8F'
+- name: Le Poignet du Bras
+  script: Je fais pivoter ma main avec agilité !
+  accent_color: '#AFEEEE'
+- name: Je Monte !
+  script: Mon bras s'élève vers le ciel !
+  accent_color: '#ADD8E6'
+- name: Je Descends !
+  script: Mon bras redescend doucement !
+  accent_color: '#FFC0CB'
+- name: J'allonge !
+  script: Mon bras s'étire loin, loin !
+  accent_color: '#F0E68C'

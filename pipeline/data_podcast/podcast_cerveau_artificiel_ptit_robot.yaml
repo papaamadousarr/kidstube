@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_cerveau_artificiel_ptit_robot
+  title: Le Cerveau Artificiel de P'tit Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: cerveau_artificiel_ptit_robot
+segments:
+- narration: Découvrons comment P'tit Robot devient super intelligent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Cerveau
+    Artificiel de P'tit Robot !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: P'tit Robot devient plus malin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Apprendre
+    ! (P'tit Robot devient plus malin !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le capteur est son œil malin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    ! (Le capteur est son œil malin !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le capteur est son oreille attentive !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Entendre
+    ! (Le capteur est son oreille attentive !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: P'tit Robot fait un choix tout seul !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décider
+    ! (P'tit Robot fait un choix tout seul !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: C'est lui qui aide P'tit Robot à penser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cerveau
+    IA ! (C'est lui qui aide P'tit Robot à penser !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Ce que P'tit Robot nous dit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réponse
+    ! (Ce que P'tit Robot nous dit !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

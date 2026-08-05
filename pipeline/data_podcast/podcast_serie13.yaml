@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie13
+  title: Les Secrets de la Réponse !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie13
+segments:
+- narration: Quand tu poses une question au robot, il cherche la meilleure réponse
+    en suivant des étapes secrètes !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Secrets
+    de la Réponse !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Ce que je veux savoir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Question
+    (Ce que je veux savoir !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le secret dévoilé !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réponse
+    (Le secret dévoilé !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La bonne trouvaille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Solution
+    (La bonne trouvaille !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Partir à l'aventure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chercher
+    (Partir à l'aventure !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre la main dessus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    (Mettre la main dessus !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Avoir la connaissance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Savoir
+    (Avoir la connaissance !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

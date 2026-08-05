@@ -1,0 +1,23 @@
+series:
+  key: serie_029
+  title: Le Chercheur de Trésors
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: L'ordinateur est un détective qui trouve n'importe quel mot ou fichier
+    en un clin d'œil !
+items:
+- name: Le Mot à Trouver
+  script: Je cherche le mot 'soleil' ! Où est-il ?
+  accent_color: '#6495ED'
+- name: La Loupe Virtuelle
+  script: Je regarde partout pour le trouver !
+  accent_color: '#AFEEEE'
+- name: Le Résultat
+  script: Voilà ! J'ai trouvé ton mot ! Youpi !
+  accent_color: '#D3D3D3'
+- name: Le Fichier Perdu
+  script: Oups, j'ai perdu mon dessin ! Aide-moi !
+  accent_color: '#FFA07A'
+- name: Je Trouve Tout !
+  script: L'ordinateur trouve même les choses cachées !
+  accent_color: '#90EE90'

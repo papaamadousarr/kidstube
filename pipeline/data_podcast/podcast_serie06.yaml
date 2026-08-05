@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie06
+  title: Les Penseurs en Équipe !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie06
+segments:
+- narration: Parfois, plusieurs robots travaillent ensemble pour résoudre un gros
+    problème ! C'est la force de l'équipe !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Penseurs
+    en Équipe !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Travailler ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Collaboration
+    (Travailler ensemble !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Donner ses idées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    (Donner ses idées !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Une bonne pensée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Idée
+    (Une bonne pensée !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Créer quelque chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Construire
+    (Créer quelque chose !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Donner un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aider
+    (Donner un coup de main !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pas tout seul !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ensemble
+    (Pas tout seul !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

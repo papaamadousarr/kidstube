@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie43
+  title: Le Grand Afficheur d'Images !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie43
+segments:
+- narration: Pour montrer des images en super grand sur le mur, l'ordinateur utilise
+    un projecteur, comme une lampe magique !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Grand
+    Afficheur d'Images !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La lampe à images !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Projecteur
+    (La lampe à images !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire voir à tous !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Montrer
+    (Faire voir à tous !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Énorme sur le mur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Grand
+    (Énorme sur le mur !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Une jolie photo !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    (Une jolie photo !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La surface géante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mur
+    (La surface géante !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: La toile magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écran
+    (La toile magique !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

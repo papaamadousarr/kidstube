@@ -1,0 +1,22 @@
+series:
+  key: serie_008
+  title: Les Yeux du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Le robot a des yeux magiques pour voir le monde comme nous !
+items:
+- name: Je vois les Couleurs !
+  script: Rouge, bleu, jaune ! Je les connais toutes !
+  accent_color: '#FF6347'
+- name: Je vois les Formes !
+  script: Rond, carré, triangle ! C'est clair !
+  accent_color: '#87CEFA'
+- name: Je vois les Objets !
+  script: Une balle, un livre, une fleur ! Je sais ce que c'est !
+  accent_color: '#3CB371'
+- name: Je vois les Visages !
+  script: Coucou ! C'est toi, mon ami !
+  accent_color: '#FFD700'
+- name: Je vois où je Vais !
+  script: Plus de bêtises, je ne me cogne plus !
+  accent_color: '#D8BFD8'

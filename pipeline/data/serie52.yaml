@@ -1,0 +1,32 @@
+series:
+  key: serie52
+  title: Les Murs de la Vie Privée !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Pour protéger tes secrets sur internet, des murs magiques transforment
+    tes messages en codes, que seul toi peux comprendre !
+items:
+- name: Cryptage
+  script: Transformer en secret !
+  accent_color: '#8B0000'
+  icon: 1f510
+- name: Cacher
+  script: Mettre à l'abri !
+  accent_color: '#A9A9A9'
+  icon: 1f648
+- name: Secret
+  script: Chut, c'est entre nous !
+  accent_color: '#DAA520'
+  icon: 1f92b
+- name: Protéger
+  script: Éviter les curieux !
+  accent_color: '#4682B4'
+  icon: 1f6e1
+- name: Personne
+  script: Personne d'autre ne voit !
+  accent_color: '#808080'
+  icon: 1f464
+- name: Sécurité
+  script: Totalement protégé !
+  accent_color: '#32CD32'
+  icon: 1f512

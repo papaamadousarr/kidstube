@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie22
+  title: La Corbeille Magique !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie22
+segments:
+- narration: Quand on ne veut plus d'une information, on la jette dans la corbeille.
+    Mais parfois, on peut la récupérer, comme par magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Corbeille
+    Magique !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Jeter l'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Supprimer
+    (Jeter l'info !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Faire disparaître !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Effacer
+    (Faire disparaître !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre à la poubelle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jeter
+    (Mettre à la poubelle !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Rendre vide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vider
+    (Rendre vide !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Reprendre son trésor !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Récupérer
+    (Reprendre son trésor !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ne plus y penser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oublier
+    (Ne plus y penser !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

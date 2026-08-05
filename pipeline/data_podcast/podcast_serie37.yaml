@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie37
+  title: Les Oreilles Discrètes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie37
+segments:
+- narration: Avec des oreilles spéciales, le robot peut écouter sa musique sans déranger
+    personne ! C'est super discret.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Oreilles
+    Discrètes !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les oreilles privées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Casque
+    (Les oreilles privées !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Tendre l'oreille !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écouter
+    (Tendre l'oreille !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Une mélodie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Son
+    (Une mélodie !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Juste pour moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Privé
+    (Juste pour moi !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour tout entendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oreilles
+    (Pour tout entendre !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Sans faire de bruit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Discret
+    (Sans faire de bruit !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,23 @@
+series:
+  key: serie_092
+  title: Le Robot Messager
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Il transmet des messages et des infos d'une personne à l'autre, très
+    rapidement !
+items:
+- name: Le Message Secret
+  script: J'apporte ton message à ton ami ! Chut !
+  accent_color: '#FFD700'
+- name: La Livraison Immédiate
+  script: Ton message arrive en un clin d'œil !
+  accent_color: '#FFA07A'
+- name: Le Robot Rapide
+  script: Je cours très vite pour livrer les infos !
+  accent_color: '#ADFF2F'
+- name: L'Écriture Robot
+  script: Je tape le message pour toi ! Quel talent !
+  accent_color: '#98FB98'
+- name: L'Envoi et la Réception
+  script: J'envoie les messages et je reçois les réponses !
+  accent_color: '#FFB6C1'

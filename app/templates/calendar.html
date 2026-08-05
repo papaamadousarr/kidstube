@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% block title %}Calendrier{% endblock %}
+{% block content %}
+<div class="page-header">
+  <h1>{{ month_name }} {{ year }}</h1>
+  <div class="calendar-nav">
+    <a class="button ghost small" href="{{ url_for('calendar.calendar_view', year=prev_year, month=prev_month) }}">&larr; Précédent</a>
+    <a class="button ghost small" href="{{ url_for('calendar.calendar_view', year=next_year, month=next_month) }}">Suivant &rarr;</a>
+  </div>
+</div>
+
+<div class="calendar-wrap">
+<table class="calendar">
+  <thead>
+    <tr><th>Lun</th><th>Mar</th><th>Mer</th><th>Jeu</th><th>Ven</th><th>Sam</th><th>Dim</th></tr>
+  </thead>
+  <tbody>
+  {% for week in weeks %}
+    <tr>
+    {% for day in week %}
+      <td class="{{ 'empty' if day == 0 else '' }} {{ 'today' if day == today_day and month == today_month and year == today_year else '' }}">
+      {% if day != 0 %}
+        <div class="day-num">{{ day }}</div>
+        {% for idea in ideas_by_day.get(day, []) %}
+          <div class="event status-{{ idea.status }}">
+            {% if idea.video_pipeline == "shorts" %}<span class="event-pipeline" title="Short">S</span>
+            {% elif idea.video_pipeline == "higgsfield" %}<span class="event-pipeline" title="Réalisme">R</span>
+            {% elif idea.video_pipeline == "podcast" %}<span class="event-pipeline" title="Podcast">P</span>{% endif %}
+            <a href="{{ url_for('ideas.edit_idea', idea_id=idea.id) }}" class="event-title">
+              {{ idea.title }}{% if idea.scheduled_time %} <span class="event-time">{{ idea.scheduled_time.strftime('%H:%M') }}</span>{% endif %}
+            </a>
+            <form method="post" action="{{ url_for('calendar.schedule_idea', idea_id=idea.id) }}" class="event-remove"
+                  onsubmit="return confirm('Retirer cette idée du calendrier ?');">
+              <input type="hidden" name="year" value="{{ year }}">
+              <input type="hidden" name="month" value="{{ month }}">
+              <input type="hidden" name="scheduled_date" value="">
+              <button type="submit" title="Retirer du calendrier">&times;</button>
+            </form>
+          </div>
+        {% endfor %}
+      {% endif %}
+      </td>
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% if generation_error %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>{{ generation_error }}</span>
+</div>
+{% endif %}
+
+<h2 class="section-title">Programmation automatique</h2>
+<div class="panel" style="max-width:none;">
+  <p class="page-subtitle" style="margin-top:0;">S'il n'y a pas assez d'idées disponibles, de nouvelles sont générées automatiquement avec Gemini pour compléter.</p>
+  <form method="post" action="{{ url_for('calendar.auto_schedule') }}" class="form" style="flex-direction:row; flex-wrap:wrap; align-items:flex-end; gap:1rem;">
+    <label>Nombre d'idées
+      <input type="number" name="count" min="1" value="{{ unscheduled|length if unscheduled else 3 }}">
+    </label>
+    <label>Vidéos par jour
+      <input type="number" name="videos_per_day" min="1" value="1">
+    </label>
+    <label>Tous les combien de jours
+      <input type="number" name="interval_days" min="1" value="3">
+    </label>
+    <label>À partir du
+      <input type="date" name="start_date" value="{{ today_iso }}">
+    </label>
+    <label>Heure de publication
+      <input type="time" name="publish_time" value="10:00">
+    </label>
+    <div class="form-actions">
+      <button type="submit">Programmer automatiquement</button>
+    </div>
+  </form>
+</div>
+
+<h2 class="section-title">Idées non programmées</h2>
+{% if unscheduled %}
+<ul class="unscheduled-list">
+{% for idea in unscheduled %}
+  <li>
+    <span>
+      {{ idea.title }}
+      {% if idea.video_pipeline == "shorts" %}<span class="tag tag-accent">Short</span>
+      {% elif idea.video_pipeline == "higgsfield" %}<span class="tag tag-accent">Réalisme</span>
+      {% elif idea.video_pipeline == "podcast" %}<span class="tag tag-accent">Podcast</span>{% endif %}
+    </span>
+    <form method="post" action="{{ url_for('calendar.schedule_idea', idea_id=idea.id) }}">
+      <input type="hidden" name="year" value="{{ year }}">
+      <input type="hidden" name="month" value="{{ month }}">
+      <input type="date" name="scheduled_date" required>
+      <input type="time" name="scheduled_time" value="10:00">
+      <button type="submit" class="ghost small">Programmer</button>
+    </form>
+  </li>
+{% endfor %}
+</ul>
+{% else %}
+<p class="muted">Aucune idée en attente de programmation.</p>
+{% endif %}
+{% endblock %}

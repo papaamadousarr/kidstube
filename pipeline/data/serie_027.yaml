@@ -1,0 +1,23 @@
+series:
+  key: serie_027
+  title: Le Déplaceur de Fichiers
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: On peut prendre un dessin et le ranger dans une autre boîte, sans le
+    copier, juste le déplacer !
+items:
+- name: Je Coupe !
+  script: Je prends mon dessin d'ici ! Hop !
+  accent_color: '#FFDAB9'
+- name: Je Colle Ailleurs !
+  script: Je le mets dans ma nouvelle boîte ! C'est sa nouvelle maison !
+  accent_color: '#8FBC8F'
+- name: L'Ancien Endroit
+  script: Mon dessin n'est plus là où il était !
+  accent_color: '#AFEEEE'
+- name: Le Nouvel Endroit
+  script: Il est bien rangé à sa nouvelle place !
+  accent_color: '#ADD8E6'
+- name: Je Range Mieux !
+  script: Je mets de l'ordre dans mes affaires !
+  accent_color: '#FFC0CB'

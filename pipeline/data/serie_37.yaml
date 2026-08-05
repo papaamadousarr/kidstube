@@ -1,0 +1,23 @@
+series:
+  key: serie_37
+  title: Les Écrans Partagés !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Quand plusieurs écrans s'unissent pour faire une seule grande image
+    !
+items:
+- name: Plusieurs vues
+  script: Chaque écran montre une partie de l'image !
+  accent_color: '#87CEEB'
+- name: Travailler ensemble
+  script: Les écrans s'associent pour une grande tâche !
+  accent_color: '#00BFFF'
+- name: Voir tout
+  script: Pour avoir une vision complète et géante !
+  accent_color: '#1E90FF'
+- name: Grand panorama
+  script: Une image immense qui s'étale sur plusieurs écrans !
+  accent_color: '#6495ED'
+- name: Écran géant
+  script: C'est comme avoir un écran gigantesque !
+  accent_color: '#4169E1'

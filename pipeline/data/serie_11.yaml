@@ -1,0 +1,26 @@
+series:
+  key: serie_11
+  title: Le Traducteur Universel !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Comment l'ordinateur nous aide à comprendre toutes les langues du monde
+    ?
+items:
+- name: Comprendre les mots
+  script: Il sait ce que chaque mot veut dire !
+  accent_color: '#BDB76B'
+- name: Changer de langue
+  script: Il passe du français à l'anglais, et vice-versa !
+  accent_color: '#DAA520'
+- name: Dictionnaire magique
+  script: Il connaît tous les mots de toutes les langues !
+  accent_color: '#F0E68C'
+- name: Parler à tous
+  script: Il aide tout le monde à se comprendre !
+  accent_color: '#D2B48C'
+- name: Écoute attentive
+  script: Il écoute bien ce que tu dis !
+  accent_color: '#BC8F8F'
+- name: Sens des phrases
+  script: Il comprend ce que veut dire toute une phrase !
+  accent_color: '#C0C0C0'

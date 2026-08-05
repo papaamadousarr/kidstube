@@ -1,0 +1,32 @@
+series:
+  key: serie40
+  title: La WebCam qui Sourit !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: L'ordinateur a un petit œil magique qui peut te voir et te filmer, pour
+    parler à tes amis loin de toi !
+items:
+- name: Webcam
+  script: L'œil de l'ordinateur !
+  accent_color: '#48D1CC'
+  icon: 1f4f7
+- name: Filmer
+  script: Enregistrer des images !
+  accent_color: '#FFC0CB'
+  icon: 1f3a5
+- name: Voir
+  script: Regarder autour !
+  accent_color: '#ADD8E6'
+  icon: 1f440
+- name: Regarder
+  script: Observer attentivement !
+  accent_color: '#FFD700'
+  icon: 1f440
+- name: Image
+  script: Une photo qui bouge !
+  accent_color: '#90EE90'
+  icon: 1f5bc
+- name: Visage
+  script: Ta jolie tête !
+  accent_color: '#FFA07A'
+  icon: 1f600

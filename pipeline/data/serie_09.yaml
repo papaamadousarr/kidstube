@@ -1,0 +1,22 @@
+series:
+  key: serie_09
+  title: Le Chef des Réseaux !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Qui aide les informations à trouver le bon chemin sur internet ?
+items:
+- name: Carrefour
+  script: Là où les informations choisissent leur route !
+  accent_color: '#F0E68C'
+- name: Direction
+  script: Il montre où il faut aller aux informations !
+  accent_color: '#BDB76B'
+- name: Meilleur chemin
+  script: Il trouve la route la plus rapide et la plus sûre !
+  accent_color: '#DDA0DD'
+- name: Petit policier
+  script: Il régule la circulation des données !
+  accent_color: '#DA70D6'
+- name: Adresse
+  script: Chaque information sait où elle doit aller !
+  accent_color: '#FFD700'

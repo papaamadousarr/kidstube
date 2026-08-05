@@ -1,0 +1,26 @@
+series:
+  key: serie90
+  title: Le Robot Maestro !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Le robot peut devenir un grand musicien ! Il sait jouer des instruments,
+    créer des rythmes et composer de belles mélodies.
+items:
+- name: Robot Musicien
+  script: Le chef d'orchestre !
+  accent_color: '#DAA520'
+- name: Chanter
+  script: Faire de jolis sons !
+  accent_color: '#FFC0CB'
+- name: Jouer
+  script: Utiliser un instrument !
+  accent_color: '#90EE90'
+- name: Créer
+  script: Inventer des mélodies !
+  accent_color: '#FFD700'
+- name: Instrument
+  script: Pour faire de la musique !
+  accent_color: '#8A2BE2'
+- name: Rythme
+  script: Le battement de la musique !
+  accent_color: '#FFA07A'

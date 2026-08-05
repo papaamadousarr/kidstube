@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie100
+  title: Le Robot qui Vole !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie100
+segments:
+- narration: Des robots avec des hélices peuvent voler dans le ciel, comme des oiseaux
+    métalliques, pour prendre des photos d'en haut !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Vole !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le robot volant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Drone
+    (Le robot volant !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Se déplacer dans les airs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voler
+    (Se déplacer dans les airs !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Très très loin dans le ciel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Haut
+    (Très très loin dans le ciel !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Là où il y a les nuages !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ciel
+    (Là où il y a les nuages !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Observer d'en haut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Regarder
+    (Observer d'en haut !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Voir de nouvelles choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Découvrir
+    (Voir de nouvelles choses !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

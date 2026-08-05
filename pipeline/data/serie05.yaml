@@ -1,0 +1,32 @@
+series:
+  key: serie05
+  title: Le Défi des Problèmes !
+  voice: fr_FR-siwis-medium
+  background_color: '#FAFAD2'
+  intro_text: Oh non, un problème ! Mais c'est une occasion pour le robot de trouver
+    une solution super astucieuse !
+items:
+- name: Problème
+  script: Un défi à relever !
+  accent_color: '#DC143C'
+  icon: '2753'
+- name: Solution
+  script: La bonne idée !
+  accent_color: '#32CD32'
+  icon: 1f4a1
+- name: Trouver
+  script: Chercher la réponse !
+  accent_color: '#FF4500'
+  icon: 1f50e
+- name: Essayer
+  script: Je me lance !
+  accent_color: '#1E90FF'
+  icon: 1f4aa
+- name: Réussir
+  script: Bravo, c'est fait !
+  accent_color: '#FFD700'
+  icon: 1f3c6
+- name: Aide
+  script: Demander un coup de main !
+  accent_color: '#BA55D3'
+  icon: 1f44b

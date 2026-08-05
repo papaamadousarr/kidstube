@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie85
+  title: Le Robot Gardien !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie85
+segments:
+- narration: Comme un gentil chien de garde, le robot peut veiller sur la maison et
+    prévenir quand quelque chose ne va pas !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Gardien !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le gardien attentif !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    de surveillance (Le gardien attentif !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Regarder attentivement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Observer
+    (Regarder attentivement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre à l'abri !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    (Mettre à l'abri !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Dire attention !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Prévenir
+    (Dire attention !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Surveiller sans dormir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Veiller
+    (Surveiller sans dormir !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Un signal de danger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alerte
+    (Un signal de danger !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

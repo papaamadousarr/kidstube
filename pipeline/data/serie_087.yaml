@@ -1,0 +1,23 @@
+series:
+  key: serie_087
+  title: Le Robot Traducteur
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Il parle toutes les langues du monde et peut traduire ce que tu dis
+    !
+items:
+- name: Je Parle Français
+  script: Bonjour, comment ça va ?
+  accent_color: '#FFDAB9'
+- name: Je Parle Anglais
+  script: Hello, how are you ?
+  accent_color: '#8FBC8F'
+- name: Le Dictionnaire Vivant
+  script: Je connais tous les mots de toutes les langues !
+  accent_color: '#AFEEEE'
+- name: L'Interprète
+  script: Je t'aide à parler avec des gens d'autres pays !
+  accent_color: '#ADD8E6'
+- name: Le Robot Polyglotte
+  script: Je parle tant de langues, c'est incroyable !
+  accent_color: '#FFC0CB'

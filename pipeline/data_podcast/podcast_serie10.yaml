@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie10
+  title: L'Organisateur de Tâches !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie10
+segments:
+- narration: Le robot est très organisé ! Il sait exactement ce qu'il doit faire et
+    dans quel ordre, pour tout finir à temps.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Organisateur
+    de Tâches !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Préparer à l'avance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Planifier
+    (Préparer à l'avance !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: C'est la priorité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    avant (C'est la priorité !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce sera pour plus tard !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    après (Ce sera pour plus tard !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le plus important d'abord !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Priorité
+    (Le plus important d'abord !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: La liste des choses à faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Programme
+    (La liste des choses à faire !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le travail à accomplir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mission
+    (Le travail à accomplir !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

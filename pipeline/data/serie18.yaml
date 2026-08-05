@@ -1,0 +1,32 @@
+series:
+  key: serie18
+  title: La Grande Bibliothèque des Infos !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: L'ordinateur est comme une immense bibliothèque où toutes les informations
+    sont rangées, prêtes à être lues !
+items:
+- name: Base de données
+  script: Une géante collection d'infos !
+  accent_color: '#2E8B57'
+  icon: 1f4be
+- name: Ranger
+  script: Mettre en ordre !
+  accent_color: '#9ACD32'
+  icon: 1f9f9
+- name: Rechercher
+  script: Trouver ce qu'on veut !
+  accent_color: '#FFD700'
+  icon: 1f50d
+- name: Livre
+  script: Un recueil d'informations !
+  accent_color: '#8B4513'
+  icon: 1f4d6
+- name: Info
+  script: Une connaissance !
+  accent_color: '#ADD8E6'
+  icon: '2139'
+- name: Collection
+  script: Beaucoup de choses !
+  accent_color: '#DDA0DD'
+  icon: 1f4da

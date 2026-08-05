@@ -1,0 +1,25 @@
+series:
+  key: serie_13
+  title: L'Architecte des Formes !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Comment on construit des objets dans l'ordinateur, comme par magie !
+items:
+- name: Construire en 3D
+  script: On crée des objets qui ont du volume !
+  accent_color: '#FF7F50'
+- name: Plan détaillé
+  script: Chaque ligne, chaque courbe est dessinée avec soin !
+  accent_color: '#FF6347'
+- name: Volume
+  script: C'est un objet qui n'est pas plat, on peut le voir de tous les côtés !
+  accent_color: '#DC143C'
+- name: Dessin en relief
+  script: On a l'impression de le toucher sur l'écran !
+  accent_color: '#B22222'
+- name: Maquette
+  script: Une petite version pour tester avant de fabriquer !
+  accent_color: '#CD5C5C'
+- name: Objet virtuel
+  script: Il existe dans l'ordinateur, mais pas en vrai !
+  accent_color: '#FA8072'

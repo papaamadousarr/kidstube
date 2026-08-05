@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_022
+  title: La Boîte à Nombres
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_022
+segments:
+- narration: Imagine une boîte où tu peux ranger des nombres qui changent tout le
+    temps !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Nombres', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je mets un nombre dans ma boîte ! Chut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Nombre
+    Secret (Je mets un nombre dans ma boîte ! Chut !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mon nombre peut changer ! C'est magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Nombre
+    qui Bouge (Mon nombre peut changer ! C'est magique !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je garde le nombre bien au chaud !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Réservoir
+    (Je garde le nombre bien au chaud !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'ajoute un autre nombre à ma boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Addition
+    Malin (J'ajoute un autre nombre à ma boîte !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: J'enlève un nombre de ma boîte ! Hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Soustraction
+    Rigolote (J'enlève un nombre de ma boîte ! Hop !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie69
+  title: La Glissade de la Barre !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie69
+segments:
+- narration: Quand tu veux voir ce qui est caché en bas de la page, tu fais glisser
+    une petite barre ! C'est la barre de défilement.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Glissade
+    de la Barre !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: La glissade magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Barre
+    de défilement (La glissade magique !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Aller vers le haut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Monter
+    (Aller vers le haut !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Aller vers le bas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Descendre
+    (Aller vers le bas !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Découvrir ce qui est caché !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    plus (Découvrir ce qui est caché !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Une feuille d'infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Page
+    (Une feuille d'infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire glisser la barre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bouger
+    (Faire glisser la barre !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

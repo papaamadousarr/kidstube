@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie41
+  title: Le Stylet Magique !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie41
+segments:
+- narration: Avec ce stylet spécial, tu peux dessiner directement sur l'écran, comme
+    une baguette magique pour artistes !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Stylet
+    Magique !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le crayon de l'écran !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Stylet
+    (Le crayon de l'écran !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Créer de belles formes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessiner
+    (Créer de belles formes !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Tracer des lettres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écrire
+    (Tracer des lettres !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire contact avec le doigt !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Toucher
+    (Faire contact avec le doigt !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: La vitre magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écran
+    (La vitre magique !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Faire avec beaucoup de soin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Précis
+    (Faire avec beaucoup de soin !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

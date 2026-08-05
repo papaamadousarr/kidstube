@@ -1,0 +1,32 @@
+series:
+  key: serie17
+  title: Les Types d'Infos Rigolos !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: 'Les informations sont de toutes sortes : des chiffres, des mots, des
+    images... Le robot les reconnaît toutes !'
+items:
+- name: Type
+  script: La nature de l'info !
+  accent_color: '#DB7093'
+  icon: 1f170
+- name: Nombre
+  script: Un chiffre qui compte !
+  accent_color: '#6495ED'
+  icon: 1f522
+- name: Texte
+  script: Des lettres et des mots !
+  accent_color: '#FFC0CB'
+  icon: 1f4dd
+- name: Image
+  script: Une photo ou un dessin !
+  accent_color: '#90EE90'
+  icon: 1f5bc
+- name: Son
+  script: Un bruit ou une voix !
+  accent_color: '#40E0D0'
+  icon: 1f50a
+- name: Date
+  script: Le jour et le moment !
+  accent_color: '#FFA07A'
+  icon: 1f4c5

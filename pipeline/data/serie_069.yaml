@@ -1,0 +1,23 @@
+series:
+  key: serie_069
+  title: Le Traducteur Malicieux
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: L'ordinateur peut changer les mots d'une langue à une autre, comme par
+    magie !
+items:
+- name: Bonjour en Français
+  script: Je dis 'Bonjour' !
+  accent_color: '#6495ED'
+- name: Hello en Anglais
+  script: Le robot dit 'Hello' ! Incroyable !
+  accent_color: '#AFEEEE'
+- name: Le Dictionnaire Géant
+  script: Il connaît tous les mots de toutes les langues !
+  accent_color: '#D3D3D3'
+- name: La Langue du Robot
+  script: Il peut parler en français, en anglais, en espagnol !
+  accent_color: '#FFA07A'
+- name: Je Comprends Tout !
+  script: Plus de barrière, je comprends le monde entier !
+  accent_color: '#90EE90'

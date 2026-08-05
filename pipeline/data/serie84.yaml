@@ -1,0 +1,26 @@
+series:
+  key: serie84
+  title: Le Robot qui Fait Tout Propre !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Le robot nettoyeur est un magicien de la propreté ! Il lave, aspire
+    et range pour que tout brille !
+items:
+- name: Robot Nettoyeur
+  script: Le champion de la propreté !
+  accent_color: '#DAA520'
+- name: Laver
+  script: Rendre tout propre !
+  accent_color: '#ADD8E6'
+- name: Aspirer
+  script: Manger la poussière !
+  accent_color: '#A9A9A9'
+- name: Ranger
+  script: Mettre chaque chose à sa place !
+  accent_color: '#9ACD32'
+- name: Nettoyer
+  script: Faire briller !
+  accent_color: '#4682B4'
+- name: Propre
+  script: Impeccable !
+  accent_color: '#E0FFFF'

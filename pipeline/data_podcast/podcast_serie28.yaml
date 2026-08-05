@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie28
+  title: Le Petit Guide des Sélections !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie28
+segments:
+- narration: Devant beaucoup d'informations, le robot sait comment choisir seulement
+    celles qui sont utiles, comme un chef qui sélectionne les bons ingrédients !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Petit
+    Guide des Sélections !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Faire un tri malin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Filtrer
+    (Faire un tri malin !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Prendre ce qu'il faut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    (Prendre ce qu'il faut !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Bien choisir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sélectionner
+    (Bien choisir !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mettre de côté !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écarter
+    (Mettre de côté !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Conserver l'utile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Garder
+    (Conserver l'utile !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Laisser le reste !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Passer
+    (Laisser le reste !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

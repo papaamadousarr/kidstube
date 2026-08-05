@@ -1,0 +1,23 @@
+series:
+  key: serie_047
+  title: Le Chargeur d'Énergie
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Quand la batterie est vide, on la branche au chargeur pour lui redonner
+    des forces !
+items:
+- name: Je Branchez !
+  script: Clic ! Je connecte le chargeur !
+  accent_color: '#FFDAB9'
+- name: Je Recharge !
+  script: Je donne de l'énergie à la pile ! Glou glou !
+  accent_color: '#8FBC8F'
+- name: Le Fil Magique
+  script: Le courant passe par moi pour recharger !
+  accent_color: '#AFEEEE'
+- name: La Lumière de Charge
+  script: Une lumière me dit que ça charge !
+  accent_color: '#ADD8E6'
+- name: La Recharge Rapide
+  script: Vite, vite ! Je veux jouer avec mon robot !
+  accent_color: '#FFC0CB'

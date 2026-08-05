@@ -1,0 +1,26 @@
+series:
+  key: serie_47
+  title: Le Livre des Règles !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Quand l'ordinateur connaît plein de règles pour résoudre des problèmes
+    !
+items:
+- name: Savoir beaucoup
+  script: Il a une grande connaissance de son sujet !
+  accent_color: '#9370DB'
+- name: Réponses prêtes
+  script: Pour chaque question, il a la bonne réponse !
+  accent_color: '#8A2BE2'
+- name: Si... alors...
+  script: Il suit des règles simples pour agir !
+  accent_color: '#BA55D3'
+- name: Base de connaissances
+  script: Une énorme bibliothèque de faits à sa disposition !
+  accent_color: '#9932CC'
+- name: Savant robot
+  script: Il est très intelligent et connaît beaucoup de choses !
+  accent_color: '#DA70D6'
+- name: Infos classées
+  script: Toutes les connaissances sont bien rangées dans sa tête !
+  accent_color: '#C71585'

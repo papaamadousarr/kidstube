@@ -1,0 +1,32 @@
+series:
+  key: ordinateur_dedans_dehors
+  title: L'Ordinateur, Dedans et Dehors !
+  voice: fr_FR-siwis-medium
+  background_color: '#B0E0E6'
+  intro_text: Découvrons ce qui fait fonctionner l'ordinateur, ses parties visibles
+    et invisibles !
+items:
+- name: Dedans
+  script: Ce qu'on ne voit pas, comme le cerveau de l'ordinateur !
+  accent_color: '#808080'
+  icon: 1f3e0
+- name: Dehors
+  script: L'écran, le clavier, la souris, ce qu'on peut toucher !
+  accent_color: '#D3D3D3'
+  icon: 1f333
+- name: Matériel
+  script: Les pièces que l'on voit et touche, le 'corps' de l'ordinateur !
+  accent_color: '#4682B4'
+  icon: 1f4bb
+- name: Logiciel
+  script: Les programmes, les jeux, les applications, l' 'âme' de l'ordinateur !
+  accent_color: '#6A5ACD'
+  icon: '2601'
+- name: Fonctionner
+  script: Le matériel et le logiciel travaillent ensemble pour que tout marche !
+  accent_color: '#B0C4DE'
+  icon: '2699'
+- name: Programme
+  script: Une recette pour que l'ordinateur fasse quelque chose !
+  accent_color: '#778899'
+  icon: 1f4dd

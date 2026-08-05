@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie24
+  title: Le Petit Cache-cache des Infos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie24
+segments:
+- narration: Parfois, le robot cache les informations en les rendant toutes petites,
+    comme pour un jeu de cache-cache ! On appelle ça la compression.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Petit
+    Cache-cache des Infos !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Rendre tout petit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Compression
+    (Rendre tout petit !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Moins de place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rendre
+    petit (Moins de place !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Garder de la place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Économiser
+    (Garder de la place !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Avoir plus d'espace !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Gagner
+    (Avoir plus d'espace !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Déballer l'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ouvrir
+    (Déballer l'info !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Replier l'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fermer
+    (Replier l'info !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

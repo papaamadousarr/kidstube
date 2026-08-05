@@ -1,0 +1,12 @@
+piper-tts
+moviepy==2.2.1
+pillow
+pyyaml
+flask
+flask-sqlalchemy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+google-genai
+mcp
+APScheduler

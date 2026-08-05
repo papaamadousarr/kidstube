@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_018
+  title: La Petite Voix Amie
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_018
+segments:
+- narration: Les assistants vocaux sont des robots invisibles qui nous parlent et
+    nous aident !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Petite
+    Voix Amie', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je dis un mot magique pour l'appeler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Allô,
+    Robot ? (Je dis un mot magique pour l'appeler !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te demande ce que tu veux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Que
+    puis-je faire ? (Je te demande ce que tu veux !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: J'ai bien entendu ta question !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je te
+    Comprends ! (J'ai bien entendu ta question !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te donne la bonne information !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je te
+    Réponds ! (Je te donne la bonne information !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je suis toujours là pour t'aider !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Ami
+    qui Parle (Je suis toujours là pour t'aider !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

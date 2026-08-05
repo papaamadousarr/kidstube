@@ -1,0 +1,26 @@
+series:
+  key: serie_54
+  title: Les Nouveaux Chemins !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Comment l'ordinateur trouve le meilleur trajet pour aller d'un point
+    à un autre !
+items:
+- name: Trouver le meilleur parcours
+  script: Il cherche le chemin le plus facile ou le plus rapide !
+  accent_color: '#FF69B4'
+- name: Éviter les obstacles
+  script: Il contourne les choses qui gênent sur la route !
+  accent_color: '#C71585'
+- name: Trajet intelligent
+  script: Un chemin bien pensé par l'ordinateur !
+  accent_color: '#DB7093'
+- name: Chemin le plus court
+  script: Il trouve la route la plus courte pour arriver vite !
+  accent_color: '#FF1493'
+- name: Calculer la route
+  script: Il fait des maths pour trouver le bon chemin !
+  accent_color: '#FFC0CB'
+- name: Voyage optimisé
+  script: Le parcours est parfait pour ne pas perdre de temps !
+  accent_color: '#FFB6C1'

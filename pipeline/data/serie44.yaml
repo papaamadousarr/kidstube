@@ -1,0 +1,32 @@
+series:
+  key: serie44
+  title: La Machine à Papier !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: L'ordinateur peut dessiner et écrire sur du papier, comme une machine
+    à fabriquer des feuilles magiques !
+items:
+- name: Imprimante
+  script: La machine qui dessine !
+  accent_color: '#DAA520'
+  icon: 1f5a8
+- name: Dessiner
+  script: Faire de beaux traits !
+  accent_color: '#FFC0CB'
+  icon: 1f58d
+- name: Écrire
+  script: Tracer des mots !
+  accent_color: '#4682B4'
+  icon: 270d
+- name: Papier
+  script: La feuille blanche !
+  accent_color: '#FFFFFF'
+  icon: 1f4c4
+- name: Copier
+  script: Faire une reproduction !
+  accent_color: '#90EE90'
+  icon: 1f4cb
+- name: Obtenir
+  script: Avoir le résultat !
+  accent_color: '#FFA07A'
+  icon: 1f4e5

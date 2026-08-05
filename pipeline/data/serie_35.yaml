@@ -1,0 +1,26 @@
+series:
+  key: serie_35
+  title: L'Usine à Robots !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Comment on fabrique de nombreux robots, étape par étape, dans une grande
+    usine !
+items:
+- name: Créer des robots
+  script: Des machines qui assemblent d'autres machines !
+  accent_color: '#ADFF2F'
+- name: Ligne de montage
+  script: Un long chemin où chaque robot prend forme !
+  accent_color: '#7CFC00'
+- name: Fabriquer en série
+  script: Faire beaucoup de robots identiques très vite !
+  accent_color: '#32CD32'
+- name: Chaque pièce sa place
+  script: Tout est organisé pour le bon assemblage !
+  accent_color: '#00FF7F'
+- name: Grande usine
+  script: Un lieu immense où naissent les robots !
+  accent_color: '#98FB98'
+- name: Production
+  script: C'est l'étape où l'on fabrique les robots !
+  accent_color: '#66CDAA'

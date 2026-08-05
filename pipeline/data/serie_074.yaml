@@ -1,0 +1,23 @@
+series:
+  key: serie_074
+  title: Le Robot Expliqueur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Pose-lui une question, et le robot te donnera une explication très claire
+    !
+items:
+- name: Le Pourquoi du Comment
+  script: Je te dis pourquoi le ciel est bleu !
+  accent_color: '#6495ED'
+- name: L'Histoire des Dinosaures
+  script: Je te raconte comment vivaient les dinosaures !
+  accent_color: '#AFEEEE'
+- name: Le Maître qui Sait
+  script: Je connais beaucoup de choses et je t'apprends !
+  accent_color: '#D3D3D3'
+- name: La Curiosité Satisfaite
+  script: Toutes tes questions trouvent une réponse avec moi !
+  accent_color: '#FFA07A'
+- name: Le Robot Pédagogue
+  script: J'explique tout de façon simple et amusante !
+  accent_color: '#90EE90'

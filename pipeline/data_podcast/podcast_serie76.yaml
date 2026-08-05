@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie76
+  title: Le Robot qui Devient Malin !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie76
+segments:
+- narration: Le robot n'est pas né savant ! Il apprend tout seul en essayant, se corrigeant
+    et devenant de plus en plus intelligent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Devient Malin !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Apprendre tout seul !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Apprentissage
+    auto (Apprendre tout seul !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire un test !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Essayer
+    (Faire un test !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Réparer ses erreurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Corriger
+    (Réparer ses erreurs !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Devenir meilleur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mieux
+    (Devenir meilleur !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Très très malin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Intelligent
+    (Très très malin !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Devenir plus fort !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing S'améliorer
+    (Devenir plus fort !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

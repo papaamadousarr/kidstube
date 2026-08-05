@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie78
+  title: Le Robot qui sait Choisir !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie78
+segments:
+- narration: Face à plusieurs possibilités, le robot ne se trompe jamais ! Il sait
+    toujours quelle est la meilleure option à choisir.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui sait Choisir !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Faire un choix intelligent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Prise
+    de décision (Faire un choix intelligent !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Sélectionner la meilleure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    (Sélectionner la meilleure !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Penser avant d'agir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réfléchir
+    (Penser avant d'agir !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ce qui est le plus important !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Poids
+    (Ce qui est le plus important !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: La meilleure solution !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mieux
+    (La meilleure solution !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le meilleur des meilleurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Optimal
+    (Le meilleur des meilleurs !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

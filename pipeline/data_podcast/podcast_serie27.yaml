@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie27
+  title: Les Blocs d'Informations !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie27
+segments:
+- narration: Les informations sont comme des blocs de construction que le robot assemble
+    ou démonte pour créer de nouvelles choses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Blocs
+    d'Informations !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un petit morceau d'info !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bloc
+    (Un petit morceau d'info !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Assembler
+    (Mettre ensemble !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Séparer les morceaux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Démonter
+    (Séparer les morceaux !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une petite partie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Morceau
+    (Une petite partie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Créer avec les blocs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Construire
+    (Créer avec les blocs !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Coller les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mettre
+    ensemble (Coller les infos !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

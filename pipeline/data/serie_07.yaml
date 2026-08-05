@@ -1,0 +1,22 @@
+series:
+  key: serie_07
+  title: Le Peintre des Lumières !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Les petits points lumineux qui dessinent et nous parlent !
+items:
+- name: Petite ampoule
+  script: Une lumière minuscule mais puissante !
+  accent_color: '#ADFF2F'
+- name: Couleurs vives
+  script: Elle peut s'allumer de toutes les couleurs !
+  accent_color: '#7CFC00'
+- name: Message lumineux
+  script: 'Une lumière qui dit : ''Attention !'' ou ''C''est bon !'''
+  accent_color: '#32CD32'
+- name: Clignotant
+  script: Elle s'allume et s'éteint pour attirer l'attention !
+  accent_color: '#00FF7F'
+- name: Veilleuse
+  script: Une lumière douce pour nous rassurer !
+  accent_color: '#98FB98'

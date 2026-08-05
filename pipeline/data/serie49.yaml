@@ -1,0 +1,32 @@
+series:
+  key: serie49
+  title: Les Ponts Invisibles !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Pour que tous les ordinateurs puissent se parler, il y a des ponts invisibles
+    qui les relient ! C'est le routeur magique.
+items:
+- name: Routeur
+  script: Le pont entre les ordis !
+  accent_color: '#BDB76B'
+  icon: 1f4f6
+- name: Connecter
+  script: Faire le lien !
+  accent_color: '#4682B4'
+  icon: 1f517
+- name: Diriger
+  script: Montrer le chemin !
+  accent_color: '#FFD700'
+  icon: 1f9ed
+- name: Chemin
+  script: La route des infos !
+  accent_color: '#DAA520'
+  icon: 1f6e3
+- name: Relier
+  script: Mettre ensemble !
+  accent_color: '#9370DB'
+  icon: 1f517
+- name: Réseau
+  script: Tous connectés !
+  accent_color: '#ADD8E6'
+  icon: 1f310

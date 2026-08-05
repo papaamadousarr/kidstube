@@ -1,0 +1,32 @@
+series:
+  key: serie03
+  title: La Boîte à Fonctions Magiques !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Imagine des boîtes magiques qui font des choses spéciales ! Les robots
+    utilisent ces fonctions pour être efficaces.
+items:
+- name: Fonction
+  script: Une action spéciale !
+  accent_color: '#8FBC8F'
+  icon: '2699'
+- name: Nom
+  script: Pour la retrouver !
+  accent_color: '#FF8C00'
+  icon: 1f3f7
+- name: Entrée
+  script: Ce que je donne à la boîte !
+  accent_color: '#4682B4'
+  icon: 1f4e5
+- name: Sortie
+  script: Ce que la boîte me rend !
+  accent_color: '#9370DB'
+  icon: 1f4e4
+- name: Faire
+  script: L'action qui se passe !
+  accent_color: '#B0E0E6'
+  icon: 1f528
+- name: Utiliser
+  script: Appeler la boîte magique !
+  accent_color: '#CD5C5C'
+  icon: 1f527

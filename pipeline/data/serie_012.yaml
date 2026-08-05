@@ -1,0 +1,23 @@
+series:
+  key: serie_012
+  title: Le Déplacement Malin
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Les robots savent comment se déplacer pour arriver où ils veulent, sans
+    se perdre !
+items:
+- name: Le Point de Départ
+  script: Je pars d'ici ! C'est le début de l'aventure !
+  accent_color: '#87CEEB'
+- name: Le Point d'Arrivée
+  script: J'arrive là ! J'ai réussi mon voyage !
+  accent_color: '#3CB371'
+- name: Le Chemin le Plus Court
+  script: Je prends le raccourci ! Vite, vite !
+  accent_color: '#FFD700'
+- name: L'Obstacle Rigolo
+  script: Oh, un mur ! Je le contourne !
+  accent_color: '#FFB6C1'
+- name: La Carte du Robot
+  script: Je regarde ma carte pour ne pas me perdre !
+  accent_color: '#D3D3D3'

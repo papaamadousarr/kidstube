@@ -1,0 +1,23 @@
+series:
+  key: serie_060
+  title: La Barre de Progression
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: C'est une petite ligne qui se remplit pour te montrer où en est l'ordinateur
+    dans sa tâche !
+items:
+- name: Je Commence !
+  script: La barre est vide ! C'est le début !
+  accent_color: '#87CEEB'
+- name: Je me Remplis !
+  script: La barre avance, mon travail aussi !
+  accent_color: '#A9A9A9'
+- name: Presque Fini !
+  script: La barre est presque pleine ! Encore un peu !
+  accent_color: '#90EE90'
+- name: J'ai Fini !
+  script: La barre est toute pleine ! J'ai terminé !
+  accent_color: '#FFB6C1'
+- name: Le Compte à Rebours
+  script: Je te dis combien de temps il reste ! Tic tac !
+  accent_color: '#FFD700'

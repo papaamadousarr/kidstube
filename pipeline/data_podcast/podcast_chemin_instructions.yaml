@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_chemin_instructions
+  title: Le Chemin des Instructions !
+  voice: fr_FR-siwis-medium
+  linked_series_key: chemin_instructions
+segments:
+- narration: L'ordinateur suit un chemin, une étape après l'autre, pour faire son
+    travail !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chemin
+    des Instructions !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Une petite chose à faire sur le chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Étape
+    (Une petite chose à faire sur le chemin !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Suivre les étapes dans le bon ordre, c'est important !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordre
+    (Suivre les étapes dans le bon ordre, c'est important !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Aller de la première à la dernière étape sans en rater !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suivre
+    (Aller de la première à la dernière étape sans en rater !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: La première étape pour commencer le chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Début
+    (La première étape pour commencer le chemin !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: La dernière étape, quand tout est terminé !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fin
+    (La dernière étape, quand tout est terminé !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tous les pas que l'ordinateur doit faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    (Tous les pas que l'ordinateur doit faire !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

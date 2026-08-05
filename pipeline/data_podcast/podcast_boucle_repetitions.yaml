@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_boucle_repetitions
+  title: La Boucle Joyeuse des Répétitions !
+  voice: fr_FR-siwis-medium
+  linked_series_key: boucle_repetitions
+segments:
+- narration: Apprends avec nous comment les robots et les ordinateurs aiment répéter
+    les actions ! C'est amusant !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boucle
+    Joyeuse des Répétitions !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Fais la même chose encore et encore !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Répéter
+    (Fais la même chose encore et encore !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Une série d'actions à faire dans l'ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Séquence
+    (Une série d'actions à faire dans l'ordre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est par ici que tout commence !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Début
+    (C'est par ici que tout commence !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Quand l'action est terminée, c'est la fin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fin
+    (Quand l'action est terminée, c'est la fin !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: On refait une fois ? Encore et encore !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Encore
+    ! (On refait une fois ? Encore et encore !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour savoir combien de fois on a répété !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Compteur
+    (Pour savoir combien de fois on a répété !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

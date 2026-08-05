@@ -1,0 +1,23 @@
+series:
+  key: serie_064
+  title: La Mise à Jour Amusante
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: L'ordinateur reçoit parfois de nouvelles idées et devient encore plus
+    fort et intelligent !
+items:
+- name: Les Nouvelles Idées
+  script: Le robot apprend de nouvelles choses ! Génial !
+  accent_color: '#6495ED'
+- name: Les Belles Couleurs
+  script: Mon jeu est plus beau qu'avant !
+  accent_color: '#AFEEEE'
+- name: Les Nouveaux Jeux
+  script: Il y a de nouvelles aventures à explorer !
+  accent_color: '#D3D3D3'
+- name: Le Robot Amélioré
+  script: Il est devenu encore plus intelligent !
+  accent_color: '#FFA07A'
+- name: La Nouveauté !
+  script: Quelle surprise ! On a de nouvelles fonctions !
+  accent_color: '#90EE90'

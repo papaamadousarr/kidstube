@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie52
+  title: Les Murs de la Vie Privée !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie52
+segments:
+- narration: Pour protéger tes secrets sur internet, des murs magiques transforment
+    tes messages en codes, que seul toi peux comprendre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Murs
+    de la Vie Privée !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Transformer en secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cryptage
+    (Transformer en secret !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre à l'abri !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cacher
+    (Mettre à l'abri !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Chut, c'est entre nous !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secret
+    (Chut, c'est entre nous !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Éviter les curieux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    (Éviter les curieux !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Personne d'autre ne voit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Personne
+    (Personne d'autre ne voit !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Totalement protégé !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sécurité
+    (Totalement protégé !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

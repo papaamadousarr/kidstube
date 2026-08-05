@@ -1,0 +1,26 @@
+series:
+  key: serie86
+  title: Le Robot qui Fait de l'Art !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Le robot n'est pas qu'un travailleur ! Il peut aussi être un artiste,
+    qui dessine, peint et crée de jolies sculptures !
+items:
+- name: Robot Artiste
+  script: Le créateur de beauté !
+  accent_color: '#DA70D6'
+- name: Dessiner
+  script: Faire des traits !
+  accent_color: '#FFC0CB'
+- name: Peindre
+  script: Mettre des couleurs !
+  accent_color: '#ADD8E6'
+- name: Sculpter
+  script: Donner une forme !
+  accent_color: '#8B4513'
+- name: Créer
+  script: Imaginer et réaliser !
+  accent_color: '#FFD700'
+- name: Imaginer
+  script: Rêver de nouvelles choses !
+  accent_color: '#9370DB'

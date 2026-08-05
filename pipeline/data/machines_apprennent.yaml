@@ -1,0 +1,32 @@
+series:
+  key: machines_apprennent
+  title: Les Machines qui Apprennent !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Découvre comment les machines deviennent plus intelligentes en apprenant
+    !
+items:
+- name: Apprendre
+  script: La machine regarde des exemples pour devenir plus forte !
+  accent_color: '#8A2BE2'
+  icon: 1f4d6
+- name: Entraîner
+  script: Lui montrer plein de choses pour qu'elle comprenne bien !
+  accent_color: '#6A5ACD'
+  icon: 1f3cb
+- name: Reconnaître
+  script: Elle arrive à voir un chat ou un chien toute seule !
+  accent_color: '#483D8B'
+  icon: 1f50e
+- name: Prédire
+  script: La machine devine ce qui va se passer ensuite !
+  accent_color: '#9370DB'
+  icon: 1f52e
+- name: Données
+  script: Toutes les informations que la machine utilise pour apprendre !
+  accent_color: '#B22222'
+  icon: 1f4ca
+- name: S'améliorer
+  script: Plus elle apprend, plus elle devient intelligente !
+  accent_color: '#FFD700'
+  icon: 1f4c8

@@ -1,0 +1,32 @@
+series:
+  key: detectives_bug
+  title: Les Petits Détectives du Bug !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Oups, une erreur ! Deviens un super détective pour trouver les bugs
+    !
+items:
+- name: Bug
+  script: Une petite erreur qui rend le programme un peu fou !
+  accent_color: '#FF6347'
+  icon: 1f41b
+- name: Rechercher
+  script: Chercher la petite erreur comme un détective !
+  accent_color: '#FFD700'
+  icon: 1f50d
+- name: Trouver
+  script: Hourra, j'ai trouvé le bug qui faisait tout planter !
+  accent_color: '#FF4500'
+  icon: '2705'
+- name: Réparer
+  script: Changer la petite erreur pour que ça marche à nouveau !
+  accent_color: '#32CD32'
+  icon: 1f527
+- name: Test
+  script: On essaie pour voir si tout va bien maintenant !
+  accent_color: '#00FF7F'
+  icon: 1f9ea
+- name: Détecteur
+  script: Toi, le super détective des erreurs !
+  accent_color: '#FF8C00'
+  icon: 1f4e1

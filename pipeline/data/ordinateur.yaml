@@ -1,0 +1,32 @@
+series:
+  key: ordinateur
+  title: Mon Incroyable Aventure dans l'Ordinateur !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5E6F7'
+  intro_text: Explorons ensemble la boîte magique qui nous montre plein de choses
+    !
+items:
+- name: L'Ordinateur
+  script: La boîte magique qui pense !
+  accent_color: '#673AB7'
+  icon: 1f4bb
+- name: L'Écran
+  script: Regarde, les images s'affichent !
+  accent_color: '#2196F3'
+  icon: 1f5a5
+- name: La Souris
+  script: Pour pointer et cliquer, click-click !
+  accent_color: '#FFEB3B'
+  icon: 1f5b1
+- name: Le Clavier
+  script: J'écris des mots avec les lettres !
+  accent_color: '#795548'
+  icon: '2328'
+- name: Le Clic
+  script: Choisir, c'est facile, clic !
+  accent_color: '#00BCD4'
+  icon: 1f446
+- name: Le Code
+  script: Le langage secret de l'ordinateur !
+  accent_color: '#8BC34A'
+  icon: 1f4dd

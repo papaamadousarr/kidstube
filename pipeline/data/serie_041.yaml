@@ -1,0 +1,23 @@
+series:
+  key: serie_041
+  title: L'Imprimante Magique
+  voice: fr_FR-siwis-medium
+  background_color: '#F5FFFA'
+  intro_text: Une machine qui transforme les dessins de ton écran en vrais dessins
+    sur papier !
+items:
+- name: Le Dessin sur Écran
+  script: Mon dessin est tout beau sur l'ordi !
+  accent_color: '#3CB371'
+- name: Le Papier Blanc
+  script: Une feuille attend pour devenir un chef-d'œuvre !
+  accent_color: '#6495ED'
+- name: L'Encre Colorée
+  script: Pschhh ! L'encre met de la couleur !
+  accent_color: '#FFA07A'
+- name: La Page Imprimée
+  script: Mon dessin est devenu réel ! Bravo !
+  accent_color: '#90EE90'
+- name: Le Robot Imprimeur
+  script: Il travaille vite pour faire ton dessin !
+  accent_color: '#D3D3D3'

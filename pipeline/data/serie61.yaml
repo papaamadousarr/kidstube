@@ -1,0 +1,26 @@
+series:
+  key: serie61
+  title: Les Programmes Super Utiles !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Ton ordinateur a plein de programmes qui l'aident à faire des choses
+    incroyables, comme dessiner, écrire ou jouer !
+items:
+- name: Logiciel
+  script: Un programme qui aide !
+  accent_color: '#DB7093'
+- name: Faire
+  script: Réaliser une tâche !
+  accent_color: '#FFC0CB'
+- name: Aider
+  script: Donner un coup de main !
+  accent_color: '#ADD8E6'
+- name: Outil
+  script: Un instrument pratique !
+  accent_color: '#FFD700'
+- name: Travailler
+  script: Faire une activité !
+  accent_color: '#4682B4'
+- name: Créer
+  script: Imaginer et fabriquer !
+  accent_color: '#DDA0DD'

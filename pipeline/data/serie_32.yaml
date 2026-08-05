@@ -1,0 +1,23 @@
+series:
+  key: serie_32
+  title: Les Voisins Numériques !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Comment les ordinateurs de la maison se parlent et partagent des choses
+    !
+items:
+- name: Partager à la maison
+  script: Tous les écrans sont connectés chez toi !
+  accent_color: '#B0C4DE'
+- name: Amis du quartier
+  script: Des ordinateurs proches qui communiquent !
+  accent_color: '#6A5ACD'
+- name: Ordinateurs voisins
+  script: Ils échangent des infos sans sortir de la maison !
+  accent_color: '#483D8B'
+- name: Imprimer chez l'autre
+  script: Tu peux utiliser l'imprimante de la maman !
+  accent_color: '#7B68EE'
+- name: Petits groupes
+  script: Un réseau juste pour quelques ordinateurs !
+  accent_color: '#8A2BE2'

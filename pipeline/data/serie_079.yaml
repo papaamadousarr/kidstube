@@ -1,0 +1,23 @@
+series:
+  key: serie_079
+  title: Le Robot Bâtisseur
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Des robots géants qui aident à construire de grandes maisons et des
+    bâtiments !
+items:
+- name: La Grue Géante
+  script: Je lève des choses très lourdes ! Facile !
+  accent_color: '#6495ED'
+- name: Le Bras Articulé
+  script: Je monte les briques une par une ! Précis !
+  accent_color: '#AFEEEE'
+- name: La Maison Solide
+  script: Je construis des maisons très solides pour toi !
+  accent_color: '#D3D3D3'
+- name: Le Plan de Construction
+  script: Je suis le plan à la lettre pour que tout soit parfait !
+  accent_color: '#FFA07A'
+- name: Le Robot Travailleur
+  script: Je ne me fatigue jamais de construire !
+  accent_color: '#90EE90'

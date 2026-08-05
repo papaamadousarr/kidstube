@@ -1,0 +1,32 @@
+series:
+  key: animals_fr
+  title: "Les animaux de la ferme"
+  voice: fr_FR-siwis-medium
+  background_color: "#E9F5DB"
+  intro_text: "Découvrons les animaux de la ferme !"
+
+items:
+  - name: "Vache"
+    script: "La vache fait meuh !"
+    icon: cow
+    accent_color: "#6D4C41"
+  - name: "Cochon"
+    script: "Le cochon fait groin groin !"
+    icon: pig
+    accent_color: "#F48FB1"
+  - name: "Poule"
+    script: "La poule fait cot cot codet !"
+    icon: hen
+    accent_color: "#FB8C00"
+  - name: "Mouton"
+    script: "Le mouton fait bêê !"
+    icon: sheep
+    accent_color: "#78909C"
+  - name: "Cheval"
+    script: "Le cheval fait hiiii !"
+    icon: horse
+    accent_color: "#8D6E63"
+  - name: "Canard"
+    script: "Le canard fait coin coin !"
+    icon: duck
+    accent_color: "#FDD835"

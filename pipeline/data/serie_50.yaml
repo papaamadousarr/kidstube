@@ -1,0 +1,26 @@
+series:
+  key: serie_50
+  title: Les Instruments Virtuels !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: L'ordinateur peut jouer de la musique avec des instruments qui n'existent
+    pas en vrai !
+items:
+- name: Jouer du piano virtuel
+  script: Un clavier sur l'écran qui fait de la musique !
+  accent_color: '#FFD700'
+- name: Sons inventés
+  script: Il fabrique des sons uniques et originaux !
+  accent_color: '#DAA520'
+- name: Musique sans instrument
+  script: Il crée des mélodies sans avoir de vrai piano ou guitare !
+  accent_color: '#B8860B'
+- name: Synthétiseur magique
+  script: La machine qui invente tous les sons que l'on veut !
+  accent_color: '#FF8C00'
+- name: Orchestre numérique
+  script: Un groupe d'instruments virtuels pour une grande musique !
+  accent_color: '#FFA500'
+- name: Mélodies bizarres
+  script: Il compose des airs très amusants et inattendus !
+  accent_color: '#FF7F50'

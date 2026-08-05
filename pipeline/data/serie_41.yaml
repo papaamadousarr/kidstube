@@ -1,0 +1,26 @@
+series:
+  key: serie_41
+  title: Le Tapis Roulant des Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Quand les informations défilent sans arrêt, comme sur un tapis roulant
+    !
+items:
+- name: Infos qui défilent
+  script: Les données arrivent en continu, sans pause !
+  accent_color: '#F5DEB3'
+- name: Flux continu
+  script: Un flot d'informations qui ne s'arrête jamais !
+  accent_color: '#FFDAB9'
+- name: Sans s'arrêter
+  script: Les données passent les unes après les autres !
+  accent_color: '#DEB887'
+- name: Chemin des infos
+  script: Une route spéciale pour que les données voyagent !
+  accent_color: '#D2B48C'
+- name: Trajet rapide
+  script: Les informations vont vite et sans encombre !
+  accent_color: '#FFE4C4'
+- name: Rivière de données
+  script: Comme une rivière où toutes les infos coulent !
+  accent_color: '#F0F8FF'

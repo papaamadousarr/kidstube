@@ -1,0 +1,32 @@
+series:
+  key: serie101
+  title: Le Robot qui aide les Hommes !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Certains robots sont créés pour ressembler aux humains et nous aider
+    dans nos tâches quotidiennes, comme des amis mécaniques !
+items:
+- name: Robot Humanoïde
+  script: Un robot comme nous !
+  accent_color: '#6A5ACD'
+  icon: 1f916
+- name: Ressembler
+  script: Avoir la même forme !
+  accent_color: '#DDA0DD'
+  icon: 1f46f
+- name: Marcher
+  script: Se déplacer sur deux jambes !
+  accent_color: '#8B4513'
+  icon: 1f6b6
+- name: Aider
+  script: Donner un coup de main !
+  accent_color: '#90EE90'
+  icon: 1f91d
+- name: Parler
+  script: Échanger des mots !
+  accent_color: '#ADD8E6'
+  icon: 1f5e3
+- name: Interagir
+  script: Agir avec les humains !
+  accent_color: '#9370DB'
+  icon: 1fac2

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_012
+  title: Le Déplacement Malin
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_012
+segments:
+- narration: Les robots savent comment se déplacer pour arriver où ils veulent, sans
+    se perdre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Déplacement
+    Malin', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je pars d'ici ! C'est le début de l'aventure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Point
+    de Départ (Je pars d'ici ! C'est le début de l'aventure !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: J'arrive là ! J'ai réussi mon voyage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Point
+    d'Arrivée (J'arrive là ! J'ai réussi mon voyage !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je prends le raccourci ! Vite, vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    le Plus Court (Je prends le raccourci ! Vite, vite !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Oh, un mur ! Je le contourne !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Obstacle
+    Rigolo (Oh, un mur ! Je le contourne !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je regarde ma carte pour ne pas me perdre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Carte
+    du Robot (Je regarde ma carte pour ne pas me perdre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

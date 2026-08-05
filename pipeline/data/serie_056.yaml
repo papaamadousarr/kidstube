@@ -1,0 +1,23 @@
+series:
+  key: serie_056
+  title: Le Joystick Aventureux
+  voice: fr_FR-siwis-medium
+  background_color: '#FAEBD7'
+  intro_text: Une manette pour guider tes héros dans les jeux et vivre des aventures
+    !
+items:
+- name: La Tige qui Bouge
+  script: Je bouge mon bâton dans toutes les directions !
+  accent_color: '#FFDAB9'
+- name: Les Boutons d'Action
+  script: J'appuie pour sauter ou tirer ! Clic !
+  accent_color: '#9370DB'
+- name: Je Pilote !
+  script: Je contrôle mon vaisseau ou mon personnage !
+  accent_color: '#8FBC8F'
+- name: Le Jeu Vidéo
+  script: Je me plonge dans le jeu avec ma manette !
+  accent_color: '#FFDEAD'
+- name: Le Robot en Main
+  script: C'est moi qui donne les ordres à distance !
+  accent_color: '#F0E68C'

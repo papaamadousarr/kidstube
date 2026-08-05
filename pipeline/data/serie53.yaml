@@ -1,0 +1,26 @@
+series:
+  key: serie53
+  title: Les Petits Guides de Connexion !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Sur internet, il y a des petits guides qui aident l'ordinateur à trouver
+    les bonnes adresses, comme un annuaire magique !
+items:
+- name: Serveur DNS
+  script: Le guide des adresses !
+  accent_color: '#40E0D0'
+- name: Trouver
+  script: Chercher la bonne route !
+  accent_color: '#FFD700'
+- name: Nom
+  script: Le petit surnom !
+  accent_color: '#ADD8E6'
+- name: Numéro
+  script: Le chiffre secret !
+  accent_color: '#6495ED'
+- name: Guide
+  script: Celui qui nous aide !
+  accent_color: '#90EE90'
+- name: Aide
+  script: Un coup de main !
+  accent_color: '#FFC0CB'

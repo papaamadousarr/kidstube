@@ -1,0 +1,23 @@
+series:
+  key: serie_005
+  title: Les Sons du Robot
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Écoute bien ! Les robots peuvent faire des sons pour te prévenir ou
+    te parler.
+items:
+- name: Le Bip d'Alerte
+  script: Bip bip ! Attention, il y a un message !
+  accent_color: '#FF8C00'
+- name: La Musique Joyeuse
+  script: Tra la la ! Je suis content !
+  accent_color: '#90EE90'
+- name: La Voix du Robot
+  script: Bonjour, je suis ton ami robot !
+  accent_color: '#87CEEB'
+- name: Le Son d'Action
+  script: Vroom vroom ! Je me mets en mouvement !
+  accent_color: '#D8BFD8'
+- name: Le Silence
+  script: Chut ! J'écoute attentivement !
+  accent_color: '#A9A9A9'

@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_explorateurs_web
+  title: Les Petits Explorateurs du Web !
+  voice: fr_FR-siwis-medium
+  linked_series_key: explorateurs_web
+segments:
+- narration: Partons à l'aventure sur les chemins cachés d'Internet !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Petits
+    Explorateurs du Web !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Le grand réseau qui nous relie tous !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Internet
+    ! (Le grand réseau qui nous relie tous !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Ce que l'on envoie ou reçoit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Message
+    ! (Ce que l'on envoie ou reçoit !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: La fenêtre magique pour voir tout ça !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écran
+    ! (La fenêtre magique pour voir tout ça !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On est branchés ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Connexion
+    ! (On est branchés ensemble !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Montrer aux amis ce qu'on trouve !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    ! (Montrer aux amis ce qu'on trouve !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

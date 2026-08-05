@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie19
+  title: Les Données Secrètes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie19
+segments:
+- narration: Parfois, les informations sont très importantes et doivent rester secrètes,
+    comme un trésor caché !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Données
+    Secrètes !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Garder secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Confidentialité
+    (Garder secret !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Personne ne voit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Caché
+    (Personne ne voit !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: En sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protégé
+    (En sécurité !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Donner à un ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    (Donner à un ami !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Chut, ne le dis pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secret
+    (Chut, ne le dis pas !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: C'est juste pour moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Privé
+    (C'est juste pour moi !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

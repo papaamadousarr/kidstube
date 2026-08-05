@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_fils_lumieres_circuits
+  title: Les Fils et les Lumières des Circuits !
+  voice: fr_FR-siwis-medium
+  linked_series_key: fils_lumieres_circuits
+segments:
+- narration: À l'intérieur des machines, des fils transportent des messages lumineux
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Fils
+    et les Lumières des Circuits !', vibrant playful colors, Pixar-style children's
+    animation, warm inviting composition, no text, no logos
+- narration: Un chemin pour que l'électricité circule, comme une route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Circuit
+    (Un chemin pour que l'électricité circule, comme une route !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le petit chemin pour que le courant électrique passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fil
+    (Le petit chemin pour que le courant électrique passe !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: L'énergie qui se promène dans les fils !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Courant
+    (L'énergie qui se promène dans les fils !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Des petits signaux lumineux pour dire 'oui' ou 'non' !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lumière
+    (Des petits signaux lumineux pour dire 'oui' ou 'non' !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une petite pièce qui fait un travail dans le circuit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Composant
+    (Une petite pièce qui fait un travail dans le circuit !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Brancher les fils ensemble pour faire un chemin complet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Connecter
+    (Brancher les fils ensemble pour faire un chemin complet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

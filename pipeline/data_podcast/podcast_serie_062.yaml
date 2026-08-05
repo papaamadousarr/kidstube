@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_062
+  title: La Sauvegarde Secrète
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_062
+segments:
+- narration: Pour ne pas perdre tes trésors, l'ordinateur les met en sécurité, comme
+    dans une boîte forte !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Sauvegarde
+    Secrète', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je le mets dans ma cachette ! Chut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Cache
+    mon Dessin (Je le mets dans ma cachette ! Chut !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: J'en fais une copie au cas où !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Copie
+    de Sécurité (J'en fais une copie au cas où !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tous mes jeux et mes histoires sont ici !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Boîte
+    aux Trésors (Tous mes jeux et mes histoires sont ici !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je clique pour tout mettre en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouton
+    Enregistrer (Je clique pour tout mettre en sécurité !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je ne veux pas que mes chefs-d'œuvre disparaissent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Peur
+    de Perdre (Je ne veux pas que mes chefs-d'œuvre disparaissent !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

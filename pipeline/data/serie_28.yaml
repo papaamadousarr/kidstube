@@ -1,0 +1,25 @@
+series:
+  key: serie_28
+  title: Le Modélisateur Malin !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Créer un faux monde pour tester et prédire ce qui va se passer !
+items:
+- name: Faire semblant
+  script: On imite le monde réel pour s'amuser !
+  accent_color: '#9ACD32'
+- name: Essayer avant
+  script: Tester les idées avant de les faire en vrai !
+  accent_color: '#6B8E23'
+- name: Prévoir le futur
+  script: Deviner ce qui va arriver grâce au faux monde !
+  accent_color: '#556B2F'
+- name: Test virtuel
+  script: Un essai fait dans l'ordinateur, pas dans la réalité !
+  accent_color: '#ADFF2F'
+- name: Changer le vent
+  script: On peut modifier le faux monde pour voir l'effet !
+  accent_color: '#7CFC00'
+- name: Imagine le monde
+  script: Créer un univers complet pour faire des expériences !
+  accent_color: '#3CB371'

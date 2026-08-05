@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_009
+  title: La Main du Robot
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_009
+segments:
+- narration: Le robot a une main super forte et très habile pour attraper les objets
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Main du
+    Robot', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je saisis l'objet doucement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'attrape
+    ! (Je saisis l'objet doucement !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je le dépose délicatement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Lâche
+    ! (Je le dépose délicatement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Je le garde bien en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Tiens
+    Fort ! (Je le garde bien en sécurité !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Oh, il est tombé ! Je le relève !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Ramasse
+    ! (Oh, il est tombé ! Je le relève !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je le mets juste là où il faut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Dépose
+    ! (Je le mets juste là où il faut !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

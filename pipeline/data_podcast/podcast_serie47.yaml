@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie47
+  title: Le Code Postal des Infos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie47
+segments:
+- narration: Pour que les messages arrivent au bon endroit, chaque ordinateur a son
+    propre code postal, comme les maisons !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Code Postal
+    des Infos !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le code postal de l'ordi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Adresse
+    IP (Le code postal de l'ordi !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Chercher la bonne maison !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    (Chercher la bonne maison !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Faire partir le message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Envoyer
+    (Faire partir le message !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le bon endroit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Où (Le
+    bon endroit !), joyful bright saturated colors, Pixar-style render, no text, no
+    logos
+- narration: L'endroit où ça va !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Destination
+    (L'endroit où ça va !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Le chiffre secret !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Numéro
+    (Le chiffre secret !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

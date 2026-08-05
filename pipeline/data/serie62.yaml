@@ -1,0 +1,26 @@
+series:
+  key: serie62
+  title: Le Super Planificateur !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Dans l'ordinateur, il y a un chef d'orchestre qui organise tout, pour
+    que chaque programme fonctionne parfaitement !
+items:
+- name: Système d'exploitation
+  script: Le grand organisateur !
+  accent_color: '#40E0D0'
+- name: Organiser
+  script: Tout mettre en ordre !
+  accent_color: '#90EE90'
+- name: Gérer
+  script: Prendre en charge !
+  accent_color: '#DAA520'
+- name: Ordinateur
+  script: La machine intelligente !
+  accent_color: '#4682B4'
+- name: Chef
+  script: Le grand responsable !
+  accent_color: '#FFD700'
+- name: Tout faire
+  script: Super multi-tâches !
+  accent_color: '#8A2BE2'

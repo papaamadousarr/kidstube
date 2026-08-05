@@ -1,0 +1,32 @@
+series:
+  key: serie29
+  title: La Pêche aux Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: L'ordinateur est comme un pêcheur malin qui attrape toutes les informations
+    utiles sur internet ou ailleurs !
+items:
+- name: Collecte
+  script: Ramasser les infos !
+  accent_color: '#6A5ACD'
+  icon: 1f9fa
+- name: Ramasser
+  script: Prendre ce qu'on trouve !
+  accent_color: '#DDA0DD'
+  icon: 270b
+- name: Pêcher
+  script: Attraper les infos !
+  accent_color: '#4682B4'
+  icon: 1f3a3
+- name: Chercher
+  script: Explorer pour trouver !
+  accent_color: '#FFD700'
+  icon: 1f50e
+- name: Trouver
+  script: Mettre la main dessus !
+  accent_color: '#ADD8E6'
+  icon: 1f4a1
+- name: Rassembler
+  script: Mettre ensemble !
+  accent_color: '#9370DB'
+  icon: 1f465

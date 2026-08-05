@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie15
+  title: La Chaîne des Événements !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie15
+segments:
+- narration: Dans la vie du robot, chaque événement entraîne un autre, comme les maillons
+    d'une chaîne !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Chaîne
+    des Événements !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Ce qui a commencé !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cause
+    (Ce qui a commencé !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Ce qui est arrivé après !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Effet
+    (Ce qui est arrivé après !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qui était là d'abord !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Avant
+    (Ce qui était là d'abord !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qui est venu ensuite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Après
+    (Ce qui est venu ensuite !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le moment précis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Quand
+    (Le moment précis !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Ce qui en découle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Conséquence
+    (Ce qui en découle !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

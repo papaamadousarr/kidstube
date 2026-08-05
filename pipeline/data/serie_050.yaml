@@ -1,0 +1,23 @@
+series:
+  key: serie_050
+  title: Le Gardien des Données
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: L'ordinateur protège tes informations secrètes comme un super-héros
+    !
+items:
+- name: Le Code Secret
+  script: Un mot de passe pour ouvrir mes trésors !
+  accent_color: '#87CEEB'
+- name: La Serrure Virtuelle
+  script: Je mets une serrure pour que personne n'entre !
+  accent_color: '#A9A9A9'
+- name: Les Données Protégées
+  script: Mes dessins et mes photos sont en sécurité !
+  accent_color: '#90EE90'
+- name: Le Héro de la Sécurité
+  script: Je repousse les méchants qui veulent voler tes infos !
+  accent_color: '#FFB6C1'
+- name: La Règle d'Or
+  script: Ne partage jamais tes secrets avec des inconnus !
+  accent_color: '#FFD700'

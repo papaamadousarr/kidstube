@@ -1,0 +1,23 @@
+series:
+  key: serie_043
+  title: Le Robot Portier
+  voice: fr_FR-siwis-medium
+  background_color: '#FDF5E6'
+  intro_text: Certains robots gardent l'entrée et ne laissent passer que les personnes
+    qu'ils connaissent !
+items:
+- name: La Porte Verrouillée
+  script: Personne ne peut entrer sans permission !
+  accent_color: '#FFDEAD'
+- name: Le Visage Connu
+  script: Ah, c'est toi ! Bienvenue !
+  accent_color: '#DDA0DD'
+- name: Le Visiteur Inconnu
+  script: Qui es-tu ? Je ne te connais pas !
+  accent_color: '#FFC0CB'
+- name: Le Robot Gardien
+  script: Je protège la maison ! Chut !
+  accent_color: '#ADD8E6'
+- name: L'Accès Autorisé
+  script: Tu peux passer ! Vas-y !
+  accent_color: '#98FB98'

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie77
+  title: Le Robot qui Reconnait les Objets !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie77
+segments:
+- narration: Le robot a des yeux très perçants ! Il peut regarder autour de lui et
+    savoir ce que sont tous les objets qu'il voit !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Reconnait les Objets !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Savoir ce que c'est !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Reconnaissance
+    d'objets (Savoir ce que c'est !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Regarder attentivement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    (Regarder attentivement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre un nom dessus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Identifier
+    (Mettre un nom dessus !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Avoir la connaissance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Savoir
+    (Avoir la connaissance !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: La place de l'objet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Où (La
+    place de l'objet !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: La nature de l'objet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Quoi
+    (La nature de l'objet !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,22 @@
+series:
+  key: serie_01
+  title: L'Écho des Ondes !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Comment les appareils parlent-ils sans fil ? C'est magique !
+items:
+- name: Wifi
+  script: Le chemin invisible pour se connecter !
+  accent_color: '#87CEEB'
+- name: Bluetooth
+  script: Les amis très proches se parlent à l'oreille !
+  accent_color: '#00BFFF'
+- name: Antenne
+  script: C'est l'oreille et la bouche des ondes !
+  accent_color: '#1E90FF'
+- name: Signal
+  script: Une petite vague qui porte l'information !
+  accent_color: '#6495ED'
+- name: Fréquence
+  script: Comme une voix unique pour chaque conversation !
+  accent_color: '#4169E1'

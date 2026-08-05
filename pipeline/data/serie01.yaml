@@ -1,0 +1,32 @@
+series:
+  key: serie01
+  title: Le Super Pouvoir des Choix !
+  voice: fr_FR-siwis-medium
+  background_color: '#E0FFFF'
+  intro_text: Chaque jour, nous faisons des choix. Les robots aussi ! Apprends à les
+    aider à choisir le bon chemin !
+items:
+- name: Choix
+  script: Je décide quoi faire !
+  accent_color: '#40E0D0'
+  icon: 1f446
+- name: Condition
+  script: Si c'est comme ça !
+  accent_color: '#6495ED'
+  icon: '2699'
+- name: Action
+  script: Alors je fais ça !
+  accent_color: '#FFD700'
+  icon: 25b6
+- name: Alternative
+  script: Sinon, je fais autre chose !
+  accent_color: '#FFA07A'
+  icon: '2194'
+- name: Question
+  script: Que dois-je faire ?
+  accent_color: '#ADFF2F'
+  icon: '2753'
+- name: Décision
+  script: C'est à moi de choisir !
+  accent_color: '#DA70D6'
+  icon: 1f3af

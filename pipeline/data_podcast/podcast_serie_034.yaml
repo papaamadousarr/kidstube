@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_034
+  title: Le Choix du Robot
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_034
+segments:
+- narration: Le robot peut prendre des décisions, comme choisir entre deux chemins
+    ou deux couleurs !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Choix
+    du Robot', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Si le chemin est vert, j'y vais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    Vert (Si le chemin est vert, j'y vais !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Si le chemin est rouge, je ne passe pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    Rouge (Si le chemin est rouge, je ne passe pas !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Si ceci, alors je fais cela ! C'est logique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Si...
+    Alors... (Si ceci, alors je fais cela ! C'est logique !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je prends toujours la meilleure décision !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Décision
+    Malin (Je prends toujours la meilleure décision !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Si ce n'est pas ça, alors c'est l'autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Alternative
+    (Si ce n'est pas ça, alors c'est l'autre !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

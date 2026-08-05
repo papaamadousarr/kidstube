@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_016
+  title: Le Partage des Secrets
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_016
+segments:
+- narration: On peut partager nos dessins, nos photos et nos jeux avec nos amis grâce
+    à l'ordinateur !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Partage
+    des Secrets', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Vite, il part chez mon ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing J'envoie
+    mon Dessin ! (Vite, il part chez mon ami !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Chouette, une photo de mon ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Reçois
+    une Photo ! (Chouette, une photo de mon ami !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'ordinateur est un super facteur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Messager
+    Rapide (L'ordinateur est un super facteur !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mes infos vont chez toi, tes infos viennent chez moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing On Partage
+    Tout ! (Mes infos vont chez toi, tes infos viennent chez moi !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est une boîte où tout le monde peut prendre ou mettre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dossier
+    Partagé (C'est une boîte où tout le monde peut prendre ou mettre !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

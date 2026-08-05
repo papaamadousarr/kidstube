@@ -1,0 +1,23 @@
+series:
+  key: serie_032
+  title: Le Petit Détective de Formes
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: L'IA est un détective qui reconnaît toutes les formes, même les plus
+    cachées !
+items:
+- name: Le Rond Mystère
+  script: C'est un cercle ! Je l'ai trouvé !
+  accent_color: '#FFD700'
+- name: Le Carré Coquin
+  script: Je vois un carré, même s'il est un peu tordu !
+  accent_color: '#FFA07A'
+- name: Le Triangle Malin
+  script: Trois côtés, c'est un triangle ! Facile !
+  accent_color: '#ADFF2F'
+- name: La Forme Cachée
+  script: Même dans un grand dessin, je retrouve les formes !
+  accent_color: '#98FB98'
+- name: Je Reconnais Tout !
+  script: Un cœur, une étoile ! Je suis un expert !
+  accent_color: '#FFB6C1'

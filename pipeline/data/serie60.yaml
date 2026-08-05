@@ -1,0 +1,26 @@
+series:
+  key: serie60
+  title: Les Signaux Qui Voyagent !
+  voice: fr_FR-siwis-medium
+  background_color: '#F5F5DC'
+  intro_text: Pour communiquer sans fil, l'ordinateur envoie des signaux invisibles,
+    comme des petites vagues qui voyagent dans l'air !
+items:
+- name: Onde
+  script: Une vague invisible !
+  accent_color: '#BDB76B'
+- name: Sans fil
+  script: Pas de fil du tout !
+  accent_color: '#ADD8E6'
+- name: Signal
+  script: Un petit message qui part !
+  accent_color: '#FFD700'
+- name: Partir
+  script: S'envoler de l'ordinateur !
+  accent_color: '#FF4500'
+- name: Arriver
+  script: Atteindre la destination !
+  accent_color: '#90EE90'
+- name: Invisible
+  script: On ne le voit pas passer !
+  accent_color: '#A9A9A9'

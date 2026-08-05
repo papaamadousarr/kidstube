@@ -1,0 +1,32 @@
+series:
+  key: serie54
+  title: Le Partage des Fichiers Amis !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Quand tu veux montrer tes dessins à un ami, l'ordinateur peut les partager,
+    comme donner un cadeau !
+items:
+- name: Partage
+  script: Donner à un autre !
+  accent_color: '#FFC0CB'
+  icon: 1f91d
+- name: Envoyer
+  script: Faire partir le fichier !
+  accent_color: '#ADD8E6'
+  icon: '2709'
+- name: Recevoir
+  script: Accueillir le cadeau !
+  accent_color: '#90EE90'
+  icon: 1f4e5
+- name: Copier
+  script: Faire un double !
+  accent_color: '#FFD700'
+  icon: 1f4cb
+- name: Donner
+  script: Offrir le fichier !
+  accent_color: '#FFA07A'
+  icon: 1f381
+- name: Échanger
+  script: Donner et prendre !
+  accent_color: '#DA70D6'
+  icon: 1f504

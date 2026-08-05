@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie08
+  title: Le Journal des Actions !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie08
+segments:
+- narration: Le robot se souvient de tout ce qu'il a fait ! C'est comme un journal
+    de bord de ses aventures.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Journal
+    des Actions !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Ce qui s'est passé avant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Historique
+    (Ce qui s'est passé avant !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Ce qui est déjà fait !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Passé
+    (Ce qui est déjà fait !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarder encore !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Revoir
+    (Regarder encore !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Un petit souvenir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trace
+    (Un petit souvenir !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Une chose qui arrive !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Événement
+    (Une chose qui arrive !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Une chose réalisée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fait
+    (Une chose réalisée !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_038
+  title: L'Application Utile
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_038
+segments:
+- narration: Les applications sont comme des petits outils magiques dans ton téléphone
+    ou ta tablette !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Application
+    Utile', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je dessine avec mon doigt ! Quel talent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Appli
+    Dessin (Je dessine avec mon doigt ! Quel talent !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: J'écoute mes chansons préférées ! Doux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Appli
+    Musique (J'écoute mes chansons préférées ! Doux !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je vois s'il va pleuvoir ou faire soleil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Appli
+    Météo (Je vois s'il va pleuvoir ou faire soleil !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je joue à mon jeu préféré ! C'est amusant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Appli
+    Jeu (Je joue à mon jeu préféré ! C'est amusant !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est un programme qui fait une tâche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Logiciel
+    Malin (C'est un programme qui fait une tâche !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

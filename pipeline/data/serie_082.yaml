@@ -1,0 +1,23 @@
+series:
+  key: serie_082
+  title: Le Robot Musicien
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Il peut jouer des instruments, composer des chansons et même chanter
+    !
+items:
+- name: La Mélodie Douce
+  script: Je joue une musique très douce ! Chuuut !
+  accent_color: '#FFD700'
+- name: Le Rythme Amusant
+  script: Tape, tape, tape ! Je fais un rythme joyeux !
+  accent_color: '#FFA07A'
+- name: Le Robot Compositeur
+  script: J'invente de nouvelles chansons ! Youpi !
+  accent_color: '#ADFF2F'
+- name: L'Orchestre Robot
+  script: Je joue tous les instruments en même temps !
+  accent_color: '#98FB98'
+- name: La Voix qui Chante
+  script: Je chante comme un oiseau ! La la la !
+  accent_color: '#FFB6C1'

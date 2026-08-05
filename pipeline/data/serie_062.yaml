@@ -1,0 +1,23 @@
+series:
+  key: serie_062
+  title: La Sauvegarde Secrète
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFACD'
+  intro_text: Pour ne pas perdre tes trésors, l'ordinateur les met en sécurité, comme
+    dans une boîte forte !
+items:
+- name: Je Cache mon Dessin
+  script: Je le mets dans ma cachette ! Chut !
+  accent_color: '#FFD700'
+- name: Le Copie de Sécurité
+  script: J'en fais une copie au cas où !
+  accent_color: '#FFA07A'
+- name: La Boîte aux Trésors
+  script: Tous mes jeux et mes histoires sont ici !
+  accent_color: '#ADFF2F'
+- name: Le Bouton Enregistrer
+  script: Je clique pour tout mettre en sécurité !
+  accent_color: '#98FB98'
+- name: La Peur de Perdre
+  script: Je ne veux pas que mes chefs-d'œuvre disparaissent !
+  accent_color: '#FFB6C1'

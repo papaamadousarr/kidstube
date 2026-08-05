@@ -1,0 +1,26 @@
+series:
+  key: serie91
+  title: Les Moteurs Super Puissants !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Pour que le robot puisse bouger, il a besoin de petits cœurs qui tournent
+    très fort ! Ce sont les moteurs !
+items:
+- name: Moteur
+  script: Le cœur du mouvement !
+  accent_color: '#DB7093'
+- name: Tourner
+  script: Faire des ronds !
+  accent_color: '#FFC0CB'
+- name: Pousser
+  script: Donner une impulsion !
+  accent_color: '#FF4500'
+- name: Bouger
+  script: Se déplacer !
+  accent_color: '#ADD8E6'
+- name: Force
+  script: La puissance du robot !
+  accent_color: '#A9A9A9'
+- name: Énergie
+  script: Ce qui le fait fonctionner !
+  accent_color: '#FFD700'

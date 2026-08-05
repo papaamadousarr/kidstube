@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie99
+  title: Le Robot sous l'Eau !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie99
+segments:
+- narration: Des robots spéciaux peuvent plonger sous l'eau pour explorer les fonds
+    marins et découvrir des trésors cachés !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    sous l'Eau !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Le plongeur robotique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    sous-marin (Le plongeur robotique !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Se déplacer dans l'eau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nager
+    (Se déplacer dans l'eau !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Aller au fond de l'eau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plonger
+    (Aller au fond de l'eau !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Visiter les profondeurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Explorer
+    (Visiter les profondeurs !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le liquide bleu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Eau
+    (Le liquide bleu !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Tout en bas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Profond
+    (Tout en bas !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

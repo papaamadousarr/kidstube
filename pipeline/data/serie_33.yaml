@@ -1,0 +1,26 @@
+series:
+  key: serie_33
+  title: Le Compteur Malin !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: L'ordinateur sait compter très très vite, pour toutes les répétitions
+    !
+items:
+- name: Compter les tours
+  script: Il sait combien de fois il a répété une action !
+  accent_color: '#9ACD32'
+- name: Répéter X fois
+  script: Il exécute une tâche un certain nombre de fois !
+  accent_color: '#6B8E23'
+- name: Se souvenir du nombre
+  script: Il garde en mémoire le compte actuel !
+  accent_color: '#556B2F'
+- name: De 1 à 100
+  script: Il peut compter de tout petit à très très grand !
+  accent_color: '#ADFF2F'
+- name: Quand s'arrêter
+  script: Il sait quand il a fini de compter !
+  accent_color: '#7CFC00'
+- name: Compteur magique
+  script: Une petite horloge qui compte sans se tromper !
+  accent_color: '#3CB371'

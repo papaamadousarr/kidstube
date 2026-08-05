@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_06
+  title: La Porte Magique !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_06
+segments:
+- narration: Comment les applications se parlent-elles entre elles ? Par une porte
+    secrète !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Porte
+    Magique !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un petit pont pour aller d'une app à l'autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Passerelle
+    (Un petit pont pour aller d'une app à l'autre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une formule magique pour se comprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Code
+    secret (Une formule magique pour se comprendre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les programmes échangent des messages !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    ensemble (Les programmes échangent des messages !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'une demande un service à l'autre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Demande
+    gentille (L'une demande un service à l'autre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'autre envoie l'information demandée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réponse
+    rapide (L'autre envoie l'information demandée !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

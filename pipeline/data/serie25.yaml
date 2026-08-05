@@ -1,0 +1,32 @@
+series:
+  key: serie25
+  title: Les Clés Secrètes des Données !
+  voice: fr_FR-siwis-medium
+  background_color: '#FAFAD2'
+  intro_text: Pour ouvrir une boîte pleine d'informations, le robot a parfois besoin
+    d'une clé secrète, comme pour un coffre au trésor !
+items:
+- name: Clé
+  script: Un passe-partout !
+  accent_color: '#DAA520'
+  icon: 1f511
+- name: Verrou
+  script: Pour garder fermé !
+  accent_color: '#A9A9A9'
+  icon: 1f512
+- name: Ouvrir
+  script: Accéder aux infos !
+  accent_color: '#90EE90'
+  icon: 1f513
+- name: Fermer
+  script: Protéger le secret !
+  accent_color: '#808080'
+  icon: 1f512
+- name: Protéger
+  script: Mettre en sécurité !
+  accent_color: '#4682B4'
+  icon: 1f6e1
+- name: Mystère
+  script: Un secret à percer !
+  accent_color: '#8A2BE2'
+  icon: '2753'

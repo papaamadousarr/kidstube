@@ -1,0 +1,22 @@
+series:
+  key: weekdays_fr
+  title: "Les jours de la semaine"
+  voice: fr_FR-siwis-medium
+  background_color: "#D0E8F2"
+  intro_text: "Apprenons les jours de la semaine !"
+
+items:
+  - name: "Lundi"
+    script: "Lundi, premier jour de la semaine !"
+  - name: "Mardi"
+    script: "Mardi !"
+  - name: "Mercredi"
+    script: "Mercredi !"
+  - name: "Jeudi"
+    script: "Jeudi !"
+  - name: "Vendredi"
+    script: "Vendredi !"
+  - name: "Samedi"
+    script: "Samedi, le week-end commence !"
+  - name: "Dimanche"
+    script: "Dimanche !"

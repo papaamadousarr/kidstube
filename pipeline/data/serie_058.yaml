@@ -1,0 +1,23 @@
+series:
+  key: serie_058
+  title: Le Pointeur Lumineux
+  voice: fr_FR-siwis-medium
+  background_color: '#F8F8FF'
+  intro_text: C'est la petite flèche sur ton écran qui te montre où tu es et où tu
+    peux cliquer !
+items:
+- name: La Petite Flèche
+  script: Je te montre le chemin ! Suis-moi !
+  accent_color: '#87CEFA'
+- name: Je Bouge Partout
+  script: Je danse sur l'écran pour te guider !
+  accent_color: '#FFB6C1'
+- name: Je Clique Ici !
+  script: Je pointe l'endroit où tu dois appuyer !
+  accent_color: '#9370DB'
+- name: Le Curseur Malin
+  script: C'est mon petit nom technique ! Chut !
+  accent_color: '#ADD8E6'
+- name: La Précision
+  script: Je suis très précis pour ne pas me tromper !
+  accent_color: '#90EE90'

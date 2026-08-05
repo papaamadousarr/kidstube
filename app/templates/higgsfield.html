@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}Higgsfield{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Vidéos réalistes (Higgsfield)</h1>
+    <p class="page-subtitle">Pipeline alternatif — génère des vidéos réalistes (Sora, Veo, Kling…) au lieu des flashcards, pour les spéciales par exemple.</p>
+  </div>
+</div>
+
+{% if not connected %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>
+    Compte Higgsfield non connecté. Crée un compte sur
+    <a href="https://higgsfield.ai" target="_blank" rel="noopener">higgsfield.ai</a>,
+    puis lance <code>python scripts/higgsfield_auth.py</code> dans un terminal pour autoriser l'accès.
+  </span>
+</div>
+{% endif %}
+
+<div class="panel" style="max-width:none;">
+<form method="post" action="{{ url_for('higgsfield.trigger_generate') }}" class="form">
+  <label>Série de scènes (fichier de script)
+    <select name="series_key" required>
+      <option value="">— choisir une série —</option>
+      {% for key in series_keys %}
+        <option value="{{ key }}">{{ key }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <p class="muted" style="margin-top:-0.75rem; font-size:0.8rem;">
+    Chaque série est un script multi-scènes (voix off + prompt Higgsfield par scène)
+    défini dans <code>pipeline/data_higgsfield/</code>.
+  </p>
+
+  <label>Idée existante (optionnel)
+    <select name="idea_id">
+      <option value="">— nouvelle idée à partir du titre de la série —</option>
+      {% for idea in available_ideas %}
+        <option value="{{ idea.id }}">{{ idea.title }}</option>
+      {% endfor %}
+    </select>
+  </label>
+
+  <label>Format (optionnel, sinon celui de la série)
+    <select name="aspect_ratio">
+      <option value="">— par défaut —</option>
+      <option value="16:9">16:9 (paysage)</option>
+      <option value="9:16">9:16 (vertical)</option>
+      <option value="1:1">1:1 (carré)</option>
+    </select>
+  </label>
+
+  <div class="form-actions">
+    <button type="submit" {{ 'disabled' if not connected else '' }}>Générer avec Higgsfield</button>
+  </div>
+</form>
+</div>
+
+<h2 class="section-title">Vidéos Higgsfield</h2>
+{% if ideas %}
+<div class="table-wrap">
+<table>
+  <thead><tr><th>Titre</th><th>Statut</th><th></th></tr></thead>
+  <tbody>
+  {% for idea in ideas %}
+    <tr>
+      <td class="cell-title">{{ idea.title }}</td>
+      <td><span class="badge status-{{ idea.status }}">{{ idea.status }}</span></td>
+      <td class="actions">
+        <a href="{{ url_for('ideas.edit_idea', idea_id=idea.id) }}">Éditer</a>
+        {% if idea.status == 'assembled' %}
+          <a href="{{ url_for('publish.publish_form', idea_id=idea.id) }}">Publier</a>
+        {% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% else %}
+<p class="muted">Aucune vidéo Higgsfield pour l'instant.</p>
+{% endif %}
+{% endblock %}

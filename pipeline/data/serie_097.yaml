@@ -1,0 +1,23 @@
+series:
+  key: serie_097
+  title: Le Robot Sécure
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Il protège tes informations et ta vie privée, comme un garde du corps
+    invisible !
+items:
+- name: Le Code Anti-Voleur
+  script: Je mets un code pour que personne ne voie tes secrets !
+  accent_color: '#FFDAB9'
+- name: Le Bouclier
+  script: Je protège tes infos des méchants virus !
+  accent_color: '#8FBC8F'
+- name: Le Gardien des Secrets
+  script: Tes photos et tes dessins sont bien gardés !
+  accent_color: '#AFEEEE'
+- name: La Règle de Confidentialité
+  script: Je ne montre tes infos à personne sans ta permission !
+  accent_color: '#ADD8E6'
+- name: La Vigilance
+  script: Je surveille tout pour que tu sois en sécurité !
+  accent_color: '#FFC0CB'

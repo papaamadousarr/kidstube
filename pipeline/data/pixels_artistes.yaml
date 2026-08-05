@@ -1,0 +1,32 @@
+series:
+  key: pixels_artistes
+  title: Les Pixels, Petits Artistes !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAF0'
+  intro_text: Regarde de plus près, les images sont faites de millions de petits points
+    !
+items:
+- name: Pixel
+  script: Un tout petit carré de couleur sur l'écran !
+  accent_color: '#FF0000'
+  icon: 2b1c
+- name: Couleur
+  script: Chaque pixel a sa propre couleur, c'est magique !
+  accent_color: '#00FF00'
+  icon: 1f308
+- name: Image
+  script: Des milliers de pixels qui forment un dessin !
+  accent_color: '#0000FF'
+  icon: 1f5bc
+- name: Zoom
+  script: Quand on s'approche, on voit les pixels un par un !
+  accent_color: '#FFFF00'
+  icon: 1f50d
+- name: Point
+  script: Le pixel est un tout petit point qui fait partie du tableau !
+  accent_color: '#FF00FF'
+  icon: 26ab
+- name: Dessin
+  script: C'est l'ordinateur qui dessine avec tous ces pixels !
+  accent_color: '#00FFFF'
+  icon: 270f

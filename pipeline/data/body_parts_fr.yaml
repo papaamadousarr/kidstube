@@ -1,0 +1,32 @@
+series:
+  key: body_parts_fr
+  title: "Les parties du corps"
+  voice: fr_FR-siwis-medium
+  background_color: "#F3E5F5"
+  intro_text: "Découvrons les parties du corps !"
+
+items:
+  - name: "Les yeux"
+    script: "Les yeux servent à voir !"
+    icon: eyes
+    accent_color: "#5E35B1"
+  - name: "Le nez"
+    script: "Le nez sert à sentir !"
+    icon: nose
+    accent_color: "#8E24AA"
+  - name: "La bouche"
+    script: "La bouche sert à parler !"
+    icon: mouth
+    accent_color: "#D81B60"
+  - name: "Les oreilles"
+    script: "Les oreilles servent à entendre !"
+    icon: ear
+    accent_color: "#5E35B1"
+  - name: "La main"
+    script: "La main sert à toucher !"
+    icon: hand
+    accent_color: "#FB8C00"
+  - name: "Le pied"
+    script: "Le pied sert à marcher !"
+    icon: foot
+    accent_color: "#43A047"

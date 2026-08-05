@@ -1,0 +1,26 @@
+series:
+  key: serie73
+  title: Le Glisser-Déposer Amusant !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFAFA'
+  intro_text: Pour déplacer un dessin sur l'écran, tu peux le prendre avec la souris
+    et le glisser ailleurs ! C'est super facile !
+items:
+- name: Glisser-déposer
+  script: Prendre et relâcher !
+  accent_color: '#DB7093'
+- name: Bouger
+  script: Déplacer l'objet !
+  accent_color: '#FFC0CB'
+- name: Déplacer
+  script: Changer de place !
+  accent_color: '#ADD8E6'
+- name: Prendre
+  script: Saisir avec la souris !
+  accent_color: '#FFD700'
+- name: Lâcher
+  script: Relâcher l'objet !
+  accent_color: '#90EE90'
+- name: Facile
+  script: Pas compliqué du tout !
+  accent_color: '#40E0D0'

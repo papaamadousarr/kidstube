@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_programmes_fantastiques
+  title: Les Programmes Fantastiques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: programmes_fantastiques
+segments:
+- narration: Les programmes sont des recettes secrètes qui font danser l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Programmes
+    Fantastiques !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Une grande recette pour que l'ordinateur fasse un jeu ou une tâche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Programme
+    (Une grande recette pour que l'ordinateur fasse un jeu ou une tâche !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Un programme pour jouer, dessiner ou apprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Application
+    (Un programme pour jouer, dessiner ou apprendre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Toutes les étapes pour que le programme fonctionne !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Recette
+    (Toutes les étapes pour que le programme fonctionne !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Inventer un nouveau programme, c'est génial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    (Inventer un nouveau programme, c'est génial !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Appuyer sur un bouton pour que le programme commence !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lancer
+    (Appuyer sur un bouton pour que le programme commence !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Utiliser un programme pour s'amuser, c'est facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jouer
+    (Utiliser un programme pour s'amuser, c'est facile !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

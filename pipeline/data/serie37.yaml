@@ -1,0 +1,32 @@
+series:
+  key: serie37
+  title: Les Oreilles Discrètes !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Avec des oreilles spéciales, le robot peut écouter sa musique sans déranger
+    personne ! C'est super discret.
+items:
+- name: Casque
+  script: Les oreilles privées !
+  accent_color: '#2E8B57'
+  icon: 26d1
+- name: Écouter
+  script: Tendre l'oreille !
+  accent_color: '#ADD8E6'
+  icon: 1f442
+- name: Son
+  script: Une mélodie !
+  accent_color: '#40E0D0'
+  icon: 1f50a
+- name: Privé
+  script: Juste pour moi !
+  accent_color: '#DDA0DD'
+  icon: 1f512
+- name: Oreilles
+  script: Pour tout entendre !
+  accent_color: '#FFC0CB'
+  icon: 1f442
+- name: Discret
+  script: Sans faire de bruit !
+  accent_color: '#A9A9A9'
+  icon: 1f92b

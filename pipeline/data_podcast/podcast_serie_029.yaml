@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_029
+  title: Le Chercheur de Trésors
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_029
+segments:
+- narration: L'ordinateur est un détective qui trouve n'importe quel mot ou fichier
+    en un clin d'œil !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chercheur
+    de Trésors', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je cherche le mot 'soleil' ! Où est-il ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mot
+    à Trouver (Je cherche le mot 'soleil' ! Où est-il ?), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je regarde partout pour le trouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Loupe
+    Virtuelle (Je regarde partout pour le trouver !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Voilà ! J'ai trouvé ton mot ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Résultat
+    (Voilà ! J'ai trouvé ton mot ! Youpi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Oups, j'ai perdu mon dessin ! Aide-moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Fichier
+    Perdu (Oups, j'ai perdu mon dessin ! Aide-moi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'ordinateur trouve même les choses cachées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Trouve
+    Tout ! (L'ordinateur trouve même les choses cachées !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_026
+  title: Le Copieur Astucieux
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_026
+segments:
+- narration: L'ordinateur peut faire une copie exacte de ton dessin ou de ton texte
+    en un clin d'œil !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Copieur
+    Astucieux', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je fais une copie de mon dessin ! Un double !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Copie
+    ! (Je fais une copie de mon dessin ! Un double !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je mets ma copie ailleurs ! C'est magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Colle
+    ! (Je mets ma copie ailleurs ! C'est magique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Le premier dessin est toujours là !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Original
+    (Le premier dessin est toujours là !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le nouveau dessin est exactement pareil !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Copie
+    (Le nouveau dessin est exactement pareil !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je peux faire plein de copies ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plusieurs
+    Copies (Je peux faire plein de copies ! Youpi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

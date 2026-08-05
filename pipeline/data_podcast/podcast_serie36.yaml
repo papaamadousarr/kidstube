@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie36
+  title: La Grande Boîte aux Souvenirs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie36
+segments:
+- narration: L'ordinateur a une mémoire incroyable ! C'est comme une grande boîte
+    où il garde tous ses souvenirs et informations.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Grande
+    Boîte aux Souvenirs !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La mémoire géante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Disque
+    dur (La mémoire géante !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Là où on garde tout !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mémoire
+    (Là où on garde tout !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Mettre de côté pour plus tard !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Enregistrer
+    (Mettre de côté pour plus tard !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Conserver précieusement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Garder
+    (Conserver précieusement !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Beaucoup de place !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Grande
+    (Beaucoup de place !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Un petit coffre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Boîte
+    (Un petit coffre !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

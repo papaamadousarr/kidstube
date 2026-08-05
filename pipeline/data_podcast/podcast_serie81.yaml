@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie81
+  title: Le Robot qui Prévient !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie81
+segments:
+- narration: Le robot est comme un super-héros ! Il peut voir les dangers avant qu'ils
+    n'arrivent et nous prévenir pour nous protéger.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    qui Prévient !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Agir avant le danger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Prévention
+    (Agir avant le danger !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Voir à l'avance !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Anticiper
+    (Voir à l'avance !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Dire attention !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Avertir
+    (Dire attention !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Mettre en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    (Mettre en sécurité !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Attention, il y a un problème !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Danger
+    (Attention, il y a un problème !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On est bien protégé !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sécurité
+    (On est bien protégé !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

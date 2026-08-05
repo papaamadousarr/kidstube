@@ -1,0 +1,26 @@
+series:
+  key: serie89
+  title: Le Robot qui Comprend les Voix !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Le robot a de super oreilles ! Il peut comprendre ce que tu dis, même
+    quand tu chuchotes ou que tu parles fort !
+items:
+- name: Reconnaissance vocale
+  script: Savoir qui parle !
+  accent_color: '#6A5ACD'
+- name: Écouter
+  script: Tendre l'oreille !
+  accent_color: '#ADD8E6'
+- name: Comprendre
+  script: Saisir les mots !
+  accent_color: '#90EE90'
+- name: Parler
+  script: Prononcer des sons !
+  accent_color: '#FFC0CB'
+- name: Obéir
+  script: Faire ce qui est dit !
+  accent_color: '#4682B4'
+- name: Dire
+  script: Faire sortir des mots !
+  accent_color: '#DDA0DD'

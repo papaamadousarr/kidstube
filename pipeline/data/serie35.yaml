@@ -1,0 +1,32 @@
+series:
+  key: serie35
+  title: La Boîte à Images et Sons !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: L'ordinateur est un artiste ! Grâce à sa boîte magique, il peut nous
+    montrer de belles images et jouer de la musique.
+items:
+- name: Carte multimédia
+  script: La boîte à artistes !
+  accent_color: '#6A5ACD'
+  icon: 1f4be
+- name: Image
+  script: Une photo colorée !
+  accent_color: '#FFD700'
+  icon: 1f5bc
+- name: Son
+  script: Un bruit ou une mélodie !
+  accent_color: '#40E0D0'
+  icon: 1f50a
+- name: Voir
+  script: Regarder attentivement !
+  accent_color: '#ADD8E6'
+  icon: 1f440
+- name: Entendre
+  script: Écouter avec l'oreille !
+  accent_color: '#DDA0DD'
+  icon: 1f442
+- name: Créer
+  script: Imaginer et faire !
+  accent_color: '#FFC0CB'
+  icon: 1f6e0

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_033
+  title: La Reconnaissance des Visages
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_033
+segments:
+- narration: Les robots peuvent apprendre à reconnaître ton visage, comme s'ils te
+    connaissaient !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Reconnaissance
+    des Visages', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Coucou, robot ! C'est moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mon
+    Visage ! (Coucou, robot ! C'est moi !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je sais qui tu es ! Bonjour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je te
+    Connais ! (Je sais qui tu es ! Bonjour !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Oh, tu souris ! Je le vois !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Sourire
+    ! (Oh, tu souris ! Je le vois !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je sais quand tu es content(e) !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Personne
+    Heureuse (Je sais quand tu es content(e) !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Seuls les amis peuvent entrer ici !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Gardien
+    des Portes (Seuls les amis peuvent entrer ici !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

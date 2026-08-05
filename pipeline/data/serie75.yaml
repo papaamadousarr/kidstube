@@ -1,0 +1,26 @@
+series:
+  key: serie75
+  title: Les Jeux de l'Ordinateur !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF5EE'
+  intro_text: Ton ordinateur peut te faire jouer à des jeux super amusants, avec des
+    règles, des défis et des aventures incroyables !
+items:
+- name: Jeu vidéo
+  script: L'aventure sur écran !
+  accent_color: '#ADD8E6'
+- name: Jouer
+  script: S'amuser ensemble !
+  accent_color: '#FFD700'
+- name: S'amuser
+  script: Rire et explorer !
+  accent_color: '#90EE90'
+- name: Règles
+  script: Les consignes du jeu !
+  accent_color: '#4682B4'
+- name: Gagner
+  script: Être le meilleur !
+  accent_color: '#32CD32'
+- name: Perdre
+  script: Recommencer pour s'améliorer !
+  accent_color: '#DC143C'

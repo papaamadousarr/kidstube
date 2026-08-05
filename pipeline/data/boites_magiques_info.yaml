@@ -1,0 +1,31 @@
+series:
+  key: boites_magiques_info
+  title: Les Boîtes Magiques de l'Info !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Imagine des boîtes où l'ordinateur range toutes ses informations !
+items:
+- name: Boîte
+  script: Un petit endroit pour ranger une information !
+  accent_color: '#B0E0E6'
+  icon: 1f4e6
+- name: Info
+  script: C'est ce qu'on met dans la boîte, un nombre ou un mot !
+  accent_color: '#98FB98'
+  icon: '2139'
+- name: Nom de Boîte
+  script: Chaque boîte a un nom pour la retrouver facilement !
+  accent_color: '#FFDAB9'
+  icon: 1f3f7
+- name: Changer
+  script: On peut mettre une nouvelle info dans la boîte !
+  accent_color: '#DDA0DD'
+  icon: 1f504
+- name: Prendre
+  script: On utilise l'info qui est dans la boîte !
+  accent_color: '#AFEEEE'
+  icon: 270b
+- name: Ranger
+  script: Mettre l'information dans la bonne petite boîte !
+  accent_color: '#ADD8E6'
+  icon: 1f9f9

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_043
+  title: Le Robot Portier
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_043
+segments:
+- narration: Certains robots gardent l'entrée et ne laissent passer que les personnes
+    qu'ils connaissent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Portier', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Personne ne peut entrer sans permission !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Porte
+    Verrouillée (Personne ne peut entrer sans permission !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Ah, c'est toi ! Bienvenue !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Visage
+    Connu (Ah, c'est toi ! Bienvenue !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Qui es-tu ? Je ne te connais pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Visiteur
+    Inconnu (Qui es-tu ? Je ne te connais pas !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je protège la maison ! Chut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Gardien (Je protège la maison ! Chut !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Tu peux passer ! Vas-y !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Accès
+    Autorisé (Tu peux passer ! Vas-y !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

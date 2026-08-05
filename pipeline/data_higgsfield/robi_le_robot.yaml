@@ -1,0 +1,80 @@
+higgsfield_series:
+  key: robi_le_robot
+  title: "Robi le Robot apprend à écouter"
+  voice: fr_FR-siwis-medium
+  aspect_ratio: "16:9"
+
+scenes:
+  - narration: >
+      Oh non ! Robi le petit robot est perdu dans la forêt, et il ne sait
+      plus quoi faire !
+    prompt: >
+      A small, friendly cartoon-style robot with round glowing blue eyes
+      and a soft rounded metallic body, standing in a sunlit colorful
+      forest clearing, waving its arms in gentle confusion, looping idle
+      animation, warm soft cinematic lighting, Pixar-style 3D render,
+      wide establishing shot, cheerful children's animation, vibrant
+      saturated colors, no text, no logos
+    text_overlay: null
+
+  - narration: >
+      Heureusement, on va lui donner trois instructions, dans le bon
+      ordre : avance, tourne à droite, et ramasse la pomme.
+    prompt: >
+      The same small friendly cartoon robot with glowing blue eyes and
+      rounded metallic body, standing attentively in the colorful forest
+      clearing as if listening carefully, three glowing holographic
+      icons floating gently in front of it — a forward arrow, a turning
+      arrow, and a red apple — soft magical particle effects, warm
+      cinematic lighting, Pixar-style 3D render, children's animation
+      style, no text, no logos
+
+    text_overlay: "1. Avance   2. Tourne à droite   3. Ramasse la pomme"
+
+  - narration: >
+      Robi avance... il tourne à droite... et il ramasse la pomme !
+      Bravo Robi, tu as suivi les instructions dans le bon ordre !
+    prompt: >
+      The same small friendly cartoon robot with glowing blue eyes
+      walking forward along a sunny forest path, then turning right,
+      then happily picking up a shiny red apple from the ground, joyful
+      bouncy animation, small sparkles of success, warm golden lighting,
+      Pixar-style 3D render, children's animation, dynamic camera
+      following the action, no text, no logos
+    text_overlay: null
+
+  - narration: >
+      Mais attention ! Si on mélange l'ordre des instructions... regarde
+      ce qui se passe !
+    prompt: >
+      The same small cartoon robot with glowing blue eyes attempting to
+      move but confused by scrambled instructions, comically and gently
+      bumping into a soft cartoon tree trunk, exaggerated wobble and
+      surprised expression, bouncy comedic animation, bright daylight
+      forest scene, Pixar-style 3D render, children's animation, gentle
+      funny slapstick, no violence, no text, no logos
+    text_overlay: "Oups ! Le mauvais ordre..."
+
+  - narration: >
+      Mais Robi n'abandonne pas ! Il réessaie, et cette fois, il réussit,
+      parce qu'il a appris de son erreur !
+    prompt: >
+      The same small cartoon robot with glowing blue eyes, determined
+      happy expression, walking the forest path again and succeeding in
+      the correct order this time, glowing slightly brighter with a
+      satisfied smile, small sparkles of achievement, warm uplifting
+      golden hour lighting, Pixar-style 3D render, children's animation,
+      triumphant feel, no text, no logos
+    text_overlay: null
+
+  - narration: >
+      Bravo, tu viens d'apprendre ta première notion de code : la
+      séquence, c'est-à-dire suivre les instructions dans le bon ordre.
+      À bientôt pour une nouvelle aventure avec Robi !
+    prompt: >
+      The same small friendly cartoon robot with glowing blue eyes
+      waving goodbye happily in the sunny forest clearing, gentle
+      confetti and sparkles falling softly, warm joyful cinematic
+      lighting, Pixar-style 3D render, children's animation, wide
+      friendly closing shot, no text, no logos
+    text_overlay: "SÉQUENCE = le bon ordre des instructions !"

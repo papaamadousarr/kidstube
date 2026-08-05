@@ -1,0 +1,32 @@
+series:
+  key: vehicles_fr
+  title: "Les moyens de transport"
+  voice: fr_FR-siwis-medium
+  background_color: "#E3F2FD"
+  intro_text: "Découvrons les moyens de transport !"
+
+items:
+  - name: "Voiture"
+    script: "La voiture roule sur la route !"
+    icon: car
+    accent_color: "#E53935"
+  - name: "Bus"
+    script: "Le bus transporte plein de monde !"
+    icon: bus
+    accent_color: "#FB8C00"
+  - name: "Train"
+    script: "Le train roule sur les rails !"
+    icon: train
+    accent_color: "#546E7A"
+  - name: "Avion"
+    script: "L'avion vole dans le ciel !"
+    icon: airplane
+    accent_color: "#1E88E5"
+  - name: "Bateau"
+    script: "Le bateau flotte sur l'eau !"
+    icon: boat
+    accent_color: "#00897B"
+  - name: "Vélo"
+    script: "Le vélo a deux roues !"
+    icon: bike
+    accent_color: "#43A047"

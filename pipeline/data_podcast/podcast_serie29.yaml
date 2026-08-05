@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie29
+  title: La Pêche aux Données !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie29
+segments:
+- narration: L'ordinateur est comme un pêcheur malin qui attrape toutes les informations
+    utiles sur internet ou ailleurs !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Pêche
+    aux Données !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Ramasser les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Collecte
+    (Ramasser les infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Prendre ce qu'on trouve !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ramasser
+    (Prendre ce qu'on trouve !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Attraper les infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pêcher
+    (Attraper les infos !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Explorer pour trouver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chercher
+    (Explorer pour trouver !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre la main dessus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    (Mettre la main dessus !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Mettre ensemble !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rassembler
+    (Mettre ensemble !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

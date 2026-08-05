@@ -1,0 +1,22 @@
+series:
+  key: serie_24
+  title: Les Signaux Furtifs !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: Des messages invisibles que seuls certains capteurs peuvent voir !
+items:
+- name: Lumière invisible
+  script: Une lumière qu'on ne voit pas, mais qui transmet des infos !
+  accent_color: '#9ACD32'
+- name: Secret radio
+  script: Des ondes spéciales pour des messages discrets !
+  accent_color: '#6B8E23'
+- name: Badge magique
+  script: Un petit objet qui s'identifie tout seul !
+  accent_color: '#556B2F'
+- name: Sans toucher
+  script: Le capteur reconnaît l'objet sans le toucher !
+  accent_color: '#ADFF2F'
+- name: Portée limitée
+  script: Le signal ne va pas très loin, c'est intime !
+  accent_color: '#7CFC00'

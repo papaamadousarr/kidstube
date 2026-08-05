@@ -1,0 +1,25 @@
+series:
+  key: serie_12
+  title: Le Détective des Bruits !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFF0'
+  intro_text: L'ordinateur est comme un super-détective qui écoute les sons !
+items:
+- name: Reconnaître les sons
+  script: Il sait si c'est un chien ou un chat qui aboie !
+  accent_color: '#9ACD32'
+- name: Écoute cachée
+  script: Il perçoit des bruits que nous n'entendons pas !
+  accent_color: '#6B8E23'
+- name: Bruit mystérieux
+  script: Il essaie de deviner d'où vient un son inconnu !
+  accent_color: '#556B2F'
+- name: Chanson connue
+  script: Il reconnaît ta musique préférée !
+  accent_color: '#ADFF2F'
+- name: Détecter un cri
+  script: Il est alerté si un bébé pleure !
+  accent_color: '#7CFC00'
+- name: Silence
+  script: Il sait aussi quand il n'y a pas de bruit !
+  accent_color: '#3CB371'

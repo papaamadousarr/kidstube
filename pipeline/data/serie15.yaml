@@ -1,0 +1,32 @@
+series:
+  key: serie15
+  title: La Chaîne des Événements !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Dans la vie du robot, chaque événement entraîne un autre, comme les
+    maillons d'une chaîne !
+items:
+- name: Cause
+  script: Ce qui a commencé !
+  accent_color: '#FF6347'
+  icon: 1f4a5
+- name: Effet
+  script: Ce qui est arrivé après !
+  accent_color: '#90EE90'
+  icon: 1f3af
+- name: Avant
+  script: Ce qui était là d'abord !
+  accent_color: '#ADD8E6'
+  icon: 1f519
+- name: Après
+  script: Ce qui est venu ensuite !
+  accent_color: '#DA70D6'
+  icon: 1f51c
+- name: Quand
+  script: Le moment précis !
+  accent_color: '#FFD700'
+  icon: 23f0
+- name: Conséquence
+  script: Ce qui en découle !
+  accent_color: '#40E0D0'
+  icon: 26d3

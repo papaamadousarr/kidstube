@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_ordinateur
+  title: Mon Incroyable Aventure dans l'Ordinateur !
+  voice: fr_FR-siwis-medium
+  linked_series_key: ordinateur
+segments:
+- narration: Explorons ensemble la boîte magique qui nous montre plein de choses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Mon Incroyable
+    Aventure dans l'Ordinateur !', vibrant playful colors, Pixar-style children's
+    animation, warm inviting composition, no text, no logos
+- narration: La boîte magique qui pense !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Ordinateur
+    (La boîte magique qui pense !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Regarde, les images s'affichent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Écran
+    (Regarde, les images s'affichent !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour pointer et cliquer, click-click !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Souris
+    (Pour pointer et cliquer, click-click !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'écris des mots avec les lettres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Clavier
+    (J'écris des mots avec les lettres !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Choisir, c'est facile, clic !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Clic
+    (Choisir, c'est facile, clic !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Le langage secret de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Code
+    (Le langage secret de l'ordinateur !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

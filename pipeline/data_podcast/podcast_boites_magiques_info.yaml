@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_boites_magiques_info
+  title: Les Boîtes Magiques de l'Info !
+  voice: fr_FR-siwis-medium
+  linked_series_key: boites_magiques_info
+segments:
+- narration: Imagine des boîtes où l'ordinateur range toutes ses informations !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Boîtes
+    Magiques de l'Info !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Un petit endroit pour ranger une information !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Boîte
+    (Un petit endroit pour ranger une information !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est ce qu'on met dans la boîte, un nombre ou un mot !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Info
+    (C'est ce qu'on met dans la boîte, un nombre ou un mot !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chaque boîte a un nom pour la retrouver facilement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nom
+    de Boîte (Chaque boîte a un nom pour la retrouver facilement !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: On peut mettre une nouvelle info dans la boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Changer
+    (On peut mettre une nouvelle info dans la boîte !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: On utilise l'info qui est dans la boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Prendre
+    (On utilise l'info qui est dans la boîte !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Mettre l'information dans la bonne petite boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ranger
+    (Mettre l'information dans la bonne petite boîte !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

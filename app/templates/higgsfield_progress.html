@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Génération Higgsfield{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Génération vidéo réaliste</h1>
+    <p class="page-subtitle">{{ idea.title }}</p>
+  </div>
+</div>
+
+<div id="higgsfield-root" data-idea-id="{{ idea.id }}">
+
+  <div class="status-banner" id="status-banner" hidden>
+    <span class="status-icon">
+      <svg class="icon-success" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+      <svg class="icon-failure" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    </span>
+    <span class="status-text"></span>
+  </div>
+
+  <div class="loader-panel" id="loader-panel">
+    <div class="loader-head">
+      <div class="spinner" id="spinner" aria-hidden="true"></div>
+      <div>
+        <div class="loader-title" id="loader-title">Génération en cours…</div>
+        <div class="loader-sub">Temps écoulé : <span id="elapsed-timer">00:00</span></div>
+      </div>
+    </div>
+    <p class="muted" id="job-message">Envoi à Higgsfield...</p>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='js/higgsfield.js') }}"></script>
+
+<p><a href="{{ url_for('higgsfield.higgsfield_view') }}" class="button ghost">&larr; Retour</a></p>
+{% endblock %}

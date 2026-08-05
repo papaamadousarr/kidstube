@@ -1,0 +1,26 @@
+series:
+  key: serie58
+  title: Le Traducteur Universel d'Internet !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Pour que les applications puissent se parler, elles utilisent un traducteur
+    universel, comme un pont entre elles !
+items:
+- name: API
+  script: Le traducteur d'applications !
+  accent_color: '#40E0D0'
+- name: Parler
+  script: Se dire des choses !
+  accent_color: '#ADD8E6'
+- name: Comprendre
+  script: Saisir le sens !
+  accent_color: '#90EE90'
+- name: Échanger
+  script: Donner et recevoir !
+  accent_color: '#FFD700'
+- name: Pont
+  script: Un lien entre elles !
+  accent_color: '#DAA520'
+- name: Deux applications
+  script: Deux programmes qui s'entraident !
+  accent_color: '#9370DB'

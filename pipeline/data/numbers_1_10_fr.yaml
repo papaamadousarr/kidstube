@@ -1,0 +1,37 @@
+series:
+  key: numbers_1_10_fr
+  title: Les chiffres de 1 à 10
+  voice: fr_FR-siwis-medium
+  background_color: '#8ECAE6'
+  intro_text: Apprenons à compter de 1 à 10 !
+items:
+- name: '1'
+  script: Un !
+  icon: 31-20e3
+- name: '2'
+  script: Deux !
+  icon: 32-20e3
+- name: '3'
+  script: Trois !
+  icon: 33-20e3
+- name: '4'
+  script: Quatre !
+  icon: 34-20e3
+- name: '5'
+  script: Cinq !
+  icon: 35-20e3
+- name: '6'
+  script: Six !
+  icon: 36-20e3
+- name: '7'
+  script: Sept !
+  icon: 37-20e3
+- name: '8'
+  script: Huit !
+  icon: 38-20e3
+- name: '9'
+  script: Neuf !
+  icon: 39-20e3
+- name: '10'
+  script: Dix !
+  icon: 1f51f

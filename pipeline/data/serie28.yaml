@@ -1,0 +1,32 @@
+series:
+  key: serie28
+  title: Le Petit Guide des Sélections !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFF0F5'
+  intro_text: Devant beaucoup d'informations, le robot sait comment choisir seulement
+    celles qui sont utiles, comme un chef qui sélectionne les bons ingrédients !
+items:
+- name: Filtrer
+  script: Faire un tri malin !
+  accent_color: '#DB7093'
+  icon: 1f9f9
+- name: Choisir
+  script: Prendre ce qu'il faut !
+  accent_color: '#ADD8E6'
+  icon: '2705'
+- name: Sélectionner
+  script: Bien choisir !
+  accent_color: '#FFD700'
+  icon: 261d
+- name: Écarter
+  script: Mettre de côté !
+  accent_color: '#FFA07A'
+  icon: 274c
+- name: Garder
+  script: Conserver l'utile !
+  accent_color: '#90EE90'
+  icon: 1f512
+- name: Passer
+  script: Laisser le reste !
+  accent_color: '#FFC0CB'
+  icon: 23ed

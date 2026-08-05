@@ -1,0 +1,32 @@
+series:
+  key: serie43
+  title: Le Grand Afficheur d'Images !
+  voice: fr_FR-siwis-medium
+  background_color: '#E6E6FA'
+  intro_text: Pour montrer des images en super grand sur le mur, l'ordinateur utilise
+    un projecteur, comme une lampe magique !
+items:
+- name: Projecteur
+  script: La lampe à images !
+  accent_color: '#6A5ACD'
+  icon: 1f4fd
+- name: Montrer
+  script: Faire voir à tous !
+  accent_color: '#FFD700'
+  icon: 1f449
+- name: Grand
+  script: Énorme sur le mur !
+  accent_color: '#ADD8E6'
+  icon: 2b06
+- name: Image
+  script: Une jolie photo !
+  accent_color: '#90EE90'
+  icon: 1f5bc
+- name: Mur
+  script: La surface géante !
+  accent_color: '#A9A9A9'
+  icon: 1f9f1
+- name: Écran
+  script: La toile magique !
+  accent_color: '#40E0D0'
+  icon: 1f5a5

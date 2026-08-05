@@ -1,0 +1,32 @@
+series:
+  key: programmes_fantastiques
+  title: Les Programmes Fantastiques !
+  voice: fr_FR-siwis-medium
+  background_color: '#FFFDD0'
+  intro_text: Les programmes sont des recettes secrètes qui font danser l'ordinateur
+    !
+items:
+- name: Programme
+  script: Une grande recette pour que l'ordinateur fasse un jeu ou une tâche !
+  accent_color: '#9ACD32'
+  icon: 1f4dc
+- name: Application
+  script: Un programme pour jouer, dessiner ou apprendre !
+  accent_color: '#6B8E23'
+  icon: 1f4f1
+- name: Recette
+  script: Toutes les étapes pour que le programme fonctionne !
+  accent_color: '#ADFF2F'
+  icon: 1f372
+- name: Créer
+  script: Inventer un nouveau programme, c'est génial !
+  accent_color: '#7FFF00'
+  icon: '2728'
+- name: Lancer
+  script: Appuyer sur un bouton pour que le programme commence !
+  accent_color: '#00FF7F'
+  icon: 1f680
+- name: Jouer
+  script: Utiliser un programme pour s'amuser, c'est facile !
+  accent_color: '#3CB371'
+  icon: 1f3ae

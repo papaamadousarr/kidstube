@@ -1,0 +1,32 @@
+series:
+  key: serie26
+  title: Les Infos qui Voyagent !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0F8FF'
+  intro_text: Les informations ne restent pas immobiles ! Elles voyagent d'un robot
+    à l'autre, comme des petits oiseaux voyageurs.
+items:
+- name: Transmission
+  script: Envoyer des infos !
+  accent_color: '#48D1CC'
+  icon: 1f4e1
+- name: Envoyer
+  script: Faire partir l'info !
+  accent_color: '#FFC0CB'
+  icon: '2709'
+- name: Recevoir
+  script: Accueillir l'info !
+  accent_color: '#ADD8E6'
+  icon: 1f4e5
+- name: Partager
+  script: Donner à tous !
+  accent_color: '#FFD700'
+  icon: 1f91d
+- name: Voyager
+  script: Faire un long chemin !
+  accent_color: '#6495ED'
+  icon: '2708'
+- name: Passer
+  script: Aller d'un point à l'autre !
+  accent_color: '#9370DB'
+  icon: 27a1

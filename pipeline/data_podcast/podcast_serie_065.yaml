@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_065
+  title: Le Robot Télécommandé
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_065
+segments:
+- narration: On peut diriger un robot à distance avec une petite télécommande, comme
+    par magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Télécommandé', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: J'appuie sur les boutons pour donner des ordres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Télécommande
+    (J'appuie sur les boutons pour donner des ordres !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il est loin, mais j'arrive à le diriger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Lointain (Il est loin, mais j'arrive à le diriger !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Mes ordres voyagent dans l'air jusqu'à lui !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Ordres Radio (Mes ordres voyagent dans l'air jusqu'à lui !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: C'est moi qui contrôle le robot, hi hi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pilote
+    Caché (C'est moi qui contrôle le robot, hi hi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je peux le faire avancer, tourner, s'arrêter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Contrôle
+    à Distance (Je peux le faire avancer, tourner, s'arrêter !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

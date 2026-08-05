@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie94
+  title: Les Articulations Magiques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie94
+segments:
+- narration: Pour plier ses bras et ses jambes, le robot a des articulations, comme
+    les tiennes, qui lui donnent une grande souplesse !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Articulations
+    Magiques !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le point qui plie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Articulation
+    (Le point qui plie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Courber une partie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plier
+    (Courber une partie !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Faire pivoter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tourner
+    (Faire pivoter !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Changer de position !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bouger
+    (Changer de position !), joyful bright saturated colors, Pixar-style render, no
+    text, no logos
+- narration: Être très souple !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Flexibilité
+    (Être très souple !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Facile à plier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Souple
+    (Facile à plier !), joyful bright saturated colors, Pixar-style render, no text,
+    no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

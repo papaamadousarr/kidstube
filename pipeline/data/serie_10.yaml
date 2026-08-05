@@ -1,0 +1,26 @@
+series:
+  key: serie_10
+  title: L'Usine à Idées !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Quand l'ordinateur invente des choses toutes nouvelles et surprenantes
+    !
+items:
+- name: Imagineur
+  script: Il rêve et crée des choses jamais vues !
+  accent_color: '#AFEEEE'
+- name: Créeur
+  script: Il donne vie à de nouvelles idées !
+  accent_color: '#7FFFD4'
+- name: Nouveaux dessins
+  script: Il invente des images originales !
+  accent_color: '#40E0D0'
+- name: Musique inventée
+  script: Des mélodies composées par l'ordinateur !
+  accent_color: '#20B2AA'
+- name: Histoires sans fin
+  script: Il raconte de nouvelles aventures !
+  accent_color: '#00CED1'
+- name: Penseur fou
+  script: Il a des idées géniales et un peu folles !
+  accent_color: '#5F9EA0'

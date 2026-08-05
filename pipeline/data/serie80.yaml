@@ -1,0 +1,26 @@
+series:
+  key: serie80
+  title: Les Sentiments du Robot !
+  voice: fr_FR-siwis-medium
+  background_color: '#F0FFFF'
+  intro_text: Les robots peuvent-ils avoir des sentiments ? Ils peuvent apprendre
+    à les reconnaître et à y réagir, comme s'ils étaient tristes ou joyeux !
+items:
+- name: Émotion artificielle
+  script: Les sentiments du robot !
+  accent_color: '#DA70D6'
+- name: Triste
+  script: Pas très content !
+  accent_color: '#6495ED'
+- name: Joyeux
+  script: Super content !
+  accent_color: '#FFD700'
+- name: Comprendre
+  script: Saisir le sentiment !
+  accent_color: '#ADD8E6'
+- name: Exprimer
+  script: Montrer ce que l'on ressent !
+  accent_color: '#FFC0CB'
+- name: Réagir
+  script: Agir selon le sentiment !
+  accent_color: '#40E0D0'
