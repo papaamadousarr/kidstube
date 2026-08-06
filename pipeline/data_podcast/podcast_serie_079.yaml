@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_079
+  title: Le Robot Bâtisseur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_079
+segments:
+- narration: Des robots géants qui aident à construire de grandes maisons et des bâtiments
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Bâtisseur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je lève des choses très lourdes ! Facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Grue
+    Géante (Je lève des choses très lourdes ! Facile !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je monte les briques une par une ! Précis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bras
+    Articulé (Je monte les briques une par une ! Précis !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je construis des maisons très solides pour toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Maison
+    Solide (Je construis des maisons très solides pour toi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis le plan à la lettre pour que tout soit parfait !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Plan
+    de Construction (Je suis le plan à la lettre pour que tout soit parfait !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je ne me fatigue jamais de construire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Travailleur (Je ne me fatigue jamais de construire !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

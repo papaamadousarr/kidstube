@@ -1,4 +1,4 @@
-from collections import deque
+from collections import Counter, deque
 from datetime import datetime, time as dt_time, timedelta
 
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -10,14 +10,22 @@ TICK_MINUTES = 5
 RETRY_COOLDOWN_MINUTES = 30
 LOG_MAXLEN = 50
 
-# Politique de publication permanente : toujours garder ce nombre de vidéos
-# programmées pour aujourd'hui et les prochains jours, à heure fixe. Si l'app
-# est arrêtée au moment programmé, _tick() traite au redémarrage tout ce qui
-# est en retard (scheduled_dt <= now), donc rien n'est perdu.
-DAILY_PUBLISH_COUNT = 6
+# Politique de publication permanente : toujours garder des vidéos programmées
+# pour aujourd'hui et les prochains jours, à heure fixe. Si l'app est arrêtée
+# au moment programmé, _tick() traite au redémarrage tout ce qui est en retard
+# (scheduled_dt <= now), donc rien n'est perdu.
 DAILY_PUBLISH_TIME = dt_time(10, 0)
 PLANNING_HORIZON_DAYS = 2
 TOPUP_RETRY_COOLDOWN_MINUTES = 60
+
+# YouTube ne publie aucun chiffre officiel de limite quotidienne d'upload, et
+# elle évolue avec l'ancienneté/confiance de la chaîne (constaté : 11/jour au
+# 8e jour, 12/jour au 14e). Plutôt qu'un chiffre fixe, on vise systématiquement
+# "record récent + 1" pour suivre la vraie limite au fur et à mesure qu'elle
+# augmente ; DAILY_TARGET_BOOTSTRAP ne sert qu'avant d'avoir un historique.
+DAILY_TARGET_BOOTSTRAP = 6
+DAILY_TARGET_HISTORY_DAYS = 14
+YOUTUBE_DAILY_CAP_ERROR_MARKER = "exceeded the number of videos"
 
 # Crée automatiquement les Shorts manquants (un mot de série sans Short
 # existant) par petits lots à chaque tick, plutôt que tout d'un coup — le
@@ -34,13 +42,21 @@ PODCAST_TOPUP_PER_TICK = 5
 
 # Rattrapage des icônes manquantes sur les séries flashcards déjà générées
 # (1 appel Gemini par série, cf. app/idea_generator.py::backfill_missing_icons).
-# Gratuit sur le tier gratuit de l'API Gemini tant qu'on reste sous ses quotas
-# journaliers — on étale volontairement pour ne jamais s'en approcher.
-ICON_BACKFILL_PER_TICK = 5
+# Quota réel constaté bien plus bas que prévu (20 requêtes/jour, cf.
+# app/gemini_budget.py) et partagé avec la génération d'idées et les insights
+# analytics — on garde ce rythme très bas pour laisser de la place aux autres.
+ICON_BACKFILL_PER_TICK = 1
+
+# Rafraîchit automatiquement les insights Gemini (analyse des vraies données
+# YouTube Analytics) une fois par jour, pour que la génération de contenu
+# reste orientée par les performances réelles sans action manuelle — Gemini
+# comme orchestrateur continu de l'automatisation, pas un rapport ponctuel.
+INSIGHT_REFRESH_HOURS = 24
 
 _log: deque = deque(maxlen=LOG_MAXLEN)
 _last_failure: dict[int, datetime] = {}
 _topup_generation_failure_at: datetime | None = None
+_youtube_daily_cap_hit_on = None  # date du jour où YouTube a refusé un upload de plus
 _scheduler: BackgroundScheduler | None = None
 
 
@@ -93,6 +109,31 @@ def _start_generation_job(idea, app) -> None:
         jobs.start_job(idea.id, idea.series_key, app)
 
 
+def _todays_publish_count() -> int:
+    from app.models import Idea
+
+    today = datetime.now().date()
+    tomorrow = today + timedelta(days=1)
+    return Idea.query.filter(Idea.published_at >= today, Idea.published_at < tomorrow).count()
+
+
+def _compute_daily_target() -> int:
+    """Vise toujours "record récent + 1" pour suivre la vraie limite YouTube au
+    fur et à mesure qu'elle augmente, plutôt qu'un chiffre fixe deviné."""
+    from app.models import Idea
+
+    since = datetime.now() - timedelta(days=DAILY_TARGET_HISTORY_DAYS)
+    rows = Idea.query.filter(Idea.published_at >= since).all()
+    if not rows:
+        return DAILY_TARGET_BOOTSTRAP
+    counts = Counter(r.published_at.date() for r in rows)
+    return max(counts.values()) + 1
+
+
+def _youtube_cap_hit_today() -> bool:
+    return _youtube_daily_cap_hit_on == datetime.now().date()
+
+
 def _process_idea(idea, app) -> None:
     if _in_cooldown(idea.id):
         return
@@ -117,11 +158,26 @@ def _process_idea(idea, app) -> None:
         _record(idea, "génération", True, "Génération lancée automatiquement.")
         return
 
+    global _youtube_daily_cap_hit_on
+    if _youtube_cap_hit_today():
+        return
+
     pub_job = publish_jobs.get_job(idea.id)
     if pub_job is not None:
         if pub_job["status"] == "running":
             return
         if pub_job["status"] == "done" and pub_job["success"] is False:
+            error = pub_job.get("error") or ""
+            if YOUTUBE_DAILY_CAP_ERROR_MARKER in error.lower():
+                _youtube_daily_cap_hit_on = datetime.now().date()
+                _record(
+                    idea,
+                    "publication",
+                    False,
+                    f"Limite quotidienne YouTube atteinte ({_todays_publish_count()} vidéo(s) "
+                    "publiée(s) aujourd'hui) — reprise automatique demain.",
+                )
+                return
             _record(idea, "publication", False, f"Échec de publication : {pub_job.get('error')}")
             _mark_failure(idea.id)
             return
@@ -140,6 +196,61 @@ def _process_idea(idea, app) -> None:
     _record(idea, "publication", True, "Publication YouTube lancée automatiquement.")
 
 
+SCHEDULING_PIPELINES = ("flashcards", "shorts", "podcast", "higgsfield")
+
+
+def _pick_candidates_round_robin(needed: int):
+    """Choisit les prochaines idées à programmer, réparties entre pipelines
+    (flashcards/shorts/podcast/higgsfield) proportionnellement à la taille de
+    l'arriéré de chacun — pas par simple ancienneté globale, sinon un gros lot
+    d'idées d'un seul pipeline créées en une fois (ex. 216 flashcards générées
+    le même jour) passe indéfiniment devant les autres créés plus tard
+    (constaté : 793 Shorts en attente, 0 programmé). Un pipeline avec un
+    arriéré 3x plus gros obtient environ 3x plus de créneaux — au moins 1 s'il
+    n'est pas vide, pour qu'aucun pipeline ne reste totalement à zéro."""
+    from app.models import Idea
+
+    backlogs = {
+        pipeline: Idea.query.filter(
+            Idea.scheduled_date.is_(None),
+            Idea.status != "published",
+            Idea.video_pipeline == pipeline,
+        ).count()
+        for pipeline in SCHEDULING_PIPELINES
+    }
+    total_backlog = sum(backlogs.values())
+    if total_backlog == 0:
+        return []
+
+    allocation = {
+        pipeline: (max(1, round(needed * count / total_backlog)) if count > 0 else 0)
+        for pipeline, count in backlogs.items()
+    }
+    # Les arrondis peuvent faire déborder le total : on retire l'excédent en
+    # priorité aux pipelines les mieux servis (jamais sous 1 tant qu'il en a besoin).
+    while sum(allocation.values()) > needed:
+        biggest = max((p for p in allocation if allocation[p] > 1), key=lambda p: allocation[p], default=None)
+        if biggest is None:
+            break
+        allocation[biggest] -= 1
+
+    picked = []
+    for pipeline, count in allocation.items():
+        if count <= 0:
+            continue
+        picked.extend(
+            Idea.query.filter(
+                Idea.scheduled_date.is_(None),
+                Idea.status != "published",
+                Idea.video_pipeline == pipeline,
+            )
+            .order_by(Idea.created_at)
+            .limit(count)
+            .all()
+        )
+    return picked
+
+
 def _top_up_daily_schedule() -> None:
     global _topup_generation_failure_at
     from app import idea_generator
@@ -147,6 +258,7 @@ def _top_up_daily_schedule() -> None:
     from app.models import Idea
 
     today = datetime.now().date()
+    daily_target = _compute_daily_target()
     cooldown_active = _topup_generation_failure_at is not None and (
         datetime.now() - _topup_generation_failure_at
     ).total_seconds() < TOPUP_RETRY_COOLDOWN_MINUTES * 60
@@ -157,7 +269,7 @@ def _top_up_daily_schedule() -> None:
     for offset in range(1, PLANNING_HORIZON_DAYS + 1):
         day = today + timedelta(days=offset)
         scheduled_count = Idea.query.filter(Idea.scheduled_date == day).count()
-        needed = DAILY_PUBLISH_COUNT - scheduled_count
+        needed = daily_target - scheduled_count
         if needed <= 0:
             continue
 
@@ -168,12 +280,7 @@ def _top_up_daily_schedule() -> None:
             except idea_generator.IdeaGenerationError:
                 _topup_generation_failure_at = datetime.now()
 
-        candidates = (
-            Idea.query.filter(Idea.scheduled_date.is_(None), Idea.status != "published")
-            .order_by(Idea.created_at)
-            .limit(needed)
-            .all()
-        )
+        candidates = _pick_candidates_round_robin(needed)
         for idea in candidates:
             idea.scheduled_date = day
             idea.scheduled_time = DAILY_PUBLISH_TIME
@@ -199,6 +306,37 @@ def _backfill_icons() -> None:
     idea_generator.backfill_missing_icons(limit=ICON_BACKFILL_PER_TICK)
 
 
+def _refresh_insight_if_stale() -> None:
+    from app import analytics_insights, youtube_analytics
+    from app.youtube_client import YouTubeAuthError
+
+    if not youtube_analytics.is_connected():
+        return
+
+    latest = analytics_insights.get_latest_insight()
+    if latest is not None and (datetime.now() - latest.created_at).total_seconds() < INSIGHT_REFRESH_HOURS * 3600:
+        return
+
+    try:
+        summary = youtube_analytics.get_channel_summary()
+        trend = youtube_analytics.get_daily_trend()
+        top_videos = youtube_analytics.get_top_videos()
+        traffic_sources = youtube_analytics.get_traffic_sources()
+    except (YouTubeAuthError, youtube_analytics.YouTubeAnalyticsError):
+        return  # ex. API pas encore activée, ou session expirée : on retentera au prochain tick
+
+    analytics_data = {
+        "resume_chaine": summary,
+        "tendance_quotidienne": trend,
+        "meilleures_videos": top_videos,
+        "sources_de_trafic": traffic_sources,
+    }
+    try:
+        analytics_insights.generate_insight(analytics_data, youtube_analytics.DEFAULT_WINDOW_DAYS)
+    except analytics_insights.InsightGenerationError:
+        pass  # ex. pas de clé Gemini : on retentera au prochain tick
+
+
 def _tick(app) -> None:
     with app.app_context():
         from app.models import Idea
@@ -206,6 +344,7 @@ def _tick(app) -> None:
         _backfill_icons()
         _top_up_shorts_catalog()
         _top_up_podcast_catalog()
+        _refresh_insight_if_stale()
         _top_up_daily_schedule()
 
         now = datetime.now()

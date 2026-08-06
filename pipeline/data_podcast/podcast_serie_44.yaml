@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_44
+  title: Le Guide Solaire !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_44
+segments:
+- narration: Comment on trouve son chemin partout dans le monde avec l'aide des satellites
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Guide
+    Solaire !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il nous dit où on se trouve sur la Terre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Où sommes-nous
+    ? (Il nous dit où on se trouve sur la Terre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il nous indique la route pour aller quelque part !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouve
+    le chemin (Il nous indique la route pour aller quelque part !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Une carte qui bouge et qui parle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Carte
+    interactive (Une carte qui bouge et qui parle !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Le petit son qui te dit de tourner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bip
+    bip GPS (Le petit son qui te dit de tourner !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il sait notre endroit précis sur la planète !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Position
+    exacte (Il sait notre endroit précis sur la planète !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Avec lui, tu arrives toujours à bon port !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ne pas
+    se perdre (Avec lui, tu arrives toujours à bon port !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

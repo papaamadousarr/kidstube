@@ -9,18 +9,24 @@ items:
 - name: Serveur DNS
   script: Le guide des adresses !
   accent_color: '#40E0D0'
+  icon: 1f310
 - name: Trouver
   script: Chercher la bonne route !
   accent_color: '#FFD700'
+  icon: 1f50d
 - name: Nom
   script: Le petit surnom !
   accent_color: '#ADD8E6'
+  icon: 1f3f7
 - name: Numéro
   script: Le chiffre secret !
   accent_color: '#6495ED'
+  icon: 1f522
 - name: Guide
   script: Celui qui nous aide !
   accent_color: '#90EE90'
+  icon: 1f5fa
 - name: Aide
   script: Un coup de main !
   accent_color: '#FFC0CB'
+  icon: 1f198

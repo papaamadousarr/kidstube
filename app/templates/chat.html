@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Chat Gemini{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Discuter avec Gemini</h1>
+    <p class="page-subtitle">Pose toutes tes questions sur la chaîne — performance, stratégie, contenu.</p>
+  </div>
+</div>
+
+{% if error %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>{{ error }}</span>
+</div>
+{% endif %}
+
+<div class="chat-panel" id="chat-panel">
+  {% if not history %}
+  <p class="muted" style="text-align:center;">Aucun message pour l'instant — pose ta première question.</p>
+  {% endif %}
+  {% for msg in history %}
+  <div class="chat-message chat-{{ msg.role }}">
+    <div class="chat-bubble">{{ msg.content }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<form method="post" action="{{ url_for('chat.send') }}" class="chat-form">
+  <textarea name="message" rows="2" placeholder="Ex : Comment booster mes Shorts ? Quel format performe le mieux ?" required></textarea>
+  <button type="submit">Envoyer</button>
+</form>
+
+<script>
+  document.getElementById('chat-panel').scrollTop = document.getElementById('chat-panel').scrollHeight;
+</script>
+{% endblock %}

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_32
+  title: Les Voisins Numériques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_32
+segments:
+- narration: Comment les ordinateurs de la maison se parlent et partagent des choses
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Voisins
+    Numériques !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Tous les écrans sont connectés chez toi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Partager
+    à la maison (Tous les écrans sont connectés chez toi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Des ordinateurs proches qui communiquent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Amis
+    du quartier (Des ordinateurs proches qui communiquent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Ils échangent des infos sans sortir de la maison !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ordinateurs
+    voisins (Ils échangent des infos sans sortir de la maison !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Tu peux utiliser l'imprimante de la maman !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Imprimer
+    chez l'autre (Tu peux utiliser l'imprimante de la maman !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un réseau juste pour quelques ordinateurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petits
+    groupes (Un réseau juste pour quelques ordinateurs !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_085
+  title: Le Robot Navigateur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_085
+segments:
+- narration: Il connaît toutes les rues et les chemins pour te guider et te montrer
+    la route !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Navigateur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je vois toutes les rues sur ma carte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Carte
+    au Trésor (Je vois toutes les rues sur ma carte !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te montre le meilleur chemin pour arriver vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    Idéal (Je te montre le meilleur chemin pour arriver vite !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: 'Je te dis : ''Tourne à droite'' ou ''Va tout droit'' !'
+  image_prompt: 'Colorful vibrant 3D cartoon illustration for children showing Le
+    GPS Malin (Je te dis : ''Tourne à droite'' ou ''Va tout droit'' !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos'
+- narration: Je te fais découvrir de nouveaux endroits !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Explorateur
+    (Je te fais découvrir de nouveaux endroits !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Avec moi, tu ne te perds jamais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Direction
+    Juste (Avec moi, tu ne te perds jamais !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -30,6 +30,7 @@ TOKEN_PATH = SECRETS_DIR / "youtube_token.json"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly",
+    "https://www.googleapis.com/auth/yt-analytics.readonly",
 ]
 
 
@@ -69,7 +70,7 @@ def main() -> int:
             f"Fichier introuvable : {CLIENT_SECRET_PATH}\n\n"
             "Étapes avant de relancer ce script :\n"
             "1. https://console.cloud.google.com/ -> créer un projet\n"
-            "2. Activer \"YouTube Data API v3\"\n"
+            "2. Activer \"YouTube Data API v3\" ET \"YouTube Analytics API\"\n"
             "3. Configurer l'écran de consentement OAuth (mode Test, t'ajouter comme testeur)\n"
             "4. Créer des identifiants OAuth 2.0 de type \"Application de bureau\"\n"
             f"5. Télécharger le JSON et le placer dans {CLIENT_SECRET_PATH}",

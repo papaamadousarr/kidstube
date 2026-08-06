@@ -9,18 +9,24 @@ items:
 - name: API
   script: Le traducteur d'applications !
   accent_color: '#40E0D0'
+  icon: 1f517
 - name: Parler
   script: Se dire des choses !
   accent_color: '#ADD8E6'
+  icon: 1f5e3
 - name: Comprendre
   script: Saisir le sens !
   accent_color: '#90EE90'
+  icon: 1f4a1
 - name: Échanger
   script: Donner et recevoir !
   accent_color: '#FFD700'
+  icon: 1f91d
 - name: Pont
   script: Un lien entre elles !
   accent_color: '#DAA520'
+  icon: 1f309
 - name: Deux applications
   script: Deux programmes qui s'entraident !
   accent_color: '#9370DB'
+  icon: 1f4bb

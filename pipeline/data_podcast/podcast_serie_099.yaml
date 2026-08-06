@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_099
+  title: Le Robot Amuseur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_099
+segments:
+- narration: Il sait faire des blagues, des tours de magie et te faire rire tout le
+    temps !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Amuseur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Qu'est-ce qu'un chat qui marche sur deux pattes ? Un chat-marcheur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Blague
+    Rigolote (Qu'est-ce qu'un chat qui marche sur deux pattes ? Un chat-marcheur !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Abracadabra ! Fais disparaître cette balle !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Tour
+    de Magie (Abracadabra ! Fais disparaître cette balle !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je danse pour te faire rire ! Hip hop !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Danse
+    Joyeuse (Je danse pour te faire rire ! Hip hop !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je suis le roi de la rigolade ! Ha ha ha !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Comique (Je suis le roi de la rigolade ! Ha ha ha !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je fais des bêtises, mais juste pour t'amuser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Bêtises Contrôlées (Je fais des bêtises, mais juste pour t'amuser !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

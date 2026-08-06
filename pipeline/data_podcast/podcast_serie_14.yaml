@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_14
+  title: Le Ballet des Robos !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_14
+segments:
+- narration: Quand plusieurs robots travaillent ensemble, c'est comme une danse !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Ballet
+    des Robos !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les robots travaillent main dans la main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tous
+    ensemble (Les robots travaillent main dans la main !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Ils bougent au même rythme, c'est magnifique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Danse
+    synchronisée (Ils bougent au même rythme, c'est magnifique !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une bande de robots qui s'entraident !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Équipe
+    robot (Une bande de robots qui s'entraident !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Si l'un a un problème, l'autre vient aider !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Aider
+    l'un l'autre (Si l'un a un problème, l'autre vient aider !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Ils se mettent en ligne ou en cercle pour travailler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Formation
+    (Ils se mettent en ligne ou en cercle pour travailler !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chacun fait sa part pour un grand projet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Travailler
+    en groupe (Chacun fait sa part pour un grand projet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -9,18 +9,24 @@ items:
 - name: Streaming
   script: Regarder en direct !
   accent_color: '#DAA520'
+  icon: 25b6
 - name: Regarder
   script: Observer les images !
   accent_color: '#ADD8E6'
+  icon: 1f440
 - name: Écouter
   script: Entendre les sons !
   accent_color: '#40E0D0'
+  icon: 1f442
 - name: Direct
   script: Ça se passe maintenant !
   accent_color: '#FF4500'
+  icon: 1f534
 - name: Tout de suite
   script: Sans attendre !
   accent_color: '#FFD700'
+  icon: 26a1
 - name: Flux
   script: Un flot d'informations !
   accent_color: '#6495ED'
+  icon: 1f30a

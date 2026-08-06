@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_60
+  title: La Récolte des Idées !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_60
+segments:
+- narration: Comment l'ordinateur rassemble plein d'informations pour mieux comprendre
+    le monde !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Récolte
+    des Idées !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il collecte toutes sortes de données !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ramasser
+    les infos (Il collecte toutes sortes de données !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il pose des questions pour obtenir des réponses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Questionnaire
+    (Il pose des questions pour obtenir des réponses !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il demande l'avis de plein de monde !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sondage
+    (Il demande l'avis de plein de monde !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il regarde attentivement ce qui se passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Observer
+    (Il regarde attentivement ce qui se passe !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il réunit toutes les informations nécessaires !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Collecter
+    les données (Il réunit toutes les informations nécessaires !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme un détective, il va à la pêche aux infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chercher
+    l'information (Comme un détective, il va à la pêche aux infos !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

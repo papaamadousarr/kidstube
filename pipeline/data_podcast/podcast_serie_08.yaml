@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_08
+  title: Le Miroir Intelligent !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_08
+segments:
+- narration: Un monde où on peut essayer des choses sans aucun danger !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Miroir
+    Intelligent !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un endroit qui ressemble au vrai, mais ce n'est pas lui !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faux
+    monde (Un endroit qui ressemble au vrai, mais ce n'est pas lui !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: On teste des idées sans faire de bêtises !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Essai
+    rigolo (On teste des idées sans faire de bêtises !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: On imagine ce qui pourrait se passer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comme
+    si (On imagine ce qui pourrait se passer !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On peut tout casser, ça ne fait rien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sans
+    risque (On peut tout casser, ça ne fait rien !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une copie virtuelle pour s'entraîner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jumeau
+    digital (Une copie virtuelle pour s'entraîner !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Un double parfait pour jouer et apprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réplique
+    (Un double parfait pour jouer et apprendre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

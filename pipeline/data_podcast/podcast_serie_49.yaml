@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_49
+  title: Le Jardinier Virtuel !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_49
+segments:
+- narration: L'ordinateur est capable de faire pousser des plantes et des paysages
+    tout seul !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Jardinier
+    Virtuel !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il crée des forêts entières, branche par branche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Arbres
+    qui poussent (Il crée des forêts entières, branche par branche !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il dessine des fleurs de toutes les couleurs, même imaginaires !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fleurs
+    inventées (Il dessine des fleurs de toutes les couleurs, même imaginaires !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Des montagnes, des rivières qui apparaissent tout seuls !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Paysages
+    automatiques (Des montagnes, des rivières qui apparaissent tout seuls !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Une nature qui existe seulement dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nature
+    numérique (Une nature qui existe seulement dans l'ordinateur !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il peut créer des paysages sans fin pour l'aventure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décor
+    infini (Il peut créer des paysages sans fin pour l'aventure !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il invente des environnements naturels complets !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    des mondes (Il invente des environnements naturels complets !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

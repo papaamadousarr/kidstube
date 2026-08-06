@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_23
+  title: Le Gardien du Calendrier !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_23
+segments:
+- narration: L'ordinateur est un expert pour savoir quand faire chaque chose !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Gardien
+    du Calendrier !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Une tâche doit se faire à une heure précise !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rendez-vous
+    programmé (Une tâche doit se faire à une heure précise !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il connaît le moment exact pour agir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Heure
+    précise (Il connaît le moment exact pour agir !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Parfois, il doit patienter avant de commencer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Attendre
+    un peu (Parfois, il doit patienter avant de commencer !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Quand l'heure arrive, il se met en route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Démarrer
+    tout seul (Quand l'heure arrive, il se met en route !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il décompte le temps avant l'action !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Compte
+    à rebours (Il décompte le temps avant l'action !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il sait exactement quand c'est le bon moment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Moment
+    choisi (Il sait exactement quand c'est le bon moment !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

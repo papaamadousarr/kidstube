@@ -1,11 +1,10 @@
 import tempfile
 from pathlib import Path
 
-from pipeline.assemble.video_builder import assemble_series_video, build_item_clip
+from pipeline.assemble.video_builder import assemble_series_video, build_animated_item_clip
 from pipeline.config import MUSIC_DIR, OUTPUT_DIR, SHORT_FRAME_SIZE
 from pipeline.content.loader import load_series
 from pipeline.content.schema import ContentError
-from pipeline.render.frame_builder import build_flashcard
 from pipeline.tts.piper_engine import synth_to_wav
 
 
@@ -30,10 +29,7 @@ def build_short(series_key: str, item_index: int, out_path: Path | None = None) 
         audio_path = tmp_dir / "item.wav"
         duration = synth_to_wav(item.script, audio_path, series.voice)
 
-        frame_path = tmp_dir / "item.png"
-        build_flashcard(item, series, size=SHORT_FRAME_SIZE).save(frame_path)
-
-        clip = build_item_clip(frame_path, audio_path, duration, size=SHORT_FRAME_SIZE)
+        clip = build_animated_item_clip(item, series, audio_path, duration, tmp_dir, 0, size=SHORT_FRAME_SIZE)
 
         candidates = sorted(MUSIC_DIR.glob("*.mp3")) + sorted(MUSIC_DIR.glob("*.wav"))
         music_path = candidates[0] if candidates else None

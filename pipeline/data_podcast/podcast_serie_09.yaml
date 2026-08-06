@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_09
+  title: Le Chef des Réseaux !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_09
+segments:
+- narration: Qui aide les informations à trouver le bon chemin sur internet ?
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chef des
+    Réseaux !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Là où les informations choisissent leur route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Carrefour
+    (Là où les informations choisissent leur route !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il montre où il faut aller aux informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Direction
+    (Il montre où il faut aller aux informations !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il trouve la route la plus rapide et la plus sûre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Meilleur
+    chemin (Il trouve la route la plus rapide et la plus sûre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il régule la circulation des données !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petit
+    policier (Il régule la circulation des données !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque information sait où elle doit aller !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Adresse
+    (Chaque information sait où elle doit aller !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

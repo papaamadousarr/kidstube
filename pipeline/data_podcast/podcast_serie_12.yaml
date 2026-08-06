@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_12
+  title: Le Détective des Bruits !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_12
+segments:
+- narration: L'ordinateur est comme un super-détective qui écoute les sons !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Détective
+    des Bruits !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Il sait si c'est un chien ou un chat qui aboie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Reconnaître
+    les sons (Il sait si c'est un chien ou un chat qui aboie !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il perçoit des bruits que nous n'entendons pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écoute
+    cachée (Il perçoit des bruits que nous n'entendons pas !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il essaie de deviner d'où vient un son inconnu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bruit
+    mystérieux (Il essaie de deviner d'où vient un son inconnu !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il reconnaît ta musique préférée !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chanson
+    connue (Il reconnaît ta musique préférée !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il est alerté si un bébé pleure !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Détecter
+    un cri (Il est alerté si un bébé pleure !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il sait aussi quand il n'y a pas de bruit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Silence
+    (Il sait aussi quand il n'y a pas de bruit !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

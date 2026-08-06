@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_072
+  title: Les Commandes Vocales
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_072
+segments:
+- narration: Dis ce que tu veux faire, et l'ordinateur obéit ! C'est comme parler
+    à un ami.
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Commandes
+    Vocales', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je dis 'Ouvre Dessin', et ça s'ouvre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ouvre
+    l'Application ! (Je dis 'Ouvre Dessin', et ça s'ouvre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je dis 'Musique douce', et ça change !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Change
+    la Musique ! (Je dis 'Musique douce', et ça change !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je parle, et le robot écrit pour moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écris
+    mon Message ! (Je parle, et le robot écrit pour moi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il m'entend et comprend ce que je dis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Écouteur (Il m'entend et comprend ce que je dis !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Plus besoin de toucher, juste de parler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parle,
+    et C'est Fait ! (Plus besoin de toucher, juste de parler !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

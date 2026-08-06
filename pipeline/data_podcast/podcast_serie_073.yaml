@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_073
+  title: Le Robot Assistant
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_073
+segments:
+- narration: Un robot très serviable qui t'aide dans la vie de tous les jours !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Assistant', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je te réveille le matin ! Bonjour !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Réveil
+    Malin (Je te réveille le matin ! Bonjour !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: N'oublie pas ton goûter ! Je te le dis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Rappel
+    des Tâches (N'oublie pas ton goûter ! Je te le dis !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je peux t'aider à chercher des informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Aide
+    aux Devoirs (Je peux t'aider à chercher des informations !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis toujours là pour t'aider et te parler !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Compagnon
+    (Je suis toujours là pour t'aider et te parler !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te sers un verre d'eau ! Quel talent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Serviette (Je te sers un verre d'eau ! Quel talent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

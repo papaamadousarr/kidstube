@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_18
+  title: Les Murs Protecteurs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_18
+segments:
+- narration: Qui protège notre ordinateur des intrus sur internet ?
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Murs
+    Protecteurs !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Un mur magique qui filtre les dangers !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Barrière
+    invisible (Un mur magique qui filtre les dangers !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Garder nos données en sécurité, comme notre maison !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Protéger
+    la maison (Garder nos données en sécurité, comme notre maison !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il empêche les choses méchantes d'entrer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Blocage
+    (Il empêche les choses méchantes d'entrer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Si un intrus essaie de passer, il nous prévient !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alarme
+    (Si un intrus essaie de passer, il nous prévient !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il ne laisse passer que les amis autorisés !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Porte
+    fermée (Il ne laisse passer que les amis autorisés !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_07
+  title: Le Peintre des Lumières !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_07
+segments:
+- narration: Les petits points lumineux qui dessinent et nous parlent !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Peintre
+    des Lumières !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Une lumière minuscule mais puissante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petite
+    ampoule (Une lumière minuscule mais puissante !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Elle peut s'allumer de toutes les couleurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Couleurs
+    vives (Elle peut s'allumer de toutes les couleurs !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: 'Une lumière qui dit : ''Attention !'' ou ''C''est bon !'''
+  image_prompt: 'Colorful vibrant 3D cartoon illustration for children showing Message
+    lumineux (Une lumière qui dit : ''Attention !'' ou ''C''est bon !''), joyful bright
+    saturated colors, Pixar-style render, no text, no logos'
+- narration: Elle s'allume et s'éteint pour attirer l'attention !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Clignotant
+    (Elle s'allume et s'éteint pour attirer l'attention !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une lumière douce pour nous rassurer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Veilleuse
+    (Une lumière douce pour nous rassurer !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

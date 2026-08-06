@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_22
+  title: Le Décodeur Mystérieux !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_22
+segments:
+- narration: Pour comprendre les messages secrets et les informations cachées !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Décodeur
+    Mystérieux !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Lire ce qui est écrit de façon bizarre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    le message (Lire ce qui est écrit de façon bizarre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Retrouver le vrai sens derrière les symboles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Casser
+    le code (Retrouver le vrai sens derrière les symboles !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Découvrir ce que cachent les données !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lecture
+    secrète (Découvrir ce que cachent les données !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Trouver les informations importantes qui sont un peu camouflées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Infos
+    cachées (Trouver les informations importantes qui sont un peu camouflées !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Transformer un langage en un autre que l'on comprend !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Traduire
+    (Transformer un langage en un autre que l'on comprend !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme un détective qui trouve la solution !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Déchiffrer
+    (Comme un détective qui trouve la solution !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

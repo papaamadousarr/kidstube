@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_087
+  title: Le Robot Traducteur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_087
+segments:
+- narration: Il parle toutes les langues du monde et peut traduire ce que tu dis !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Traducteur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Bonjour, comment ça va ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Parle
+    Français (Bonjour, comment ça va ?), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Hello, how are you ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Parle
+    Anglais (Hello, how are you ?), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: Je connais tous les mots de toutes les langues !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dictionnaire
+    Vivant (Je connais tous les mots de toutes les langues !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je t'aide à parler avec des gens d'autres pays !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Interprète
+    (Je t'aide à parler avec des gens d'autres pays !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je parle tant de langues, c'est incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Polyglotte (Je parle tant de langues, c'est incroyable !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

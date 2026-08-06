@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_56
+  title: Le Tableau de Bord Virtuel !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_56
+segments:
+- narration: Comme dans une voiture, il montre toutes les informations importantes
+    en un coup d'œil !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Tableau
+    de Bord Virtuel !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Voir toutes les infos importantes en même temps !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vue
+    d'ensemble (Voir toutes les infos importantes en même temps !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Un écran qui réunit toutes les données clés !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tout
+    voir d'un coup (Un écran qui réunit toutes les données clés !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Des petites lumières ou des aiguilles qui montrent l'état !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Indicateurs
+    (Des petites lumières ou des aiguilles qui montrent l'état !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il te dit tout ce qui est en train d'arriver !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ce qui
+    se passe (Il te dit tout ce qui est en train d'arriver !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour surveiller et gérer l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Contrôle
+    général (Pour surveiller et gérer l'ordinateur !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il résume les informations pour que tu comprennes vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Synthèse
+    rapide (Il résume les informations pour que tu comprennes vite !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

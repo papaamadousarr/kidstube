@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_33
+  title: Le Compteur Malin !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_33
+segments:
+- narration: L'ordinateur sait compter très très vite, pour toutes les répétitions
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Compteur
+    Malin !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il sait combien de fois il a répété une action !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Compter
+    les tours (Il sait combien de fois il a répété une action !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il exécute une tâche un certain nombre de fois !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Répéter
+    X fois (Il exécute une tâche un certain nombre de fois !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il garde en mémoire le compte actuel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Se souvenir
+    du nombre (Il garde en mémoire le compte actuel !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il peut compter de tout petit à très très grand !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing De 1
+    à 100 (Il peut compter de tout petit à très très grand !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il sait quand il a fini de compter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Quand
+    s'arrêter (Il sait quand il a fini de compter !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une petite horloge qui compte sans se tromper !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Compteur
+    magique (Une petite horloge qui compte sans se tromper !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_27
+  title: Le Livre des Choix !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_27
+segments:
+- narration: Comment l'ordinateur prend des décisions en suivant un chemin logique
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Livre
+    des Choix !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: L'ordinateur peut prendre différentes routes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    à choisir (L'ordinateur peut prendre différentes routes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il pose une question et attend la réponse pour avancer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Question-réponse
+    (Il pose une question et attend la réponse pour avancer !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Plusieurs possibilités s'offrent à lui !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suite
+    d'options (Plusieurs possibilités s'offrent à lui !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Selon ses choix, l'histoire ne sera pas la même !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plusieurs
+    fins (Selon ses choix, l'histoire ne sera pas la même !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un dessin qui montre tous les chemins possibles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Arbre
+    magique (Un dessin qui montre tous les chemins possibles !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Prendre une décision parmi toutes les options !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décider
+    (Prendre une décision parmi toutes les options !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

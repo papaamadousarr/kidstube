@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_42
+  title: Le Magicien des Sons !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_42
+segments:
+- narration: L'ordinateur peut transformer les sons et créer des musiques incroyables
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Magicien
+    des Sons !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il rend ta voix plus grave, plus aiguë ou rigolote !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Changer
+    la voix (Il rend ta voix plus grave, plus aiguë ou rigolote !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il fait répéter le son comme dans une grotte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écho
+    rigolo (Il fait répéter le son comme dans une grotte !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il invente des bruits que tu n'as jamais entendus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sons
+    spéciaux (Il invente des bruits que tu n'as jamais entendus !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il compose des mélodies étonnantes et originales !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Musique
+    bizarre (Il compose des mélodies étonnantes et originales !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Des bruits de vent, d'eau, d'animaux, tout est possible !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Effets
+    sonores (Des bruits de vent, d'eau, d'animaux, tout est possible !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il crée des sons totalement nouveaux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Inventer
+    des bruits (Il crée des sons totalement nouveaux !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -9,6 +9,7 @@ from google.genai import errors as genai_errors
 from google.genai import types as genai_types
 from pydantic import BaseModel, Field
 
+from app import gemini_budget
 from app.db import db
 from app.models import Idea
 from pipeline.config import DATA_DIR
@@ -65,11 +66,34 @@ def _unique_key(base_key: str, taken: set[str]) -> str:
     return key
 
 
+def _insight_guidance() -> str:
+    """Consulte le dernier insight généré par Gemini à partir des vraies
+    données YouTube Analytics (cf. app/analytics_insights.py) pour orienter la
+    génération de nouvelles idées vers ce qui performe réellement — Gemini
+    devient ainsi orchestrateur de sa propre automatisation, pas juste un
+    générateur de contenu à l'aveugle."""
+    from app.analytics_insights import get_latest_insight, priority_themes_list
+
+    insight = get_latest_insight()
+    if insight is None:
+        return ""
+
+    themes = priority_themes_list(insight)
+    if not themes:
+        return ""
+
+    return (
+        "\n\nD'après l'analyse des vraies performances de la chaîne (YouTube "
+        f"Analytics), privilégie en priorité ces thèmes qui fonctionnent bien : "
+        f"{', '.join(themes)}. Contexte : {insight.summary}"
+    )
+
+
 def _build_prompt(n: int, existing_titles: list[str]) -> str:
     existing = ", ".join(existing_titles) if existing_titles else "(aucune)"
     return (
         f"Propose {n} nouveaux concepts de séries de vidéos éducatives pour enfants "
-        "en français, sur le modèle de flashcards de vocabulaire (comme celles déjà "
+        "en français, sur le modèle de flashcards de vocabulaire (comme déjà "
         "utilisées sur la chaîne). La chaîne a pour mission d'initier les jeunes "
         "enfants au code et à l'intelligence artificielle : chaque série doit couvrir "
         "un thème lié à la programmation ou à l'IA, vulgarisé pour un enfant de 4 à 7 "
@@ -84,12 +108,18 @@ def _build_prompt(n: int, existing_titles: list[str]) -> str:
         "cohérente avec le thème, et un émoji représentatif du concept (pour "
         "illustrer la flashcard).\n\n"
         f"Thèmes déjà utilisés (à éviter) : {existing}."
+        f"{_insight_guidance()}"
     )
 
 
 def generate_new_series_ideas(n: int) -> list[Idea]:
     if n <= 0:
         return []
+
+    if gemini_budget.is_exhausted_today():
+        raise IdeaGenerationError(
+            f"Quota gratuit Gemini déjà atteint. {gemini_budget.reset_message()}"
+        )
 
     existing_titles = [load_series(key).title for key in list_series()]
 
@@ -104,6 +134,11 @@ def generate_new_series_ideas(n: int) -> list[Idea]:
             ),
         )
     except genai_errors.ClientError as exc:
+        if gemini_budget.is_quota_error(exc):
+            gemini_budget.mark_exhausted()
+            raise IdeaGenerationError(
+                f"Quota gratuit Gemini atteint. {gemini_budget.reset_message()}"
+            ) from exc
         if exc.code == 401 or exc.code == 403:
             raise IdeaGenerationError(
                 "Clé API Gemini absente ou invalide. "
@@ -111,6 +146,11 @@ def generate_new_series_ideas(n: int) -> list[Idea]:
             ) from exc
         raise IdeaGenerationError(f"Échec de l'appel à l'API Gemini : {exc}") from exc
     except genai_errors.APIError as exc:
+        if gemini_budget.is_quota_error(exc):
+            gemini_budget.mark_exhausted()
+            raise IdeaGenerationError(
+                f"Quota gratuit Gemini atteint. {gemini_budget.reset_message()}"
+            ) from exc
         raise IdeaGenerationError(f"Échec de l'appel à l'API Gemini : {exc}") from exc
 
     batch = response.parsed
@@ -180,7 +220,9 @@ class ItemEmojiBatch(BaseModel):
 def backfill_icons_for_series(series_key: str) -> int:
     """Rattrape les icônes manquantes sur une série flashcards déjà existante
     (1 appel Gemini regroupant tous ses mots sans icône). Retourne le nombre
-    d'items mis à jour."""
+    d'items mis à jour. Lève IdeaGenerationError si le quota Gemini est atteint,
+    pour que l'appelant arrête le lot en cours plutôt que de gaspiller le reste
+    de ses tentatives sur des appels qui échoueront de toute façon."""
     path = DATA_DIR / f"{series_key}.yaml"
     if not path.exists():
         return 0
@@ -190,6 +232,9 @@ def backfill_icons_for_series(series_key: str) -> int:
     missing = [item for item in items_raw if not item.get("icon")]
     if not missing:
         return 0
+
+    if gemini_budget.is_exhausted_today():
+        raise IdeaGenerationError(f"Quota gratuit Gemini déjà atteint. {gemini_budget.reset_message()}")
 
     prompt = (
         "Pour chaque mot suivant (destiné à une flashcard éducative pour jeunes "
@@ -208,7 +253,10 @@ def backfill_icons_for_series(series_key: str) -> int:
                 response_schema=ItemEmojiBatch,
             ),
         )
-    except (genai_errors.ClientError, genai_errors.APIError):
+    except genai_errors.APIError as exc:
+        if gemini_budget.is_quota_error(exc):
+            gemini_budget.mark_exhausted()
+            raise IdeaGenerationError(f"Quota gratuit Gemini atteint. {gemini_budget.reset_message()}") from exc
         return 0
 
     batch = response.parsed
@@ -248,7 +296,10 @@ def backfill_missing_icons(limit: int | None = None) -> int:
         if all(item.get("icon") for item in raw.get("items", [])):
             continue
 
-        total_updated += backfill_icons_for_series(series_key)
+        try:
+            total_updated += backfill_icons_for_series(series_key)
+        except IdeaGenerationError:
+            break  # quota atteint : inutile de tenter les séries suivantes ce tour-ci
         processed += 1
         if limit is not None and processed >= limit:
             break

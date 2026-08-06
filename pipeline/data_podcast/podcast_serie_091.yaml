@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_091
+  title: Le Robot Veilleur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_091
+segments:
+- narration: Il surveille tout, écoute les bruits et nous prévient si quelque chose
+    ne va pas !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Veilleur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je regarde si tout va bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Œil
+    Attentif (Je regarde si tout va bien !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: J'entends le moindre petit bruit suspect !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Oreille
+    Fine (J'entends le moindre petit bruit suspect !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je t'envoie un message si je vois un problème !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Alerte
+    Rapide (Je t'envoie un message si je vois un problème !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je protège la maison pendant que tu dors !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Garde (Je protège la maison pendant que tu dors !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Rien ne m'échappe ! Je suis trop fort !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Surveillance
+    (Rien ne m'échappe ! Je suis trop fort !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

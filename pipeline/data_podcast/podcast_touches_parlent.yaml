@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_touches_parlent
+  title: Les Touches qui Parlent !
+  voice: fr_FR-siwis-medium
+  linked_series_key: touches_parlent
+segments:
+- narration: Le clavier, c'est comme une machine à écrire pour parler à l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Touches
+    qui Parlent !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Toutes les touches pour écrire des mots à l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Clavier
+    (Toutes les touches pour écrire des mots à l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un petit bouton sur le clavier pour une lettre ou un chiffre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Touche
+    (Un petit bouton sur le clavier pour une lettre ou un chiffre !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Appuyer sur les touches pour former des mots et des phrases !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écrire
+    (Appuyer sur les touches pour former des mots et des phrases !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: La touche magique pour corriger les erreurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Effacer
+    (La touche magique pour corriger les erreurs !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: La touche pour dire 'c'est bon, tu peux continuer !'
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Entrée
+    (La touche pour dire 'c'est bon, tu peux continuer !'), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chaque petite touche pour une lettre de l'alphabet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lettre
+    (Chaque petite touche pour une lettre de l'alphabet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

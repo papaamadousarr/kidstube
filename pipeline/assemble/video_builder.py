@@ -13,19 +13,22 @@ from moviepy.audio.fx.AudioFadeIn import AudioFadeIn
 from moviepy.audio.fx.AudioFadeOut import AudioFadeOut
 from moviepy.audio.fx.AudioLoop import AudioLoop
 from moviepy.audio.fx.MultiplyVolume import MultiplyVolume
+from moviepy.video.fx.CrossFadeIn import CrossFadeIn
 from moviepy.video.fx.Loop import Loop
 from moviepy.video.fx.Resize import Resize
 from PIL import Image, ImageDraw
 
 from pipeline.assemble.transitions import with_crossfade
 from pipeline.config import FPS, FRAME_SIZE, ICONS_DIR
-from pipeline.content.schema import SeriesConfig
+from pipeline.content.schema import Item, SeriesConfig
 from pipeline.render.fonts import get_font
 from pipeline.tts.piper_engine import synth_to_wav
 
 PADDING = 0.6
 ZOOM_AMOUNT = 0.08
 MUSIC_VOLUME = 0.12
+LAYER_FADE_DURATION = 0.35
+LAYER_RISE_OFFSET = 24
 OUTRO_TEXT = (
     "Merci d'avoir regardé ! Abonne-toi et active la cloche "
     "pour ne rater aucune nouvelle vidéo !"
@@ -50,6 +53,73 @@ def build_item_clip(
     if ken_burns:
         img_clip = img_clip.with_effects([Resize(lambda t: 1 + ZOOM_AMOUNT * (t / total_duration))])
     video = CompositeVideoClip([img_clip.with_position("center")], size=size).with_duration(total_duration)
+    video = with_crossfade(video)
+
+    audio = AudioFileClip(str(audio_path)).with_effects([AudioFadeIn(0.15), AudioFadeOut(0.15)])
+    audio = audio.with_start(PADDING / 2)
+    full_audio = CompositeAudioClip([audio]).with_duration(total_duration)
+
+    return video.with_audio(full_audio)
+
+
+def _rise_position(t: float, rise_offset: float, duration: float) -> tuple[float, float]:
+    progress = min(t / duration, 1.0) if duration > 0 else 1.0
+    eased = 1 - (1 - progress) ** 2  # ease-out : rapide au début, ralentit en approchant la position finale
+    return (0, rise_offset * (1 - eased))
+
+
+def build_animated_item_clip(
+    item: Item,
+    series: SeriesConfig,
+    audio_path: Path,
+    duration: float,
+    tmp_dir: Path,
+    index: int,
+    size: tuple[int, int] = FRAME_SIZE,
+) -> CompositeVideoClip:
+    """Comme build_item_clip, mais anime le fond (Ken Burns qui alterne zoom
+    avant/arrière selon `index`) et l'icône (fondu + léger mouvement vers le
+    haut), au lieu d'une image plate figée dès la première frame. Le nom et la
+    phrase sont fusionnés dans le fond (statique, comme avant l'ajout des
+    animations) plutôt qu'animés séparément : chaque couche animée ajoute un
+    fondu masqué recalculé à chaque frame, ce qui s'est avéré coûteux en
+    pratique (mesuré : ~50s de composition Python contre ~6s d'encodage ffmpeg
+    réel pour une vidéo de 7 cartes) — seule l'icône, la plus visible, garde
+    l'animation séparée. 100% PIL/MoviePy, aucune dépendance à un générateur
+    d'images externe."""
+    from pipeline.render.frame_builder import build_flashcard_layers
+
+    total_duration = duration + PADDING
+    layers = build_flashcard_layers(item, series, size)
+
+    background_flat = layers["background"].convert("RGBA")
+    background_flat = Image.alpha_composite(background_flat, layers["name"])
+    background_flat = Image.alpha_composite(background_flat, layers["script"]).convert("RGB")
+
+    bg_path = tmp_dir / f"item_{index:02d}_background.png"
+    background_flat.save(bg_path)
+    bg_clip = ImageClip(str(bg_path)).with_duration(total_duration)
+    if index % 2 == 1:
+        bg_clip = bg_clip.with_effects(
+            [Resize(lambda t: (1 + ZOOM_AMOUNT) - ZOOM_AMOUNT * (t / total_duration))]
+        )
+    else:
+        bg_clip = bg_clip.with_effects([Resize(lambda t: 1 + ZOOM_AMOUNT * (t / total_duration))])
+
+    composite_layers = [bg_clip.with_position("center")]
+
+    if layers["icon"] is not None:
+        icon_path = tmp_dir / f"item_{index:02d}_icon.png"
+        layers["icon"].save(icon_path)
+        icon_clip = (
+            ImageClip(str(icon_path))
+            .with_duration(total_duration)
+            .with_position(lambda t: _rise_position(t, LAYER_RISE_OFFSET, LAYER_FADE_DURATION))
+            .with_effects([CrossFadeIn(LAYER_FADE_DURATION)])
+        )
+        composite_layers.append(icon_clip)
+
+    video = CompositeVideoClip(composite_layers, size=size).with_duration(total_duration)
     video = with_crossfade(video)
 
     audio = AudioFileClip(str(audio_path)).with_effects([AudioFadeIn(0.15), AudioFadeOut(0.15)])
@@ -204,7 +274,11 @@ def assemble_series_video(
     music_path: Optional[Path],
     out_path: Path,
 ) -> Path:
-    final = concatenate_videoclips(item_clips, method="compose")
+    # method="chain" (au lieu de "compose") : nos clips ont déjà leur propre
+    # fondu baké individuellement (with_crossfade), donc pas besoin de la
+    # machinerie de composition — mesuré ~2x plus rapide sur un rendu réel
+    # (47s -> 27s), sans différence visible.
+    final = concatenate_videoclips(item_clips, method="chain")
 
     if music_path is not None and Path(music_path).exists():
         music = AudioFileClip(str(music_path)).with_effects(
@@ -213,5 +287,14 @@ def assemble_series_video(
         final = final.with_audio(CompositeAudioClip([music, final.audio]))
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    final.write_videofile(str(out_path), fps=FPS, codec="libx264", audio_codec="aac", logger="bar")
+    # crf=18 : nettement meilleure qualité que le défaut libx264 (~23), sans
+    # coût de temps mesurable une fois combiné à method="chain" ci-dessus.
+    final.write_videofile(
+        str(out_path),
+        fps=FPS,
+        codec="libx264",
+        audio_codec="aac",
+        logger="bar",
+        ffmpeg_params=["-crf", "18"],
+    )
     return out_path

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_57
+  title: Les Blocs de Construction Numériques !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_57
+segments:
+- narration: Comment on assemble de petits morceaux pour créer de grands programmes
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Blocs
+    de Construction Numériques !', vibrant playful colors, Pixar-style children's
+    animation, warm inviting composition, no text, no logos
+- narration: Comme des Legos, mais pour faire des programmes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pièces
+    qui s'assemblent (Comme des Legos, mais pour faire des programmes !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Chaque morceau fait une partie du travail !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Construire
+    par morceaux (Chaque morceau fait une partie du travail !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: De petits blocs qui ont chacun leur fonction !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Modules
+    pratiques (De petits blocs qui ont chacun leur fonction !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: On s'amuse à créer de grands programmes avec des petits bouts !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jeu
+    de construction (On s'amuse à créer de grands programmes avec des petits bouts
+    !), joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: On met les pièces ensemble et ça fonctionne !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Facile
+    à monter (On met les pièces ensemble et ça fonctionne !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Avec des petites pièces, on peut faire des choses énormes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    grand (Avec des petites pièces, on peut faire des choses énormes !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

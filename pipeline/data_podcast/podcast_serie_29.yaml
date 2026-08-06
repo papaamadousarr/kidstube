@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_29
+  title: La Boîte à Outils Virtuelle !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_29
+segments:
+- narration: Tous les petits assistants pratiques qui nous aident sur l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Outils Virtuelle !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Des programmes qui nous donnent un coup de main !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Outils
+    pour l'ordi (Des programmes qui nous donnent un coup de main !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Ils nous facilitent la vie et le travail !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petite
+    aide (Ils nous facilitent la vie et le travail !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour remettre de l'ordre quand quelque chose ne va pas !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réparateur
+    (Pour remettre de l'ordre quand quelque chose ne va pas !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il range nos fichiers et nos photos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Organisateur
+    (Il range nos fichiers et nos photos !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour faire le ménage dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nettoyeur
+    (Pour faire le ménage dans l'ordinateur !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

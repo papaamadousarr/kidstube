@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_069
+  title: Le Traducteur Malicieux
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_069
+segments:
+- narration: L'ordinateur peut changer les mots d'une langue à une autre, comme par
+    magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Traducteur
+    Malicieux', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je dis 'Bonjour' !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bonjour
+    en Français (Je dis 'Bonjour' !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Le robot dit 'Hello' ! Incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Hello
+    en Anglais (Le robot dit 'Hello' ! Incroyable !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il connaît tous les mots de toutes les langues !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dictionnaire
+    Géant (Il connaît tous les mots de toutes les langues !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il peut parler en français, en anglais, en espagnol !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Langue
+    du Robot (Il peut parler en français, en anglais, en espagnol !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Plus de barrière, je comprends le monde entier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Comprends
+    Tout ! (Plus de barrière, je comprends le monde entier !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

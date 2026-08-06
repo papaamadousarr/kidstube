@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_19
+  title: Le Scribe Robot !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_19
+segments:
+- narration: Un robot super malin qui écrit des textes et des histoires !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Scribe
+    Robot !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il compose des phrases comme un écrivain !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Robot
+    qui écrit (Il compose des phrases comme un écrivain !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il crée des contes et des aventures originales !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Histoires
+    inventées (Il crée des contes et des aventures originales !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il peut même écrire de jolis poèmes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Poèmes
+    magiques (Il peut même écrire de jolis poèmes !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il rédige des comptes rendus tout seul !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rapports
+    automatiques (Il rédige des comptes rendus tout seul !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il génère du texte à l'infini !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mots
+    sans fin (Il génère du texte à l'infini !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

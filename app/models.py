@@ -19,6 +19,7 @@ class Idea(db.Model):
     short_item_index = db.Column(db.Integer, nullable=True)
     linked_idea_id = db.Column(db.Integer, db.ForeignKey("idea.id"), nullable=True)
     created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    published_at = db.Column(db.DateTime, nullable=True)
     youtube_video_id = db.Column(db.String(64), nullable=True)
 
     linked_idea = db.relationship("Idea", remote_side=[id])
@@ -34,3 +35,27 @@ class Idea(db.Model):
         if self.video_pipeline == "podcast":
             return OUTPUT_DIR / f"podcast_{self.series_key}.mp4"
         return OUTPUT_DIR / f"{self.series_key}.mp4"
+
+
+class Insight(db.Model):
+    """Recommandations générées par Gemini à partir des vraies données YouTube
+    Analytics — consultées par idea_generator pour orienter les prochains
+    contenus (Gemini comme "orchestrateur" de l'automatisation)."""
+
+    id = db.Column(db.Integer, primary_key=True)
+    created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+    period_days = db.Column(db.Integer, nullable=False)
+    summary = db.Column(db.Text, nullable=False)
+    priority_themes = db.Column(db.Text, nullable=False)  # JSON-encoded list[str]
+    format_advice = db.Column(db.Text, nullable=True)
+    timing_advice = db.Column(db.Text, nullable=True)
+
+
+class ChatMessage(db.Model):
+    """Historique de la conversation avec Gemini au sujet de la chaîne
+    (persisté pour survivre aux redémarrages de l'app)."""
+
+    id = db.Column(db.Integer, primary_key=True)
+    role = db.Column(db.String(10), nullable=False)  # "user" ou "model"
+    content = db.Column(db.Text, nullable=False)
+    created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)

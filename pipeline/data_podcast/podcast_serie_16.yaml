@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_16
+  title: Les Points Qui Dansent !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_16
+segments:
+- narration: Comment les dessins sont faits avec des points et des lignes magiques
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Points
+    Qui Dansent !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Les formes sont faites avec de petits chemins !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lignes
+    et points (Les formes sont faites avec de petits chemins !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: On peut agrandir le dessin, il reste toujours beau !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Grandir
+    sans casser (On peut agrandir le dessin, il reste toujours beau !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il peut devenir petit ou géant, sans se déformer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessin
+    qui s'étire (Il peut devenir petit ou géant, sans se déformer !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Les cercles restent bien ronds, les carrés bien droits !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Forme
+    parfaite (Les cercles restent bien ronds, les carrés bien droits !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Chaque ligne suit une règle bien précise !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    tracé (Chaque ligne suit une règle bien précise !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est la science des formes et des chemins !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Géométrie
+    (C'est la science des formes et des chemins !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_41
+  title: Le Tapis Roulant des Données !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_41
+segments:
+- narration: Quand les informations défilent sans arrêt, comme sur un tapis roulant
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Tapis
+    Roulant des Données !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Les données arrivent en continu, sans pause !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Infos
+    qui défilent (Les données arrivent en continu, sans pause !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un flot d'informations qui ne s'arrête jamais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Flux
+    continu (Un flot d'informations qui ne s'arrête jamais !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Les données passent les unes après les autres !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sans
+    s'arrêter (Les données passent les unes après les autres !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une route spéciale pour que les données voyagent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    des infos (Une route spéciale pour que les données voyagent !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Les informations vont vite et sans encombre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trajet
+    rapide (Les informations vont vite et sans encombre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme une rivière où toutes les infos coulent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rivière
+    de données (Comme une rivière où toutes les infos coulent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

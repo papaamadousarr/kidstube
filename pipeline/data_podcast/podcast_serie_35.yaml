@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_35
+  title: L'Usine à Robots !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_35
+segments:
+- narration: Comment on fabrique de nombreux robots, étape par étape, dans une grande
+    usine !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Usine à
+    Robots !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Des machines qui assemblent d'autres machines !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    des robots (Des machines qui assemblent d'autres machines !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un long chemin où chaque robot prend forme !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ligne
+    de montage (Un long chemin où chaque robot prend forme !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Faire beaucoup de robots identiques très vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fabriquer
+    en série (Faire beaucoup de robots identiques très vite !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Tout est organisé pour le bon assemblage !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chaque
+    pièce sa place (Tout est organisé pour le bon assemblage !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un lieu immense où naissent les robots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Grande
+    usine (Un lieu immense où naissent les robots !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est l'étape où l'on fabrique les robots !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Production
+    (C'est l'étape où l'on fabrique les robots !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

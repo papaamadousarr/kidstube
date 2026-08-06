@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_50
+  title: Les Instruments Virtuels !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_50
+segments:
+- narration: L'ordinateur peut jouer de la musique avec des instruments qui n'existent
+    pas en vrai !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Instruments
+    Virtuels !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Un clavier sur l'écran qui fait de la musique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Jouer
+    du piano virtuel (Un clavier sur l'écran qui fait de la musique !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il fabrique des sons uniques et originaux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sons
+    inventés (Il fabrique des sons uniques et originaux !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il crée des mélodies sans avoir de vrai piano ou guitare !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Musique
+    sans instrument (Il crée des mélodies sans avoir de vrai piano ou guitare !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: La machine qui invente tous les sons que l'on veut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Synthétiseur
+    magique (La machine qui invente tous les sons que l'on veut !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Un groupe d'instruments virtuels pour une grande musique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Orchestre
+    numérique (Un groupe d'instruments virtuels pour une grande musique !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il compose des airs très amusants et inattendus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mélodies
+    bizarres (Il compose des airs très amusants et inattendus !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

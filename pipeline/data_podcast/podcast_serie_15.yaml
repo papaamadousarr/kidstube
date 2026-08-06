@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_15
+  title: La Pierre de Rosette Digitale !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_15
+segments:
+- narration: Comment les machines du monde entier se mettent d'accord pour parler
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Pierre
+    de Rosette Digitale !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Toutes les machines parlent la même langue !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Langage
+    commun (Toutes les machines parlent la même langue !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une liste de ce qu'il faut faire pour se comprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Règles
+    du jeu (Une liste de ce qu'il faut faire pour se comprendre !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour qu'il n'y ait pas de confusion !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tout
+    le monde pareil (Pour qu'il n'y ait pas de confusion !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour que ton ordinateur parle à celui de ton ami !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    l'autre (Pour que ton ordinateur parle à celui de ton ami !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chacun sait comment utiliser l'information !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Mode
+    d'emploi (Chacun sait comment utiliser l'information !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une manière de se parler que tout le monde connaît !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Secret
+    partagé (Une manière de se parler que tout le monde connaît !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

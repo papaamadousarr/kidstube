@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_51
+  title: Le Cœur qui Bat !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_51
+segments:
+- narration: C'est la vitesse à laquelle l'ordinateur réfléchit et fait les choses
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Cœur qui
+    Bat !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: À quelle vitesse l'ordinateur fait ses calculs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vitesse
+    de l'ordi (À quelle vitesse l'ordinateur fait ses calculs !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il peut aller plus ou moins vite selon ce qu'on lui demande !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plus
+    vite, moins vite (Il peut aller plus ou moins vite selon ce qu'on lui demande
+    !), joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: C'est la cadence à laquelle il travaille sans s'arrêter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Rythme
+    de travail (C'est la cadence à laquelle il travaille sans s'arrêter !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Son cœur bat super vite pour tout traiter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Battement
+    rapide (Son cœur bat super vite pour tout traiter !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: C'est le moteur qui donne l'énergie pour penser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Cœur
+    du système (C'est le moteur qui donne l'énergie pour penser !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

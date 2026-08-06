@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_52
+  title: Les Mains Furtives !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_52
+segments:
+- narration: Quand on ressent les choses de l'ordinateur avec nos doigts, c'est rigolo
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Mains
+    Furtives !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: L'ordinateur nous fait sentir des choses imaginaires !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sentir
+    le virtuel (L'ordinateur nous fait sentir des choses imaginaires !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Une petite résistance dans le joystick quand on le pousse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Force
+    invisible (Une petite résistance dans le joystick quand on le pousse !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Une petite secousse pour nous prévenir de quelque chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vibration
+    douce (Une petite secousse pour nous prévenir de quelque chose !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: L'ordinateur nous renvoie ce qu'il se passe dans le jeu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Retour
+    de sensation (L'ordinateur nous renvoie ce qu'il se passe dans le jeu !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Sentir une texture sur l'écran, c'est incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Toucher
+    l'écran (Sentir une texture sur l'écran, c'est incroyable !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: On interagit avec l'ordinateur par le toucher !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Interaction
+    tactile (On interagit avec l'ordinateur par le toucher !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

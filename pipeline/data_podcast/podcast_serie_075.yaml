@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_075
+  title: Le Robot Nettoyeur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_075
+segments:
+- narration: Un robot qui fait le ménage à ta place, sans se plaindre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Nettoyeur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je ramasse toutes les miettes ! Vroum !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Aspirateur
+    Malin (Je ramasse toutes les miettes ! Vroum !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je frotte le sol pour le rendre propre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Brosse
+    qui Frotte (Je frotte le sol pour le rendre propre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je sens la poussière et je vais la chercher !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Capteur
+    de Saleté (Je sens la poussière et je vais la chercher !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je rends les fenêtres brillantes ! Nickel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Laveur
+    de Vitres (Je rends les fenêtres brillantes ! Nickel !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Grâce à moi, ta maison est toujours impeccable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Maison
+    Propre (Grâce à moi, ta maison est toujours impeccable !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

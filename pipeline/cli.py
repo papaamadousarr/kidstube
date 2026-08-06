@@ -7,15 +7,14 @@ from pathlib import Path
 
 from pipeline.assemble.video_builder import (
     assemble_series_video,
+    build_animated_item_clip,
     build_intro_clip,
-    build_item_clip,
     build_outro_clip,
 )
 from pipeline.config import MUSIC_DIR, OUTPUT_DIR
 from pipeline.content.higgsfield_loader import list_higgsfield_series
 from pipeline.content.loader import list_series, load_series
 from pipeline.content.schema import ContentError
-from pipeline.render.frame_builder import build_flashcard
 from pipeline.shorts import build_short
 from pipeline.tts.piper_engine import synth_to_wav
 from pipeline.videogen.builder import build_higgsfield_series
@@ -46,9 +45,7 @@ def build_series(
         for i, item in enumerate(series.items):
             audio_path = tmp_dir / f"item_{i:02d}.wav"
             duration = synth_to_wav(item.script, audio_path, series.voice)
-            frame_path = tmp_dir / f"item_{i:02d}.png"
-            build_flashcard(item, series).save(frame_path)
-            item_clips.append(build_item_clip(frame_path, audio_path, duration))
+            item_clips.append(build_animated_item_clip(item, series, audio_path, duration, tmp_dir, i))
             print(f"    - {item.name} ok ({duration:.2f}s)")
 
         print("[3/4] Outro...")

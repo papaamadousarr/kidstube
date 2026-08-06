@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_59
+  title: Les Éléments Surprenants !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_59
+segments:
+- narration: Quand l'ordinateur choisit au hasard pour créer de l'imprévu et de la
+    surprise !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Éléments
+    Surprenants !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Choisir sans réfléchir, juste pour le plaisir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le hasard
+    (Choisir sans réfléchir, juste pour le plaisir !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'ordinateur fait un choix inattendu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tirage
+    au sort (L'ordinateur fait un choix inattendu !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il choisit un nombre que personne ne peut deviner !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chiffre
+    mystère (Il choisit un nombre que personne ne peut deviner !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Quelque chose qui arrive sans qu'on s'y attende !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Imprévu
+    (Quelque chose qui arrive sans qu'on s'y attende !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: C'est amusant quand l'ordinateur nous surprend !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Surprise
+    (C'est amusant quand l'ordinateur nous surprend !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: L'ordinateur tire une option au sort !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choisir
+    au hasard (L'ordinateur tire une option au sort !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

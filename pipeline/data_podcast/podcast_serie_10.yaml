@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_10
+  title: L'Usine à Idées !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_10
+segments:
+- narration: Quand l'ordinateur invente des choses toutes nouvelles et surprenantes
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Usine à
+    Idées !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il rêve et crée des choses jamais vues !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Imagineur
+    (Il rêve et crée des choses jamais vues !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il donne vie à de nouvelles idées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créeur
+    (Il donne vie à de nouvelles idées !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il invente des images originales !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Nouveaux
+    dessins (Il invente des images originales !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Des mélodies composées par l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Musique
+    inventée (Des mélodies composées par l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il raconte de nouvelles aventures !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Histoires
+    sans fin (Il raconte de nouvelles aventures !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il a des idées géniales et un peu folles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Penseur
+    fou (Il a des idées géniales et un peu folles !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

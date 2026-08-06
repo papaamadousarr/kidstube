@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_58
+  title: Le Chef d'Orchestre Virtuel !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_58
+segments:
+- narration: L'ordinateur gère tout ce qui se passe pour que tout fonctionne bien
+    ensemble !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chef d'Orchestre
+    Virtuel !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il s'assure que chaque programme fait son travail !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Gérer
+    les tâches (Il s'assure que chaque programme fait son travail !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il organise tout pour éviter le désordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chaque
+    chose à sa place (Il organise tout pour éviter le désordre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le grand maître qui met de l'ordre dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Organisateur
+    (Le grand maître qui met de l'ordre dans l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il s'assure que tout démarre et tourne correctement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    fonctionner (Il s'assure que tout démarre et tourne correctement !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il surveille toutes les opérations de l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tout
+    contrôler (Il surveille toutes les opérations de l'ordinateur !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est lui qui dirige tous les programmes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chef
+    du système (C'est lui qui dirige tous les programmes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

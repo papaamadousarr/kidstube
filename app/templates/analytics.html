@@ -1,0 +1,172 @@
+{% extends "base.html" %}
+{% block title %}Analytics{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>Analytics YouTube</h1>
+    <p class="page-subtitle">Tour de contrôle de la chaîne — {{ window_days }} derniers jours.</p>
+  </div>
+  {% if connected and not error %}
+  <form method="post" action="{{ url_for('analytics.generate_insight') }}">
+    <button type="submit">Actualiser les insights Gemini</button>
+  </form>
+  {% endif %}
+</div>
+
+{% if not connected %}
+<div class="empty-state">
+  <p>Non connecté à YouTube.</p>
+  <p class="muted">Lance <code>python scripts/youtube_auth.py</code> dans ton terminal pour te connecter (nécessite l'API « YouTube Analytics » activée dans Google Cloud Console, en plus de « YouTube Data API v3 »).</p>
+</div>
+{% elif error %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>{{ error }}</span>
+</div>
+{% else %}
+
+{% if insight_error %}
+<div class="status-banner failure">
+  <span class="status-icon">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+  </span>
+  <span>{{ insight_error }}</span>
+</div>
+{% endif %}
+
+<div class="stat-tiles">
+  <div class="stat-tile">
+    <span class="stat-label">Vues</span>
+    <span class="stat-value">{{ "{:,}".format(summary.views or 0).replace(",", " ") }}</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Minutes regardées</span>
+    <span class="stat-value">{{ "{:,}".format(summary.estimatedMinutesWatched or 0).replace(",", " ") }}</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Durée moy. de vue</span>
+    <span class="stat-value">{{ summary.averageViewDuration or 0 }}s</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">% moy. regardé</span>
+    <span class="stat-value">{{ "%.0f"|format(summary.averageViewPercentage or 0) }}%</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Abonnés</span>
+    <span class="stat-value">
+      <span style="color: var(--success);">+{{ summary.subscribersGained or 0 }}</span>
+      {% if summary.subscribersLost %}<span style="color: var(--danger); font-size: 0.7em;"> −{{ summary.subscribersLost }}</span>{% endif %}
+    </span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-label">Likes / Commentaires</span>
+    <span class="stat-value">{{ summary.likes or 0 }} / {{ summary.comments or 0 }}</span>
+  </div>
+</div>
+
+<div class="analytics-grid">
+  <div class="panel chart-panel">
+    <h2 class="section-title no-top-margin">Vues par jour</h2>
+    {% if trend %}
+    <svg viewBox="0 0 640 200" class="trend-chart" preserveAspectRatio="none">
+      {% set pts = [] %}
+      {% for row in trend %}
+        {% set x = (loop.index0 / (trend|length - 1 if trend|length > 1 else 1)) * 620 + 10 %}
+        {% set y = 190 - ((row.views / max_trend_views) * 170) %}
+        {% set _ = pts.append(x|string + ',' + y|string) %}
+      {% endfor %}
+      <polyline points="{{ pts|join(' ') }}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      {% for row in trend %}
+        {% set x = (loop.index0 / (trend|length - 1 if trend|length > 1 else 1)) * 620 + 10 %}
+        {% set y = 190 - ((row.views / max_trend_views) * 170) %}
+        <circle cx="{{ x }}" cy="{{ y }}" r="3" fill="var(--accent)">
+          <title>{{ row.day }} : {{ row.views }} vue(s)</title>
+        </circle>
+      {% endfor %}
+    </svg>
+    {% else %}
+    <p class="muted">Pas encore assez de données.</p>
+    {% endif %}
+  </div>
+
+  <div class="panel chart-panel">
+    <h2 class="section-title no-top-margin">Sources de trafic</h2>
+    {% if traffic_sources %}
+    <div class="traffic-bars">
+      {% set max_source_views = traffic_sources[0].views if traffic_sources else 1 %}
+      {% for row in traffic_sources %}
+      <div class="traffic-row">
+        <span class="traffic-label">{{ row.insightTrafficSourceType }}</span>
+        <div class="traffic-track">
+          <div class="traffic-fill" style="width: {{ (row.views / max_source_views * 100)|round(1) }}%;"></div>
+        </div>
+        <span class="traffic-value">{{ row.views }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="muted">Pas encore assez de données.</p>
+    {% endif %}
+  </div>
+</div>
+
+<h2 class="section-title">Vidéos les plus vues</h2>
+{% if top_videos %}
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr><th>Titre</th><th>Vues</th><th>Minutes regardées</th><th>% moy. regardé</th><th>Likes</th></tr>
+  </thead>
+  <tbody>
+    {% for video in top_videos %}
+    <tr>
+      <td class="cell-title">{{ video.title }}</td>
+      <td>{{ video.views }}</td>
+      <td>{{ video.estimatedMinutesWatched }}</td>
+      <td>{{ "%.0f"|format(video.averageViewPercentage or 0) }}%</td>
+      <td>{{ video.likes or 0 }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% else %}
+<p class="muted">Pas encore de données vidéo.</p>
+{% endif %}
+
+<h2 class="section-title">Insights Gemini — tour de contrôle</h2>
+{% if latest_insight %}
+<div class="panel wide-panel insight-panel">
+  <p class="muted" style="margin-top:0;">Généré le {{ latest_insight.created_at.strftime('%d/%m/%Y %H:%M') }}</p>
+  <p>{{ latest_insight.summary }}</p>
+
+  <h3 class="insight-subtitle">Thèmes à privilégier</h3>
+  <div class="card-tags">
+    {% for theme in priority_themes %}
+    <span class="tag tag-accent">{{ theme }}</span>
+    {% endfor %}
+  </div>
+
+  {% if latest_insight.format_advice %}
+  <h3 class="insight-subtitle">Format</h3>
+  <p>{{ latest_insight.format_advice }}</p>
+  {% endif %}
+
+  {% if latest_insight.timing_advice %}
+  <h3 class="insight-subtitle">Rythme de publication</h3>
+  <p>{{ latest_insight.timing_advice }}</p>
+  {% endif %}
+
+  <p class="muted" style="font-size:0.8rem;">Ces thèmes orientent automatiquement les prochaines idées générées par Gemini.</p>
+</div>
+{% else %}
+<div class="empty-state">
+  <p>Aucun insight généré pour l'instant.</p>
+  <p class="muted">Clique sur « Actualiser les insights Gemini » ci-dessus pour une première analyse.</p>
+</div>
+{% endif %}
+
+{% endif %}
+{% endblock %}

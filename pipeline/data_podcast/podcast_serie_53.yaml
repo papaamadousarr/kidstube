@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_53
+  title: Le Jardin des Données !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_53
+segments:
+- narration: Comment on transforme les chiffres en de belles images pour mieux les
+    comprendre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Jardin
+    des Données !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Transformer les chiffres en dessins colorés !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessiner
+    les infos (Transformer les chiffres en dessins colorés !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Des camemberts, des barres pour voir les quantités !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Graphiques
+    rigolos (Des camemberts, des barres pour voir les quantités !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Voir tout de suite ce que les chiffres veulent dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    en un coup d'œil (Voir tout de suite ce que les chiffres veulent dire !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Les chiffres deviennent des formes et des couleurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    les nombres (Les chiffres deviennent des formes et des couleurs !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Une photo de toutes les informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Image
+    des données (Une photo de toutes les informations !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chaque forme raconte une histoire avec les données !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Formes
+    parlantes (Chaque forme raconte une histoire avec les données !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

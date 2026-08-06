@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_souris_futee
+  title: Clic-Clac, la Souris Futée !
+  voice: fr_FR-siwis-medium
+  linked_series_key: souris_futee
+segments:
+- narration: La souris, c'est notre amie pour montrer du doigt ce qu'on veut à l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Clic-Clac,
+    la Souris Futée !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: La petite amie qui nous aide à bouger sur l'écran !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Souris
+    (La petite amie qui nous aide à bouger sur l'écran !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Appuyer sur le bouton pour choisir quelque chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Clic
+    (Appuyer sur le bouton pour choisir quelque chose !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: La petite flèche que la souris fait bouger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pointeur
+    (La petite flèche que la souris fait bouger !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tenir le clic et déplacer la souris pour bouger un objet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Glisser
+    (Tenir le clic et déplacer la souris pour bouger un objet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Deux clics rapides pour ouvrir quelque chose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Double
+    Clic (Deux clics rapides pour ouvrir quelque chose !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Bouger la souris pour faire avancer le pointeur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Déplacer
+    (Bouger la souris pour faire avancer le pointeur !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

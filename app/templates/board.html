@@ -23,6 +23,11 @@
   {% endif %}
 </div>
 
+<div class="ideas-filter-bar">
+  <input type="search" id="board-search" placeholder="Rechercher une vidéo (titre ou série)…" class="ideas-search-input">
+  <span class="muted" id="board-filter-count"></span>
+</div>
+
 {% if automation_log %}
 <details class="panel automation-panel" open>
   <summary class="automation-summary">Automatisation récente</summary>
@@ -52,7 +57,7 @@
     </div>
     <div class="column-body">
     {% for idea in columns[status] %}
-      <div class="card">
+      <div class="card" data-title="{{ idea.title|lower }} {{ idea.series_key|lower if idea.series_key else '' }}">
         <strong class="card-title" title="{{ idea.title }}">{{ idea.title }}</strong>
         <div class="card-tags">
           {% if idea.series_key %}<span class="tag">{{ idea.series_key }}</span>{% endif %}
@@ -104,6 +109,9 @@
             >Voir le détail &rarr;</a>
           </div>
           {% endif %}
+          {% if idea.video_path.exists() %}
+          <a href="{{ url_for('ideas.preview_video', idea_id=idea.id) }}" target="_blank" rel="noopener" class="button ghost small">Voir la vidéo</a>
+          {% endif %}
           {% if idea.youtube_video_id %}
           <a href="{{ idea.youtube_url }}" target="_blank" rel="noopener" class="button ghost small">Voir sur YouTube</a>
           {% elif idea.status == "assembled" %}
@@ -119,4 +127,5 @@
   {% endfor %}
 </div>
 <script src="{{ url_for('static', filename='js/board_generate.js') }}"></script>
+<script src="{{ url_for('static', filename='js/board_search.js') }}"></script>
 {% endblock %}

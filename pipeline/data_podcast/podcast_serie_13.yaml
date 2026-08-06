@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_13
+  title: L'Architecte des Formes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_13
+segments:
+- narration: Comment on construit des objets dans l'ordinateur, comme par magie !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Architecte
+    des Formes !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: On crée des objets qui ont du volume !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Construire
+    en 3D (On crée des objets qui ont du volume !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Chaque ligne, chaque courbe est dessinée avec soin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plan
+    détaillé (Chaque ligne, chaque courbe est dessinée avec soin !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est un objet qui n'est pas plat, on peut le voir de tous les côtés
+    !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Volume
+    (C'est un objet qui n'est pas plat, on peut le voir de tous les côtés !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: On a l'impression de le toucher sur l'écran !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dessin
+    en relief (On a l'impression de le toucher sur l'écran !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une petite version pour tester avant de fabriquer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Maquette
+    (Une petite version pour tester avant de fabriquer !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il existe dans l'ordinateur, mais pas en vrai !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Objet
+    virtuel (Il existe dans l'ordinateur, mais pas en vrai !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_45
+  title: Les Yeux du Monde !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_45
+segments:
+- narration: Quand l'ordinateur voit et comprend ce qu'il y a dans une image, comme
+    nous !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Yeux
+    du Monde !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il reconnaît les objets et les personnes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    comme un humain (Il reconnaît les objets et les personnes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il interprète ce qu'il voit dans une photo !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    le monde (Il interprète ce qu'il voit dans une photo !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il étudie chaque détail de l'image !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Analyser
+    les images (Il étudie chaque détail de l'image !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il trouve où sont les ballons, les arbres, les voitures !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Détecter
+    les objets (Il trouve où sont les ballons, les arbres, les voitures !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il donne à l'ordinateur une sorte de vue magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sens
+    de la vue (Il donne à l'ordinateur une sorte de vue magique !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il saisit tout ce qui est représenté visuellement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Vision
+    complète (Il saisit tout ce qui est représenté visuellement !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

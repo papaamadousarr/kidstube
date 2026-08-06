@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_084
+  title: Le Robot Maître d'École
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_084
+segments:
+- narration: Le robot peut t'apprendre des choses, te donner des exercices et corriger
+    tes réponses !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Maître d'École', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Je t'apprends à lire et à compter ! Facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Lettres et les Chiffres (Je t'apprends à lire et à compter ! Facile !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: On apprend en s'amusant ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Jeux Éducatifs (On apprend en s'amusant ! Youpi !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te donne des défis pour devenir plus fort !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Exercices Intelligents (Je te donne des défis pour devenir plus fort !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je te dis si tu as bon ou si tu peux faire mieux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Correction
+    Magique (Je te dis si tu as bon ou si tu peux faire mieux !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis un super professeur, toujours patient !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Professeur (Je suis un super professeur, toujours patient !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

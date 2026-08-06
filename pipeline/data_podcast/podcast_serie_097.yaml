@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_097
+  title: Le Robot Sécure
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_097
+segments:
+- narration: Il protège tes informations et ta vie privée, comme un garde du corps
+    invisible !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Sécure', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je mets un code pour que personne ne voie tes secrets !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Code
+    Anti-Voleur (Je mets un code pour que personne ne voie tes secrets !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je protège tes infos des méchants virus !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Bouclier
+    (Je protège tes infos des méchants virus !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Tes photos et tes dessins sont bien gardés !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Gardien
+    des Secrets (Tes photos et tes dessins sont bien gardés !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je ne montre tes infos à personne sans ta permission !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Règle
+    de Confidentialité (Je ne montre tes infos à personne sans ta permission !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je surveille tout pour que tu sois en sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Vigilance
+    (Je surveille tout pour que tu sois en sécurité !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

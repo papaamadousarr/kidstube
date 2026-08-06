@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_39
+  title: Le Guide Lumineux !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_39
+segments:
+- narration: Comment la lumière porte les informations à toute vitesse dans des fils
+    magiques !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Guide
+    Lumineux !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Les messages passent par des rayons de lumière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Lumière
+    qui voyage (Les messages passent par des rayons de lumière !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Des fils très fins faits de verre pur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    de verre (Des fils très fins faits de verre pur !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les informations vont à la vitesse de la lumière !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Très
+    très vite (Les informations vont à la vitesse de la lumière !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Chaque flash de lumière est un message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Signal
+    brillant (Chaque flash de lumière est un message !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: La lumière transporte les données, c'est incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Infos
+    par la lumière (La lumière transporte les données, c'est incroyable !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Le nom de ces fils de verre si spéciaux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fibre
+    magique (Le nom de ces fils de verre si spéciaux !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

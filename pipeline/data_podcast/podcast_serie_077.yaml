@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_077
+  title: Le Robot Jardinier
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_077
+segments:
+- narration: Un ami robot qui aide au jardin et prend soin des plantes !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Jardinier', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je coupe l'herbe tout seul ! Bzzz !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Tondeuse
+    Auto (Je coupe l'herbe tout seul ! Bzzz !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je sais quand les plantes ont soif et je les arrose !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Arroseur
+    Intelligent (Je sais quand les plantes ont soif et je les arrose !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je m'occupe des légumes et des fruits !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Potager
+    Intelligent (Je m'occupe des légumes et des fruits !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Grâce à moi, les fleurs poussent bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Plante
+    Heureuse (Grâce à moi, les fleurs poussent bien !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: J'aime la nature et je la protège !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Vert (J'aime la nature et je la protège !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

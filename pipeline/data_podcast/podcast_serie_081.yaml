@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_081
+  title: Le Robot Artiste
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_081
+segments:
+- narration: Le robot peut créer de magnifiques dessins, des peintures et même des
+    sculptures !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Artiste', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je peins des tableaux avec des couleurs vives !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pinceau
+    Robot (Je peins des tableaux avec des couleurs vives !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je mélange les couleurs pour en créer des nouvelles !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Couleurs Inventées (Je mélange les couleurs pour en créer des nouvelles !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Je dessine des mondes imaginaires ! Incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dessin
+    Magique (Je dessine des mondes imaginaires ! Incroyable !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je taille la matière pour faire de belles formes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Sculpteur (Je taille la matière pour faire de belles formes !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est mon chef-d'œuvre ! Tu aimes ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Œuvre
+    d'Art (C'est mon chef-d'œuvre ! Tu aimes ?), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -12,6 +12,7 @@ TOKEN_PATH = REPO_ROOT / "secrets" / "youtube_token.json"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly",
+    "https://www.googleapis.com/auth/yt-analytics.readonly",
 ]
 CATEGORY_EDUCATION = "27"
 

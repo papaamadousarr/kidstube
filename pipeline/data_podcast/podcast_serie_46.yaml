@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_46
+  title: La Boîte à Sons !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_46
+segments:
+- narration: Où sont rangées toutes les musiques, les voix et les bruits dans l'ordinateur
+    ?
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Boîte
+    à Sons !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Toutes tes chansons sont bien classées ici !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ranger
+    les musiques (Toutes tes chansons sont bien classées ici !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Tes messages vocaux sont stockés là !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Enregistrer
+    la voix (Tes messages vocaux sont stockés là !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les sons sont transformés en informations pour l'ordi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sons
+    numériques (Les sons sont transformés en informations pour l'ordi !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Chaque son est un petit fichier à écouter !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Petite
+    mélodie (Chaque son est un petit fichier à écouter !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme une grande collection de bruits et de musiques !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bibliothèque
+    sonore (Comme une grande collection de bruits et de musiques !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est le nom du petit paquet qui contient un son !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Fichier
+    audio (C'est le nom du petit paquet qui contient un son !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

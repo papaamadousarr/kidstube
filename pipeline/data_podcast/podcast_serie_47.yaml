@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_47
+  title: Le Livre des Règles !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_47
+segments:
+- narration: Quand l'ordinateur connaît plein de règles pour résoudre des problèmes
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Livre
+    des Règles !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Il a une grande connaissance de son sujet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Savoir
+    beaucoup (Il a une grande connaissance de son sujet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour chaque question, il a la bonne réponse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réponses
+    prêtes (Pour chaque question, il a la bonne réponse !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il suit des règles simples pour agir !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Si...
+    alors... (Il suit des règles simples pour agir !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une énorme bibliothèque de faits à sa disposition !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Base
+    de connaissances (Une énorme bibliothèque de faits à sa disposition !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il est très intelligent et connaît beaucoup de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Savant
+    robot (Il est très intelligent et connaît beaucoup de choses !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Toutes les connaissances sont bien rangées dans sa tête !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Infos
+    classées (Toutes les connaissances sont bien rangées dans sa tête !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

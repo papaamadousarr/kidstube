@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_095
+  title: Le Robot Optimisateur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_095
+segments:
+- narration: Le robot trouve toujours la meilleure façon de faire les choses, la plus
+    rapide ou la plus facile !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Optimisateur', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Je trouve toujours la route la plus rapide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    le Plus Court (Je trouve toujours la route la plus rapide !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je bouge sans perdre de temps ! Efficace !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Mouvement
+    Malin (Je bouge sans perdre de temps ! Efficace !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je range tout pour que ce soit le plus simple !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Organisation
+    Parfaite (Je range tout pour que ce soit le plus simple !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis malin pour trouver les meilleures solutions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Ingénieux (Je suis malin pour trouver les meilleures solutions !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je t'aide à faire les choses mieux et plus vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Moins
+    de Temps, Plus de Plaisir ! (Je t'aide à faire les choses mieux et plus vite !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

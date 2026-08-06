@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_26
+  title: Les Mouvements Précis !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_26
+segments:
+- narration: Comment les robots font des gestes très très exacts, au millimètre près
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Mouvements
+    Précis !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Le robot bouge exactement comme on lui demande !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Geste
+    parfait (Le robot bouge exactement comme on lui demande !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il est super précis, même pour un tout petit mouvement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Millimètre
+    près (Il est super précis, même pour un tout petit mouvement !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il avance doucement, en contrôlant chaque mouvement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pas
+    à pas (Il avance doucement, en contrôlant chaque mouvement !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: La précision est sa meilleure amie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Doucement
+    et bien (La précision est sa meilleure amie !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Son geste est toujours juste !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sans
+    erreur (Son geste est toujours juste !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il fait toujours la bonne chose au bon endroit !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Exactitude
+    (Il fait toujours la bonne chose au bon endroit !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

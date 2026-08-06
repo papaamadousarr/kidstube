@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_40
+  title: Les Règles d'Or de l'IA !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_40
+segments:
+- narration: Pour que l'Intelligence Artificielle soit toujours gentille et juste
+    avec nous !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Règles
+    d'Or de l'IA !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: L'ordinateur doit toujours être bienveillant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing IA gentille
+    (L'ordinateur doit toujours être bienveillant !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il doit prendre des décisions équitables pour tous !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Être
+    juste (Il doit prendre des décisions équitables pour tous !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: L'IA ne doit jamais faire de choses méchantes !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pas
+    de bêtises (L'IA ne doit jamais faire de choses méchantes !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il doit traiter tout le monde avec égard !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Respecter
+    tout le monde (Il doit traiter tout le monde avec égard !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Son but est d'aider et de faire le bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bien
+    faire (Son but est d'aider et de faire le bien !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

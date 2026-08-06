@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_43
+  title: Le Constructeur de Mondes !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_43
+segments:
+- narration: L'ordinateur nous aide à bâtir des univers entiers pour jouer et explorer
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Constructeur
+    de Mondes !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Inventer de nouveaux mondes pour s'amuser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Créer
+    un jeu (Inventer de nouveaux mondes pour s'amuser !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Dessiner des montagnes, des rivières, des forêts !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Bâtir
+    des paysages (Dessiner des montagnes, des rivières, des forêts !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Établir comment on joue dans ce monde !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Inventer
+    des règles (Établir comment on joue dans ce monde !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un univers qui existe seulement dans l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Monde
+    virtuel (Un univers qui existe seulement dans l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Des aventures où tu es le héros !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Histoires
+    à jouer (Des aventures où tu es le héros !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Les paysages changent comme par enchantement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décor
+    magique (Les paysages changent comme par enchantement !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

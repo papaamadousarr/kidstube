@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_34
+  title: Le Messager Secret !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_34
+segments:
+- narration: Comment les messages sont signés pour être sûrs qu'ils viennent du bon
+    ami !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Messager
+    Secret !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Une clé unique pour ouvrir ton message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Clé
+    de protection (Une clé unique pour ouvrir ton message !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Une preuve que c'est bien toi qui as envoyé le message !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Signature
+    digitale (Une preuve que c'est bien toi qui as envoyé le message !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Personne ne peut le modifier sur le chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Message
+    scellé (Personne ne peut le modifier sur le chemin !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Seul le destinataire peut le déchiffrer !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Personne
+    ne lit (Seul le destinataire peut le déchiffrer !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Ton message est en sécurité, c'est garanti !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sûr
+    et certain (Ton message est en sécurité, c'est garanti !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Comme un sceau qui prouve l'origine !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Tampon
+    magique (Comme un sceau qui prouve l'origine !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

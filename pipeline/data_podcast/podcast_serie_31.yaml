@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_31
+  title: L'Arbitre des Conflits !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_31
+segments:
+- narration: Quand l'ordinateur doit choisir entre deux choses ou régler un problème
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Arbitre
+    des Conflits !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Il doit décider quelle est la meilleure option !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Qui
+    a raison ? (Il doit décider quelle est la meilleure option !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Quand deux choses ne sont pas d'accord !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Problème
+    à régler (Quand deux choses ne sont pas d'accord !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il cherche comment faire pour que tout aille bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    la solution (Il cherche comment faire pour que tout aille bien !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Il évite que les programmes se bloquent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Pas
+    de dispute (Il évite que les programmes se bloquent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il choisit toujours la bonne voie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décision
+    juste (Il choisit toujours la bonne voie !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Si quelque chose ne va pas, il essaie de l'arranger !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Réparer
+    (Si quelque chose ne va pas, il essaie de l'arranger !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

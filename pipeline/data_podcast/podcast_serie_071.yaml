@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_071
+  title: La Réalité Virtuelle
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_071
+segments:
+- narration: Mets ton casque et entre dans un nouveau monde tout droit sorti de l'ordinateur
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Réalité
+    Virtuelle', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je le mets et je suis transporté ailleurs !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Casque
+    Magique (Je le mets et je suis transporté ailleurs !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis dans une jungle ou sur la lune ! Incroyable !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Monde
+    Fantastique (Je suis dans une jungle ou sur la lune ! Incroyable !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je peux même prendre des objets virtuels ! Génial !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Peux
+    Toucher (Je peux même prendre des objets virtuels ! Génial !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je me sens vraiment dans le jeu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Expérience
+    Immersive (Je me sens vraiment dans le jeu !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je navigue dans ce monde comme si j'y étais !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Explorateur (Je navigue dans ce monde comme si j'y étais !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

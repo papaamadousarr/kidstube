@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_074
+  title: Le Robot Expliqueur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_074
+segments:
+- narration: Pose-lui une question, et le robot te donnera une explication très claire
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Expliqueur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je te dis pourquoi le ciel est bleu !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Pourquoi
+    du Comment (Je te dis pourquoi le ciel est bleu !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je te raconte comment vivaient les dinosaures !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Histoire
+    des Dinosaures (Je te raconte comment vivaient les dinosaures !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je connais beaucoup de choses et je t'apprends !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Maître
+    qui Sait (Je connais beaucoup de choses et je t'apprends !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Toutes tes questions trouvent une réponse avec moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Curiosité
+    Satisfaite (Toutes tes questions trouvent une réponse avec moi !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: J'explique tout de façon simple et amusante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Pédagogue (J'explique tout de façon simple et amusante !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

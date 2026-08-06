@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-from flask import Blueprint, redirect, render_template, request, url_for
+from flask import Blueprint, abort, redirect, render_template, request, send_file, url_for
 
 from app import idea_generator
 from app.db import db
@@ -104,6 +104,22 @@ def edit_idea(idea_id: int):
         db.session.commit()
         return redirect(url_for("ideas.ideas_list"))
     return render_template("idea_form.html", idea=idea, series_options=list_series(), statuses=STATUSES)
+
+
+@bp.route("/<int:idea_id>/preview")
+def preview_video(idea_id: int):
+    idea = db.get_or_404(Idea, idea_id)
+    if not idea.video_path.exists():
+        abort(404)
+    return render_template("video_preview.html", idea=idea)
+
+
+@bp.route("/<int:idea_id>/video")
+def serve_video(idea_id: int):
+    idea = db.get_or_404(Idea, idea_id)
+    if not idea.video_path.exists():
+        abort(404)
+    return send_file(idea.video_path, mimetype="video/mp4", conditional=True)
 
 
 @bp.route("/<int:idea_id>/delete", methods=["POST"])

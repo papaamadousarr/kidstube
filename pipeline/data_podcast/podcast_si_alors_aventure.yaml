@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_si_alors_aventure
+  title: Si... Alors... L'Aventure !
+  voice: fr_FR-siwis-medium
+  linked_series_key: si_alors_aventure
+segments:
+- narration: Les ordinateurs prennent des décisions, comme nous, avec 'Si... Alors...'
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Si... Alors...
+    L'Aventure !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: '''Si'' il fait jour, je me lève !'
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Si ('Si'
+    il fait jour, je me lève !), joyful bright saturated colors, Pixar-style render,
+    no text, no logos
+- narration: '''Alors'' je me lève, c''est l''action qui suit le ''Si'' !'
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alors
+    ('Alors' je me lève, c'est l'action qui suit le 'Si' !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: C'est le 'Si', ce qu'on vérifie pour savoir quoi faire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Condition
+    (C'est le 'Si', ce qu'on vérifie pour savoir quoi faire !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Choisir quoi faire en fonction du 'Si' !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Décision
+    (Choisir quoi faire en fonction du 'Si' !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: On peut avoir plusieurs 'Alors' pour différentes conditions !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Choix
+    (On peut avoir plusieurs 'Alors' pour différentes conditions !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est ce que l'ordinateur regarde pour son 'Si' !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Oui
+    ou Non (C'est ce que l'ordinateur regarde pour son 'Si' !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

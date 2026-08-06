@@ -14,4 +14,4 @@ OUTPUT_DIR = ROOT_DIR / "output"
 DEFAULT_VOICE = "fr_FR-siwis-medium"
 FRAME_SIZE = (1280, 720)
 SHORT_FRAME_SIZE = (1080, 1920)
-FPS = 24
+FPS = 30

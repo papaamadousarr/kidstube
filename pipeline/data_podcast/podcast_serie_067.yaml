@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_067
+  title: Les Favoris Préférés
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_067
+segments:
+- narration: Mets tes sites préférés en favoris, comme si tu mettais un marque-page
+    dans un livre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Favoris
+    Préférés', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: C'est ma page préférée ! Je la garde précieusement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ma Page
+    Chérie (C'est ma page préférée ! Je la garde précieusement !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je clique sur l'étoile pour la mettre en favori !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Étoile
+    Magique (Je clique sur l'étoile pour la mettre en favori !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Plus besoin de chercher, je vais direct sur ma page !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Raccourci
+    Malin (Plus besoin de chercher, je vais direct sur ma page !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: J'ai une boîte pour toutes mes pages préférées !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Dossier
+    des Favoris (J'ai une boîte pour toutes mes pages préférées !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Plus de pages perdues ! Quelle joie !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Retrouve
+    Tout (Plus de pages perdues ! Quelle joie !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

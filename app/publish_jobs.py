@@ -1,5 +1,6 @@
 import threading
 import time
+from datetime import datetime
 from pathlib import Path
 
 from app import youtube_client
@@ -80,6 +81,7 @@ def _run(
         if idea is not None:
             idea.status = "published"
             idea.youtube_video_id = result["video_id"]
+            idea.published_at = datetime.utcnow()
             db.session.commit()
 
     with _lock:

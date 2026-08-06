@@ -9,18 +9,24 @@ items:
 - name: Page web
   script: Une feuille d'internet !
   accent_color: '#ADD8E6'
+  icon: 1f310
 - name: Voir
   script: Regarder les images !
   accent_color: '#90EE90'
+  icon: 1f440
 - name: Lire
   script: Découvrir les mots !
   accent_color: '#4682B4'
+  icon: 1f4d6
 - name: Écrire
   script: Taper des lettres !
   accent_color: '#FFD700'
+  icon: 270d
 - name: Internet
   script: Le grand réseau !
   accent_color: '#6495ED'
+  icon: 1f310
 - name: Information
   script: Un secret à apprendre !
   accent_color: '#FFA07A'
+  icon: '2139'

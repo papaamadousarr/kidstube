@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Aperçu vidéo{% endblock %}
+{% block content %}
+<div class="page-header">
+  <div>
+    <h1>{{ idea.title }}</h1>
+    <p class="page-subtitle">Aperçu local — pas encore la version YouTube si déjà publiée entre-temps.</p>
+  </div>
+</div>
+
+<div class="panel wide-panel video-panel">
+  <video controls autoplay style="width:100%; max-height:75vh; border-radius:8px; background:#000;">
+    <source src="{{ url_for('ideas.serve_video', idea_id=idea.id) }}" type="video/mp4">
+  </video>
+</div>
+
+<p><a href="{{ url_for('board.board_view') }}" class="button ghost">&larr; Retour au tableau</a></p>
+{% endblock %}

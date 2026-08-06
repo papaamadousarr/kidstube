@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_068
+  title: Le Panier d'Achats Virtuel
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_068
+segments:
+- narration: Sur Internet, on met les objets qu'on veut acheter dans un panier invisible
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Panier
+    d'Achats Virtuel', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Je mets ce jouet dans mon panier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Jouet
+    Rêvé (Je mets ce jouet dans mon panier !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il garde tous mes objets choisis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Panier
+    Invisible (Il garde tous mes objets choisis !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je compte combien ça coûte en tout !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Total
+    ! (Je compte combien ça coûte en tout !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Oh, je n'en veux plus ! Hop, je l'enlève !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Retire
+    un Objet (Oh, je n'en veux plus ! Hop, je l'enlève !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je clique pour acheter ce qu'il y a dans mon panier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Commande
+    (Je clique pour acheter ce qu'il y a dans mon panier !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

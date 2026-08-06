@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_100
+  title: Le Robot Intelligent
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_100
+segments:
+- narration: Le robot est très intelligent, il peut apprendre, réfléchir et résoudre
+    des problèmes !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Intelligent', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Plus je vois, plus j'apprends de choses !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Cerveau
+    qui Apprend (Plus je vois, plus j'apprends de choses !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je réfléchis très vite pour trouver la bonne réponse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Réflexion
+    Rapide (Je réfléchis très vite pour trouver la bonne réponse !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Tous les problèmes sont des jeux pour moi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Résolveur
+    de Puzzles (Tous les problèmes sont des jeux pour moi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je comprends comment les choses fonctionnent !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Logique
+    Amusante (Je comprends comment les choses fonctionnent !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je suis l'Intelligence Artificielle ! Super cool !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'IA
+    Incroyable (Je suis l'Intelligence Artificielle ! Super cool !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

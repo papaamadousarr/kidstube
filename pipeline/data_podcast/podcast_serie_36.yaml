@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_36
+  title: Le Chef de la Cuisine Digitale !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_36
+segments:
+- narration: L'ordinateur est un super chef qui organise toutes les tâches en cuisine
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Chef de
+    la Cuisine Digitale !', vibrant playful colors, Pixar-style children's animation,
+    warm inviting composition, no text, no logos
+- narration: Il organise la recette de A à Z !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Préparer
+    les étapes (Il organise la recette de A à Z !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une action après l'autre, sans rien oublier !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Enchaîner
+    les tâches (Une action après l'autre, sans rien oublier !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Chaque étape doit se faire dans le bon ordre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suite
+    logique (Chaque étape doit se faire dans le bon ordre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il prépare tout sans aide, c'est magique !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Automate
+    chef (Il prépare tout sans aide, c'est magique !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il gère tout, du premier au dernier ingrédient !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Du début
+    à la fin (Il gère tout, du premier au dernier ingrédient !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Mettre de l'ordre pour que tout fonctionne bien !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Organiser
+    (Mettre de l'ordre pour que tout fonctionne bien !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

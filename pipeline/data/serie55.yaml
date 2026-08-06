@@ -9,18 +9,24 @@ items:
 - name: Communication
   script: Le fait de se parler !
   accent_color: '#BDB76B'
+  icon: 1f4ac
 - name: Parler
   script: Échanger des mots !
   accent_color: '#ADD8E6'
+  icon: 1f5e3
 - name: Écrire
   script: Tracer des messages !
   accent_color: '#4682B4'
+  icon: 270d
 - name: Écouter
   script: Tendre l'oreille !
   accent_color: '#90EE90'
+  icon: 1f442
 - name: Interagir
   script: Agir l'un avec l'autre !
   accent_color: '#FFD700'
+  icon: 1f91d
 - name: Échanger
   script: Se donner des choses !
   accent_color: '#DAA520'
+  icon: 1f504

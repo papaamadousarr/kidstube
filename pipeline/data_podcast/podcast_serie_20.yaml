@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_20
+  title: L'Équipe des Capteurs !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_20
+segments:
+- narration: Quand plusieurs petits yeux et oreilles travaillent ensemble pour mieux
+    voir !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'L'Équipe
+    des Capteurs !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Regarder de tous les côtés en même temps !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plusieurs
+    yeux (Regarder de tous les côtés en même temps !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour ne rien manquer de ce qui se passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Regarder
+    partout (Pour ne rien manquer de ce qui se passe !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Mélanger ce que chaque capteur voit pour comprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Infos
+    croisées (Mélanger ce que chaque capteur voit pour comprendre !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Ensemble, ils voient mieux que tout seuls !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Meilleure
+    vue (Ensemble, ils voient mieux que tout seuls !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Recueillir un maximum d'informations !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Toutes
+    les données (Recueillir un maximum d'informations !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Mieux comprendre le monde grâce à toutes ces infos !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    mieux (Mieux comprendre le monde grâce à toutes ces infos !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

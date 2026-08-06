@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_082
+  title: Le Robot Musicien
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_082
+segments:
+- narration: Il peut jouer des instruments, composer des chansons et même chanter
+    !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Musicien', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je joue une musique très douce ! Chuuut !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Mélodie
+    Douce (Je joue une musique très douce ! Chuuut !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tape, tape, tape ! Je fais un rythme joyeux !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Rythme
+    Amusant (Tape, tape, tape ! Je fais un rythme joyeux !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: J'invente de nouvelles chansons ! Youpi !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Compositeur (J'invente de nouvelles chansons ! Youpi !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je joue tous les instruments en même temps !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Orchestre
+    Robot (Je joue tous les instruments en même temps !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je chante comme un oiseau ! La la la !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Voix
+    qui Chante (Je chante comme un oiseau ! La la la !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

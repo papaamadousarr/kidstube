@@ -15,8 +15,10 @@ def create_app(start_scheduler: bool = False) -> Flask:
 
     db.init_app(app)
 
+    from app.routes.analytics import bp as analytics_bp
     from app.routes.board import bp as board_bp
     from app.routes.calendar import bp as calendar_bp
+    from app.routes.chat import bp as chat_bp
     from app.routes.generate import bp as generate_bp
     from app.routes.higgsfield import bp as higgsfield_bp
     from app.routes.ideas import bp as ideas_bp
@@ -28,6 +30,8 @@ def create_app(start_scheduler: bool = False) -> Flask:
     app.register_blueprint(generate_bp)
     app.register_blueprint(publish_bp)
     app.register_blueprint(higgsfield_bp)
+    app.register_blueprint(analytics_bp)
+    app.register_blueprint(chat_bp)
 
     with app.app_context():
         db.create_all()

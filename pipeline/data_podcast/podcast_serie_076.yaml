@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_076
+  title: Le Robot Livreur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_076
+segments:
+- narration: Un robot qui apporte des colis et des messages là où on lui dit !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Livreur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je t'apporte un paquet surprise !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Colis
+    Joyeux (Je t'apporte un paquet surprise !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je suis la carte pour trouver la bonne adresse !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Carte
+    au Trésor (Je suis la carte pour trouver la bonne adresse !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je livre les lettres et les paquets !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Facteur (Je livre les lettres et les paquets !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Je vais vite pour que tu aies ton colis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Livraison
+    Rapide (Je vais vite pour que tu aies ton colis !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Ton colis est en sécurité dans ma boîte !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Coffre
+    Sécurisé (Ton colis est en sécurité dans ma boîte !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

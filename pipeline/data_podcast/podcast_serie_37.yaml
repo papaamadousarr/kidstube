@@ -1,0 +1,35 @@
+podcast_series:
+  key: podcast_serie_37
+  title: Les Écrans Partagés !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_37
+segments:
+- narration: Quand plusieurs écrans s'unissent pour faire une seule grande image !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Écrans
+    Partagés !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Chaque écran montre une partie de l'image !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Plusieurs
+    vues (Chaque écran montre une partie de l'image !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Les écrans s'associent pour une grande tâche !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Travailler
+    ensemble (Les écrans s'associent pour une grande tâche !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour avoir une vision complète et géante !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voir
+    tout (Pour avoir une vision complète et géante !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Une image immense qui s'étale sur plusieurs écrans !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Grand
+    panorama (Une image immense qui s'étale sur plusieurs écrans !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: C'est comme avoir un écran gigantesque !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écran
+    géant (C'est comme avoir un écran gigantesque !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_088
+  title: Le Robot Compteur
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_088
+segments:
+- narration: Un robot très fort pour compter les objets, les personnes ou n'importe
+    quoi d'autre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Compteur', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Une, deux, trois balles ! Facile !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Compte
+    les Balles (Une, deux, trois balles ! Facile !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Combien de voitures rouges sont passées ?
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Compte
+    les Voitures (Combien de voitures rouges sont passées ?), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je te donne le chiffre précis, sans erreur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Nombre
+    Exact (Je te donne le chiffre précis, sans erreur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Les chiffres sont mes amis, je les adore !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Mathématicien (Les chiffres sont mes amis, je les adore !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je ne me trompe jamais en comptant !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Précision
+    (Je ne me trompe jamais en comptant !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

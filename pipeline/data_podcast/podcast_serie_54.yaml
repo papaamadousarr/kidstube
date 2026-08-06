@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_54
+  title: Les Nouveaux Chemins !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_54
+segments:
+- narration: Comment l'ordinateur trouve le meilleur trajet pour aller d'un point
+    à un autre !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Les Nouveaux
+    Chemins !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il cherche le chemin le plus facile ou le plus rapide !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trouver
+    le meilleur parcours (Il cherche le chemin le plus facile ou le plus rapide !),
+    joyful bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il contourne les choses qui gênent sur la route !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Éviter
+    les obstacles (Il contourne les choses qui gênent sur la route !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Un chemin bien pensé par l'ordinateur !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Trajet
+    intelligent (Un chemin bien pensé par l'ordinateur !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il trouve la route la plus courte pour arriver vite !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chemin
+    le plus court (Il trouve la route la plus courte pour arriver vite !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il fait des maths pour trouver le bon chemin !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Calculer
+    la route (Il fait des maths pour trouver le bon chemin !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Le parcours est parfait pour ne pas perdre de temps !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Voyage
+    optimisé (Le parcours est parfait pour ne pas perdre de temps !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

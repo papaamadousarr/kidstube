@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_090
+  title: Le Robot Guide
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_090
+segments:
+- narration: 'Un robot qui te montre le chemin et t''explique ce que tu vois autour
+    de toi ! '
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Robot
+    Guide', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je te montre la bonne route ! Viens !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Suis-moi
+    ! (Je te montre la bonne route ! Viens !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Je te conduis sans danger ! Quelle sécurité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Chemin
+    Sûr (Je te conduis sans danger ! Quelle sécurité !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Regarde cette belle fleur ! Je te dis son nom !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Explications (Regarde cette belle fleur ! Je te dis son nom !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Je te fais découvrir des merveilles ! Chouette !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    Touriste (Je te fais découvrir des merveilles ! Chouette !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je sais toujours où nous sommes et où nous allons !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing L'Orientation
+    (Je sais toujours où nous sommes et où nous allons !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

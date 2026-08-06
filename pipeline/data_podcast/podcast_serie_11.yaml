@@ -1,0 +1,40 @@
+podcast_series:
+  key: podcast_serie_11
+  title: Le Traducteur Universel !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_11
+segments:
+- narration: Comment l'ordinateur nous aide à comprendre toutes les langues du monde
+    ?
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Traducteur
+    Universel !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Il sait ce que chaque mot veut dire !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Comprendre
+    les mots (Il sait ce que chaque mot veut dire !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il passe du français à l'anglais, et vice-versa !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Changer
+    de langue (Il passe du français à l'anglais, et vice-versa !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il connaît tous les mots de toutes les langues !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Dictionnaire
+    magique (Il connaît tous les mots de toutes les langues !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il aide tout le monde à se comprendre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Parler
+    à tous (Il aide tout le monde à se comprendre !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Il écoute bien ce que tu dis !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Écoute
+    attentive (Il écoute bien ce que tu dis !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il comprend ce que veut dire toute une phrase !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sens
+    des phrases (Il comprend ce que veut dire toute une phrase !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

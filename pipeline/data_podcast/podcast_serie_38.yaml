@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_38
+  title: Le Détecteur de Mouvement !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_38
+segments:
+- narration: Un capteur qui sent quand quelque chose bouge autour de lui !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Détecteur
+    de Mouvement !', vibrant playful colors, Pixar-style children's animation, warm
+    inviting composition, no text, no logos
+- narration: Il surveille attentivement ce qui se passe !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sentinelle
+    qui voit (Il surveille attentivement ce qui se passe !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il détecte le moindre petit mouvement !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Ça bouge
+    ! (Il détecte le moindre petit mouvement !), joyful bright saturated colors, Pixar-style
+    render, no text, no logos
+- narration: Il envoie un signal si quelque chose bouge !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Alarme
+    discrète (Il envoie un signal si quelque chose bouge !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il aide à protéger la maison en détectant les mouvements !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Chasse
+    aux intrus (Il aide à protéger la maison en détectant les mouvements !), joyful
+    bright saturated colors, Pixar-style render, no text, no logos
+- narration: Il voit le mouvement sans toucher l'objet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Sans
+    contact (Il voit le mouvement sans toucher l'objet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Il regarde sans arrêt si quelque chose change !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Observer
+    (Il regarde sans arrêt si quelque chose change !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

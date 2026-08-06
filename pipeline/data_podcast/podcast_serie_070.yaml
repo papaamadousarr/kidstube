@@ -1,0 +1,36 @@
+podcast_series:
+  key: podcast_serie_070
+  title: La Réalité Augmentée
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_070
+segments:
+- narration: Quand tu vois des choses virtuelles qui se mélangent à la vraie vie,
+    c'est la réalité augmentée !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'La Réalité
+    Augmentée', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: Je vois un robot virtuel sur ma table ! Waouh !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Robot
+    dans ma Main (Je vois un robot virtuel sur ma table ! Waouh !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Mon dessin prend vie dans ma chambre !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Les
+    Dessins qui Bougent (Mon dessin prend vie dans ma chambre !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je vois des choses qui n'existent pas vraiment !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Le Monde
+    Magique (Je vois des choses qui n'existent pas vraiment !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Elle voit le vrai monde, et l'ordi ajoute le virtuel !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing La Caméra
+    (Elle voit le vrai monde, et l'ordi ajoute le virtuel !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Je mets des images virtuelles sur la vraie image !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Je Superpose
+    ! (Je mets des images virtuelles sur la vraie image !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos

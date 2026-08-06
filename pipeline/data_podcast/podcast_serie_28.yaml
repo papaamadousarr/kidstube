@@ -1,0 +1,39 @@
+podcast_series:
+  key: podcast_serie_28
+  title: Le Modélisateur Malin !
+  voice: fr_FR-siwis-medium
+  linked_series_key: serie_28
+segments:
+- narration: Créer un faux monde pour tester et prédire ce qui va se passer !
+  image_prompt: Colorful glowing 3D illustration representing the theme 'Le Modélisateur
+    Malin !', vibrant playful colors, Pixar-style children's animation, warm inviting
+    composition, no text, no logos
+- narration: On imite le monde réel pour s'amuser !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Faire
+    semblant (On imite le monde réel pour s'amuser !), joyful bright saturated colors,
+    Pixar-style render, no text, no logos
+- narration: Tester les idées avant de les faire en vrai !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Essayer
+    avant (Tester les idées avant de les faire en vrai !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Deviner ce qui va arriver grâce au faux monde !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Prévoir
+    le futur (Deviner ce qui va arriver grâce au faux monde !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Un essai fait dans l'ordinateur, pas dans la réalité !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Test
+    virtuel (Un essai fait dans l'ordinateur, pas dans la réalité !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: On peut modifier le faux monde pour voir l'effet !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Changer
+    le vent (On peut modifier le faux monde pour voir l'effet !), joyful bright saturated
+    colors, Pixar-style render, no text, no logos
+- narration: Créer un univers complet pour faire des expériences !
+  image_prompt: Colorful vibrant 3D cartoon illustration for children showing Imagine
+    le monde (Créer un univers complet pour faire des expériences !), joyful bright
+    saturated colors, Pixar-style render, no text, no logos
+- narration: Pour découvrir tout ça en vrai, regarde la vidéo complète juste ici,
+    et abonne-toi pour ne rater aucun épisode !
+  image_prompt: Giant glowing colorful arrow pointing right toward a YouTube play
+    button, surrounded by bright stars and sparkles, dynamic inviting composition,
+    Pixar-style children's animation, no text, no logos
