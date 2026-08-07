@@ -5,6 +5,7 @@
   <div>
     <h1>Analytics YouTube</h1>
     <p class="page-subtitle">Tour de contrôle de la chaîne — {{ window_days }} derniers jours.</p>
+    <p class="page-subtitle" style="font-size: 0.8rem;">Données YouTube Analytics — pas temps réel : les dernières 24-48h peuvent être incomplètes (délai de traitement propre à l'API YouTube).</p>
   </div>
   {% if connected and not error %}
   <form method="post" action="{{ url_for('analytics.generate_insight') }}">
