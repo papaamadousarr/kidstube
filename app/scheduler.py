@@ -4,7 +4,8 @@ from datetime import datetime, time as dt_time, timedelta
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
 
-from app import higgsfield_jobs, jobs, podcast_jobs, publish_jobs, seo_defaults, shorts_jobs
+from app import higgsfield_jobs, jobs, podcast_jobs, publish_jobs, seo_defaults, shorts_jobs, tiktok_client, tiktok_jobs
+from pipeline.videogen import higgsfield_client
 
 TICK_MINUTES = 5
 RETRY_COOLDOWN_MINUTES = 30
@@ -55,8 +56,10 @@ INSIGHT_REFRESH_HOURS = 24
 
 _log: deque = deque(maxlen=LOG_MAXLEN)
 _last_failure: dict[int, datetime] = {}
+_tiktok_last_failure: dict[int, datetime] = {}
 _topup_generation_failure_at: datetime | None = None
 _youtube_daily_cap_hit_on = None  # date du jour où YouTube a refusé un upload de plus
+_higgsfield_broken_token_mtime: float | None = None  # mtime du token au moment où Higgsfield a signalé une session expirée
 _scheduler: BackgroundScheduler | None = None
 
 
@@ -86,6 +89,42 @@ def _in_cooldown(idea_id: int) -> bool:
 
 def _mark_failure(idea_id: int) -> None:
     _last_failure[idea_id] = datetime.now()
+
+
+def _handle_higgsfield_session_failure(idea, app) -> None:
+    """Higgsfield a signalé une session/autorisation expirée pour cette
+    génération : contrairement à un échec ponctuel, retenter toutes les 30 min
+    ne sert à rien tant que personne n'a relancé scripts/higgsfield_auth.py —
+    ça bloquait juste inutilement les 2 seuls slots de build en même temps
+    (cf. app/generation_pool.py) pendant l'appel voué à l'échec.
+
+    On suspend donc les tentatives et on surveille la mtime du fichier de
+    token : tant qu'il n'est pas réécrit (= reconnexion manuelle), on reste
+    silencieux ; dès qu'il l'est, on retente immédiatement plutôt que
+    d'attendre jusqu'à 30 min de plus."""
+    global _higgsfield_broken_token_mtime
+
+    current_mtime = higgsfield_client.TOKEN_PATH.stat().st_mtime if higgsfield_client.TOKEN_PATH.exists() else 0.0
+
+    if _higgsfield_broken_token_mtime is not None and current_mtime <= _higgsfield_broken_token_mtime:
+        return  # toujours cassé, on attend en silence (pas de log ni de tentative)
+
+    if _higgsfield_broken_token_mtime is None:
+        _higgsfield_broken_token_mtime = current_mtime
+        _record(
+            idea,
+            "génération",
+            False,
+            "Session Higgsfield expirée — tentatives suspendues jusqu'à reconnexion "
+            "(python scripts/higgsfield_auth.py).",
+        )
+        return
+
+    # current_mtime > _higgsfield_broken_token_mtime : le token a été réécrit
+    # depuis la dernière panne signalée → reconnexion détectée.
+    _higgsfield_broken_token_mtime = None
+    _record(idea, "génération", True, "Higgsfield reconnecté — nouvelle tentative de génération.")
+    _start_generation_job(idea, app)
 
 
 def _get_generation_job(idea):
@@ -145,12 +184,28 @@ def _process_idea(idea, app) -> None:
             if gen_job["status"] in ("queued", "running"):
                 return
             if gen_job["status"] == "done" and gen_job["success"] is False:
-                _record(idea, "génération", False, "Échec de génération — nouvelle tentative suspendue.")
+                if idea.video_pipeline in ("higgsfield", "podcast") and higgsfield_client.is_session_error(
+                    gen_job.get("message", "")
+                ):
+                    _handle_higgsfield_session_failure(idea, app)
+                    return
+
+                first_failure = idea.id not in _last_failure
                 _mark_failure(idea.id)
-                return
+                if first_failure:
+                    _record(idea, "génération", False, "Échec de génération — nouvelle tentative suspendue.")
+                    return
+                # Le cooldown de 30 min vient d'expirer (sinon _in_cooldown nous
+                # aurait arrêtés en tête de fonction) : on retente au lieu de
+                # re-logguer indéfiniment le même échec sans jamais relancer.
 
         if not idea.series_key:
             _record(idea, "génération", False, "Aucune série de contenu associée à cette idée.")
+            _mark_failure(idea.id)
+            return
+
+        if idea.video_pipeline in ("higgsfield", "podcast") and not higgsfield_client.is_connected():
+            _record(idea, "génération", False, "Higgsfield non connecté — génération suspendue.")
             _mark_failure(idea.id)
             return
 
@@ -194,6 +249,38 @@ def _process_idea(idea, app) -> None:
         app,
     )
     _record(idea, "publication", True, "Publication YouTube lancée automatiquement.")
+
+
+def _tiktok_in_cooldown(idea_id: int) -> bool:
+    last = _tiktok_last_failure.get(idea_id)
+    if last is None:
+        return False
+    return (datetime.now() - last).total_seconds() < RETRY_COOLDOWN_MINUTES * 60
+
+
+def _process_tiktok_crosspost(idea, app) -> None:
+    """Republie sur TikTok les Shorts déjà publiés sur YouTube (format vertical
+    adapté), une fois l'app TikTok autorisée. Tant qu'aucun token production
+    n'existe (app encore en review), on n'essaie même pas — pas la peine de
+    spammer le log avec un échec d'auth garanti à chaque tick."""
+    if _tiktok_in_cooldown(idea.id):
+        return
+
+    job = tiktok_jobs.get_job(idea.id)
+    if job is not None:
+        if job["status"] == "running":
+            return
+        if job["status"] == "done" and job["success"] is False:
+            _tiktok_last_failure[idea.id] = datetime.now()
+            _record(idea, "TikTok", False, f"Échec de publication TikTok : {job.get('message')}")
+            return
+
+    if not tiktok_client.is_connected():
+        return
+
+    seo = seo_defaults.build_seo_defaults(idea)
+    tiktok_jobs.start_job(idea.id, idea.video_path, seo["title"], app)
+    _record(idea, "TikTok", True, "Publication TikTok lancée automatiquement.")
 
 
 SCHEDULING_PIPELINES = ("flashcards", "shorts", "podcast", "higgsfield")
@@ -354,6 +441,14 @@ def _tick(app) -> None:
             scheduled_dt = datetime.combine(idea.scheduled_date, idea.scheduled_time or dt_time.min)
             if scheduled_dt <= now:
                 _process_idea(idea, app)
+
+        due_tiktok = Idea.query.filter(
+            Idea.status == "published",
+            Idea.video_pipeline == "shorts",
+            Idea.tiktok_publish_id.is_(None),
+        ).all()
+        for idea in due_tiktok:
+            _process_tiktok_crosspost(idea, app)
 
 
 def init_scheduler(app) -> BackgroundScheduler:

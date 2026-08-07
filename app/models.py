@@ -21,6 +21,8 @@ class Idea(db.Model):
     created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
     published_at = db.Column(db.DateTime, nullable=True)
     youtube_video_id = db.Column(db.String(64), nullable=True)
+    tiktok_publish_id = db.Column(db.String(128), nullable=True)
+    tiktok_published_at = db.Column(db.DateTime, nullable=True)
 
     linked_idea = db.relationship("Idea", remote_side=[id])
 
