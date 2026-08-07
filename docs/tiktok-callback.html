@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TikTok Callback — KidsTube Code</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">&lt;/&gt;</span>
+      <span class="brand-name">KidsTube Code</span>
+    </a>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+      <a href="terms-of-service.html">Terms of Service</a>
+    </nav>
+  </header>
+
+  <main class="card">
+    <h1>TikTok authorization</h1>
+    <p class="meta">This page only runs in your browser — nothing is sent anywhere or stored.</p>
+
+    <div id="result"></div>
+  </main>
+
+  <footer class="site-footer">&copy; 2026 KidsTube Code</footer>
+</div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get("code");
+  const error = params.get("error");
+  const result = document.getElementById("result");
+
+  function box(innerHtml) {
+    const div = document.createElement("div");
+    div.style.marginTop = "1rem";
+    div.innerHTML = innerHtml;
+    result.appendChild(div);
+  }
+
+  if (error) {
+    box(`<p style="color:#e5484d;">TikTok returned an error: <strong>${error}</strong></p>`);
+  } else if (code) {
+    box(`
+      <p>Copy this code and paste it back into your terminal:</p>
+      <pre id="code" style="background:var(--accent-soft); padding:16px; border-radius:10px; overflow-x:auto; font-size:0.95rem; user-select:all;">${code}</pre>
+      <button id="copy-btn" style="margin-top:10px; padding:10px 16px; border-radius:10px; border:1px solid var(--border); background:var(--surface); color:var(--text); cursor:pointer; font-weight:600;">Copy to clipboard</button>
+      <p id="copy-status" style="margin-top:8px; color:var(--text-muted); font-size:0.9rem;"></p>
+    `);
+    document.getElementById("copy-btn").addEventListener("click", () => {
+      navigator.clipboard.writeText(code).then(() => {
+        document.getElementById("copy-status").textContent = "Copied.";
+      });
+    });
+  } else {
+    box(`<p style="color:var(--text-muted);">No authorization code found in the URL.</p>`);
+  }
+</script>
+</body>
+</html>
