@@ -21,6 +21,10 @@
   {% else %}
     <span class="muted">Non connecté à YouTube{% if stats.reason == "error" %} (erreur API){% endif %}</span>
   {% endif %}
+  <span class="platform-badge {{ 'is-live' if tiktok_connected else '' }}" title="{{ 'Republication automatique des Shorts active' if tiktok_connected else 'App TikTok en attente d’approbation — republication automatique inactive' }}">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l10-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/></svg>
+    TikTok {{ 'connecté' if tiktok_connected else 'en review' }}
+  </span>
 </div>
 
 <div class="ideas-filter-bar">
@@ -118,6 +122,29 @@
           <a href="{{ url_for('publish.publish_form', idea_id=idea.id) }}" class="button ghost small">Publier sur YouTube</a>
           {% endif %}
         </div>
+        {% if idea.youtube_video_id or idea.video_pipeline == "shorts" %}
+        <div class="platform-row">
+          {% if idea.youtube_video_id %}
+          <a href="{{ idea.youtube_url }}" target="_blank" rel="noopener" class="platform-badge is-live" title="Publié sur YouTube">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            YouTube
+          </a>
+          {% endif %}
+          {% if idea.video_pipeline == "shorts" %}
+            {% if idea.tiktok_publish_id %}
+            <span class="platform-badge is-live" title="Publié sur TikTok">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l10-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/></svg>
+              TikTok
+            </span>
+            {% elif idea.youtube_video_id %}
+            <span class="platform-badge" title="{{ 'En attente de republication automatique' if tiktok_connected else 'App TikTok en attente d’approbation' }}">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l10-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/></svg>
+              TikTok {{ '…' if tiktok_connected else '(review)' }}
+            </span>
+            {% endif %}
+          {% endif %}
+        </div>
+        {% endif %}
       </div>
     {% else %}
       <p class="empty-hint">Aucune idée ici</p>

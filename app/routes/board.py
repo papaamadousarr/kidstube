@@ -1,6 +1,6 @@
 from flask import Blueprint, current_app, redirect, render_template, request, url_for
 
-from app import channel_stats, jobs, podcast_jobs, scheduler, shorts_jobs
+from app import channel_stats, jobs, podcast_jobs, scheduler, shorts_jobs, tiktok_client
 from app.db import db
 from app.models import STATUSES, Idea
 
@@ -60,6 +60,7 @@ def board_view():
         automation_log=automation_log,
         job_status=job_status,
         generatable_count=generatable_count,
+        tiktok_connected=tiktok_client.is_connected(),
     )
 
 

@@ -335,6 +335,36 @@ tbody tr[hidden] { display: none; }
 .badge.status-idea, .badge.status-recorded, .badge.status-assembled, .badge.status-published { color: #08110d; }
 .badge.status-script { color: #2a1a00; }
 
+.platform-row {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.4rem;
+}
+
+.platform-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: var(--surface-hover);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+.platform-badge svg { width: 11px; height: 11px; flex: none; }
+
+.platform-badge.is-live {
+  background: rgba(52, 211, 153, 0.15);
+  color: var(--status-published);
+  border-color: transparent;
+}
+
+a.platform-badge.is-live:hover { filter: brightness(1.1); }
+
 /* ---------- Forms ---------- */
 
 .panel {
