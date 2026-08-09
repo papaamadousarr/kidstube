@@ -219,7 +219,7 @@ def _process_idea(idea, app) -> None:
 
     pub_job = publish_jobs.get_job(idea.id)
     if pub_job is not None:
-        if pub_job["status"] == "running":
+        if pub_job["status"] in ("queued", "running"):
             return
         if pub_job["status"] == "done" and pub_job["success"] is False:
             error = pub_job.get("error") or ""
@@ -233,9 +233,15 @@ def _process_idea(idea, app) -> None:
                     "publiée(s) aujourd'hui) — reprise automatique demain.",
                 )
                 return
-            _record(idea, "publication", False, f"Échec de publication : {pub_job.get('error')}")
+            first_failure = idea.id not in _last_failure
             _mark_failure(idea.id)
-            return
+            if first_failure:
+                _record(idea, "publication", False, f"Échec de publication : {pub_job.get('error')}")
+                return
+            # Le cooldown de 30 min vient d'expirer (sinon _in_cooldown nous
+            # aurait arrêtés en tête de fonction) : on retente au lieu de
+            # re-logguer indéfiniment le même échec sans jamais relancer la
+            # publication.
 
     seo = seo_defaults.build_seo_defaults(idea)
     publish_jobs.start_job(

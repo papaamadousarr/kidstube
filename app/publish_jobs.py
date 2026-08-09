@@ -8,6 +8,16 @@ from app import youtube_client
 _jobs: dict[int, dict] = {}
 _lock = threading.Lock()
 
+# Plusieurs vidéos "dues" en même temps (ex. après un redémarrage qui laisse
+# le tick suivant traiter tout le retard d'un coup) lançaient auparavant un
+# upload YouTube par idée sans aucune limite — des dizaines de connexions
+# simultanées faisaient timeout en cascade (bande passante saturée) au lieu
+# de réussir les unes après les autres. On borne donc le nombre d'uploads
+# réellement actifs en même temps, comme pour la génération vidéo
+# (cf. app/generation_pool.py).
+MAX_CONCURRENT_UPLOADS = 3
+_upload_semaphore = threading.Semaphore(MAX_CONCURRENT_UPLOADS)
+
 
 def start_job(
     idea_id: int,
@@ -21,12 +31,12 @@ def start_job(
 ) -> None:
     with _lock:
         existing = _jobs.get(idea_id)
-        if existing and existing["status"] == "running":
+        if existing and existing["status"] in ("queued", "running"):
             return
         _jobs[idea_id] = {
-            "status": "running",
+            "status": "queued",
             "progress": 0,
-            "message": "Démarrage de l'upload...",
+            "message": "En file d'attente...",
             "success": None,
             "video_id": None,
             "error": None,
@@ -57,15 +67,19 @@ def _run(
     app,
 ) -> None:
     try:
-        result = youtube_client.upload_video(
-            file_path,
-            title,
-            description,
-            tags,
-            privacy_status=privacy_status,
-            made_for_kids=made_for_kids,
-            progress_callback=lambda pct: _set_progress(idea_id, pct),
-        )
+        with _upload_semaphore:
+            with _lock:
+                _jobs[idea_id]["status"] = "running"
+                _jobs[idea_id]["message"] = "Démarrage de l'upload..."
+            result = youtube_client.upload_video(
+                file_path,
+                title,
+                description,
+                tags,
+                privacy_status=privacy_status,
+                made_for_kids=made_for_kids,
+                progress_callback=lambda pct: _set_progress(idea_id, pct),
+            )
     except Exception as exc:
         with _lock:
             _jobs[idea_id]["status"] = "done"
