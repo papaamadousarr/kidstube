@@ -40,6 +40,20 @@ class Idea(db.Model):
         return OUTPUT_DIR / f"{self.series_key}.mp4"
 
 
+class Playlist(db.Model):
+    """Playlist YouTube gérée automatiquement — une par série de contenu
+    (kind="series", key=series_key) et une globale par type de pipeline
+    (kind="type", key=video_pipeline), créées à la volée à la première
+    publication qui en a besoin (cf. app/playlist_manager.py)."""
+
+    id = db.Column(db.Integer, primary_key=True)
+    kind = db.Column(db.String(20), nullable=False)
+    key = db.Column(db.String(100), nullable=False)
+    youtube_playlist_id = db.Column(db.String(64), nullable=False)
+
+    __table_args__ = (db.UniqueConstraint("kind", "key"),)
+
+
 class Insight(db.Model):
     """Recommandations générées par Gemini à partir des vraies données YouTube
     Analytics — consultées par idea_generator pour orienter les prochains

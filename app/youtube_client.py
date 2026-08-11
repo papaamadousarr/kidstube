@@ -13,6 +13,9 @@ SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly",
     "https://www.googleapis.com/auth/yt-analytics.readonly",
+    # Nécessaire pour créer/modifier des playlists (playlists.insert,
+    # playlistItems.insert) — youtube.upload seul ne couvre que les vidéos.
+    "https://www.googleapis.com/auth/youtube",
 ]
 CATEGORY_EDUCATION = "27"
 
@@ -122,3 +125,37 @@ def upload_video(
 
     video_id = response["id"]
     return {"video_id": video_id, "url": f"https://youtu.be/{video_id}"}
+
+
+def create_playlist(title: str, description: str = "") -> str:
+    creds = load_credentials()
+    youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
+
+    body = {
+        "snippet": {"title": title, "description": description},
+        "status": {"privacyStatus": "public"},
+    }
+    try:
+        response = youtube.playlists().insert(part="snippet,status", body=body).execute()
+    except HttpError as exc:
+        status_code = exc.resp.status if exc.resp else None
+        raise RuntimeError(f"Échec de la création de la playlist YouTube ({status_code}) : {exc.reason}") from exc
+
+    return response["id"]
+
+
+def add_video_to_playlist(playlist_id: str, video_id: str) -> None:
+    creds = load_credentials()
+    youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
+
+    body = {
+        "snippet": {
+            "playlistId": playlist_id,
+            "resourceId": {"kind": "youtube#video", "videoId": video_id},
+        }
+    }
+    try:
+        youtube.playlistItems().insert(part="snippet", body=body).execute()
+    except HttpError as exc:
+        status_code = exc.resp.status if exc.resp else None
+        raise RuntimeError(f"Échec de l'ajout à la playlist YouTube ({status_code}) : {exc.reason}") from exc

@@ -98,6 +98,18 @@ def _run(
             idea.published_at = datetime.utcnow()
             db.session.commit()
 
+            # Le rangement en playlist est un bonus, pas une condition de
+            # succès de la publication : un souci ici (ex. playlist déjà
+            # supprimée manuellement) ne doit pas faire repasser la vidéo
+            # pour "échec de publication" alors qu'elle est bien en ligne.
+            try:
+                from app.playlist_manager import sync_playlists_for_idea
+
+                sync_playlists_for_idea(idea)
+            except Exception as exc:
+                with _lock:
+                    _jobs[idea_id]["message"] = f"Publiée, mais échec du rangement en playlist : {exc}"
+
     with _lock:
         _jobs[idea_id]["status"] = "done"
         _jobs[idea_id]["success"] = True
