@@ -13,23 +13,33 @@ _lock = threading.Lock()
 _ACTIVE_STATUSES = ("queued", "running")
 
 
-def start_job(idea_id: int, series_key: str, item_index: int, app) -> None:
+def start_job(idea_id: int, series_key: str, item_index: int, app, group_size: int = 1) -> None:
     with _lock:
         existing = _jobs.get(idea_id)
         if existing and existing["status"] in _ACTIVE_STATUSES:
             return
         _jobs[idea_id] = {"status": "queued", "log": [], "success": None, "started_at": time.time()}
 
-    threading.Thread(target=_run, args=(idea_id, series_key, item_index, app), daemon=True).start()
+    threading.Thread(target=_run, args=(idea_id, series_key, item_index, app, group_size), daemon=True).start()
 
 
-def _run(idea_id: int, series_key: str, item_index: int, app) -> None:
+def _run(idea_id: int, series_key: str, item_index: int, app, group_size: int = 1) -> None:
     with build_slot():
         with _lock:
             _jobs[idea_id]["status"] = "running"
 
         process = subprocess.Popen(
-            [sys.executable, "-u", "-m", "pipeline", "build-short", series_key, str(item_index)],
+            [
+                sys.executable,
+                "-u",
+                "-m",
+                "pipeline",
+                "build-short",
+                series_key,
+                str(item_index),
+                "--group-size",
+                str(group_size),
+            ],
             cwd=str(REPO_ROOT),
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,

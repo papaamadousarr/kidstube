@@ -17,6 +17,7 @@ class Idea(db.Model):
     scheduled_time = db.Column(db.Time, nullable=True)
     video_pipeline = db.Column(db.String(20), nullable=False, default="flashcards")
     short_item_index = db.Column(db.Integer, nullable=True)
+    short_group_size = db.Column(db.Integer, nullable=False, default=1)
     linked_idea_id = db.Column(db.Integer, db.ForeignKey("idea.id"), nullable=True)
     created_at = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
     published_at = db.Column(db.DateTime, nullable=True)

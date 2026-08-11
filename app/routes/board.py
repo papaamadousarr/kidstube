@@ -69,7 +69,7 @@ def generate_all():
     app_obj = current_app._get_current_object()
     for idea in _generatable_ideas():
         if idea.video_pipeline == "shorts":
-            shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app_obj)
+            shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app_obj, idea.short_group_size)
         else:
             jobs.start_job(idea.id, idea.series_key, app_obj)
     return redirect(url_for("board.board_view"))

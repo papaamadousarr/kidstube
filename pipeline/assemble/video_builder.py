@@ -76,6 +76,7 @@ def build_animated_item_clip(
     tmp_dir: Path,
     index: int,
     size: tuple[int, int] = FRAME_SIZE,
+    padding: float = PADDING,
 ) -> CompositeVideoClip:
     """Comme build_item_clip, mais anime le fond (Ken Burns qui alterne zoom
     avant/arrière selon `index`) et l'icône (fondu + léger mouvement vers le
@@ -89,7 +90,7 @@ def build_animated_item_clip(
     d'images externe."""
     from pipeline.render.frame_builder import build_flashcard_layers
 
-    total_duration = duration + PADDING
+    total_duration = duration + padding
     layers = build_flashcard_layers(item, series, size)
 
     background_flat = layers["background"].convert("RGBA")
@@ -123,7 +124,7 @@ def build_animated_item_clip(
     video = with_crossfade(video)
 
     audio = AudioFileClip(str(audio_path)).with_effects([AudioFadeIn(0.15), AudioFadeOut(0.15)])
-    audio = audio.with_start(PADDING / 2)
+    audio = audio.with_start(padding / 2)
     full_audio = CompositeAudioClip([audio]).with_duration(total_duration)
 
     return video.with_audio(full_audio)

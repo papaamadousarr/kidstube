@@ -19,7 +19,7 @@ def _get_job(idea: Idea) -> dict | None:
 
 def _start_job(idea: Idea, app_obj) -> None:
     if idea.video_pipeline == "shorts":
-        shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app_obj)
+        shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app_obj, idea.short_group_size)
     elif idea.video_pipeline == "podcast":
         podcast_jobs.start_job(idea.id, idea.series_key, "9:16", app_obj)
     else:

@@ -93,7 +93,7 @@ def cmd_build_higgsfield(args: argparse.Namespace) -> int:
 
 def cmd_build_short(args: argparse.Namespace) -> int:
     try:
-        build_short(args.series_key, args.item_index)
+        build_short(args.series_key, args.item_index, group_size=args.group_size)
     except ContentError as exc:
         print(f"Erreur de contenu : {exc}", file=sys.stderr)
         return 1
@@ -149,10 +149,13 @@ def main(argv: list[str] | None = None) -> int:
     build_higgsfield_parser.set_defaults(func=cmd_build_higgsfield)
 
     build_short_parser = sub.add_parser(
-        "build-short", help="Génère un Short (vertical) pour un seul item d'une série existante"
+        "build-short", help="Génère un Short (vertical) pour un ou plusieurs items d'une série existante"
     )
     build_short_parser.add_argument("series_key")
     build_short_parser.add_argument("item_index", type=int)
+    build_short_parser.add_argument(
+        "--group-size", type=int, default=1, help="Nombre de mots consécutifs à couvrir dans ce Short (défaut : 1)"
+    )
     build_short_parser.set_defaults(func=cmd_build_short)
 
     list_parser = sub.add_parser("list", help="Liste les séries de contenu disponibles")

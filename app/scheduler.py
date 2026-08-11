@@ -141,7 +141,7 @@ def _start_generation_job(idea, app) -> None:
     if idea.video_pipeline == "higgsfield":
         higgsfield_jobs.start_job(idea.id, idea.series_key, None, app)
     elif idea.video_pipeline == "shorts":
-        shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app)
+        shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app, idea.short_group_size)
     elif idea.video_pipeline == "podcast":
         podcast_jobs.start_job(idea.id, idea.series_key, "9:16", app)
     else:
