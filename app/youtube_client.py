@@ -144,7 +144,29 @@ def create_playlist(title: str, description: str = "") -> str:
     return response["id"]
 
 
+def playlist_contains_video(playlist_id: str, video_id: str) -> bool:
+    creds = load_credentials()
+    youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
+    try:
+        response = (
+            youtube.playlistItems()
+            .list(part="id", playlistId=playlist_id, videoId=video_id, maxResults=1)
+            .execute()
+        )
+    except HttpError as exc:
+        status_code = exc.resp.status if exc.resp else None
+        raise RuntimeError(
+            f"Échec de la vérification du contenu de la playlist YouTube ({status_code}) : {exc.reason}"
+        ) from exc
+    return bool(response.get("items"))
+
+
 def add_video_to_playlist(playlist_id: str, video_id: str) -> None:
+    # Idempotent : relancer le sync (backfill, ou double appel accidentel) ne
+    # doit pas dupliquer l'entrée dans la playlist.
+    if playlist_contains_video(playlist_id, video_id):
+        return
+
     creds = load_credentials()
     youtube = build("youtube", "v3", credentials=creds, cache_discovery=False)
 
