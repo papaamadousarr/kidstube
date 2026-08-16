@@ -218,6 +218,13 @@ def _process_idea(idea, app) -> None:
         return
 
     pub_job = publish_jobs.get_job(idea.id)
+    if pub_job is not None and datetime.fromtimestamp(pub_job["started_at"]).date() != datetime.now().date():
+        # Job d'un jour précédent (ex. échec de quota d'hier resté en
+        # mémoire) : son résultat mis en cache ne dit rien sur aujourd'hui —
+        # on l'ignore et on retente comme s'il n'y avait jamais eu de job,
+        # plutôt que de laisser une vieille erreur bloquer la journée entière.
+        pub_job = None
+
     if pub_job is not None:
         if pub_job["status"] in ("queued", "running"):
             return
