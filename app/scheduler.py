@@ -1,5 +1,6 @@
 from collections import Counter, deque
 from datetime import datetime, time as dt_time, timedelta
+from statistics import median
 
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.triggers.interval import IntervalTrigger
@@ -91,6 +92,18 @@ def _mark_failure(idea_id: int) -> None:
     _last_failure[idea_id] = datetime.now()
 
 
+def _higgsfield_is_broken() -> bool:
+    """Reflète l'état réel constaté lors de la dernière tentative de
+    génération (session expirée signalée par Higgsfield), contrairement à
+    higgsfield_client.is_connected() qui vérifie seulement que le fichier de
+    token existe — il peut exister depuis des semaines alors que la session
+    sous-jacente est expirée depuis tout aussi longtemps."""
+    if _higgsfield_broken_token_mtime is None:
+        return False
+    current_mtime = higgsfield_client.TOKEN_PATH.stat().st_mtime if higgsfield_client.TOKEN_PATH.exists() else 0.0
+    return current_mtime <= _higgsfield_broken_token_mtime
+
+
 def _handle_higgsfield_session_failure(idea, app) -> None:
     """Higgsfield a signalé une session/autorisation expirée pour cette
     génération : contrairement à un échec ponctuel, retenter toutes les 30 min
@@ -104,10 +117,10 @@ def _handle_higgsfield_session_failure(idea, app) -> None:
     d'attendre jusqu'à 30 min de plus."""
     global _higgsfield_broken_token_mtime
 
-    current_mtime = higgsfield_client.TOKEN_PATH.stat().st_mtime if higgsfield_client.TOKEN_PATH.exists() else 0.0
-
-    if _higgsfield_broken_token_mtime is not None and current_mtime <= _higgsfield_broken_token_mtime:
+    if _higgsfield_is_broken():
         return  # toujours cassé, on attend en silence (pas de log ni de tentative)
+
+    current_mtime = higgsfield_client.TOKEN_PATH.stat().st_mtime if higgsfield_client.TOKEN_PATH.exists() else 0.0
 
     if _higgsfield_broken_token_mtime is None:
         _higgsfield_broken_token_mtime = current_mtime
@@ -157,8 +170,16 @@ def _todays_publish_count() -> int:
 
 
 def _compute_daily_target() -> int:
-    """Vise toujours "record récent + 1" pour suivre la vraie limite YouTube au
-    fur et à mesure qu'elle augmente, plutôt qu'un chiffre fixe deviné."""
+    """Vise "jour typique récent + 1" pour suivre la vraie limite YouTube au
+    fur et à mesure qu'elle augmente, plutôt qu'un chiffre fixe deviné.
+
+    Médiane plutôt que max : une seule journée exceptionnelle (ex. rafale de
+    rattrapage après un incident réglé) ne doit pas à elle seule gonfler
+    l'objectif pour tous les jours suivants — constaté le 13/08, un pic isolé
+    à 34 avait fait grimper l'objectif à 35/jour alors que le rythme réel
+    tournait plutôt autour de 6-17/jour, créant une sous-livraison croissante
+    qui finit par provoquer sa propre rafale de rattrapage (boucle qui
+    s'auto-renforce)."""
     from app.models import Idea
 
     since = datetime.now() - timedelta(days=DAILY_TARGET_HISTORY_DAYS)
@@ -166,7 +187,7 @@ def _compute_daily_target() -> int:
     if not rows:
         return DAILY_TARGET_BOOTSTRAP
     counts = Counter(r.published_at.date() for r in rows)
-    return max(counts.values()) + 1
+    return int(median(counts.values())) + 1
 
 
 def _youtube_cap_hit_today() -> bool:
@@ -307,8 +328,19 @@ def _pick_candidates_round_robin(needed: int):
     le même jour) passe indéfiniment devant les autres créés plus tard
     (constaté : 793 Shorts en attente, 0 programmé). Un pipeline avec un
     arriéré 3x plus gros obtient environ 3x plus de créneaux — au moins 1 s'il
-    n'est pas vide, pour qu'aucun pipeline ne reste totalement à zéro."""
+    n'est pas vide, pour qu'aucun pipeline ne reste totalement à zéro.
+
+    Les pipelines qui dépendent de Higgsfield (podcast, higgsfield) sont
+    exclus de la répartition tant qu'il n'est pas connecté — sinon une part
+    fixe du calendrier programmé (habituellement ~13-14%) reste
+    structurellement bloquée (génération impossible dans tous les cas) sans
+    jamais pouvoir être publiée, gaspillant des créneaux qui pourraient
+    aller aux pipelines qui peuvent réellement livrer."""
     from app.models import Idea
+
+    active_pipelines = SCHEDULING_PIPELINES
+    if _higgsfield_is_broken():
+        active_pipelines = tuple(p for p in SCHEDULING_PIPELINES if p not in ("podcast", "higgsfield"))
 
     backlogs = {
         pipeline: Idea.query.filter(
@@ -316,7 +348,7 @@ def _pick_candidates_round_robin(needed: int):
             Idea.status != "published",
             Idea.video_pipeline == pipeline,
         ).count()
-        for pipeline in SCHEDULING_PIPELINES
+        for pipeline in active_pipelines
     }
     total_backlog = sum(backlogs.values())
     if total_backlog == 0:
