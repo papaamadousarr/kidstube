@@ -1,3 +1,6 @@
+from collections import Counter
+from datetime import datetime, timedelta
+
 from flask import Blueprint, current_app, redirect, render_template, request, url_for
 
 from app import channel_stats, jobs, podcast_jobs, scheduler, shorts_jobs, tiktok_client
@@ -5,6 +8,24 @@ from app.db import db
 from app.models import STATUSES, Idea
 
 bp = Blueprint("board", __name__, url_prefix="/board")
+
+# Options du filtre "Publiées" affiché sur le Kanban — (clé, libellé, jours en
+# arrière ; None = pas de borne, tout l'historique).
+PUBLISH_PERIODS = {
+    "today": ("Aujourd'hui", 0),
+    "7d": ("7 derniers jours", 7),
+    "30d": ("30 derniers jours", 30),
+    "all": ("Tout l'historique", None),
+}
+
+
+def _publish_period_cutoff(period_days: int | None) -> datetime | None:
+    if period_days is None:
+        return None
+    if period_days == 0:
+        now = datetime.now()
+        return now.replace(hour=0, minute=0, second=0, microsecond=0)
+    return datetime.now() - timedelta(days=period_days)
 
 # Flashcards/Shorts : génération locale gratuite, sûre à déclencher en masse
 # (protégée par la limite de concurrence de app.generation_pool).
@@ -34,9 +55,20 @@ def _generatable_ideas():
 
 @bp.route("/")
 def board_view():
+    publish_period = request.args.get("published_within", "today")
+    if publish_period not in PUBLISH_PERIODS:
+        publish_period = "today"
+
     columns = {status: Idea.query.filter_by(status=status).order_by(Idea.created_at).all() for status in STATUSES}
     stats = channel_stats.get_channel_stats()
     automation_log = scheduler.get_recent_log()
+
+    _, period_days = PUBLISH_PERIODS[publish_period]
+    cutoff = _publish_period_cutoff(period_days)
+    if cutoff is not None:
+        columns["published"] = [idea for idea in columns["published"] if idea.published_at and idea.published_at >= cutoff]
+
+    publish_pipeline_counts = Counter(idea.video_pipeline for idea in columns["published"])
 
     job_status = {}
     for ideas in columns.values():
@@ -61,6 +93,10 @@ def board_view():
         job_status=job_status,
         generatable_count=generatable_count,
         tiktok_connected=tiktok_client.is_connected(),
+        publish_periods=PUBLISH_PERIODS,
+        publish_period=publish_period,
+        publish_total=len(columns["published"]),
+        publish_pipeline_counts=publish_pipeline_counts,
     )
 
 

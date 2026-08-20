@@ -27,6 +27,21 @@
   </span>
 </div>
 
+<div class="panel stats-bar publish-filter-bar">
+  <form method="get" class="form" style="display:flex; align-items:center; gap:0.5rem;">
+    <label for="published_within" class="muted">Publiées</label>
+    <select name="published_within" id="published_within" onchange="this.form.submit()">
+      {% for key, period in publish_periods.items() %}
+        <option value="{{ key }}" {% if key == publish_period %}selected{% endif %}>{{ period[0] }}</option>
+      {% endfor %}
+    </select>
+  </form>
+  <div><strong>{{ publish_total }}</strong> vidéo{{ 's' if publish_total != 1 else '' }}</div>
+  {% for pipeline, count in publish_pipeline_counts.items() %}
+    <span class="tag">{{ pipeline }} : {{ count }}</span>
+  {% endfor %}
+</div>
+
 <div class="ideas-filter-bar">
   <input type="search" id="board-search" placeholder="Rechercher une vidéo (titre ou série)…" class="ideas-search-input">
   <span class="muted" id="board-filter-count"></span>
@@ -58,6 +73,9 @@
       <span class="status-dot status-{{ status }}"></span>
       <h2>{{ status }}</h2>
       <span class="column-count">{{ columns[status]|length }}</span>
+      {% if status == "published" %}
+      <span class="muted" style="font-size:0.75rem;">({{ publish_periods[publish_period][0]|lower }})</span>
+      {% endif %}
     </div>
     <div class="column-body">
     {% for idea in columns[status] %}
