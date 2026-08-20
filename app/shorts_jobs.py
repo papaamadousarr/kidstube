@@ -4,6 +4,7 @@ import threading
 import time
 from pathlib import Path
 
+from app import generation_pool
 from app.generation_pool import build_slot
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -23,8 +24,23 @@ def start_job(idea_id: int, series_key: str, item_index: int, app, group_size: i
     threading.Thread(target=_run, args=(idea_id, series_key, item_index, app, group_size), daemon=True).start()
 
 
+def _cancel(idea_id: int) -> None:
+    with _lock:
+        _jobs[idea_id]["status"] = "done"
+        _jobs[idea_id]["success"] = None
+        _jobs[idea_id]["log"].append("Génération annulée (arrêt demandé).")
+
+
 def _run(idea_id: int, series_key: str, item_index: int, app, group_size: int = 1) -> None:
+    if generation_pool.is_stop_requested():
+        _cancel(idea_id)
+        return
+
     with build_slot():
+        if generation_pool.is_stop_requested():
+            _cancel(idea_id)
+            return
+
         with _lock:
             _jobs[idea_id]["status"] = "running"
 
@@ -46,11 +62,14 @@ def _run(idea_id: int, series_key: str, item_index: int, app, group_size: int = 
             text=True,
             bufsize=1,
         )
-
-        for line in process.stdout:
-            with _lock:
-                _jobs[idea_id]["log"].append(line.rstrip("\n"))
-        process.wait()
+        generation_pool.register_process(process)
+        try:
+            for line in process.stdout:
+                with _lock:
+                    _jobs[idea_id]["log"].append(line.rstrip("\n"))
+            process.wait()
+        finally:
+            generation_pool.unregister_process(process)
         success = process.returncode == 0
 
     with app.app_context():
@@ -78,3 +97,8 @@ def get_job(idea_id: int) -> dict | None:
             "log": "\n".join(job["log"]),
             "elapsed": time.time() - job["started_at"],
         }
+
+
+def count_active() -> int:
+    with _lock:
+        return sum(1 for job in _jobs.values() if job["status"] in _ACTIVE_STATUSES)

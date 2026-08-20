@@ -1,9 +1,9 @@
 from collections import Counter
 from datetime import datetime, timedelta
 
-from flask import Blueprint, current_app, redirect, render_template, request, url_for
+from flask import Blueprint, current_app, jsonify, redirect, render_template, request, url_for
 
-from app import channel_stats, jobs, podcast_jobs, scheduler, shorts_jobs, tiktok_client
+from app import channel_stats, generation_pool, jobs, podcast_jobs, scheduler, shorts_jobs, tiktok_client
 from app.db import db
 from app.models import STATUSES, Idea
 
@@ -97,18 +97,32 @@ def board_view():
         publish_period=publish_period,
         publish_total=len(columns["published"]),
         publish_pipeline_counts=publish_pipeline_counts,
+        generation_active=(jobs.count_active() + shorts_jobs.count_active()) > 0,
     )
 
 
 @bp.route("/generate-all", methods=["POST"])
 def generate_all():
     app_obj = current_app._get_current_object()
+    generation_pool.clear_stop()
     for idea in _generatable_ideas():
         if idea.video_pipeline == "shorts":
             shorts_jobs.start_job(idea.id, idea.series_key, idea.short_item_index or 0, app_obj, idea.short_group_size)
         else:
             jobs.start_job(idea.id, idea.series_key, app_obj)
-    return redirect(url_for("board.board_view"))
+    return ("", 204)
+
+
+@bp.route("/generate-all/stop", methods=["POST"])
+def generate_all_stop():
+    generation_pool.request_stop()
+    return ("", 204)
+
+
+@bp.route("/generate-all/status")
+def generate_all_status():
+    active = jobs.count_active() + shorts_jobs.count_active()
+    return jsonify({"active": active, "stopping": generation_pool.is_stop_requested()})
 
 
 @bp.route("/<int:idea_id>/status", methods=["POST"])

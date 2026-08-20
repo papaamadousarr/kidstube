@@ -537,6 +537,48 @@ a.platform-badge.is-live:hover { filter: brightness(1.1); }
   border-width: 2px;
 }
 
+.generate-all-widget {
+  display: flex;
+  align-items: center;
+}
+
+.generate-all-progress {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.generate-all-progress[hidden],
+.generate-all-start-btn[hidden] { display: none; }
+
+.generate-all-active-count { color: var(--text); font-weight: 600; }
+
+.pulse-warning {
+  background: rgba(248, 113, 113, 0.14);
+  color: var(--danger);
+  border: 1px solid var(--danger);
+  border-radius: 8px;
+  padding: 0.45rem 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  animation: pulse-warning 1.6s ease-in-out infinite;
+}
+
+.pulse-warning:hover { background: rgba(248, 113, 113, 0.26); }
+
+.pulse-warning:disabled {
+  animation: none;
+  opacity: 0.6;
+  cursor: default;
+}
+
+@keyframes pulse-warning {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(248, 113, 113, 0.35); }
+  50% { box-shadow: 0 0 0 6px rgba(248, 113, 113, 0); }
+}
+
 .empty-hint {
   color: var(--text-muted);
   font-size: 0.82rem;
